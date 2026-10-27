@@ -1,29 +1,29 @@
 {
   "schema_version": "PublicMirrorSourcesV1",
   "snapshot_date": "2026-10-27",
-  "snapshot_tag": "public-test-2026-10-27-r2",
-  "distribution": "Public test mirror; screenplay and domain assets have separate authoritative repositories.",
+  "snapshot_tag": "public-test-2026-10-27-r3",
+  "distribution": "Public test mirror of explicitly committed private sources; original visibility unchanged.",
   "authoritative_capabilities": {
     "script_suite": {
       "repository": "kaibaoxiang-studio/script-plugins",
-      "commit": "c1a101d87cd2d35f8c92ac382ed34e3860fb046e",
+      "commit": "b1f232c743a927a4f7c94f02c1dede2fab4e49a0",
       "target": "script-plugins"
     },
     "character": {
       "repository": "kaibaoxiang-studio/ZiChan",
-      "commit": "b9bb60204d5aaa3b11d998b096dbb7c746b1038f",
-      "version": "0.2.6.2",
+      "commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
+      "version": "0.2.6.4-local",
       "target": "asset-design-plugin/bundled-plugins/character-assets"
     },
     "scene": {
       "repository": "kaibaoxiang-studio/ZiChan",
-      "commit": "b9bb60204d5aaa3b11d998b096dbb7c746b1038f",
+      "commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
       "version": "0.9.5",
       "target": "asset-design-plugin/bundled-plugins/scene-assets"
     },
     "prop": {
       "repository": "kaibaoxiang-studio/ZiChan",
-      "commit": "b9bb60204d5aaa3b11d998b096dbb7c746b1038f",
+      "commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
       "version": "0.2.5",
       "target": "asset-design-plugin/bundled-plugins/prop-assets"
     }
@@ -36,2012 +36,2110 @@
   "sources": [
     {
       "repository": "kaibaoxiang-studio/script-plugins",
-      "commit": "c1a101d87cd2d35f8c92ac382ed34e3860fb046e",
-      "tree": "c1a101d87cd2d35f8c92ac382ed34e3860fb046e",
+      "commit": "b1f232c743a927a4f7c94f02c1dede2fab4e49a0",
+      "tree": "8d715a21f2aa51d4b27f56a4f749caca28c1e3a8",
       "target": "script-plugins",
       "files": [
         {
           "path": ".agents/plugins/marketplace.json",
-          "git_blob": "496b62bb8689666b54962ef4ca57947892179aa9",
           "mode": "100644",
+          "git_blob": "496b62bb8689666b54962ef4ca57947892179aa9",
           "source_sha256": "f586a6a51190a038577935bc7e4ba1a0732e67dfc4071f64eeec58722e28e141",
           "export_sha256": "f586a6a51190a038577935bc7e4ba1a0732e67dfc4071f64eeec58722e28e141"
         },
         {
           "path": ".github/ISSUE_TEMPLATE/feature_request.md",
-          "git_blob": "83882139ef5e48a568758bf839acf333d0eebfa1",
           "mode": "100644",
+          "git_blob": "83882139ef5e48a568758bf839acf333d0eebfa1",
           "source_sha256": "9563f9fb31dfcde60f7a3a2af13608a1a0cf12622ef6ce266c604f6a276743e0",
           "export_sha256": "9563f9fb31dfcde60f7a3a2af13608a1a0cf12622ef6ce266c604f6a276743e0"
         },
         {
           "path": ".github/PULL_REQUEST_TEMPLATE.md",
-          "git_blob": "b5ff1cc2283a4205caa54864b3c849c9a3e6a408",
           "mode": "100644",
+          "git_blob": "b5ff1cc2283a4205caa54864b3c849c9a3e6a408",
           "source_sha256": "c6301a4854a95364de6047048ac9ac7994bb263da73c1f8a80481a39bcce73f8",
           "export_sha256": "c6301a4854a95364de6047048ac9ac7994bb263da73c1f8a80481a39bcce73f8"
         },
         {
           "path": ".gitignore",
-          "git_blob": "e006b107e2f91f94dbf291ad3e7317ba5bfcf6dd",
           "mode": "100644",
+          "git_blob": "e006b107e2f91f94dbf291ad3e7317ba5bfcf6dd",
           "source_sha256": "698264cc160230ca522cbef49d57f8c0254b828724265b167c53d8611b95f502",
           "export_sha256": "698264cc160230ca522cbef49d57f8c0254b828724265b167c53d8611b95f502"
         },
         {
           "path": "CHANGELOG.md",
-          "git_blob": "766bbab3c9d506a649ae3f69ff6ed023f4fa682a",
           "mode": "100644",
-          "source_sha256": "e0022a115ce28b16da0c51c7a0058dae601649fce73e56370fe23b40c329dd18",
-          "export_sha256": "e0022a115ce28b16da0c51c7a0058dae601649fce73e56370fe23b40c329dd18"
+          "git_blob": "22454fc476b92e1f552915cbdb2227e9c17824c2",
+          "source_sha256": "0805eb412406eab34016bba6767d6c7a7631f0970f465d488026ca7c186cf184",
+          "export_sha256": "0805eb412406eab34016bba6767d6c7a7631f0970f465d488026ca7c186cf184"
         },
         {
           "path": "CONTRIBUTING.md",
-          "git_blob": "c7b65642964c98acdc47048b1c65e89526f862ed",
           "mode": "100644",
+          "git_blob": "c7b65642964c98acdc47048b1c65e89526f862ed",
           "source_sha256": "62a1b1b41ca1f9054252df77fbca9e90babb2dfc60a0c2dbe4f6b3ccd07da02e",
           "export_sha256": "62a1b1b41ca1f9054252df77fbca9e90babb2dfc60a0c2dbe4f6b3ccd07da02e"
         },
         {
           "path": "NOTICE.md",
-          "git_blob": "4dbc80af4bdbf3b501b07a8cbfad0dc6541f315a",
           "mode": "100644",
+          "git_blob": "4dbc80af4bdbf3b501b07a8cbfad0dc6541f315a",
           "source_sha256": "04a675bd84814465c8adfd7435326e6721478f743a718051b2b4ffff07165cdb",
           "export_sha256": "04a675bd84814465c8adfd7435326e6721478f743a718051b2b4ffff07165cdb"
         },
         {
           "path": "README.md",
-          "git_blob": "65195425ab5c71560f6a8b18276fe86b4fc235bd",
           "mode": "100644",
-          "source_sha256": "baa286a61386a881c499fce68ac2ad3ba189552d7092cd29a04c516b86f4dbbb",
-          "export_sha256": "4fed2a7ee23b2826de251320bfb89eb71e6072f499e349381321e778806ccf6d",
-          "overlay_reason": "Public installation/source documentation, privacy metadata, or approved bundle-pin integration."
+          "git_blob": "8ecf94d5816bb5a438209952579dbc32e870bde0",
+          "source_sha256": "9b76c6b625d00cba776ea8b31c5bc3d7e0befd6d4e94cc821af0c165b765f0b0",
+          "export_sha256": "57cf4c1d2c983732c8061db11245fee9b3e2e97f08c2d1b7015cc85adbbe6e71",
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         },
         {
           "path": "VERSION",
-          "git_blob": "7dea76edb3dc51b6e5e8223e9f941a35c1e364d6",
           "mode": "100644",
-          "source_sha256": "44e161e4495cac2cf7858043e9e6418e9579f0ddcfae826f9a372622968ce066",
-          "export_sha256": "44e161e4495cac2cf7858043e9e6418e9579f0ddcfae826f9a372622968ce066"
+          "git_blob": "6d7de6e6abef13b18021a3591debc53ac00616d4",
+          "source_sha256": "9fd28642d3aca191e5c7fc2383cfd6fabb2aac8743f029dabb8989ac584e31bc",
+          "export_sha256": "9fd28642d3aca191e5c7fc2383cfd6fabb2aac8743f029dabb8989ac584e31bc"
         },
         {
           "path": "docs/architecture.md",
-          "git_blob": "3fa1205c4513b012e6dd8b96d044c5d273d6bb09",
           "mode": "100644",
+          "git_blob": "3fa1205c4513b012e6dd8b96d044c5d273d6bb09",
           "source_sha256": "1040b1c4bab2cff53ab4a5b63dea1f5397f60e5d4d82ca94d01eacbafa4b8460",
           "export_sha256": "1040b1c4bab2cff53ab4a5b63dea1f5397f60e5d4d82ca94d01eacbafa4b8460"
         },
         {
           "path": "docs/development.md",
-          "git_blob": "64e23668379a9b6fe155400b6999e8c82c1c9d46",
           "mode": "100644",
+          "git_blob": "64e23668379a9b6fe155400b6999e8c82c1c9d46",
           "source_sha256": "b792a3240f991f519d9b5f7152d2c0ac109627d41859e6e6114e4685e4c07503",
           "export_sha256": "b792a3240f991f519d9b5f7152d2c0ac109627d41859e6e6114e4685e4c07503"
         },
         {
           "path": "docs/installation.md",
-          "git_blob": "45bf051c42f9e426094555cecfe072f574adc2a4",
           "mode": "100644",
-          "source_sha256": "de01c5f597c17056f46e4bade6f0e6a214480c31b3e2a29ceec88c091996c003",
-          "export_sha256": "af3e9137db831d750a44d73db88773de34f7580462562de4a85febda4a7131bd",
-          "overlay_reason": "Public installation/source documentation, privacy metadata, or approved bundle-pin integration."
+          "git_blob": "54a22f06151e4f61ce2086b6f8c824c48c35ac05",
+          "source_sha256": "02facae6e202df31233c4910523f6286a5b81a491697614222b398c98ceef7a7",
+          "export_sha256": "bd7835a19ba139d59f89d35ecceeb82b3f1c3f994395dcdf4086ec3f51f60eb0",
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+        },
+        {
+          "path": "docs/validation-v1.0.2.md",
+          "mode": "100644",
+          "git_blob": "090190375c001c1d8368a45d1e86c0e1684d4d25",
+          "source_sha256": "8f4ed02248df8d7826ad07a53c64a4689f33a39352aa30a0e5eb3fff1663326c",
+          "export_sha256": "8f4ed02248df8d7826ad07a53c64a4689f33a39352aa30a0e5eb3fff1663326c"
         },
         {
           "path": "docs/validation-v1.0.md",
-          "git_blob": "c72f50c7fb5e8f2ec2b59aa2efea9343ea7dd516",
           "mode": "100644",
+          "git_blob": "c72f50c7fb5e8f2ec2b59aa2efea9343ea7dd516",
           "source_sha256": "6e98899548b0669484e169e2187928401aa49ffc00542cdb8e87d3143660ca6d",
           "export_sha256": "6e98899548b0669484e169e2187928401aa49ffc00542cdb8e87d3143660ca6d"
         },
         {
           "path": "docs/validation/archive-checks.json",
-          "git_blob": "b73ed36c3bd8a335ad94a18d364c6e55a91a1c96",
           "mode": "100644",
+          "git_blob": "b73ed36c3bd8a335ad94a18d364c6e55a91a1c96",
           "source_sha256": "a4902f566ab91d37e376f79034151caef1dfe8fce986cf64a0494d1b6c1aeaf2",
           "export_sha256": "a4902f566ab91d37e376f79034151caef1dfe8fce986cf64a0494d1b6c1aeaf2"
         },
         {
-          "path": "docs/validation/business-evidence.json",
-          "git_blob": "9141a3e48c4359f61f16e12eb76634568dc785a6",
+          "path": "docs/validation/asset-extraction-1.0.2.json",
           "mode": "100644",
+          "git_blob": "97be856ddfd2a1ce6608d4fb374685bbdaffd427",
+          "source_sha256": "1d2f60b4908953b99ff796fc6464fca685b06d5d95386358c31d5b2e6b9da9ec",
+          "export_sha256": "1d2f60b4908953b99ff796fc6464fca685b06d5d95386358c31d5b2e6b9da9ec"
+        },
+        {
+          "path": "docs/validation/business-evidence.json",
+          "mode": "100644",
+          "git_blob": "9141a3e48c4359f61f16e12eb76634568dc785a6",
           "source_sha256": "b4b3d6d5adda71ad0b5b1466e7aecb833bfa3c673e6d0ba86e15344b2c6a4945",
           "export_sha256": "2b12eb59a18e25c8b56777c355adccd7ddeb50004947fbc4cc3ce394d20bc260",
-          "overlay_reason": "Public installation/source documentation, privacy metadata, or approved bundle-pin integration."
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         },
         {
           "path": "docs/validation/engineering-checks.json",
-          "git_blob": "74be1818b6d0b2cd1b3a021f335fd8b5e56b2143",
           "mode": "100644",
+          "git_blob": "74be1818b6d0b2cd1b3a021f335fd8b5e56b2143",
           "source_sha256": "af2f33ed17daf4f983f253f37b2f699ee2767b6b5e37fa5e5c955d207613809e",
           "export_sha256": "af2f33ed17daf4f983f253f37b2f699ee2767b6b5e37fa5e5c955d207613809e"
         },
         {
-          "path": "docs/validation/repository-checks.json",
-          "git_blob": "2420b0ba0616dd2f3bec8ca0eb5cefd9ead589ea",
+          "path": "docs/validation/repository-1.0.2.json",
           "mode": "100644",
+          "git_blob": "4f8442430e508c53d257843ed5e291c28a69c284",
+          "source_sha256": "faf3ba9bb9b16f1b65db8320a7e12da13a283f1e5b0d072184c70dbf91872dcf",
+          "export_sha256": "faf3ba9bb9b16f1b65db8320a7e12da13a283f1e5b0d072184c70dbf91872dcf"
+        },
+        {
+          "path": "docs/validation/repository-checks.json",
+          "mode": "100644",
+          "git_blob": "2420b0ba0616dd2f3bec8ca0eb5cefd9ead589ea",
           "source_sha256": "620a7d31096a47c4089ea97dea7b97bded50b48415188f81268946900f2c144c",
           "export_sha256": "620a7d31096a47c4089ea97dea7b97bded50b48415188f81268946900f2c144c"
         },
         {
           "path": "docs/validation/snapshot-baseline.json",
-          "git_blob": "7cafd9382103464dc3cf20384f4fcaa0fcad05b5",
           "mode": "100644",
+          "git_blob": "7cafd9382103464dc3cf20384f4fcaa0fcad05b5",
           "source_sha256": "da68c8b8380374aa90ca3de3382c5369eb35407e721369a8b23f6ce9a77013b2",
           "export_sha256": "da68c8b8380374aa90ca3de3382c5369eb35407e721369a8b23f6ce9a77013b2"
         },
         {
           "path": "docs/项目规划.md",
-          "git_blob": "04a14a563a9309435ced773e60b34ffa99447681",
           "mode": "100644",
+          "git_blob": "04a14a563a9309435ced773e60b34ffa99447681",
           "source_sha256": "da93f267338f975a53bf45023d712adc1df217564a3689f02bd29c86a8050159",
           "export_sha256": "da93f267338f975a53bf45023d712adc1df217564a3689f02bd29c86a8050159"
         },
         {
           "path": "engineering/README.md",
-          "git_blob": "4062e5c312bce99e732dda3aa7efc71dc6b02c8e",
           "mode": "100644",
+          "git_blob": "4062e5c312bce99e732dda3aa7efc71dc6b02c8e",
           "source_sha256": "9963cdd2d9955b94335c821f5ab6197f808a36e334856328ad2c556972f44291",
           "export_sha256": "9963cdd2d9955b94335c821f5ab6197f808a36e334856328ad2c556972f44291"
         },
         {
           "path": "engineering/harness-creator/.codex-plugin/plugin.json",
-          "git_blob": "293d3d5b51f3541d6b62c4c6290f2ce613391694",
           "mode": "100644",
+          "git_blob": "293d3d5b51f3541d6b62c4c6290f2ce613391694",
           "source_sha256": "ead2ebd90a6a62aad4fa065499cb9ddd2fed33b1e12cb8733ce4afa6543216cb",
           "export_sha256": "ead2ebd90a6a62aad4fa065499cb9ddd2fed33b1e12cb8733ce4afa6543216cb"
         },
         {
           "path": "engineering/harness-creator/LICENSE",
-          "git_blob": "90312a46b6359777783ce2785a855c4e97c2e343",
           "mode": "100644",
+          "git_blob": "90312a46b6359777783ce2785a855c4e97c2e343",
           "source_sha256": "69d3c83a7b3b39b07960ab5bb26edb403a6ac34fea82d68e60b682ee0047ed42",
           "export_sha256": "69d3c83a7b3b39b07960ab5bb26edb403a6ac34fea82d68e60b682ee0047ed42"
         },
         {
           "path": "engineering/harness-creator/README.md",
-          "git_blob": "cea257924f1132c3cb130f53d009b0c00eb0b129",
           "mode": "100644",
+          "git_blob": "cea257924f1132c3cb130f53d009b0c00eb0b129",
           "source_sha256": "3268c28cda5d558cd2711de6c22c2a64cffac756fcd9fea2a4f2ed021de37e02",
           "export_sha256": "3268c28cda5d558cd2711de6c22c2a64cffac756fcd9fea2a4f2ed021de37e02"
         },
         {
           "path": "engineering/harness-creator/RUNTIME.md",
-          "git_blob": "08f872f08d9a0b32b6e56dd827ef921a140d71b8",
           "mode": "100644",
+          "git_blob": "08f872f08d9a0b32b6e56dd827ef921a140d71b8",
           "source_sha256": "c4f7c577c1a2f86b147c650bc2548f7886c93ee9008adc16aff1afd778076141",
           "export_sha256": "c4f7c577c1a2f86b147c650bc2548f7886c93ee9008adc16aff1afd778076141"
         },
         {
           "path": "engineering/harness-creator/THIRD_PARTY_NOTICES.md",
-          "git_blob": "51598985e1558e9f17a0a216f80d8ec619d60149",
           "mode": "100644",
+          "git_blob": "51598985e1558e9f17a0a216f80d8ec619d60149",
           "source_sha256": "0a2a0b7e0fcc8e0233521d0ff5584e6ae377edc79967dca82a8580ad92caf6da",
           "export_sha256": "0a2a0b7e0fcc8e0233521d0ff5584e6ae377edc79967dca82a8580ad92caf6da"
         },
         {
           "path": "engineering/harness-creator/capabilities.json",
-          "git_blob": "37c5d88233dc3e3ded6ea07c880612b47713734f",
           "mode": "100644",
+          "git_blob": "37c5d88233dc3e3ded6ea07c880612b47713734f",
           "source_sha256": "d8082474f56e42d7cfa259d2f05e6789dab7531924e3052164b7fe293fa26781",
           "export_sha256": "d8082474f56e42d7cfa259d2f05e6789dab7531924e3052164b7fe293fa26781"
         },
         {
           "path": "engineering/harness-creator/docs/design.md",
-          "git_blob": "816860b6f210d1bb93efec0a645dbf363aab4b6c",
           "mode": "100644",
+          "git_blob": "816860b6f210d1bb93efec0a645dbf363aab4b6c",
           "source_sha256": "f62f45ada55955c1e574758c4411039fd02f05cc6e2d35ee4a1d6eb695030b75",
           "export_sha256": "f62f45ada55955c1e574758c4411039fd02f05cc6e2d35ee4a1d6eb695030b75"
         },
         {
           "path": "engineering/harness-creator/docs/install.md",
-          "git_blob": "1921166bb65a1f536cd52b339583064677b4aff3",
           "mode": "100644",
+          "git_blob": "1921166bb65a1f536cd52b339583064677b4aff3",
           "source_sha256": "99ab3534903ecc32d35f3dbf08b7718ce73cd722bb7222228b9dad63e60eda0e",
           "export_sha256": "99ab3534903ecc32d35f3dbf08b7718ce73cd722bb7222228b9dad63e60eda0e"
         },
         {
           "path": "engineering/harness-creator/docs/validation.md",
-          "git_blob": "c90354376db4ec18adc0c28a0abd073dac94de4d",
           "mode": "100644",
+          "git_blob": "c90354376db4ec18adc0c28a0abd073dac94de4d",
           "source_sha256": "4b7a09e1fcf62368db58fd959a052853e08305f7517c3794a75028956be79035",
           "export_sha256": "4b7a09e1fcf62368db58fd959a052853e08305f7517c3794a75028956be79035"
         },
         {
           "path": "engineering/harness-creator/harness.py",
-          "git_blob": "864b4a358a353488d0a5becd457dd4ce484f4765",
           "mode": "100644",
+          "git_blob": "864b4a358a353488d0a5becd457dd4ce484f4765",
           "source_sha256": "3253fbad2671700513c29b5f81f1ef80db72cb6a69972e3891fa451225dc7443",
           "export_sha256": "3253fbad2671700513c29b5f81f1ef80db72cb6a69972e3891fa451225dc7443"
         },
         {
           "path": "engineering/harness-creator/licenses/Bird-s-Nest-MIT.txt",
-          "git_blob": "2ec5c38ef5f96882fd108e4e145beef9928c7ef8",
           "mode": "100644",
+          "git_blob": "2ec5c38ef5f96882fd108e4e145beef9928c7ef8",
           "source_sha256": "86c078753dbb275673a301fec0f1db5ade583db1f85ecc86042f04c6aeb5774c",
           "export_sha256": "86c078753dbb275673a301fec0f1db5ade583db1f85ecc86042f04c6aeb5774c"
         },
         {
           "path": "engineering/harness-creator/licenses/skill-creator-Apache-2.0.txt",
-          "git_blob": "d645695673349e3947e8e5ae42332d0ac3164cd7",
           "mode": "100644",
+          "git_blob": "d645695673349e3947e8e5ae42332d0ac3164cd7",
           "source_sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
           "export_sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
         },
         {
           "path": "engineering/harness-creator/plugin.json",
-          "git_blob": "ae97c055cbfdf815cadf2b50a9fb463ac0be3303",
           "mode": "100644",
+          "git_blob": "ae97c055cbfdf815cadf2b50a9fb463ac0be3303",
           "source_sha256": "54fcf04e9cee8990fffccd12950fab5b7c3f971fcceb4299eebe451c7d208437",
           "export_sha256": "54fcf04e9cee8990fffccd12950fab5b7c3f971fcceb4299eebe451c7d208437"
         },
         {
           "path": "engineering/harness-creator/requirements.lock",
-          "git_blob": "76215454561b0010c9c49d9b27ca4c0e574fd31a",
           "mode": "100644",
+          "git_blob": "76215454561b0010c9c49d9b27ca4c0e574fd31a",
           "source_sha256": "fdb593a9be41a44ca3905ec822e10c4b32e362edb85adc32d7bf6d943558c252",
           "export_sha256": "fdb593a9be41a44ca3905ec822e10c4b32e362edb85adc32d7bf6d943558c252"
         },
         {
           "path": "engineering/harness-creator/runtime/harness_core/__init__.py",
-          "git_blob": "f8fde14063d6ef834081c0222f7b98ea6e71fd53",
           "mode": "100644",
+          "git_blob": "f8fde14063d6ef834081c0222f7b98ea6e71fd53",
           "source_sha256": "9b43e8c928590df8aa77d36e4a4de326be169abc3905c87dfbd0a46e5305f989",
           "export_sha256": "9b43e8c928590df8aa77d36e4a4de326be169abc3905c87dfbd0a46e5305f989"
         },
         {
           "path": "engineering/harness-creator/runtime/harness_core/appserver.py",
-          "git_blob": "66cefba2b246b63d8e62e0c15869a7a8bbb2cbef",
           "mode": "100644",
+          "git_blob": "66cefba2b246b63d8e62e0c15869a7a8bbb2cbef",
           "source_sha256": "a9c0a5d5d8b5ffc3fd5b32eda06701aeb196d3a2eeb29e5a221aa54609f6c265",
           "export_sha256": "a9c0a5d5d8b5ffc3fd5b32eda06701aeb196d3a2eeb29e5a221aa54609f6c265"
         },
         {
           "path": "engineering/harness-creator/runtime/harness_core/cli.py",
-          "git_blob": "050f48f72276bc52237ed5f58464532f35cc445c",
           "mode": "100644",
+          "git_blob": "050f48f72276bc52237ed5f58464532f35cc445c",
           "source_sha256": "9e37a37d6b1350ebb97f26413f28444676f725c4b36e01409802554fa17a59c5",
           "export_sha256": "9e37a37d6b1350ebb97f26413f28444676f725c4b36e01409802554fa17a59c5"
         },
         {
           "path": "engineering/harness-creator/runtime/harness_core/common.py",
-          "git_blob": "aea41ae9aa7b6f0ea5addd2b4a0ef6a2a463d795",
           "mode": "100644",
+          "git_blob": "aea41ae9aa7b6f0ea5addd2b4a0ef6a2a463d795",
           "source_sha256": "d9e557c74636fa7a700ecc35e48deb885da10249134952394f457e6796781791",
           "export_sha256": "d9e557c74636fa7a700ecc35e48deb885da10249134952394f457e6796781791"
         },
         {
           "path": "engineering/harness-creator/runtime/harness_core/contracts.py",
-          "git_blob": "a6376a0345af6ed03cba3c7bd1d0f1b2d5115f6f",
           "mode": "100644",
+          "git_blob": "a6376a0345af6ed03cba3c7bd1d0f1b2d5115f6f",
           "source_sha256": "4d776a4645401b24968768edc8deb6f0bbd3ca401d3f025831bdae3aa0bef6cf",
           "export_sha256": "4d776a4645401b24968768edc8deb6f0bbd3ca401d3f025831bdae3aa0bef6cf"
         },
         {
           "path": "engineering/harness-creator/runtime/harness_core/engine.py",
-          "git_blob": "7d8a29fb72d2c25932f47234a3f530bf512e15d0",
           "mode": "100644",
+          "git_blob": "7d8a29fb72d2c25932f47234a3f530bf512e15d0",
           "source_sha256": "5a7ea735c58fe36f62b573dc8e60f038cc9df16a8a9618a5d782da5ac763dc9d",
           "export_sha256": "5a7ea735c58fe36f62b573dc8e60f038cc9df16a8a9618a5d782da5ac763dc9d"
         },
         {
           "path": "engineering/harness-creator/runtime/harness_core/knowledge.py",
-          "git_blob": "1e3af9ef3199964e7ef36cdeddd9d380f9b290b1",
           "mode": "100644",
+          "git_blob": "1e3af9ef3199964e7ef36cdeddd9d380f9b290b1",
           "source_sha256": "6edaaca18c230b1a9cd7d050f8268e22d210fc555d8c0c56cbd961a093728fc6",
           "export_sha256": "6edaaca18c230b1a9cd7d050f8268e22d210fc555d8c0c56cbd961a093728fc6"
         },
         {
           "path": "engineering/harness-creator/runtime/harness_core/packages.py",
-          "git_blob": "0ec1a905dd82b314877d70d75567e8aa3438312f",
           "mode": "100644",
+          "git_blob": "0ec1a905dd82b314877d70d75567e8aa3438312f",
           "source_sha256": "8ce4c657d864e53296ee3c5e5f8aa488fb59c22acd48dcfc7b34d22935f3abb7",
           "export_sha256": "8ce4c657d864e53296ee3c5e5f8aa488fb59c22acd48dcfc7b34d22935f3abb7"
         },
         {
           "path": "engineering/harness-creator/runtime/harness_core/sources.py",
-          "git_blob": "b2cdf19d17dd7f5b4504aa0999e75cd47a779106",
           "mode": "100644",
+          "git_blob": "b2cdf19d17dd7f5b4504aa0999e75cd47a779106",
           "source_sha256": "b1348cd3c739faf238d213518323581394df6c2ccd33467390dd5bc8bb7146f4",
           "export_sha256": "b1348cd3c739faf238d213518323581394df6c2ccd33467390dd5bc8bb7146f4"
         },
         {
           "path": "engineering/harness-creator/runtime/harness_core/store.py",
-          "git_blob": "d9c5c5c54b65450e2c0d2869aa58caf267186bed",
           "mode": "100644",
+          "git_blob": "d9c5c5c54b65450e2c0d2869aa58caf267186bed",
           "source_sha256": "4cb5292f03bd8fb8f7bd22c1f5c266ac263884f336588ca30d32ce409a5b0dfd",
           "export_sha256": "4cb5292f03bd8fb8f7bd22c1f5c266ac263884f336588ca30d32ce409a5b0dfd"
         },
         {
           "path": "engineering/harness-creator/schemas/blueprint.schema.json",
-          "git_blob": "5139a9b72ffc0ff15b492f3ea26dd53908941d20",
           "mode": "100644",
+          "git_blob": "5139a9b72ffc0ff15b492f3ea26dd53908941d20",
           "source_sha256": "ee059c65cea096464ea2d84fbaa51c51a020537e72ccae8d9ff496293513cfc1",
           "export_sha256": "ee059c65cea096464ea2d84fbaa51c51a020537e72ccae8d9ff496293513cfc1"
         },
         {
           "path": "engineering/harness-creator/scripts/bootstrap.py",
-          "git_blob": "5d2283b468941472bad423667e2209862f8313ad",
           "mode": "100644",
+          "git_blob": "5d2283b468941472bad423667e2209862f8313ad",
           "source_sha256": "77c96b30af3e580a071979c3f774f17fd3c56564193393e060327654e3b25aa7",
           "export_sha256": "77c96b30af3e580a071979c3f774f17fd3c56564193393e060327654e3b25aa7"
         },
         {
           "path": "engineering/harness-creator/skills/grill-me/SKILL.md",
-          "git_blob": "32620acd1607a9456729593289e2b220712fb5c9",
           "mode": "100644",
+          "git_blob": "32620acd1607a9456729593289e2b220712fb5c9",
           "source_sha256": "4e14035b7c23d8f4fb92c1bad4e53eb92c9539cbc9184851d007263c060d1eb7",
           "export_sha256": "4e14035b7c23d8f4fb92c1bad4e53eb92c9539cbc9184851d007263c060d1eb7"
         },
         {
           "path": "engineering/harness-creator/skills/grill-me/agents/openai.yaml",
-          "git_blob": "3b9e1246db67482e780fec80c819bc1a9dd8d66d",
           "mode": "100644",
+          "git_blob": "3b9e1246db67482e780fec80c819bc1a9dd8d66d",
           "source_sha256": "166e917f3a8caafc768d61b3b136546c66a56910fe6c57d7e42a2bec22393776",
           "export_sha256": "166e917f3a8caafc768d61b3b136546c66a56910fe6c57d7e42a2bec22393776"
         },
         {
           "path": "engineering/harness-creator/skills/harness-architect/SKILL.md",
-          "git_blob": "320bf28670165a11333670ae2f3f2598744151cf",
           "mode": "100644",
+          "git_blob": "320bf28670165a11333670ae2f3f2598744151cf",
           "source_sha256": "958f170553bf342a9196d1a8b11708ef39142890608d25b431d7cd78ba7747b6",
           "export_sha256": "958f170553bf342a9196d1a8b11708ef39142890608d25b431d7cd78ba7747b6"
         },
         {
           "path": "engineering/harness-creator/skills/harness-architect/agents/openai.yaml",
-          "git_blob": "92b7b41dcbbe197d8bbf9ecd1c7375a708f21abe",
           "mode": "100644",
+          "git_blob": "92b7b41dcbbe197d8bbf9ecd1c7375a708f21abe",
           "source_sha256": "003adbda103f2c13f5021dc189639fe33d68112fd558a332f4e26468fd9ccfad",
           "export_sha256": "003adbda103f2c13f5021dc189639fe33d68112fd558a332f4e26468fd9ccfad"
         },
         {
           "path": "engineering/harness-creator/skills/harness-creator/SKILL.md",
-          "git_blob": "d5fba07733829d160863bb358cf943978a21dd1d",
           "mode": "100644",
+          "git_blob": "d5fba07733829d160863bb358cf943978a21dd1d",
           "source_sha256": "cd73de6fced28aeeedbc9f1f14c70c006d422c425a191ca4357496c0bb3d112c",
           "export_sha256": "cd73de6fced28aeeedbc9f1f14c70c006d422c425a191ca4357496c0bb3d112c"
         },
         {
           "path": "engineering/harness-creator/skills/harness-creator/agents/openai.yaml",
-          "git_blob": "32d4d9cf7a5ff61f39603a4f5d847f1e1a25fecd",
           "mode": "100644",
+          "git_blob": "32d4d9cf7a5ff61f39603a4f5d847f1e1a25fecd",
           "source_sha256": "a392513a7b4e269e441daa17a4266819c37ab93e2fd5a15a19778df9da7853e4",
           "export_sha256": "a392513a7b4e269e441daa17a4266819c37ab93e2fd5a15a19778df9da7853e4"
         },
         {
           "path": "engineering/harness-creator/skills/harness-creator/references/absorb.md",
-          "git_blob": "2632e89a2c5aa5bef9b77e3a67e684cc5d354e0b",
           "mode": "100644",
+          "git_blob": "2632e89a2c5aa5bef9b77e3a67e684cc5d354e0b",
           "source_sha256": "df960735ab6031399c51a80f5860c0079d1fce69d2b8c1380141a262406e65ac",
           "export_sha256": "df960735ab6031399c51a80f5860c0079d1fce69d2b8c1380141a262406e65ac"
         },
         {
           "path": "engineering/harness-creator/skills/harness-creator/references/author.md",
-          "git_blob": "6733b77e3b49f40339d73b075c1c265bb2bdaf7d",
           "mode": "100644",
+          "git_blob": "6733b77e3b49f40339d73b075c1c265bb2bdaf7d",
           "source_sha256": "43ed84e7f05418352fdb78de6604906b6d927a9c9935c861e5885de92d884011",
           "export_sha256": "43ed84e7f05418352fdb78de6604906b6d927a9c9935c861e5885de92d884011"
         },
         {
           "path": "engineering/harness-creator/skills/harness-creator/references/create.md",
-          "git_blob": "4faea2eb9de4fa4b32b642e134c3041c0802e23b",
           "mode": "100644",
+          "git_blob": "4faea2eb9de4fa4b32b642e134c3041c0802e23b",
           "source_sha256": "9fdc075e6060618028b31e7c3b2874ea44001526e7a25850e6cae77f52bbfd31",
           "export_sha256": "9fdc075e6060618028b31e7c3b2874ea44001526e7a25850e6cae77f52bbfd31"
         },
         {
           "path": "engineering/harness-creator/skills/harness-creator/references/knowledge.md",
-          "git_blob": "6507ed165ad200bf25d251ee429dea300765ef8a",
           "mode": "100644",
+          "git_blob": "6507ed165ad200bf25d251ee429dea300765ef8a",
           "source_sha256": "1adb2190091a3e280e4c78eb26ba580d27b4f6d05399a07fd5d9ed439b148ba9",
           "export_sha256": "1adb2190091a3e280e4c78eb26ba580d27b4f6d05399a07fd5d9ed439b148ba9"
         },
         {
           "path": "engineering/harness-creator/skills/harness-creator/references/standard.md",
-          "git_blob": "a53ecfab7fc6e8cff51d5ac16990b6222cb044fc",
           "mode": "100644",
+          "git_blob": "a53ecfab7fc6e8cff51d5ac16990b6222cb044fc",
           "source_sha256": "97c8f75b9ea033fc12fadb5882cbdd3e212879db36e8ff5367e8d2ac09653887",
           "export_sha256": "97c8f75b9ea033fc12fadb5882cbdd3e212879db36e8ff5367e8d2ac09653887"
         },
         {
           "path": "engineering/harness-creator/skills/harness-creator/references/update.md",
-          "git_blob": "89436bfe48becdc45b83e1655a4ab6855a3f4b2e",
           "mode": "100644",
+          "git_blob": "89436bfe48becdc45b83e1655a4ab6855a3f4b2e",
           "source_sha256": "d0e326cfa613a16f2bd8ffc71cd7ecdc344e20c75f3d4fb54d776b264c86a7cc",
           "export_sha256": "d0e326cfa613a16f2bd8ffc71cd7ecdc344e20c75f3d4fb54d776b264c86a7cc"
         },
         {
           "path": "engineering/harness-creator/skills/harness-creator/references/verify.md",
-          "git_blob": "4c52b0a6d67f0f84d5f7ee080f2280d7005f384f",
           "mode": "100644",
+          "git_blob": "4c52b0a6d67f0f84d5f7ee080f2280d7005f384f",
           "source_sha256": "1c28a91142a24d116e84ab77630ca99d4365aaa5d89c07e0a347a4772849584e",
           "export_sha256": "1c28a91142a24d116e84ab77630ca99d4365aaa5d89c07e0a347a4772849584e"
         },
         {
           "path": "engineering/harness-creator/skills/harness-knowledge-maintainer/SKILL.md",
-          "git_blob": "45bbb0d422f43d840afd00deee6dfabba23eb304",
           "mode": "100644",
+          "git_blob": "45bbb0d422f43d840afd00deee6dfabba23eb304",
           "source_sha256": "fee4f1ac68f3a0c907970eaef4fca7b9d779400264cdf326e3df96eb15d9b1f8",
           "export_sha256": "fee4f1ac68f3a0c907970eaef4fca7b9d779400264cdf326e3df96eb15d9b1f8"
         },
         {
           "path": "engineering/harness-creator/skills/harness-knowledge-maintainer/agents/openai.yaml",
-          "git_blob": "1bf3bad7b6cbd8f36d35b1d277023ba1903017cd",
           "mode": "100644",
+          "git_blob": "1bf3bad7b6cbd8f36d35b1d277023ba1903017cd",
           "source_sha256": "3c003dc70099beebfa13f1903ad630b6dd10b9c2636e45a2b3169706e4769e49",
           "export_sha256": "3c003dc70099beebfa13f1903ad630b6dd10b9c2636e45a2b3169706e4769e49"
         },
         {
           "path": "engineering/harness-creator/skills/harness-skill-author/SKILL.md",
-          "git_blob": "75774d0a7d1624bca4a34a95702c01c86a4c0a42",
           "mode": "100644",
+          "git_blob": "75774d0a7d1624bca4a34a95702c01c86a4c0a42",
           "source_sha256": "fa49aef03aeec4583b60b147cc5b9f9d8cd7be9eac998394892f5304c8b7ccee",
           "export_sha256": "fa49aef03aeec4583b60b147cc5b9f9d8cd7be9eac998394892f5304c8b7ccee"
         },
         {
           "path": "engineering/harness-creator/skills/harness-skill-author/agents/openai.yaml",
-          "git_blob": "0e3b1097c1ddea4d6835e4e6942e4ff62e9bf1a7",
           "mode": "100644",
+          "git_blob": "0e3b1097c1ddea4d6835e4e6942e4ff62e9bf1a7",
           "source_sha256": "cc225957899bc4bcff4400d69a1b1df084ca75ed40e0f814f9d6ef9ca9a5b914",
           "export_sha256": "cc225957899bc4bcff4400d69a1b1df084ca75ed40e0f814f9d6ef9ca9a5b914"
         },
         {
           "path": "engineering/harness-creator/skills/harness-source-integrator/SKILL.md",
-          "git_blob": "ae67aacdfe4083559766bb349be72a41826e44e6",
           "mode": "100644",
+          "git_blob": "ae67aacdfe4083559766bb349be72a41826e44e6",
           "source_sha256": "9f40ac0761172a9892c60d86c09b6981819e5772125527fde62b9e7461a0f522",
           "export_sha256": "9f40ac0761172a9892c60d86c09b6981819e5772125527fde62b9e7461a0f522"
         },
         {
           "path": "engineering/harness-creator/skills/harness-source-integrator/agents/openai.yaml",
-          "git_blob": "1e7468a3bebaf2479ea6fb51c61509d5a3ee9608",
           "mode": "100644",
+          "git_blob": "1e7468a3bebaf2479ea6fb51c61509d5a3ee9608",
           "source_sha256": "41d8c3c27a11ce636161ee719235b47096d3de0b8b75f5276397222931dba4e4",
           "export_sha256": "41d8c3c27a11ce636161ee719235b47096d3de0b8b75f5276397222931dba4e4"
         },
         {
           "path": "engineering/harness-creator/skills/harness-verifier/SKILL.md",
-          "git_blob": "60fe4e532548c2e4a005fa2965f63e755b8bcef4",
           "mode": "100644",
+          "git_blob": "60fe4e532548c2e4a005fa2965f63e755b8bcef4",
           "source_sha256": "eb1c1ee0a685b7390384813d318f2935b7a2ad8dcb5dbc5e5b9a899b39528107",
           "export_sha256": "eb1c1ee0a685b7390384813d318f2935b7a2ad8dcb5dbc5e5b9a899b39528107"
         },
         {
           "path": "engineering/harness-creator/skills/harness-verifier/agents/openai.yaml",
-          "git_blob": "2ba8fcaed546701bf1219597fc0e743be0256233",
           "mode": "100644",
+          "git_blob": "2ba8fcaed546701bf1219597fc0e743be0256233",
           "source_sha256": "ce5396b8f475376cf1d9b92195b5c2fe6cc7d0b3a5d08d311e75d7db1f99e479",
           "export_sha256": "ce5396b8f475376cf1d9b92195b5c2fe6cc7d0b3a5d08d311e75d7db1f99e479"
         },
         {
           "path": "engineering/harness-creator/sources.lock.json",
-          "git_blob": "4f4fe5b8a0a3a3424df38f0e48a119b0ebd573e0",
           "mode": "100644",
+          "git_blob": "4f4fe5b8a0a3a3424df38f0e48a119b0ebd573e0",
           "source_sha256": "88d66adf17793b00eb7d2d11ffdc4ea7adab8c30687c167dc8c95f0572f171ab",
           "export_sha256": "88d66adf17793b00eb7d2d11ffdc4ea7adab8c30687c167dc8c95f0572f171ab"
         },
         {
           "path": "engineering/harness-creator/tests/test_appserver.py",
-          "git_blob": "526686ce79a32042f669f6b5993d382e9dc491d0",
           "mode": "100644",
+          "git_blob": "526686ce79a32042f669f6b5993d382e9dc491d0",
           "source_sha256": "0fd073556be6e69e4ee05493d348b67cd10d0a6253f3540a4947e042af072fbe",
           "export_sha256": "0fd073556be6e69e4ee05493d348b67cd10d0a6253f3540a4947e042af072fbe"
         },
         {
           "path": "engineering/harness-creator/tests/test_harness.py",
-          "git_blob": "d136f7cb121d9f453b42cd56d1d7abbc5db75fcb",
           "mode": "100644",
+          "git_blob": "d136f7cb121d9f453b42cd56d1d7abbc5db75fcb",
           "source_sha256": "e4033a1df8c50df2af36424a8aad81aec7795f1c1d623f841acc673a915a008e",
           "export_sha256": "e4033a1df8c50df2af36424a8aad81aec7795f1c1d623f841acc673a915a008e"
         },
         {
           "path": "level-1/screenplay-standardization/README.md",
-          "git_blob": "67b9aaed6a50526a20f9a613f7fc865c28662d75",
           "mode": "100644",
+          "git_blob": "67b9aaed6a50526a20f9a613f7fc865c28662d75",
           "source_sha256": "bab49e561db0eb5979ac3aa20e15413916d6c37e93842049bbdd8ace852e2752",
           "export_sha256": "bab49e561db0eb5979ac3aa20e15413916d6c37e93842049bbdd8ace852e2752"
         },
         {
           "path": "level-1/screenplay-standardization/creator-src/PLUGIN-README.md",
-          "git_blob": "6f157f9719c8e5b4171149420ed643d09aaa1353",
           "mode": "100644",
+          "git_blob": "6f157f9719c8e5b4171149420ed643d09aaa1353",
           "source_sha256": "1ec845f50fa2b703561999a347459ec78eb7a6dad125b7977d10aca00a2ecd8a",
           "export_sha256": "1ec845f50fa2b703561999a347459ec78eb7a6dad125b7977d10aca00a2ecd8a"
         },
         {
           "path": "level-1/screenplay-standardization/creator-src/README.md",
-          "git_blob": "a54006d47b3a8eb780ab77f49b0094617a273c03",
           "mode": "100644",
+          "git_blob": "a54006d47b3a8eb780ab77f49b0094617a273c03",
           "source_sha256": "cf93757c7f44176f6e12284ea83924c531aa551fc6092a726a3bcc8664ce767d",
           "export_sha256": "cf93757c7f44176f6e12284ea83924c531aa551fc6092a726a3bcc8664ce767d"
         },
         {
           "path": "level-1/screenplay-standardization/creator-src/VALIDATION.md",
-          "git_blob": "8f27fe2ea027f9f0b51e1e2a135244dea4ffbbba",
           "mode": "100644",
+          "git_blob": "8f27fe2ea027f9f0b51e1e2a135244dea4ffbbba",
           "source_sha256": "bab24db35952d3bb7042078d900397f651725ecd1718e4608dfaa89768e8031b",
           "export_sha256": "bab24db35952d3bb7042078d900397f651725ecd1718e4608dfaa89768e8031b"
         },
         {
           "path": "level-1/screenplay-standardization/creator-src/blueprint.json",
-          "git_blob": "58b382099b375d5f59e5474157b507d88bc8670f",
           "mode": "100644",
+          "git_blob": "58b382099b375d5f59e5474157b507d88bc8670f",
           "source_sha256": "e1b021d73adf7e7ddfe0f45a351c7600002f7f7003899bd9b32fba129f0a23e9",
           "export_sha256": "e1b021d73adf7e7ddfe0f45a351c7600002f7f7003899bd9b32fba129f0a23e9"
         },
         {
           "path": "level-1/screenplay-standardization/creator-src/build_blueprint.py",
-          "git_blob": "d7584cf31bd0dbeae128c7e309d5764b6b2d738e",
           "mode": "100644",
+          "git_blob": "d7584cf31bd0dbeae128c7e309d5764b6b2d738e",
           "source_sha256": "cc57d587a1c39d9f9fa1f3b6bee421648dde2ee4df3474bde2366066c54b77df",
           "export_sha256": "cc57d587a1c39d9f9fa1f3b6bee421648dde2ee4df3474bde2366066c54b77df"
         },
         {
           "path": "level-1/screenplay-standardization/creator-src/publish_local_plugin.py",
-          "git_blob": "8d787c4be82d33ac66a12590b94e8b888fe9edf8",
           "mode": "100644",
+          "git_blob": "8d787c4be82d33ac66a12590b94e8b888fe9edf8",
           "source_sha256": "cc7a72ef9a3a7bed649fc9bf4c61bc3d5cad362101aa2e39c0c489ff40a1ad35",
           "export_sha256": "cc7a72ef9a3a7bed649fc9bf4c61bc3d5cad362101aa2e39c0c489ff40a1ad35"
         },
         {
           "path": "level-1/screenplay-standardization/creator-src/references/review-rules.md",
-          "git_blob": "fbb436161a8ab11e404091130871b5e81e1b5c23",
           "mode": "100644",
+          "git_blob": "fbb436161a8ab11e404091130871b5e81e1b5c23",
           "source_sha256": "45352f569aa7cf1adfc1dee444f67a73803e4cb35ed46a69219cdeb6b8f8b7a2",
           "export_sha256": "45352f569aa7cf1adfc1dee444f67a73803e4cb35ed46a69219cdeb6b8f8b7a2"
         },
         {
           "path": "level-1/screenplay-standardization/creator-src/references/screenplay-standard.md",
-          "git_blob": "a8113212f3041fda4d6d4f78a1d338017b565f8f",
           "mode": "100644",
+          "git_blob": "a8113212f3041fda4d6d4f78a1d338017b565f8f",
           "source_sha256": "48acbf8ab9800308afa07b988cca1a3ff0419b6121780a06b178f7134db55a7e",
           "export_sha256": "48acbf8ab9800308afa07b988cca1a3ff0419b6121780a06b178f7134db55a7e"
         },
         {
           "path": "level-1/screenplay-standardization/creator-src/references/source-notes.md",
-          "git_blob": "84567c40890fad31f88a3381b42c5cbfb2197ea8",
           "mode": "100644",
+          "git_blob": "84567c40890fad31f88a3381b42c5cbfb2197ea8",
           "source_sha256": "410701dfe204e84c5f1ebe3c648037937daff041e141f4915686f4a60fed120b",
           "export_sha256": "410701dfe204e84c5f1ebe3c648037937daff041e141f4915686f4a60fed120b"
         },
         {
           "path": "level-1/screenplay-standardization/creator-src/scripts/screenplay_core.py",
-          "git_blob": "72c1a560e48c51982f39b62177f98bc6947b4c94",
           "mode": "100644",
+          "git_blob": "72c1a560e48c51982f39b62177f98bc6947b4c94",
           "source_sha256": "e480d3fd2430be14eb0effcc512d089a73c7a9fcd6c3824a1f3ed02c19e3c014",
           "export_sha256": "e480d3fd2430be14eb0effcc512d089a73c7a9fcd6c3824a1f3ed02c19e3c014"
         },
         {
           "path": "level-1/screenplay-standardization/creator-src/tests/test_screenplay_core.py",
-          "git_blob": "609d7f11520655bd037be74cf56ccab233d82ea1",
           "mode": "100644",
+          "git_blob": "609d7f11520655bd037be74cf56ccab233d82ea1",
           "source_sha256": "ee9cd26f0f401eb179fdc7d662e60acf068e9b6fe5488803a2479929c2dff3b4",
           "export_sha256": "ee9cd26f0f401eb179fdc7d662e60acf068e9b6fe5488803a2479929c2dff3b4"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/.codex-plugin/plugin.json",
-          "git_blob": "f0be8c521da4552512d5fca3dc9ede9262fd1846",
           "mode": "100644",
+          "git_blob": "f0be8c521da4552512d5fca3dc9ede9262fd1846",
           "source_sha256": "f5dfc78a6f74a104a203ef219f156c8574c9a81499dc8769372d2a2abda0c43d",
           "export_sha256": "f5dfc78a6f74a104a203ef219f156c8574c9a81499dc8769372d2a2abda0c43d"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/README.md",
-          "git_blob": "6f157f9719c8e5b4171149420ed643d09aaa1353",
           "mode": "100644",
+          "git_blob": "6f157f9719c8e5b4171149420ed643d09aaa1353",
           "source_sha256": "1ec845f50fa2b703561999a347459ec78eb7a6dad125b7977d10aca00a2ecd8a",
           "export_sha256": "1ec845f50fa2b703561999a347459ec78eb7a6dad125b7977d10aca00a2ecd8a"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/RUNTIME.md",
-          "git_blob": "08f872f08d9a0b32b6e56dd827ef921a140d71b8",
           "mode": "100644",
+          "git_blob": "08f872f08d9a0b32b6e56dd827ef921a140d71b8",
           "source_sha256": "c4f7c577c1a2f86b147c650bc2548f7886c93ee9008adc16aff1afd778076141",
           "export_sha256": "c4f7c577c1a2f86b147c650bc2548f7886c93ee9008adc16aff1afd778076141"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/THIRD_PARTY_NOTICES.md",
-          "git_blob": "51598985e1558e9f17a0a216f80d8ec619d60149",
           "mode": "100644",
+          "git_blob": "51598985e1558e9f17a0a216f80d8ec619d60149",
           "source_sha256": "0a2a0b7e0fcc8e0233521d0ff5584e6ae377edc79967dca82a8580ad92caf6da",
           "export_sha256": "0a2a0b7e0fcc8e0233521d0ff5584e6ae377edc79967dca82a8580ad92caf6da"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/capabilities.json",
-          "git_blob": "6e24b086a897c34bbacc95a0b1efaedb94666df8",
           "mode": "100644",
+          "git_blob": "6e24b086a897c34bbacc95a0b1efaedb94666df8",
           "source_sha256": "0e9d7af0db42b69ba38061932177336b2b9972aac9235cd35a6fa35c4ee53c94",
           "export_sha256": "0e9d7af0db42b69ba38061932177336b2b9972aac9235cd35a6fa35c4ee53c94"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/generation-lock.json",
-          "git_blob": "9abb2faa13325407f19a37dd8ce0f5debe7c4a75",
           "mode": "100644",
+          "git_blob": "9abb2faa13325407f19a37dd8ce0f5debe7c4a75",
           "source_sha256": "55f6505e658d439b2ed5b592664e46c4523f86da961b8076988e1e848e84337a",
           "export_sha256": "55f6505e658d439b2ed5b592664e46c4523f86da961b8076988e1e848e84337a"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/harness-blueprint.json",
-          "git_blob": "58b382099b375d5f59e5474157b507d88bc8670f",
           "mode": "100644",
+          "git_blob": "58b382099b375d5f59e5474157b507d88bc8670f",
           "source_sha256": "e1b021d73adf7e7ddfe0f45a351c7600002f7f7003899bd9b32fba129f0a23e9",
           "export_sha256": "e1b021d73adf7e7ddfe0f45a351c7600002f7f7003899bd9b32fba129f0a23e9"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/harness.py",
-          "git_blob": "864b4a358a353488d0a5becd457dd4ce484f4765",
           "mode": "100644",
+          "git_blob": "864b4a358a353488d0a5becd457dd4ce484f4765",
           "source_sha256": "3253fbad2671700513c29b5f81f1ef80db72cb6a69972e3891fa451225dc7443",
           "export_sha256": "3253fbad2671700513c29b5f81f1ef80db72cb6a69972e3891fa451225dc7443"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/licenses/Bird-s-Nest-MIT.txt",
-          "git_blob": "2ec5c38ef5f96882fd108e4e145beef9928c7ef8",
           "mode": "100644",
+          "git_blob": "2ec5c38ef5f96882fd108e4e145beef9928c7ef8",
           "source_sha256": "86c078753dbb275673a301fec0f1db5ade583db1f85ecc86042f04c6aeb5774c",
           "export_sha256": "86c078753dbb275673a301fec0f1db5ade583db1f85ecc86042f04c6aeb5774c"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/licenses/skill-creator-Apache-2.0.txt",
-          "git_blob": "d645695673349e3947e8e5ae42332d0ac3164cd7",
           "mode": "100644",
+          "git_blob": "d645695673349e3947e8e5ae42332d0ac3164cd7",
           "source_sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
           "export_sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/plugin.json",
-          "git_blob": "fb403c887deb9c3cd38f99867ac419d11bc0aba5",
           "mode": "100644",
+          "git_blob": "fb403c887deb9c3cd38f99867ac419d11bc0aba5",
           "source_sha256": "a281d6ad7b25aa29fe2f7ed7ff9aad49f4833dc2804ea0b4580c238cf82f778d",
           "export_sha256": "a281d6ad7b25aa29fe2f7ed7ff9aad49f4833dc2804ea0b4580c238cf82f778d"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/references/review-rules.md",
-          "git_blob": "fbb436161a8ab11e404091130871b5e81e1b5c23",
           "mode": "100644",
+          "git_blob": "fbb436161a8ab11e404091130871b5e81e1b5c23",
           "source_sha256": "45352f569aa7cf1adfc1dee444f67a73803e4cb35ed46a69219cdeb6b8f8b7a2",
           "export_sha256": "45352f569aa7cf1adfc1dee444f67a73803e4cb35ed46a69219cdeb6b8f8b7a2"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/references/screenplay-standard.md",
-          "git_blob": "a8113212f3041fda4d6d4f78a1d338017b565f8f",
           "mode": "100644",
+          "git_blob": "a8113212f3041fda4d6d4f78a1d338017b565f8f",
           "source_sha256": "48acbf8ab9800308afa07b988cca1a3ff0419b6121780a06b178f7134db55a7e",
           "export_sha256": "48acbf8ab9800308afa07b988cca1a3ff0419b6121780a06b178f7134db55a7e"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/references/source-notes.md",
-          "git_blob": "84567c40890fad31f88a3381b42c5cbfb2197ea8",
           "mode": "100644",
+          "git_blob": "84567c40890fad31f88a3381b42c5cbfb2197ea8",
           "source_sha256": "410701dfe204e84c5f1ebe3c648037937daff041e141f4915686f4a60fed120b",
           "export_sha256": "410701dfe204e84c5f1ebe3c648037937daff041e141f4915686f4a60fed120b"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/requirements.lock",
-          "git_blob": "76215454561b0010c9c49d9b27ca4c0e574fd31a",
           "mode": "100644",
+          "git_blob": "76215454561b0010c9c49d9b27ca4c0e574fd31a",
           "source_sha256": "fdb593a9be41a44ca3905ec822e10c4b32e362edb85adc32d7bf6d943558c252",
           "export_sha256": "fdb593a9be41a44ca3905ec822e10c4b32e362edb85adc32d7bf6d943558c252"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/runtime/harness_core/__init__.py",
-          "git_blob": "f8fde14063d6ef834081c0222f7b98ea6e71fd53",
           "mode": "100644",
+          "git_blob": "f8fde14063d6ef834081c0222f7b98ea6e71fd53",
           "source_sha256": "9b43e8c928590df8aa77d36e4a4de326be169abc3905c87dfbd0a46e5305f989",
           "export_sha256": "9b43e8c928590df8aa77d36e4a4de326be169abc3905c87dfbd0a46e5305f989"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/runtime/harness_core/appserver.py",
-          "git_blob": "66cefba2b246b63d8e62e0c15869a7a8bbb2cbef",
           "mode": "100644",
+          "git_blob": "66cefba2b246b63d8e62e0c15869a7a8bbb2cbef",
           "source_sha256": "a9c0a5d5d8b5ffc3fd5b32eda06701aeb196d3a2eeb29e5a221aa54609f6c265",
           "export_sha256": "a9c0a5d5d8b5ffc3fd5b32eda06701aeb196d3a2eeb29e5a221aa54609f6c265"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/runtime/harness_core/cli.py",
-          "git_blob": "050f48f72276bc52237ed5f58464532f35cc445c",
           "mode": "100644",
+          "git_blob": "050f48f72276bc52237ed5f58464532f35cc445c",
           "source_sha256": "9e37a37d6b1350ebb97f26413f28444676f725c4b36e01409802554fa17a59c5",
           "export_sha256": "9e37a37d6b1350ebb97f26413f28444676f725c4b36e01409802554fa17a59c5"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/runtime/harness_core/common.py",
-          "git_blob": "aea41ae9aa7b6f0ea5addd2b4a0ef6a2a463d795",
           "mode": "100644",
+          "git_blob": "aea41ae9aa7b6f0ea5addd2b4a0ef6a2a463d795",
           "source_sha256": "d9e557c74636fa7a700ecc35e48deb885da10249134952394f457e6796781791",
           "export_sha256": "d9e557c74636fa7a700ecc35e48deb885da10249134952394f457e6796781791"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/runtime/harness_core/contracts.py",
-          "git_blob": "a6376a0345af6ed03cba3c7bd1d0f1b2d5115f6f",
           "mode": "100644",
+          "git_blob": "a6376a0345af6ed03cba3c7bd1d0f1b2d5115f6f",
           "source_sha256": "4d776a4645401b24968768edc8deb6f0bbd3ca401d3f025831bdae3aa0bef6cf",
           "export_sha256": "4d776a4645401b24968768edc8deb6f0bbd3ca401d3f025831bdae3aa0bef6cf"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/runtime/harness_core/engine.py",
-          "git_blob": "7d8a29fb72d2c25932f47234a3f530bf512e15d0",
           "mode": "100644",
+          "git_blob": "7d8a29fb72d2c25932f47234a3f530bf512e15d0",
           "source_sha256": "5a7ea735c58fe36f62b573dc8e60f038cc9df16a8a9618a5d782da5ac763dc9d",
           "export_sha256": "5a7ea735c58fe36f62b573dc8e60f038cc9df16a8a9618a5d782da5ac763dc9d"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/runtime/harness_core/knowledge.py",
-          "git_blob": "1e3af9ef3199964e7ef36cdeddd9d380f9b290b1",
           "mode": "100644",
+          "git_blob": "1e3af9ef3199964e7ef36cdeddd9d380f9b290b1",
           "source_sha256": "6edaaca18c230b1a9cd7d050f8268e22d210fc555d8c0c56cbd961a093728fc6",
           "export_sha256": "6edaaca18c230b1a9cd7d050f8268e22d210fc555d8c0c56cbd961a093728fc6"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/runtime/harness_core/packages.py",
-          "git_blob": "0ec1a905dd82b314877d70d75567e8aa3438312f",
           "mode": "100644",
+          "git_blob": "0ec1a905dd82b314877d70d75567e8aa3438312f",
           "source_sha256": "8ce4c657d864e53296ee3c5e5f8aa488fb59c22acd48dcfc7b34d22935f3abb7",
           "export_sha256": "8ce4c657d864e53296ee3c5e5f8aa488fb59c22acd48dcfc7b34d22935f3abb7"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/runtime/harness_core/sources.py",
-          "git_blob": "b2cdf19d17dd7f5b4504aa0999e75cd47a779106",
           "mode": "100644",
+          "git_blob": "b2cdf19d17dd7f5b4504aa0999e75cd47a779106",
           "source_sha256": "b1348cd3c739faf238d213518323581394df6c2ccd33467390dd5bc8bb7146f4",
           "export_sha256": "b1348cd3c739faf238d213518323581394df6c2ccd33467390dd5bc8bb7146f4"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/runtime/harness_core/store.py",
-          "git_blob": "d9c5c5c54b65450e2c0d2869aa58caf267186bed",
           "mode": "100644",
+          "git_blob": "d9c5c5c54b65450e2c0d2869aa58caf267186bed",
           "source_sha256": "4cb5292f03bd8fb8f7bd22c1f5c266ac263884f336588ca30d32ce409a5b0dfd",
           "export_sha256": "4cb5292f03bd8fb8f7bd22c1f5c266ac263884f336588ca30d32ce409a5b0dfd"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/schemas/blueprint.schema.json",
-          "git_blob": "5139a9b72ffc0ff15b492f3ea26dd53908941d20",
           "mode": "100644",
+          "git_blob": "5139a9b72ffc0ff15b492f3ea26dd53908941d20",
           "source_sha256": "ee059c65cea096464ea2d84fbaa51c51a020537e72ccae8d9ff496293513cfc1",
           "export_sha256": "ee059c65cea096464ea2d84fbaa51c51a020537e72ccae8d9ff496293513cfc1"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/scripts/bootstrap.py",
-          "git_blob": "5d2283b468941472bad423667e2209862f8313ad",
           "mode": "100644",
+          "git_blob": "5d2283b468941472bad423667e2209862f8313ad",
           "source_sha256": "77c96b30af3e580a071979c3f774f17fd3c56564193393e060327654e3b25aa7",
           "export_sha256": "77c96b30af3e580a071979c3f774f17fd3c56564193393e060327654e3b25aa7"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/scripts/screenplay_core.py",
-          "git_blob": "72c1a560e48c51982f39b62177f98bc6947b4c94",
           "mode": "100644",
+          "git_blob": "72c1a560e48c51982f39b62177f98bc6947b4c94",
           "source_sha256": "e480d3fd2430be14eb0effcc512d089a73c7a9fcd6c3824a1f3ed02c19e3c014",
           "export_sha256": "e480d3fd2430be14eb0effcc512d089a73c7a9fcd6c3824a1f3ed02c19e3c014"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/skills/review-screenplay/SKILL.md",
-          "git_blob": "ce64c1d5cfd67eca6f794a97e6079fa545ce8bcd",
           "mode": "100644",
+          "git_blob": "ce64c1d5cfd67eca6f794a97e6079fa545ce8bcd",
           "source_sha256": "83331fbb68b2c1aa88a746e9e9352b8d60c83e593729d412aa16b368bbf936c7",
           "export_sha256": "83331fbb68b2c1aa88a746e9e9352b8d60c83e593729d412aa16b368bbf936c7"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/skills/review-screenplay/agents/openai.yaml",
-          "git_blob": "0354451d14fa1d88c1b6717dad96f606f964f551",
           "mode": "100644",
+          "git_blob": "0354451d14fa1d88c1b6717dad96f606f964f551",
           "source_sha256": "2b32082559bf653746c6892a05d58595ef1ba26e9c21788a2de88eaeacc2c9fb",
           "export_sha256": "2b32082559bf653746c6892a05d58595ef1ba26e9c21788a2de88eaeacc2c9fb"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/skills/screenplay-standardizer/SKILL.md",
-          "git_blob": "8b13f761c2710fc2fb75cff4e408f095ff47f66f",
           "mode": "100644",
+          "git_blob": "8b13f761c2710fc2fb75cff4e408f095ff47f66f",
           "source_sha256": "ffe619b8b232bb4d2ad24055d309e77ce76c587409dca52ba3ed12f9eadf6fde",
           "export_sha256": "ffe619b8b232bb4d2ad24055d309e77ce76c587409dca52ba3ed12f9eadf6fde"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/skills/screenplay-standardizer/agents/openai.yaml",
-          "git_blob": "24fe143dd3f6837c8e053b22fff3a09a63e16fb1",
           "mode": "100644",
+          "git_blob": "24fe143dd3f6837c8e053b22fff3a09a63e16fb1",
           "source_sha256": "9e72bf9e911bb70b0d52a8f3eb46fb9aca7302f269168c708295fa4338fa6f2a",
           "export_sha256": "9e72bf9e911bb70b0d52a8f3eb46fb9aca7302f269168c708295fa4338fa6f2a"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/skills/standardize-screenplay/SKILL.md",
-          "git_blob": "ae18f952192b76636243ce8cd1c3ba5e5839893c",
           "mode": "100644",
+          "git_blob": "ae18f952192b76636243ce8cd1c3ba5e5839893c",
           "source_sha256": "e5e614e8420b87dade3889a1125bdea38f64933924b9ef93d116c7b095c56430",
           "export_sha256": "e5e614e8420b87dade3889a1125bdea38f64933924b9ef93d116c7b095c56430"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/skills/standardize-screenplay/agents/openai.yaml",
-          "git_blob": "5c49abc567992c79a69b364fac882486c376cf6e",
           "mode": "100644",
+          "git_blob": "5c49abc567992c79a69b364fac882486c376cf6e",
           "source_sha256": "2870df7ff72205487276693e0a389a10a0c24865101869a0e799753dad2d1668",
           "export_sha256": "2870df7ff72205487276693e0a389a10a0c24865101869a0e799753dad2d1668"
         },
         {
           "path": "level-1/screenplay-standardization/screenplay-standardizer/sources.lock.json",
-          "git_blob": "3dde43207d6225e3132e4346f57a11cfd83020fb",
           "mode": "100644",
+          "git_blob": "3dde43207d6225e3132e4346f57a11cfd83020fb",
           "source_sha256": "40c8531ab5d5905fbcf40ee822fc05c14dbf4e5d4c4678bb8c87e2937c72df50",
           "export_sha256": "40c8531ab5d5905fbcf40ee822fc05c14dbf4e5d4c4678bb8c87e2937c72df50"
         },
         {
           "path": "level-2/asset-extraction/README.md",
-          "git_blob": "d9f8930d754195fab2fb559e302819a28a7cea36",
           "mode": "100644",
-          "source_sha256": "21a9cdfff72523fa2ffdc2af8addc6f5d22dd3b7bf2dbe19609e89e079686c8f",
-          "export_sha256": "21a9cdfff72523fa2ffdc2af8addc6f5d22dd3b7bf2dbe19609e89e079686c8f"
+          "git_blob": "33eaff3b15bed73a777fda1df76985e56f79a73d",
+          "source_sha256": "b5572e04cd9554101746ce66fcc33850ccfc2a9ca2fed7b4b651e97d061bdd55",
+          "export_sha256": "b5572e04cd9554101746ce66fcc33850ccfc2a9ca2fed7b4b651e97d061bdd55"
         },
         {
           "path": "level-2/asset-extraction/creator-src/PLUGIN-README.md",
-          "git_blob": "217b5ab5ca0e458322ec8247404acb21ccd3a7c7",
           "mode": "100644",
-          "source_sha256": "8744fda8ffc30c110e730e9b011e5edc514d425b1eb0619a22d5927654f2cb11",
-          "export_sha256": "8744fda8ffc30c110e730e9b011e5edc514d425b1eb0619a22d5927654f2cb11"
+          "git_blob": "27e7e2eb82c2d9a62480cc3322a52443e939650c",
+          "source_sha256": "81334ab02ecba99b2c565cfc324daf923e2dc366406e14fd45da4d8d7f7ee634",
+          "export_sha256": "81334ab02ecba99b2c565cfc324daf923e2dc366406e14fd45da4d8d7f7ee634"
         },
         {
           "path": "level-2/asset-extraction/creator-src/README.md",
-          "git_blob": "ed4965660e5034d3185aeefd8d35d9331f304348",
           "mode": "100644",
+          "git_blob": "ed4965660e5034d3185aeefd8d35d9331f304348",
           "source_sha256": "e13bce7daec052fafd0fcfea38c4d6a83367e30f1f5677fff2a45a3c5580531e",
           "export_sha256": "e13bce7daec052fafd0fcfea38c4d6a83367e30f1f5677fff2a45a3c5580531e"
         },
         {
           "path": "level-2/asset-extraction/creator-src/VALIDATION.md",
-          "git_blob": "6b9c42a7dcf9e905b43ea322e9a71fb38396fddc",
           "mode": "100644",
+          "git_blob": "6b9c42a7dcf9e905b43ea322e9a71fb38396fddc",
           "source_sha256": "762271d925c0410a4b934745d97aa8f01002f964528ed51f1601ed914724e06d",
           "export_sha256": "762271d925c0410a4b934745d97aa8f01002f964528ed51f1601ed914724e06d"
         },
         {
           "path": "level-2/asset-extraction/creator-src/blueprint.json",
-          "git_blob": "58f347b63bc84d6228ebb5904c6ea0380610b96d",
           "mode": "100644",
-          "source_sha256": "dd17ba7cdd4cf253a1b951fe6fbd27574f868abb76dba4d082ab7af6efcfed97",
-          "export_sha256": "dd17ba7cdd4cf253a1b951fe6fbd27574f868abb76dba4d082ab7af6efcfed97"
+          "git_blob": "d2673eb36a33ce8fd3285a94b3c07795460d29d4",
+          "source_sha256": "a8c3b9b66fcf63d2b7b7dab9cb8d9c15d0e5e0b87dfaab56ccaef61ed2b29453",
+          "export_sha256": "a8c3b9b66fcf63d2b7b7dab9cb8d9c15d0e5e0b87dfaab56ccaef61ed2b29453"
         },
         {
           "path": "level-2/asset-extraction/creator-src/build_blueprint.py",
-          "git_blob": "dfdee79fec0b24a078ca0ea5815b511aee4d75fe",
           "mode": "100644",
-          "source_sha256": "f42260025f99e578a9587393517c934c46e2e5ba0e1ae09e7e2cc74fd8688610",
-          "export_sha256": "f42260025f99e578a9587393517c934c46e2e5ba0e1ae09e7e2cc74fd8688610"
+          "git_blob": "785af686397cdee39c349743950ebc6750af5d9c",
+          "source_sha256": "97c1d2bbbbc554ec4e821b2835c640d4bc7b8b2d87ff325615e89ceacdf44a30",
+          "export_sha256": "97c1d2bbbbc554ec4e821b2835c640d4bc7b8b2d87ff325615e89ceacdf44a30"
+        },
+        {
+          "path": "level-2/asset-extraction/creator-src/docx-requirements.lock",
+          "mode": "100644",
+          "git_blob": "cdd33bd36594b43467b0bfadd69dc40c0ef4c154",
+          "source_sha256": "12b6bdf12b29c571ff8c529092d409e9e4c5d0d0f6c60ca71069be073e86c1e0",
+          "export_sha256": "12b6bdf12b29c571ff8c529092d409e9e4c5d0d0f6c60ca71069be073e86c1e0"
         },
         {
           "path": "level-2/asset-extraction/creator-src/postbuild.py",
-          "git_blob": "fcfdb3c96f15ed71caaae38e9363f233263268c9",
           "mode": "100644",
-          "source_sha256": "09868ef983ad93122146966f711efee2971b73b9bad09ea9d59efe39a6c4cfc6",
-          "export_sha256": "09868ef983ad93122146966f711efee2971b73b9bad09ea9d59efe39a6c4cfc6"
+          "git_blob": "d6c314dbe5e05c3c6faf977fca4ab43120622c0b",
+          "source_sha256": "2e49350010139cd5f98f9456aee176cf192aebc607bb5a2b61e32385932d1a98",
+          "export_sha256": "2e49350010139cd5f98f9456aee176cf192aebc607bb5a2b61e32385932d1a98"
         },
         {
           "path": "level-2/asset-extraction/creator-src/publish_local_plugin.py",
-          "git_blob": "086ffd952cbe1b93708f880cca14aa44864debd5",
           "mode": "100644",
+          "git_blob": "086ffd952cbe1b93708f880cca14aa44864debd5",
           "source_sha256": "72f80905c19f673064d2dbd36047b70ef4693bd04e1e9d454c2f232bf5a94b0b",
           "export_sha256": "72f80905c19f673064d2dbd36047b70ef4693bd04e1e9d454c2f232bf5a94b0b"
         },
         {
           "path": "level-2/asset-extraction/creator-src/references/asset-rules.md",
-          "git_blob": "d1b29f4d7910201fadb61da2926154c7eb2e90ed",
           "mode": "100644",
-          "source_sha256": "06984431b2ff5e0b1c005adf4c65c201d6243d3f4143385c3ee340c100dbc595",
-          "export_sha256": "06984431b2ff5e0b1c005adf4c65c201d6243d3f4143385c3ee340c100dbc595"
+          "git_blob": "c6d2a8c76d9b7b032a8a76d32263c476602730d9",
+          "source_sha256": "5cf6bc01c02007189683d8b9d3e841a144796e90ee4f8ec50273f1be33d1bf6f",
+          "export_sha256": "5cf6bc01c02007189683d8b9d3e841a144796e90ee4f8ec50273f1be33d1bf6f"
+        },
+        {
+          "path": "level-2/asset-extraction/creator-src/references/semantic-review.md",
+          "mode": "100644",
+          "git_blob": "156bdeca16d0f6fc111af5749e7550d502a50429",
+          "source_sha256": "42aa2b4061ff7313220e86a7a527b2e31af3cd7efaa6cce4cda294686b63031f",
+          "export_sha256": "42aa2b4061ff7313220e86a7a527b2e31af3cd7efaa6cce4cda294686b63031f"
         },
         {
           "path": "level-2/asset-extraction/creator-src/references/source-notes.md",
-          "git_blob": "6be8b31b16bfb8aa8c5c3fb995ce171b00af4df1",
           "mode": "100644",
+          "git_blob": "6be8b31b16bfb8aa8c5c3fb995ce171b00af4df1",
           "source_sha256": "7a44755db2ccce28d155a01458773e5e5686771b7c510e487ec97da5461a8669",
           "export_sha256": "7a44755db2ccce28d155a01458773e5e5686771b7c510e487ec97da5461a8669"
         },
         {
           "path": "level-2/asset-extraction/creator-src/references/work-contract.md",
-          "git_blob": "5ea2abe4e2fd32a7b98d60ed09ab75c6e9c6543a",
           "mode": "100644",
-          "source_sha256": "1ade0581d20edc17543f64be818273b911d591109c733a4ce8c7d36fdb0f0e6a",
-          "export_sha256": "1ade0581d20edc17543f64be818273b911d591109c733a4ce8c7d36fdb0f0e6a"
+          "git_blob": "d63a0457278301409b5263ec70ec72dbd1511e2d",
+          "source_sha256": "bf9bffd8fef79ceef226dbf3abac60b027eade1a521fb1c12c6ad3a1a29716d2",
+          "export_sha256": "bf9bffd8fef79ceef226dbf3abac60b027eade1a521fb1c12c6ad3a1a29716d2"
         },
         {
           "path": "level-2/asset-extraction/creator-src/scripts/asset_core.py",
-          "git_blob": "444b5b83719018a53850b16b49fd242e6c9c2070",
           "mode": "100644",
-          "source_sha256": "a9d78d1cac7d40f523091596c2189845b508007a5bf2e47827ae8b14ac7f10b4",
-          "export_sha256": "a9d78d1cac7d40f523091596c2189845b508007a5bf2e47827ae8b14ac7f10b4"
+          "git_blob": "cb95f80cb0cd495b3781745d6b30685d0aaa9849",
+          "source_sha256": "fc3036bb312d321d7005f6dfe8ea580153ef52fe5dfcccf8c8cca6329f11226b",
+          "export_sha256": "fc3036bb312d321d7005f6dfe8ea580153ef52fe5dfcccf8c8cca6329f11226b"
         },
         {
           "path": "level-2/asset-extraction/creator-src/scripts/asset_run.py",
-          "git_blob": "727870d784b59b6a4e9deea7bc3a2099cafe30d6",
           "mode": "100644",
+          "git_blob": "727870d784b59b6a4e9deea7bc3a2099cafe30d6",
           "source_sha256": "492b9e73d383b2a9340180e7fde65141403f39e7ed192bf758a84435ca28797f",
           "export_sha256": "492b9e73d383b2a9340180e7fde65141403f39e7ed192bf758a84435ca28797f"
         },
         {
           "path": "level-2/asset-extraction/creator-src/scripts/asset_xlsx.py",
-          "git_blob": "fda882127c04628c5aff5e9904482c2447c7e393",
           "mode": "100644",
+          "git_blob": "fda882127c04628c5aff5e9904482c2447c7e393",
           "source_sha256": "c278d6249bbad1f323be5929d349ed10d46716cd7128e0fea446e1cd4c4bd0ac",
           "export_sha256": "c278d6249bbad1f323be5929d349ed10d46716cd7128e0fea446e1cd4c4bd0ac"
         },
         {
           "path": "level-2/asset-extraction/creator-src/scripts/show_batch.py",
-          "git_blob": "723a75a3c4376ce1c1ae82df77778614257ed0e8",
           "mode": "100644",
+          "git_blob": "723a75a3c4376ce1c1ae82df77778614257ed0e8",
           "source_sha256": "debeba7a9333c188a60fc6160ab09bc611c30454c54c4758bf0ccec4c0078c15",
           "export_sha256": "debeba7a9333c188a60fc6160ab09bc611c30454c54c4758bf0ccec4c0078c15"
         },
         {
-          "path": "level-2/asset-extraction/creator-src/tests/run_acceptance.py",
-          "git_blob": "8f6d67e34e8099e06f5fa26b894d4cabf1f9c20a",
+          "path": "level-2/asset-extraction/creator-src/scripts/verify_delivery.py",
           "mode": "100644",
-          "source_sha256": "16bb0f72fcd703cb1d64cf95029f854cc3703d88caa8d03478621da17e5dbbdc",
-          "export_sha256": "16bb0f72fcd703cb1d64cf95029f854cc3703d88caa8d03478621da17e5dbbdc"
+          "git_blob": "7db77341545745da7c93b10e991823992ee7209d",
+          "source_sha256": "e91f395afb87e41c0130428434fcb7e58e12e4e0cd86894e995f77c4891b2fc3",
+          "export_sha256": "e91f395afb87e41c0130428434fcb7e58e12e4e0cd86894e995f77c4891b2fc3"
+        },
+        {
+          "path": "level-2/asset-extraction/creator-src/tests/run_acceptance.py",
+          "mode": "100644",
+          "git_blob": "f6f3d7de495d6bf74b48bd1b963f744223ec074f",
+          "source_sha256": "03bfb386c0d5fdc93a23c086421bd4a8126a18edcbc93dcf5562de1fc54339aa",
+          "export_sha256": "03bfb386c0d5fdc93a23c086421bd4a8126a18edcbc93dcf5562de1fc54339aa"
+        },
+        {
+          "path": "level-2/asset-extraction/creator-src/tests/test_delivery_guard.py",
+          "mode": "100644",
+          "git_blob": "66e089082488b3d8b756e49ea96f1a6539cc9d18",
+          "source_sha256": "822d30cd696046f65d749677c243357dd79f8090c602e7e2f54edec02112ae7b",
+          "export_sha256": "822d30cd696046f65d749677c243357dd79f8090c602e7e2f54edec02112ae7b"
+        },
+        {
+          "path": "level-2/asset-extraction/creator-src/tests/test_dispatch_isolation.py",
+          "mode": "100644",
+          "git_blob": "a93335b526b64664686718c8d9201273c7a2a906",
+          "source_sha256": "2da4f406bebb84010d9b0ff1dc3357e2b7f667e608399657700bc7ed354863b9",
+          "export_sha256": "2da4f406bebb84010d9b0ff1dc3357e2b7f667e608399657700bc7ed354863b9"
+        },
+        {
+          "path": "level-2/asset-extraction/creator-src/tests/test_semantic_review.py",
+          "mode": "100644",
+          "git_blob": "1f5ade69c00a3b28c6b6c2fd092b851244b1c17c",
+          "source_sha256": "2ef6d0c22df777994d125f931d7b7f7dee4b37aaa1b86b39600c4bad1f845a23",
+          "export_sha256": "2ef6d0c22df777994d125f931d7b7f7dee4b37aaa1b86b39600c4bad1f845a23"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/.codex-plugin/plugin.json",
-          "git_blob": "b921ea8e0334b85e41e4fc24df4d7f0ad34ccde7",
           "mode": "100644",
-          "source_sha256": "4f45230fb4e92f4a72f322cf75a511034fb9a18ba6bc3e4f66a5a343c1dc3526",
-          "export_sha256": "4f45230fb4e92f4a72f322cf75a511034fb9a18ba6bc3e4f66a5a343c1dc3526"
+          "git_blob": "5c7333f3ac1f9518f3ba6f02e3e697f057f0ef46",
+          "source_sha256": "90c67ecb4d6dc321d3f6cf22b121e76c6f919f22368491ac5af7274cc550e026",
+          "export_sha256": "90c67ecb4d6dc321d3f6cf22b121e76c6f919f22368491ac5af7274cc550e026"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/README.md",
-          "git_blob": "70852a6fcb807a9446c05d9309532eafa8ddd8bb",
           "mode": "100644",
-          "source_sha256": "778c6cde68ba0de8c043460336abef257709656c79b9da4f7f85493552d47b25",
-          "export_sha256": "778c6cde68ba0de8c043460336abef257709656c79b9da4f7f85493552d47b25"
+          "git_blob": "27e7e2eb82c2d9a62480cc3322a52443e939650c",
+          "source_sha256": "81334ab02ecba99b2c565cfc324daf923e2dc366406e14fd45da4d8d7f7ee634",
+          "export_sha256": "81334ab02ecba99b2c565cfc324daf923e2dc366406e14fd45da4d8d7f7ee634"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/RUNTIME.md",
-          "git_blob": "08f872f08d9a0b32b6e56dd827ef921a140d71b8",
           "mode": "100644",
+          "git_blob": "08f872f08d9a0b32b6e56dd827ef921a140d71b8",
           "source_sha256": "c4f7c577c1a2f86b147c650bc2548f7886c93ee9008adc16aff1afd778076141",
           "export_sha256": "c4f7c577c1a2f86b147c650bc2548f7886c93ee9008adc16aff1afd778076141"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/THIRD_PARTY_NOTICES.md",
-          "git_blob": "0a8bcf69166a016b07b8c6420d1f29e45fcdbfd8",
           "mode": "100644",
+          "git_blob": "0a8bcf69166a016b07b8c6420d1f29e45fcdbfd8",
           "source_sha256": "7e67e76771950d23370622c4a1f15b0f9537fad10402239a9b510208f13ed271",
           "export_sha256": "7e67e76771950d23370622c4a1f15b0f9537fad10402239a9b510208f13ed271"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/VALIDATION.md",
-          "git_blob": "6b9c42a7dcf9e905b43ea322e9a71fb38396fddc",
           "mode": "100644",
+          "git_blob": "6b9c42a7dcf9e905b43ea322e9a71fb38396fddc",
           "source_sha256": "762271d925c0410a4b934745d97aa8f01002f964528ed51f1601ed914724e06d",
           "export_sha256": "762271d925c0410a4b934745d97aa8f01002f964528ed51f1601ed914724e06d"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/capabilities.json",
-          "git_blob": "1b89bd89ea250e7f511f25f7baad1b627a25f013",
           "mode": "100644",
-          "source_sha256": "9a9628acbc5882b395bb6182bcb40f693b3af364d3d743274bd328e94a0f53b6",
-          "export_sha256": "9a9628acbc5882b395bb6182bcb40f693b3af364d3d743274bd328e94a0f53b6"
+          "git_blob": "616c5a01c4113778348fb988c05fda10012ef239",
+          "source_sha256": "98418f3f13de0bd299206c49b57fc97d1da5d81a3b88a346f665b73e4867714c",
+          "export_sha256": "98418f3f13de0bd299206c49b57fc97d1da5d81a3b88a346f665b73e4867714c"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/generation-lock.json",
-          "git_blob": "7a52fdb0a42aafbaa90cc5ecfeb590296f7602dc",
           "mode": "100644",
-          "source_sha256": "82cf53955623780f9fda9504be5be140958908d2085d9f1977400978b887c1bb",
-          "export_sha256": "82cf53955623780f9fda9504be5be140958908d2085d9f1977400978b887c1bb"
+          "git_blob": "687dc4fdfe371b1bccb6e2187dd14330dbecf2b8",
+          "source_sha256": "a145e4dd57f69b4d86ea9095ce707f24bef309efea43859731cc088dcb49039a",
+          "export_sha256": "a145e4dd57f69b4d86ea9095ce707f24bef309efea43859731cc088dcb49039a"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/harness-blueprint.json",
-          "git_blob": "58f347b63bc84d6228ebb5904c6ea0380610b96d",
           "mode": "100644",
-          "source_sha256": "dd17ba7cdd4cf253a1b951fe6fbd27574f868abb76dba4d082ab7af6efcfed97",
-          "export_sha256": "dd17ba7cdd4cf253a1b951fe6fbd27574f868abb76dba4d082ab7af6efcfed97"
+          "git_blob": "d2673eb36a33ce8fd3285a94b3c07795460d29d4",
+          "source_sha256": "a8c3b9b66fcf63d2b7b7dab9cb8d9c15d0e5e0b87dfaab56ccaef61ed2b29453",
+          "export_sha256": "a8c3b9b66fcf63d2b7b7dab9cb8d9c15d0e5e0b87dfaab56ccaef61ed2b29453"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/harness.py",
-          "git_blob": "864b4a358a353488d0a5becd457dd4ce484f4765",
           "mode": "100644",
+          "git_blob": "864b4a358a353488d0a5becd457dd4ce484f4765",
           "source_sha256": "3253fbad2671700513c29b5f81f1ef80db72cb6a69972e3891fa451225dc7443",
           "export_sha256": "3253fbad2671700513c29b5f81f1ef80db72cb6a69972e3891fa451225dc7443"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/licenses/Bird-s-Nest-MIT.txt",
-          "git_blob": "2ec5c38ef5f96882fd108e4e145beef9928c7ef8",
           "mode": "100644",
+          "git_blob": "2ec5c38ef5f96882fd108e4e145beef9928c7ef8",
           "source_sha256": "86c078753dbb275673a301fec0f1db5ade583db1f85ecc86042f04c6aeb5774c",
           "export_sha256": "86c078753dbb275673a301fec0f1db5ade583db1f85ecc86042f04c6aeb5774c"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/licenses/skill-creator-Apache-2.0.txt",
-          "git_blob": "d645695673349e3947e8e5ae42332d0ac3164cd7",
           "mode": "100644",
+          "git_blob": "d645695673349e3947e8e5ae42332d0ac3164cd7",
           "source_sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
           "export_sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/plugin.json",
-          "git_blob": "6dbe8f2978d0f7b7c436e0bbcbafca06ee9be296",
           "mode": "100644",
-          "source_sha256": "9481aeb2bd38d44ed318b346d6e48121b60d5e4cdfd057d78986fd971a0a05c5",
-          "export_sha256": "9481aeb2bd38d44ed318b346d6e48121b60d5e4cdfd057d78986fd971a0a05c5"
+          "git_blob": "0548f6c7a8a0e2c674d6ee727c7f109e8ae367ec",
+          "source_sha256": "c87f10f2ff16ba50e027020029a040ca29fd4fc400b399b7711233d7359a7671",
+          "export_sha256": "c87f10f2ff16ba50e027020029a040ca29fd4fc400b399b7711233d7359a7671"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/references/asset-rules.md",
-          "git_blob": "d1b29f4d7910201fadb61da2926154c7eb2e90ed",
           "mode": "100644",
-          "source_sha256": "06984431b2ff5e0b1c005adf4c65c201d6243d3f4143385c3ee340c100dbc595",
-          "export_sha256": "06984431b2ff5e0b1c005adf4c65c201d6243d3f4143385c3ee340c100dbc595"
+          "git_blob": "c6d2a8c76d9b7b032a8a76d32263c476602730d9",
+          "source_sha256": "5cf6bc01c02007189683d8b9d3e841a144796e90ee4f8ec50273f1be33d1bf6f",
+          "export_sha256": "5cf6bc01c02007189683d8b9d3e841a144796e90ee4f8ec50273f1be33d1bf6f"
+        },
+        {
+          "path": "level-2/asset-extraction/screenplay-asset-extractor/references/semantic-review.md",
+          "mode": "100644",
+          "git_blob": "156bdeca16d0f6fc111af5749e7550d502a50429",
+          "source_sha256": "42aa2b4061ff7313220e86a7a527b2e31af3cd7efaa6cce4cda294686b63031f",
+          "export_sha256": "42aa2b4061ff7313220e86a7a527b2e31af3cd7efaa6cce4cda294686b63031f"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/references/source-notes.md",
-          "git_blob": "6be8b31b16bfb8aa8c5c3fb995ce171b00af4df1",
           "mode": "100644",
+          "git_blob": "6be8b31b16bfb8aa8c5c3fb995ce171b00af4df1",
           "source_sha256": "7a44755db2ccce28d155a01458773e5e5686771b7c510e487ec97da5461a8669",
           "export_sha256": "7a44755db2ccce28d155a01458773e5e5686771b7c510e487ec97da5461a8669"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/references/work-contract.md",
-          "git_blob": "5ea2abe4e2fd32a7b98d60ed09ab75c6e9c6543a",
           "mode": "100644",
-          "source_sha256": "1ade0581d20edc17543f64be818273b911d591109c733a4ce8c7d36fdb0f0e6a",
-          "export_sha256": "1ade0581d20edc17543f64be818273b911d591109c733a4ce8c7d36fdb0f0e6a"
+          "git_blob": "d63a0457278301409b5263ec70ec72dbd1511e2d",
+          "source_sha256": "bf9bffd8fef79ceef226dbf3abac60b027eade1a521fb1c12c6ad3a1a29716d2",
+          "export_sha256": "bf9bffd8fef79ceef226dbf3abac60b027eade1a521fb1c12c6ad3a1a29716d2"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/requirements.lock",
-          "git_blob": "734d5a8d386b935deef72f03e4bd63ddb5ed9980",
           "mode": "100644",
-          "source_sha256": "32516e80a2113f29f0b5f7c843da9e8202a473638e150578a3e8b84a8f0b482c",
-          "export_sha256": "32516e80a2113f29f0b5f7c843da9e8202a473638e150578a3e8b84a8f0b482c"
+          "git_blob": "e396e3f5ab50eede6174daa71f8f99f94feb7718",
+          "source_sha256": "3eac7d506556c157e6b4bffe4d0b1dbea5e2ecbef00be70183f1db820c0d11fd",
+          "export_sha256": "3eac7d506556c157e6b4bffe4d0b1dbea5e2ecbef00be70183f1db820c0d11fd"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/runtime/harness_core/__init__.py",
-          "git_blob": "f8fde14063d6ef834081c0222f7b98ea6e71fd53",
           "mode": "100644",
+          "git_blob": "f8fde14063d6ef834081c0222f7b98ea6e71fd53",
           "source_sha256": "9b43e8c928590df8aa77d36e4a4de326be169abc3905c87dfbd0a46e5305f989",
           "export_sha256": "9b43e8c928590df8aa77d36e4a4de326be169abc3905c87dfbd0a46e5305f989"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/runtime/harness_core/appserver.py",
-          "git_blob": "66cefba2b246b63d8e62e0c15869a7a8bbb2cbef",
           "mode": "100644",
-          "source_sha256": "a9c0a5d5d8b5ffc3fd5b32eda06701aeb196d3a2eeb29e5a221aa54609f6c265",
-          "export_sha256": "a9c0a5d5d8b5ffc3fd5b32eda06701aeb196d3a2eeb29e5a221aa54609f6c265"
+          "git_blob": "fc02523777a0ecc410e52fb328cd56f09a74deef",
+          "source_sha256": "0541b37f9930fe262252b36f49ef608d1957375f11b24e4141ad840386394b32",
+          "export_sha256": "0541b37f9930fe262252b36f49ef608d1957375f11b24e4141ad840386394b32"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/runtime/harness_core/cli.py",
-          "git_blob": "050f48f72276bc52237ed5f58464532f35cc445c",
           "mode": "100644",
+          "git_blob": "050f48f72276bc52237ed5f58464532f35cc445c",
           "source_sha256": "9e37a37d6b1350ebb97f26413f28444676f725c4b36e01409802554fa17a59c5",
           "export_sha256": "9e37a37d6b1350ebb97f26413f28444676f725c4b36e01409802554fa17a59c5"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/runtime/harness_core/common.py",
-          "git_blob": "aea41ae9aa7b6f0ea5addd2b4a0ef6a2a463d795",
           "mode": "100644",
+          "git_blob": "aea41ae9aa7b6f0ea5addd2b4a0ef6a2a463d795",
           "source_sha256": "d9e557c74636fa7a700ecc35e48deb885da10249134952394f457e6796781791",
           "export_sha256": "d9e557c74636fa7a700ecc35e48deb885da10249134952394f457e6796781791"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/runtime/harness_core/contracts.py",
-          "git_blob": "a6376a0345af6ed03cba3c7bd1d0f1b2d5115f6f",
           "mode": "100644",
+          "git_blob": "a6376a0345af6ed03cba3c7bd1d0f1b2d5115f6f",
           "source_sha256": "4d776a4645401b24968768edc8deb6f0bbd3ca401d3f025831bdae3aa0bef6cf",
           "export_sha256": "4d776a4645401b24968768edc8deb6f0bbd3ca401d3f025831bdae3aa0bef6cf"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/runtime/harness_core/engine.py",
-          "git_blob": "7d8a29fb72d2c25932f47234a3f530bf512e15d0",
           "mode": "100644",
-          "source_sha256": "5a7ea735c58fe36f62b573dc8e60f038cc9df16a8a9618a5d782da5ac763dc9d",
-          "export_sha256": "5a7ea735c58fe36f62b573dc8e60f038cc9df16a8a9618a5d782da5ac763dc9d"
+          "git_blob": "35e9db76020ff0b369f693cfa01eaca8b6921dd7",
+          "source_sha256": "ce99a52aeb8818c88a60a0f74c3078d4ed3bde05458e0c3150b19d963e1ec023",
+          "export_sha256": "ce99a52aeb8818c88a60a0f74c3078d4ed3bde05458e0c3150b19d963e1ec023"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/runtime/harness_core/knowledge.py",
-          "git_blob": "1e3af9ef3199964e7ef36cdeddd9d380f9b290b1",
           "mode": "100644",
+          "git_blob": "1e3af9ef3199964e7ef36cdeddd9d380f9b290b1",
           "source_sha256": "6edaaca18c230b1a9cd7d050f8268e22d210fc555d8c0c56cbd961a093728fc6",
           "export_sha256": "6edaaca18c230b1a9cd7d050f8268e22d210fc555d8c0c56cbd961a093728fc6"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/runtime/harness_core/packages.py",
-          "git_blob": "0ec1a905dd82b314877d70d75567e8aa3438312f",
           "mode": "100644",
+          "git_blob": "0ec1a905dd82b314877d70d75567e8aa3438312f",
           "source_sha256": "8ce4c657d864e53296ee3c5e5f8aa488fb59c22acd48dcfc7b34d22935f3abb7",
           "export_sha256": "8ce4c657d864e53296ee3c5e5f8aa488fb59c22acd48dcfc7b34d22935f3abb7"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/runtime/harness_core/sources.py",
-          "git_blob": "b2cdf19d17dd7f5b4504aa0999e75cd47a779106",
           "mode": "100644",
+          "git_blob": "b2cdf19d17dd7f5b4504aa0999e75cd47a779106",
           "source_sha256": "b1348cd3c739faf238d213518323581394df6c2ccd33467390dd5bc8bb7146f4",
           "export_sha256": "b1348cd3c739faf238d213518323581394df6c2ccd33467390dd5bc8bb7146f4"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/runtime/harness_core/store.py",
-          "git_blob": "d9c5c5c54b65450e2c0d2869aa58caf267186bed",
           "mode": "100644",
+          "git_blob": "d9c5c5c54b65450e2c0d2869aa58caf267186bed",
           "source_sha256": "4cb5292f03bd8fb8f7bd22c1f5c266ac263884f336588ca30d32ce409a5b0dfd",
           "export_sha256": "4cb5292f03bd8fb8f7bd22c1f5c266ac263884f336588ca30d32ce409a5b0dfd"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/schemas/blueprint.schema.json",
-          "git_blob": "5139a9b72ffc0ff15b492f3ea26dd53908941d20",
           "mode": "100644",
+          "git_blob": "5139a9b72ffc0ff15b492f3ea26dd53908941d20",
           "source_sha256": "ee059c65cea096464ea2d84fbaa51c51a020537e72ccae8d9ff496293513cfc1",
           "export_sha256": "ee059c65cea096464ea2d84fbaa51c51a020537e72ccae8d9ff496293513cfc1"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/scripts/asset_core.py",
-          "git_blob": "444b5b83719018a53850b16b49fd242e6c9c2070",
           "mode": "100644",
-          "source_sha256": "a9d78d1cac7d40f523091596c2189845b508007a5bf2e47827ae8b14ac7f10b4",
-          "export_sha256": "a9d78d1cac7d40f523091596c2189845b508007a5bf2e47827ae8b14ac7f10b4"
+          "git_blob": "cb95f80cb0cd495b3781745d6b30685d0aaa9849",
+          "source_sha256": "fc3036bb312d321d7005f6dfe8ea580153ef52fe5dfcccf8c8cca6329f11226b",
+          "export_sha256": "fc3036bb312d321d7005f6dfe8ea580153ef52fe5dfcccf8c8cca6329f11226b"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/scripts/asset_run.py",
-          "git_blob": "727870d784b59b6a4e9deea7bc3a2099cafe30d6",
           "mode": "100644",
+          "git_blob": "727870d784b59b6a4e9deea7bc3a2099cafe30d6",
           "source_sha256": "492b9e73d383b2a9340180e7fde65141403f39e7ed192bf758a84435ca28797f",
           "export_sha256": "492b9e73d383b2a9340180e7fde65141403f39e7ed192bf758a84435ca28797f"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/scripts/asset_xlsx.py",
-          "git_blob": "fda882127c04628c5aff5e9904482c2447c7e393",
           "mode": "100644",
+          "git_blob": "fda882127c04628c5aff5e9904482c2447c7e393",
           "source_sha256": "c278d6249bbad1f323be5929d349ed10d46716cd7128e0fea446e1cd4c4bd0ac",
           "export_sha256": "c278d6249bbad1f323be5929d349ed10d46716cd7128e0fea446e1cd4c4bd0ac"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/scripts/bootstrap.py",
-          "git_blob": "5d2283b468941472bad423667e2209862f8313ad",
           "mode": "100644",
+          "git_blob": "5d2283b468941472bad423667e2209862f8313ad",
           "source_sha256": "77c96b30af3e580a071979c3f774f17fd3c56564193393e060327654e3b25aa7",
           "export_sha256": "77c96b30af3e580a071979c3f774f17fd3c56564193393e060327654e3b25aa7"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/scripts/show_batch.py",
-          "git_blob": "723a75a3c4376ce1c1ae82df77778614257ed0e8",
           "mode": "100644",
+          "git_blob": "723a75a3c4376ce1c1ae82df77778614257ed0e8",
           "source_sha256": "debeba7a9333c188a60fc6160ab09bc611c30454c54c4758bf0ccec4c0078c15",
           "export_sha256": "debeba7a9333c188a60fc6160ab09bc611c30454c54c4758bf0ccec4c0078c15"
         },
         {
-          "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/extract-asset-table/SKILL.md",
-          "git_blob": "a39924ec0e34143585ed7ce189e90834188aff80",
+          "path": "level-2/asset-extraction/screenplay-asset-extractor/scripts/verify_delivery.py",
           "mode": "100644",
-          "source_sha256": "e94772e582b4dbd1dac4bb0781f22c23af7530148a533373d5281d25e56865cd",
-          "export_sha256": "e94772e582b4dbd1dac4bb0781f22c23af7530148a533373d5281d25e56865cd"
+          "git_blob": "7db77341545745da7c93b10e991823992ee7209d",
+          "source_sha256": "e91f395afb87e41c0130428434fcb7e58e12e4e0cd86894e995f77c4891b2fc3",
+          "export_sha256": "e91f395afb87e41c0130428434fcb7e58e12e4e0cd86894e995f77c4891b2fc3"
+        },
+        {
+          "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/extract-asset-table/SKILL.md",
+          "mode": "100644",
+          "git_blob": "ea30e3921fbd69fcda2031fc5b6ca4cb5306be2d",
+          "source_sha256": "9ce35115c7a6703bea1543d1620a45203428edacc64d077ef5a6ef5e39d3bd0e",
+          "export_sha256": "9ce35115c7a6703bea1543d1620a45203428edacc64d077ef5a6ef5e39d3bd0e"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/extract-asset-table/agents/openai.yaml",
-          "git_blob": "1367184a8c73777a2d849db72765426e134bc828",
           "mode": "100644",
+          "git_blob": "1367184a8c73777a2d849db72765426e134bc828",
           "source_sha256": "23a5e3933e6adfa2bced9b98731c25a01311096746477e12b675806888031a7e",
           "export_sha256": "23a5e3933e6adfa2bced9b98731c25a01311096746477e12b675806888031a7e"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/screenplay-asset-extractor/SKILL.md",
-          "git_blob": "af29c067b02ffaf94bdef4d312b5a367aed473f9",
           "mode": "100644",
-          "source_sha256": "1bc58ee87a9ab692deb8f01c503a9923f48979ebf6db00b6bbdfa90339bb62bf",
-          "export_sha256": "1bc58ee87a9ab692deb8f01c503a9923f48979ebf6db00b6bbdfa90339bb62bf"
+          "git_blob": "ffd86530499ea607389321b5fdb79c2e155d3936",
+          "source_sha256": "57c35a843319ec0097d9d189f5dffd5732f5c5c9d037b1e1d973843a9fb88afd",
+          "export_sha256": "57c35a843319ec0097d9d189f5dffd5732f5c5c9d037b1e1d973843a9fb88afd"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/screenplay-asset-extractor/agents/openai.yaml",
-          "git_blob": "8e3dc3d125d02d4b657fae416365f1606bcddab4",
           "mode": "100644",
+          "git_blob": "8e3dc3d125d02d4b657fae416365f1606bcddab4",
           "source_sha256": "df5747fa218059089b6fef486b89bef63786cb03dd75b2d405123e3357caaa76",
           "export_sha256": "df5747fa218059089b6fef486b89bef63786cb03dd75b2d405123e3357caaa76"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/script-asset-extractor/SKILL.md",
-          "git_blob": "574d94893ef1c8fb48d990e1108541e06a149aba",
           "mode": "100644",
-          "source_sha256": "e0650429863dae46546a05ca8a1d7652b43f7f308eccc1313def09fa62799d7c",
-          "export_sha256": "e0650429863dae46546a05ca8a1d7652b43f7f308eccc1313def09fa62799d7c"
+          "git_blob": "ec5029ba2de74ab574e2956f20b32434facc2798",
+          "source_sha256": "32c8ab21051bcc7e4fa68d050deffa82a059170cd96ce7910bf69b2e7a8b5ef7",
+          "export_sha256": "32c8ab21051bcc7e4fa68d050deffa82a059170cd96ce7910bf69b2e7a8b5ef7"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/script-asset-extractor/references/asset_schema.md",
-          "git_blob": "ac46e31e951e820de0f3777c3197dfc758d5a6ea",
           "mode": "100644",
-          "source_sha256": "30010e13b3ef4eaffebfbe05a22ed23b771e97bc228ad680ea58be8aa524a107",
-          "export_sha256": "30010e13b3ef4eaffebfbe05a22ed23b771e97bc228ad680ea58be8aa524a107"
+          "git_blob": "9b9587685780c7e42d35458eba8e71efbda8275f",
+          "source_sha256": "ecb4f34615ad69ce87aab40de4244466a903f44fe3070e980c1282a5a8267103",
+          "export_sha256": "ecb4f34615ad69ce87aab40de4244466a903f44fe3070e980c1282a5a8267103"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/script-asset-extractor/references/character_states.md",
-          "git_blob": "5cb59dc2588bfa31a7374f494fb294ce1f2d3dd4",
           "mode": "100644",
+          "git_blob": "5cb59dc2588bfa31a7374f494fb294ce1f2d3dd4",
           "source_sha256": "c5d6d67a42d3e7e8a75a6bc2fadb2c56ff19fe9a120064dce228f9fe7e1a8342",
           "export_sha256": "c5d6d67a42d3e7e8a75a6bc2fadb2c56ff19fe9a120064dce228f9fe7e1a8342"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/script-asset-extractor/references/excel_output.md",
-          "git_blob": "20252f5bba3a3542c77050cbedc42b9e602e187a",
           "mode": "100644",
+          "git_blob": "20252f5bba3a3542c77050cbedc42b9e602e187a",
           "source_sha256": "efcdd1c95d1d29c241787f78d0fb60ea4819605ac68ad9db7062b39acde42237",
           "export_sha256": "efcdd1c95d1d29c241787f78d0fb60ea4819605ac68ad9db7062b39acde42237"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/script-asset-extractor/references/prop_identity.md",
-          "git_blob": "648ba3f382b2bd9d8b2bdf10c170b02137544c7b",
           "mode": "100644",
+          "git_blob": "648ba3f382b2bd9d8b2bdf10c170b02137544c7b",
           "source_sha256": "b94e67adc69172bdb8381a480c02d7d78768bb8f8402f13873d666080d9a5c8f",
           "export_sha256": "b94e67adc69172bdb8381a480c02d7d78768bb8f8402f13873d666080d9a5c8f"
         },
         {
-          "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/script-asset-extractor/references/warning_approvals.md",
-          "git_blob": "4384226a78a2effb71f8bfac4ab21cc2b4008b6b",
+          "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/script-asset-extractor/references/semantic_review.md",
           "mode": "100644",
+          "git_blob": "382f8e94ded80e8405b110b79eaa30d58aecce52",
+          "source_sha256": "62eafa5fe05347da8dbeda91e64a79f1164fc61a84227b5c29273fa0bdbf0b10",
+          "export_sha256": "62eafa5fe05347da8dbeda91e64a79f1164fc61a84227b5c29273fa0bdbf0b10"
+        },
+        {
+          "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/script-asset-extractor/references/warning_approvals.md",
+          "mode": "100644",
+          "git_blob": "4384226a78a2effb71f8bfac4ab21cc2b4008b6b",
           "source_sha256": "55b5f05413702fb55ab31759a43313f8f6c2dbb059a9bc6a043c058bb2bca012",
           "export_sha256": "55b5f05413702fb55ab31759a43313f8f6c2dbb059a9bc6a043c058bb2bca012"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/script-asset-extractor/scripts/add_native_filters.py",
-          "git_blob": "06b886811235118e69c702d1ca382d598e6080e5",
           "mode": "100644",
+          "git_blob": "06b886811235118e69c702d1ca382d598e6080e5",
           "source_sha256": "21b2ff808fa89ca29b2812e764bda15a32eecefb4ac7038c19d4492083a4887f",
           "export_sha256": "21b2ff808fa89ca29b2812e764bda15a32eecefb4ac7038c19d4492083a4887f"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/script-asset-extractor/scripts/asset_validation.py",
-          "git_blob": "a3d0e30b20494754816c73616c3b5b0fffdd7764",
           "mode": "100644",
+          "git_blob": "a3d0e30b20494754816c73616c3b5b0fffdd7764",
           "source_sha256": "0b2c73a0995ca8f6cc13f79a5c507412e8dfa15879ceb0f272de571355692671",
           "export_sha256": "0b2c73a0995ca8f6cc13f79a5c507412e8dfa15879ceb0f272de571355692671"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/script-asset-extractor/scripts/build_xlsx.py",
-          "git_blob": "ab9dabf7fb7027ea251fb8a750160e7e6c87b146",
           "mode": "100644",
-          "source_sha256": "3dd77f0ca3317dce83a2548066b80ed8378021b6dc380f3857a2eccb76bf663a",
-          "export_sha256": "3dd77f0ca3317dce83a2548066b80ed8378021b6dc380f3857a2eccb76bf663a"
+          "git_blob": "e8c507ecf931efa8e81e2036f8977ef7c5a68737",
+          "source_sha256": "93b760e298b7cde4c5054d95829febf69e020201288391a44cdfe489c3ed37bb",
+          "export_sha256": "93b760e298b7cde4c5054d95829febf69e020201288391a44cdfe489c3ed37bb"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/script-asset-extractor/scripts/character_changes.py",
-          "git_blob": "d4d188c2fdddaa42f28ae7adb114e539ae16e07d",
           "mode": "100644",
+          "git_blob": "d4d188c2fdddaa42f28ae7adb114e539ae16e07d",
           "source_sha256": "7fa7965eadfcfaeefe9e5a5ab3733e528d7cf94572c1eb67e3020116447025b8",
           "export_sha256": "7fa7965eadfcfaeefe9e5a5ab3733e528d7cf94572c1eb67e3020116447025b8"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/script-asset-extractor/scripts/character_ledger.py",
-          "git_blob": "57ca8a2e0b1361125ace7286e8964fb923840a3b",
           "mode": "100644",
+          "git_blob": "57ca8a2e0b1361125ace7286e8964fb923840a3b",
           "source_sha256": "7811390b3d68fe48c1105569e04dd1b54a233adbfcdd99f3bb753403544d9bae",
           "export_sha256": "7811390b3d68fe48c1105569e04dd1b54a233adbfcdd99f3bb753403544d9bae"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/script-asset-extractor/scripts/check_workbook.py",
-          "git_blob": "df910885f451cab94cbaa8056c8a8ee8c8fb18b6",
           "mode": "100644",
+          "git_blob": "df910885f451cab94cbaa8056c8a8ee8c8fb18b6",
           "source_sha256": "eb2a96377b7c029551d76eaef03ea4338ca7d0eb4aba54218bafb244e49d9cdd",
           "export_sha256": "eb2a96377b7c029551d76eaef03ea4338ca7d0eb4aba54218bafb244e49d9cdd"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/script-asset-extractor/scripts/enrich_descriptions.py",
-          "git_blob": "b9e2a553e261c647f65270982f20a65425d0ff1d",
           "mode": "100644",
+          "git_blob": "b9e2a553e261c647f65270982f20a65425d0ff1d",
           "source_sha256": "6a842c8a96e2f27240a5a2003327a8ec8d775b3d36357a44484eb5a3f46942a9",
           "export_sha256": "6a842c8a96e2f27240a5a2003327a8ec8d775b3d36357a44484eb5a3f46942a9"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/script-asset-extractor/scripts/export_contract.py",
-          "git_blob": "e182765f6a8da445fdb9d10d03a77edd64544c59",
           "mode": "100644",
+          "git_blob": "e182765f6a8da445fdb9d10d03a77edd64544c59",
           "source_sha256": "0f5ac70c92adde47e353922ab49f4795a7c4b3fd42cb75773e8aee3ec7909306",
           "export_sha256": "0f5ac70c92adde47e353922ab49f4795a7c4b3fd42cb75773e8aee3ec7909306"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/script-asset-extractor/scripts/parse_script.py",
-          "git_blob": "19e0e35ad385c32c81e255dc1bece1026dd7435e",
           "mode": "100644",
+          "git_blob": "19e0e35ad385c32c81e255dc1bece1026dd7435e",
           "source_sha256": "25b2c33c91e7a45fa800e086d9eef185872b9552f8ea5f7589c2ccdbf7074daa",
           "export_sha256": "25b2c33c91e7a45fa800e086d9eef185872b9552f8ea5f7589c2ccdbf7074daa"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/script-asset-extractor/scripts/prop_identity.py",
-          "git_blob": "9b5c38979471e20651156fe4e6d4fce80fb33898",
           "mode": "100644",
+          "git_blob": "9b5c38979471e20651156fe4e6d4fce80fb33898",
           "source_sha256": "02eef96fc6107f8b534802e0b06a2134f93eca630ae30a2c30ee7e997e9901da",
           "export_sha256": "02eef96fc6107f8b534802e0b06a2134f93eca630ae30a2c30ee7e997e9901da"
         },
         {
-          "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/script-asset-extractor/scripts/show_character.py",
-          "git_blob": "cf6f561a1473caeac6ad7186724ab4b60ed92f34",
+          "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/script-asset-extractor/scripts/semantic_review.py",
           "mode": "100644",
+          "git_blob": "1714cc9f95a5b9e684e7eed054757482860d1a82",
+          "source_sha256": "4357d4d0136c596a86538139ca9aa9300913b092010d2fbfaec7f12c017220a4",
+          "export_sha256": "4357d4d0136c596a86538139ca9aa9300913b092010d2fbfaec7f12c017220a4"
+        },
+        {
+          "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/script-asset-extractor/scripts/show_character.py",
+          "mode": "100644",
+          "git_blob": "cf6f561a1473caeac6ad7186724ab4b60ed92f34",
           "source_sha256": "2c11b77a5dbd78a54268f205f2f1ec216985098f90c3d1186a2dffd4d9c73f93",
           "export_sha256": "2c11b77a5dbd78a54268f205f2f1ec216985098f90c3d1186a2dffd4d9c73f93"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/script-asset-extractor/scripts/show_episodes.py",
-          "git_blob": "e43b02f0594f40bec9901e115c49aa1b4475aef8",
           "mode": "100644",
+          "git_blob": "e43b02f0594f40bec9901e115c49aa1b4475aef8",
           "source_sha256": "d04af337ba54d076a7cb9000b8761c5a3ccf56fef74e7835a261c05b6ffa8981",
           "export_sha256": "d04af337ba54d076a7cb9000b8761c5a3ccf56fef74e7835a261c05b6ffa8981"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/script-asset-extractor/scripts/show_prop.py",
-          "git_blob": "8604dc294041632b9fc15604d28377e9be2a4d3f",
           "mode": "100644",
+          "git_blob": "8604dc294041632b9fc15604d28377e9be2a4d3f",
           "source_sha256": "b944831f67116611f0de22c7155ad948b9f3c7334ba51b9c28a40d5caccfb5db",
           "export_sha256": "b944831f67116611f0de22c7155ad948b9f3c7334ba51b9c28a40d5caccfb5db"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/script-asset-extractor/scripts/test_character_ledger.py",
-          "git_blob": "1dd3d4c39efa6f246b19525ba360ba22de69d5f8",
           "mode": "100644",
-          "source_sha256": "f297d6e7d67d227e331ee0a845b25949d9cfa247c1f90ef267abddb6aa918000",
-          "export_sha256": "f297d6e7d67d227e331ee0a845b25949d9cfa247c1f90ef267abddb6aa918000"
+          "git_blob": "f032af829faae359a9473b313b85c1dc9dd65180",
+          "source_sha256": "ea4a1f6aec6ca0e9410ee142fe01d1242bf5847fbe2d7294635d5b5c1b2c6d31",
+          "export_sha256": "ea4a1f6aec6ca0e9410ee142fe01d1242bf5847fbe2d7294635d5b5c1b2c6d31"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/script-asset-extractor/scripts/test_export_contract.py",
-          "git_blob": "fbbe9216ef43d0f8b88a4fabe5a759c4f5c71300",
           "mode": "100644",
+          "git_blob": "fbbe9216ef43d0f8b88a4fabe5a759c4f5c71300",
           "source_sha256": "47dba4083ffd895904684488a777e2f827b3982cc04c212a42070e867a600693",
           "export_sha256": "47dba4083ffd895904684488a777e2f827b3982cc04c212a42070e867a600693"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/script-asset-extractor/scripts/test_prop_identity.py",
-          "git_blob": "dc5cdb1438208ad8bbca51dc08baff1316cc6fa5",
           "mode": "100644",
-          "source_sha256": "30344fa248ff77dd9aeaae0f0dc940a23cbc44ce6eea5b55b539e309f005b690",
-          "export_sha256": "30344fa248ff77dd9aeaae0f0dc940a23cbc44ce6eea5b55b539e309f005b690"
+          "git_blob": "85f824206fbfa8f9aaa7d8db35e7d83c22e33b1e",
+          "source_sha256": "f11360c195864a693ff537d95b09e7169386d28c048fd1c03b1a04b55aa1e963",
+          "export_sha256": "f11360c195864a693ff537d95b09e7169386d28c048fd1c03b1a04b55aa1e963"
+        },
+        {
+          "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/script-asset-extractor/scripts/test_semantic_review.py",
+          "mode": "100644",
+          "git_blob": "04a130e34b6ab4ad09a60f5a88a8e55ada423dbb",
+          "source_sha256": "7598305e9d3cd085354572aabde1cd575302e96a0d608a52e22b9af22d6c95b0",
+          "export_sha256": "7598305e9d3cd085354572aabde1cd575302e96a0d608a52e22b9af22d6c95b0"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/skills/script-asset-extractor/scripts/warning_approvals.py",
-          "git_blob": "d24b81e08e5d857db51381464589710a8bee7c71",
           "mode": "100644",
+          "git_blob": "d24b81e08e5d857db51381464589710a8bee7c71",
           "source_sha256": "72b57afbe117317f251ff7aca38787d49ce3e0c9db14d56ea6ff16b5650ac984",
           "export_sha256": "72b57afbe117317f251ff7aca38787d49ce3e0c9db14d56ea6ff16b5650ac984"
         },
         {
           "path": "level-2/asset-extraction/screenplay-asset-extractor/sources.lock.json",
-          "git_blob": "a2603c7280578955f16a2660c08b72fd2549463c",
           "mode": "100644",
+          "git_blob": "a2603c7280578955f16a2660c08b72fd2549463c",
           "source_sha256": "93949396c30a4b409bafaaab750e76ac01f199338678a0da467862a4f7cc839b",
           "export_sha256": "93949396c30a4b409bafaaab750e76ac01f199338678a0da467862a4f7cc839b"
         },
         {
           "path": "level-2/scene-log-extraction/README.md",
-          "git_blob": "a0255180251a82c376f6a7ac3ff5fa9875bfedd4",
           "mode": "100644",
+          "git_blob": "a0255180251a82c376f6a7ac3ff5fa9875bfedd4",
           "source_sha256": "1f45aaac58bc7488dc0fed17389850246a3af7345a555372e15d7b45b1ae68db",
           "export_sha256": "1f45aaac58bc7488dc0fed17389850246a3af7345a555372e15d7b45b1ae68db"
         },
         {
           "path": "level-2/scene-log-extraction/action-performance-director/SKILL.md",
-          "git_blob": "d331d21902a80bba2258b822a26556e711d8aa35",
           "mode": "100644",
+          "git_blob": "d331d21902a80bba2258b822a26556e711d8aa35",
           "source_sha256": "7fbf363db7244706a050c46c24586a943d6064133e44cf46c9a7e3c13d0875c9",
           "export_sha256": "7fbf363db7244706a050c46c24586a943d6064133e44cf46c9a7e3c13d0875c9"
         },
         {
           "path": "level-2/scene-log-extraction/action-performance-director/references/knowledge.md",
-          "git_blob": "31bdf91ae2e21596a2c8f4047c0fbc2890ef2b18",
           "mode": "100644",
+          "git_blob": "31bdf91ae2e21596a2c8f4047c0fbc2890ef2b18",
           "source_sha256": "a19ed82a9f731fee52524279199643fdc4e2eac0320e04d7a33d9f1e4d8aff59",
           "export_sha256": "a19ed82a9f731fee52524279199643fdc4e2eac0320e04d7a33d9f1e4d8aff59"
         },
         {
           "path": "level-2/scene-log-extraction/ai-continuity-sheet/SKILL.md",
-          "git_blob": "b57d303ae18ddf8e35ec545ae5c0a504656c1090",
           "mode": "100644",
+          "git_blob": "b57d303ae18ddf8e35ec545ae5c0a504656c1090",
           "source_sha256": "0d427f813efecd1b731be5a9236bb5560f751016746388cb0d12e96f00eef6e5",
           "export_sha256": "0d427f813efecd1b731be5a9236bb5560f751016746388cb0d12e96f00eef6e5"
         },
         {
           "path": "level-2/scene-log-extraction/ai-continuity-sheet/scripts/assemble_node.py",
-          "git_blob": "560f54bf15518b32019e447d32320a60178686f1",
           "mode": "100644",
+          "git_blob": "560f54bf15518b32019e447d32320a60178686f1",
           "source_sha256": "a0930ad1bce45a0bd94427dc3e9b9c08909f22bb7dc634611a07a0c74a6c0704",
           "export_sha256": "a0930ad1bce45a0bd94427dc3e9b9c08909f22bb7dc634611a07a0c74a6c0704"
         },
         {
           "path": "level-2/scene-log-extraction/ai-continuity-sheet/scripts/convert_continuity_sheet.py",
-          "git_blob": "d871bacca0c91a31dbd9890986d632ee5e6750e1",
           "mode": "100644",
+          "git_blob": "d871bacca0c91a31dbd9890986d632ee5e6750e1",
           "source_sha256": "cb17e45bddd697f2e245fdca53606d2619e56ae49a5e69605a292dd0abd59777",
           "export_sha256": "cb17e45bddd697f2e245fdca53606d2619e56ae49a5e69605a292dd0abd59777"
         },
         {
           "path": "level-2/scene-log-extraction/ai-continuity-sheet/scripts/extract_capability.py",
-          "git_blob": "9b2fb38319432e85eff676d0c440a42ea509f304",
           "mode": "100644",
+          "git_blob": "9b2fb38319432e85eff676d0c440a42ea509f304",
           "source_sha256": "827829dd0e630b949bb30e76bbbc80d396d20ae0d7bd988d442d79305f3c16fd",
           "export_sha256": "827829dd0e630b949bb30e76bbbc80d396d20ae0d7bd988d442d79305f3c16fd"
         },
         {
           "path": "level-2/scene-log-extraction/ai-continuity-sheet/scripts/finalize_node.py",
-          "git_blob": "ed87f55c6c1dd18df22b2c3aca530190959ed29c",
           "mode": "100644",
+          "git_blob": "ed87f55c6c1dd18df22b2c3aca530190959ed29c",
           "source_sha256": "75ed9232ce06e20805cb91a27b5046d8d1ad962a2e693d86966a9dd6c56aad64",
           "export_sha256": "75ed9232ce06e20805cb91a27b5046d8d1ad962a2e693d86966a9dd6c56aad64"
         },
         {
           "path": "level-2/scene-log-extraction/ai-continuity-sheet/scripts/run_scene_log.py",
-          "git_blob": "6327198c6b3423b3a0702369e874efa8189f516d",
           "mode": "100644",
+          "git_blob": "6327198c6b3423b3a0702369e874efa8189f516d",
           "source_sha256": "e2c221bf20e0ccb77b19866aeca936009c5995130d9d9c578cf9ae8566916e6d",
           "export_sha256": "e2c221bf20e0ccb77b19866aeca936009c5995130d9d9c578cf9ae8566916e6d"
         },
         {
           "path": "level-2/scene-log-extraction/ai-continuity-sheet/scripts/scene_log_core.py",
-          "git_blob": "d90db2b04921a859c85d773900787f94da5accb6",
           "mode": "100644",
+          "git_blob": "d90db2b04921a859c85d773900787f94da5accb6",
           "source_sha256": "5a6346a938cd8bc9d64913381ec08871d74c13d33e8e4eba521d39a343d717db",
           "export_sha256": "5a6346a938cd8bc9d64913381ec08871d74c13d33e8e4eba521d39a343d717db"
         },
         {
           "path": "level-2/scene-log-extraction/cinematography-advisor/SKILL.md",
-          "git_blob": "6d7996011e27af97569b9ef147867ea741ade3aa",
           "mode": "100644",
+          "git_blob": "6d7996011e27af97569b9ef147867ea741ade3aa",
           "source_sha256": "022fa9aa753b4d0eae47292f4f92f98d55aae4e16b7fecf7ce3f7de03f0ff275",
           "export_sha256": "022fa9aa753b4d0eae47292f4f92f98d55aae4e16b7fecf7ce3f7de03f0ff275"
         },
         {
           "path": "level-2/scene-log-extraction/cinematography-advisor/references/knowledge.md",
-          "git_blob": "4393c18e7cd94ce1e5e28df46307592902a95db6",
           "mode": "100644",
+          "git_blob": "4393c18e7cd94ce1e5e28df46307592902a95db6",
           "source_sha256": "0870ab5e2ca736adb26dd41c781da7e97a953d984919866b6f2e08db64214628",
           "export_sha256": "0870ab5e2ca736adb26dd41c781da7e97a953d984919866b6f2e08db64214628"
         },
         {
           "path": "level-2/scene-log-extraction/creator-src/PLUGIN-README.md",
-          "git_blob": "ccd7f915370c679637d6c672c7b11c45129b5eeb",
           "mode": "100644",
+          "git_blob": "ccd7f915370c679637d6c672c7b11c45129b5eeb",
           "source_sha256": "5a4e0e5fdd9c0a1c8b7331f48976206f0826c381d45f25cb60a43323e3852fbf",
           "export_sha256": "5a4e0e5fdd9c0a1c8b7331f48976206f0826c381d45f25cb60a43323e3852fbf"
         },
         {
           "path": "level-2/scene-log-extraction/creator-src/VALIDATION.md",
-          "git_blob": "a99d8ef8bddb604811b441facb25d970393ba10a",
           "mode": "100644",
+          "git_blob": "a99d8ef8bddb604811b441facb25d970393ba10a",
           "source_sha256": "1f2a27fadfbd10513dbb3e9ca2bc333f7569134ba2a598c15ea364dcf450349f",
           "export_sha256": "1f2a27fadfbd10513dbb3e9ca2bc333f7569134ba2a598c15ea364dcf450349f"
         },
         {
           "path": "level-2/scene-log-extraction/creator-src/blueprint.json",
-          "git_blob": "2a033cf07c51cb7e59d7b30535ab2725031d5321",
           "mode": "100644",
+          "git_blob": "2a033cf07c51cb7e59d7b30535ab2725031d5321",
           "source_sha256": "b3c2a27d90b7f9004689f4683ac52347290619a3941192b5b59c78264cb1e3dd",
           "export_sha256": "b3c2a27d90b7f9004689f4683ac52347290619a3941192b5b59c78264cb1e3dd"
         },
         {
           "path": "level-2/scene-log-extraction/creator-src/build_blueprint.py",
-          "git_blob": "0e2d00bf5f60aaa445e343d6464727d9729f6c89",
           "mode": "100644",
+          "git_blob": "0e2d00bf5f60aaa445e343d6464727d9729f6c89",
           "source_sha256": "96b8fa003bc060517c99135a5d9680e1f8f0891913d42e3dabc3493c2782f09a",
           "export_sha256": "96b8fa003bc060517c99135a5d9680e1f8f0891913d42e3dabc3493c2782f09a"
         },
         {
           "path": "level-2/scene-log-extraction/creator-src/make_plugin_patch.py",
-          "git_blob": "e28c8bbdb2577985335dd9fbb0bfbf5e2bb59f57",
           "mode": "100644",
+          "git_blob": "e28c8bbdb2577985335dd9fbb0bfbf5e2bb59f57",
           "source_sha256": "312517928d37f6c5d2cbb06d84192aa90b57de72bbb6884d0209b33efbb3366e",
           "export_sha256": "312517928d37f6c5d2cbb06d84192aa90b57de72bbb6884d0209b33efbb3366e"
         },
         {
           "path": "level-2/scene-log-extraction/creator-src/publish_local_plugin.py",
-          "git_blob": "5c4c6f06dd8c0e41f58746e32aad5295108c6100",
           "mode": "100644",
+          "git_blob": "5c4c6f06dd8c0e41f58746e32aad5295108c6100",
           "source_sha256": "78940ded9338915641668e2aad29a8b4c315558335aef2967550d0ddeab207bc",
           "export_sha256": "78940ded9338915641668e2aad29a8b4c315558335aef2967550d0ddeab207bc"
         },
         {
           "path": "level-2/scene-log-extraction/creator-src/samples/continuity-case.json",
-          "git_blob": "3b8075665ced243d59a5cc06353fa695d4757c57",
           "mode": "100644",
+          "git_blob": "3b8075665ced243d59a5cc06353fa695d4757c57",
           "source_sha256": "b6a0980624a7275a6b5c0af47fe390da4e47f115a886b1523aa92fddcd4afe66",
           "export_sha256": "b6a0980624a7275a6b5c0af47fe390da4e47f115a886b1523aa92fddcd4afe66"
         },
         {
           "path": "level-2/scene-log-extraction/creator-src/tests/test_scene_log_core.py",
-          "git_blob": "e499af058eec492a298af2eea090afff74bbd6c4",
           "mode": "100644",
+          "git_blob": "e499af058eec492a298af2eea090afff74bbd6c4",
           "source_sha256": "89fec04aafdefecd3194cf7a64ae6b0ec6b77065b0fa321d27acbeefebf0513c",
           "export_sha256": "89fec04aafdefecd3194cf7a64ae6b0ec6b77065b0fa321d27acbeefebf0513c"
         },
         {
           "path": "level-2/scene-log-extraction/creator-src/verify_artifacts.py",
-          "git_blob": "856beb9a7a6e570bd301bc2a3e3b37c4f7ee799a",
           "mode": "100644",
+          "git_blob": "856beb9a7a6e570bd301bc2a3e3b37c4f7ee799a",
           "source_sha256": "a6260d3e728ac511e6213c4f4bebb1d6974893e5977a4914a8ccd3890a7bbe94",
           "export_sha256": "a6260d3e728ac511e6213c4f4bebb1d6974893e5977a4914a8ccd3890a7bbe94"
         },
         {
           "path": "level-2/scene-log-extraction/dialogue-formatter/SKILL.md",
-          "git_blob": "30fd65fc59fa50faee034e560bdd0525b2154147",
           "mode": "100644",
+          "git_blob": "30fd65fc59fa50faee034e560bdd0525b2154147",
           "source_sha256": "7a80e0d929757f7d235094aff7aca5bbf31914f5b915519d36c9b33125ef6f0b",
           "export_sha256": "7a80e0d929757f7d235094aff7aca5bbf31914f5b915519d36c9b33125ef6f0b"
         },
         {
           "path": "level-2/scene-log-extraction/dialogue-formatter/references/knowledge.md",
-          "git_blob": "4d270daa6b3ae5cf451e321b6f083d5fe5aca19f",
           "mode": "100644",
+          "git_blob": "4d270daa6b3ae5cf451e321b6f083d5fe5aca19f",
           "source_sha256": "25e9a60e1068a895595e05a0fc2e49e11abd861003fbd78fadc7da4097d6e590",
           "export_sha256": "25e9a60e1068a895595e05a0fc2e49e11abd861003fbd78fadc7da4097d6e590"
         },
         {
           "path": "level-2/scene-log-extraction/lighting-colorist/SKILL.md",
-          "git_blob": "1616d50c9e8c3b4024a6097277df1ede9f1fe909",
           "mode": "100644",
+          "git_blob": "1616d50c9e8c3b4024a6097277df1ede9f1fe909",
           "source_sha256": "2cefff91bf9927d057139a6fa4b4cff634df03ede0c6ae1e714f104dff54c6ed",
           "export_sha256": "2cefff91bf9927d057139a6fa4b4cff634df03ede0c6ae1e714f104dff54c6ed"
         },
         {
           "path": "level-2/scene-log-extraction/lighting-colorist/references/knowledge.md",
-          "git_blob": "1cb28de8be6469ae107e4b4a68d36814bf5fdc41",
           "mode": "100644",
+          "git_blob": "1cb28de8be6469ae107e4b4a68d36814bf5fdc41",
           "source_sha256": "403dc035c2deafd82fe0f8c2394c594338b68491528566884302993ea2a2d3a1",
           "export_sha256": "403dc035c2deafd82fe0f8c2394c594338b68491528566884302993ea2a2d3a1"
         },
         {
           "path": "level-2/scene-log-extraction/micro-expression-director/SKILL.md",
-          "git_blob": "9dc3624f2b127c4295c063d843057e1745907067",
           "mode": "100644",
+          "git_blob": "9dc3624f2b127c4295c063d843057e1745907067",
           "source_sha256": "acfd3d248517ad3c2fa8b6e2e199076063ed37c233a422273e13ad1eb9e8044e",
           "export_sha256": "acfd3d248517ad3c2fa8b6e2e199076063ed37c233a422273e13ad1eb9e8044e"
         },
         {
           "path": "level-2/scene-log-extraction/micro-expression-director/references/knowledge.md",
-          "git_blob": "65d2859ea6c14ae3cacbb68b2b6c19bdd1b4a2e4",
           "mode": "100644",
+          "git_blob": "65d2859ea6c14ae3cacbb68b2b6c19bdd1b4a2e4",
           "source_sha256": "b1e3e64a72caf6cffa8c1954fd93f7ffb6d36c912013001c58e496dc482d8fba",
           "export_sha256": "b1e3e64a72caf6cffa8c1954fd93f7ffb6d36c912013001c58e496dc482d8fba"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/.codex-plugin/plugin.json",
-          "git_blob": "3228a2cb367dda7c472b1566b07f12fe2f08f0c4",
           "mode": "100644",
+          "git_blob": "3228a2cb367dda7c472b1566b07f12fe2f08f0c4",
           "source_sha256": "826cf156872b9bd8388b3b604c5c237c8b9e1e2ab5cec5d6f0fc67c637c8c38b",
           "export_sha256": "826cf156872b9bd8388b3b604c5c237c8b9e1e2ab5cec5d6f0fc67c637c8c38b"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/README.md",
-          "git_blob": "ccd7f915370c679637d6c672c7b11c45129b5eeb",
           "mode": "100644",
+          "git_blob": "ccd7f915370c679637d6c672c7b11c45129b5eeb",
           "source_sha256": "5a4e0e5fdd9c0a1c8b7331f48976206f0826c381d45f25cb60a43323e3852fbf",
           "export_sha256": "5a4e0e5fdd9c0a1c8b7331f48976206f0826c381d45f25cb60a43323e3852fbf"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/RUNTIME.md",
-          "git_blob": "08f872f08d9a0b32b6e56dd827ef921a140d71b8",
           "mode": "100644",
+          "git_blob": "08f872f08d9a0b32b6e56dd827ef921a140d71b8",
           "source_sha256": "c4f7c577c1a2f86b147c650bc2548f7886c93ee9008adc16aff1afd778076141",
           "export_sha256": "c4f7c577c1a2f86b147c650bc2548f7886c93ee9008adc16aff1afd778076141"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/THIRD_PARTY_NOTICES.md",
-          "git_blob": "51598985e1558e9f17a0a216f80d8ec619d60149",
           "mode": "100644",
+          "git_blob": "51598985e1558e9f17a0a216f80d8ec619d60149",
           "source_sha256": "0a2a0b7e0fcc8e0233521d0ff5584e6ae377edc79967dca82a8580ad92caf6da",
           "export_sha256": "0a2a0b7e0fcc8e0233521d0ff5584e6ae377edc79967dca82a8580ad92caf6da"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/capabilities.json",
-          "git_blob": "cbdabf0b8ec61050f9ec2f3a6e72f16827a0f2a8",
           "mode": "100644",
+          "git_blob": "cbdabf0b8ec61050f9ec2f3a6e72f16827a0f2a8",
           "source_sha256": "cc3112f401db68476ed144775b712eb085736752022c067fca4a91116d1b8295",
           "export_sha256": "cc3112f401db68476ed144775b712eb085736752022c067fca4a91116d1b8295"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/generation-lock.json",
-          "git_blob": "254ccde34d2408ca6651a4b638ead2cf783da4a7",
           "mode": "100644",
+          "git_blob": "254ccde34d2408ca6651a4b638ead2cf783da4a7",
           "source_sha256": "ddc1627b99ece31ec61612641e06f92c54f9b614f54fb25cd272790b328db81b",
           "export_sha256": "ddc1627b99ece31ec61612641e06f92c54f9b614f54fb25cd272790b328db81b"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/harness-blueprint.json",
-          "git_blob": "2a033cf07c51cb7e59d7b30535ab2725031d5321",
           "mode": "100644",
+          "git_blob": "2a033cf07c51cb7e59d7b30535ab2725031d5321",
           "source_sha256": "b3c2a27d90b7f9004689f4683ac52347290619a3941192b5b59c78264cb1e3dd",
           "export_sha256": "b3c2a27d90b7f9004689f4683ac52347290619a3941192b5b59c78264cb1e3dd"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/harness.py",
-          "git_blob": "864b4a358a353488d0a5becd457dd4ce484f4765",
           "mode": "100644",
+          "git_blob": "864b4a358a353488d0a5becd457dd4ce484f4765",
           "source_sha256": "3253fbad2671700513c29b5f81f1ef80db72cb6a69972e3891fa451225dc7443",
           "export_sha256": "3253fbad2671700513c29b5f81f1ef80db72cb6a69972e3891fa451225dc7443"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/licenses/Bird-s-Nest-MIT.txt",
-          "git_blob": "2ec5c38ef5f96882fd108e4e145beef9928c7ef8",
           "mode": "100644",
+          "git_blob": "2ec5c38ef5f96882fd108e4e145beef9928c7ef8",
           "source_sha256": "86c078753dbb275673a301fec0f1db5ade583db1f85ecc86042f04c6aeb5774c",
           "export_sha256": "86c078753dbb275673a301fec0f1db5ade583db1f85ecc86042f04c6aeb5774c"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/licenses/skill-creator-Apache-2.0.txt",
-          "git_blob": "d645695673349e3947e8e5ae42332d0ac3164cd7",
           "mode": "100644",
+          "git_blob": "d645695673349e3947e8e5ae42332d0ac3164cd7",
           "source_sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
           "export_sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/plugin.json",
-          "git_blob": "2b2dee5bd6b1236ca7092d943a169ea4273d0a25",
           "mode": "100644",
+          "git_blob": "2b2dee5bd6b1236ca7092d943a169ea4273d0a25",
           "source_sha256": "92b0b054101519243687e5bff2d428ce68349774e664b53e176171352511cfe8",
           "export_sha256": "92b0b054101519243687e5bff2d428ce68349774e664b53e176171352511cfe8"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/references/source-adaptation.md",
-          "git_blob": "46c3273c19ae8de26878b0a894dbca62e8f1c254",
           "mode": "100644",
+          "git_blob": "46c3273c19ae8de26878b0a894dbca62e8f1c254",
           "source_sha256": "0584a1203084871b8791e5a63445152de5ca323260202c63bccc04f1126ba472",
           "export_sha256": "0584a1203084871b8791e5a63445152de5ca323260202c63bccc04f1126ba472"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/requirements.lock",
-          "git_blob": "d09b4e0ce11a7d276887271ff5897ede78fbf8a4",
           "mode": "100644",
+          "git_blob": "d09b4e0ce11a7d276887271ff5897ede78fbf8a4",
           "source_sha256": "d7d19909441e4dbb805555dee73a6f54c4f7c038ec12e7dd5a1ce7f38b403e6f",
           "export_sha256": "d7d19909441e4dbb805555dee73a6f54c4f7c038ec12e7dd5a1ce7f38b403e6f"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/runtime/harness_core/__init__.py",
-          "git_blob": "f8fde14063d6ef834081c0222f7b98ea6e71fd53",
           "mode": "100644",
+          "git_blob": "f8fde14063d6ef834081c0222f7b98ea6e71fd53",
           "source_sha256": "9b43e8c928590df8aa77d36e4a4de326be169abc3905c87dfbd0a46e5305f989",
           "export_sha256": "9b43e8c928590df8aa77d36e4a4de326be169abc3905c87dfbd0a46e5305f989"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/runtime/harness_core/appserver.py",
-          "git_blob": "66cefba2b246b63d8e62e0c15869a7a8bbb2cbef",
           "mode": "100644",
+          "git_blob": "66cefba2b246b63d8e62e0c15869a7a8bbb2cbef",
           "source_sha256": "a9c0a5d5d8b5ffc3fd5b32eda06701aeb196d3a2eeb29e5a221aa54609f6c265",
           "export_sha256": "a9c0a5d5d8b5ffc3fd5b32eda06701aeb196d3a2eeb29e5a221aa54609f6c265"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/runtime/harness_core/cli.py",
-          "git_blob": "050f48f72276bc52237ed5f58464532f35cc445c",
           "mode": "100644",
+          "git_blob": "050f48f72276bc52237ed5f58464532f35cc445c",
           "source_sha256": "9e37a37d6b1350ebb97f26413f28444676f725c4b36e01409802554fa17a59c5",
           "export_sha256": "9e37a37d6b1350ebb97f26413f28444676f725c4b36e01409802554fa17a59c5"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/runtime/harness_core/common.py",
-          "git_blob": "aea41ae9aa7b6f0ea5addd2b4a0ef6a2a463d795",
           "mode": "100644",
+          "git_blob": "aea41ae9aa7b6f0ea5addd2b4a0ef6a2a463d795",
           "source_sha256": "d9e557c74636fa7a700ecc35e48deb885da10249134952394f457e6796781791",
           "export_sha256": "d9e557c74636fa7a700ecc35e48deb885da10249134952394f457e6796781791"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/runtime/harness_core/contracts.py",
-          "git_blob": "a6376a0345af6ed03cba3c7bd1d0f1b2d5115f6f",
           "mode": "100644",
+          "git_blob": "a6376a0345af6ed03cba3c7bd1d0f1b2d5115f6f",
           "source_sha256": "4d776a4645401b24968768edc8deb6f0bbd3ca401d3f025831bdae3aa0bef6cf",
           "export_sha256": "4d776a4645401b24968768edc8deb6f0bbd3ca401d3f025831bdae3aa0bef6cf"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/runtime/harness_core/engine.py",
-          "git_blob": "7d8a29fb72d2c25932f47234a3f530bf512e15d0",
           "mode": "100644",
+          "git_blob": "7d8a29fb72d2c25932f47234a3f530bf512e15d0",
           "source_sha256": "5a7ea735c58fe36f62b573dc8e60f038cc9df16a8a9618a5d782da5ac763dc9d",
           "export_sha256": "5a7ea735c58fe36f62b573dc8e60f038cc9df16a8a9618a5d782da5ac763dc9d"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/runtime/harness_core/knowledge.py",
-          "git_blob": "1e3af9ef3199964e7ef36cdeddd9d380f9b290b1",
           "mode": "100644",
+          "git_blob": "1e3af9ef3199964e7ef36cdeddd9d380f9b290b1",
           "source_sha256": "6edaaca18c230b1a9cd7d050f8268e22d210fc555d8c0c56cbd961a093728fc6",
           "export_sha256": "6edaaca18c230b1a9cd7d050f8268e22d210fc555d8c0c56cbd961a093728fc6"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/runtime/harness_core/packages.py",
-          "git_blob": "0ec1a905dd82b314877d70d75567e8aa3438312f",
           "mode": "100644",
+          "git_blob": "0ec1a905dd82b314877d70d75567e8aa3438312f",
           "source_sha256": "8ce4c657d864e53296ee3c5e5f8aa488fb59c22acd48dcfc7b34d22935f3abb7",
           "export_sha256": "8ce4c657d864e53296ee3c5e5f8aa488fb59c22acd48dcfc7b34d22935f3abb7"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/runtime/harness_core/sources.py",
-          "git_blob": "b2cdf19d17dd7f5b4504aa0999e75cd47a779106",
           "mode": "100644",
+          "git_blob": "b2cdf19d17dd7f5b4504aa0999e75cd47a779106",
           "source_sha256": "b1348cd3c739faf238d213518323581394df6c2ccd33467390dd5bc8bb7146f4",
           "export_sha256": "b1348cd3c739faf238d213518323581394df6c2ccd33467390dd5bc8bb7146f4"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/runtime/harness_core/store.py",
-          "git_blob": "d9c5c5c54b65450e2c0d2869aa58caf267186bed",
           "mode": "100644",
+          "git_blob": "d9c5c5c54b65450e2c0d2869aa58caf267186bed",
           "source_sha256": "4cb5292f03bd8fb8f7bd22c1f5c266ac263884f336588ca30d32ce409a5b0dfd",
           "export_sha256": "4cb5292f03bd8fb8f7bd22c1f5c266ac263884f336588ca30d32ce409a5b0dfd"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/schemas/blueprint.schema.json",
-          "git_blob": "5139a9b72ffc0ff15b492f3ea26dd53908941d20",
           "mode": "100644",
+          "git_blob": "5139a9b72ffc0ff15b492f3ea26dd53908941d20",
           "source_sha256": "ee059c65cea096464ea2d84fbaa51c51a020537e72ccae8d9ff496293513cfc1",
           "export_sha256": "ee059c65cea096464ea2d84fbaa51c51a020537e72ccae8d9ff496293513cfc1"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/scripts/assemble_node.py",
-          "git_blob": "560f54bf15518b32019e447d32320a60178686f1",
           "mode": "100644",
+          "git_blob": "560f54bf15518b32019e447d32320a60178686f1",
           "source_sha256": "a0930ad1bce45a0bd94427dc3e9b9c08909f22bb7dc634611a07a0c74a6c0704",
           "export_sha256": "a0930ad1bce45a0bd94427dc3e9b9c08909f22bb7dc634611a07a0c74a6c0704"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/scripts/bootstrap.py",
-          "git_blob": "5d2283b468941472bad423667e2209862f8313ad",
           "mode": "100644",
+          "git_blob": "5d2283b468941472bad423667e2209862f8313ad",
           "source_sha256": "77c96b30af3e580a071979c3f774f17fd3c56564193393e060327654e3b25aa7",
           "export_sha256": "77c96b30af3e580a071979c3f774f17fd3c56564193393e060327654e3b25aa7"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/scripts/convert_continuity_sheet.py",
-          "git_blob": "d871bacca0c91a31dbd9890986d632ee5e6750e1",
           "mode": "100644",
+          "git_blob": "d871bacca0c91a31dbd9890986d632ee5e6750e1",
           "source_sha256": "cb17e45bddd697f2e245fdca53606d2619e56ae49a5e69605a292dd0abd59777",
           "export_sha256": "cb17e45bddd697f2e245fdca53606d2619e56ae49a5e69605a292dd0abd59777"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/scripts/extract_capability.py",
-          "git_blob": "9b2fb38319432e85eff676d0c440a42ea509f304",
           "mode": "100644",
+          "git_blob": "9b2fb38319432e85eff676d0c440a42ea509f304",
           "source_sha256": "827829dd0e630b949bb30e76bbbc80d396d20ae0d7bd988d442d79305f3c16fd",
           "export_sha256": "827829dd0e630b949bb30e76bbbc80d396d20ae0d7bd988d442d79305f3c16fd"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/scripts/finalize_node.py",
-          "git_blob": "ed87f55c6c1dd18df22b2c3aca530190959ed29c",
           "mode": "100644",
+          "git_blob": "ed87f55c6c1dd18df22b2c3aca530190959ed29c",
           "source_sha256": "75ed9232ce06e20805cb91a27b5046d8d1ad962a2e693d86966a9dd6c56aad64",
           "export_sha256": "75ed9232ce06e20805cb91a27b5046d8d1ad962a2e693d86966a9dd6c56aad64"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/scripts/run_scene_log.py",
-          "git_blob": "6327198c6b3423b3a0702369e874efa8189f516d",
           "mode": "100644",
+          "git_blob": "6327198c6b3423b3a0702369e874efa8189f516d",
           "source_sha256": "e2c221bf20e0ccb77b19866aeca936009c5995130d9d9c578cf9ae8566916e6d",
           "export_sha256": "e2c221bf20e0ccb77b19866aeca936009c5995130d9d9c578cf9ae8566916e6d"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/scripts/scene_log_core.py",
-          "git_blob": "d90db2b04921a859c85d773900787f94da5accb6",
           "mode": "100644",
+          "git_blob": "d90db2b04921a859c85d773900787f94da5accb6",
           "source_sha256": "5a6346a938cd8bc9d64913381ec08871d74c13d33e8e4eba521d39a343d717db",
           "export_sha256": "5a6346a938cd8bc9d64913381ec08871d74c13d33e8e4eba521d39a343d717db"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/skills/action-performance-director/SKILL.md",
-          "git_blob": "d331d21902a80bba2258b822a26556e711d8aa35",
           "mode": "100644",
+          "git_blob": "d331d21902a80bba2258b822a26556e711d8aa35",
           "source_sha256": "7fbf363db7244706a050c46c24586a943d6064133e44cf46c9a7e3c13d0875c9",
           "export_sha256": "7fbf363db7244706a050c46c24586a943d6064133e44cf46c9a7e3c13d0875c9"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/skills/action-performance-director/references/knowledge.md",
-          "git_blob": "31bdf91ae2e21596a2c8f4047c0fbc2890ef2b18",
           "mode": "100644",
+          "git_blob": "31bdf91ae2e21596a2c8f4047c0fbc2890ef2b18",
           "source_sha256": "a19ed82a9f731fee52524279199643fdc4e2eac0320e04d7a33d9f1e4d8aff59",
           "export_sha256": "a19ed82a9f731fee52524279199643fdc4e2eac0320e04d7a33d9f1e4d8aff59"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/skills/ai-continuity-sheet/SKILL.md",
-          "git_blob": "d76dabec7d687672b389ad4fed14c5181f20beea",
           "mode": "100644",
+          "git_blob": "d76dabec7d687672b389ad4fed14c5181f20beea",
           "source_sha256": "8ae1babc1d9bd057cef46184e68348c7af0ba92c917c9b5f336114cda9d68ff7",
           "export_sha256": "8ae1babc1d9bd057cef46184e68348c7af0ba92c917c9b5f336114cda9d68ff7"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/skills/ai-continuity-sheet/agents/openai.yaml",
-          "git_blob": "545c5e050a2725b12e12ce22a8a61e6dd528d2ef",
           "mode": "100644",
+          "git_blob": "545c5e050a2725b12e12ce22a8a61e6dd528d2ef",
           "source_sha256": "a88c358d92f929f9ffb017bb57d463ff6364a4e2bbbf2ff46769d6e6df3354d9",
           "export_sha256": "a88c358d92f929f9ffb017bb57d463ff6364a4e2bbbf2ff46769d6e6df3354d9"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/skills/assemble-scene-log/SKILL.md",
-          "git_blob": "e3fcdfec58b4dc633fca653621c57328de7c3714",
           "mode": "100644",
+          "git_blob": "e3fcdfec58b4dc633fca653621c57328de7c3714",
           "source_sha256": "7ff417d520a404fe5c8ac0629d5b85ba8fdcd261f911e9a9eae5ca79106da476",
           "export_sha256": "7ff417d520a404fe5c8ac0629d5b85ba8fdcd261f911e9a9eae5ca79106da476"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/skills/assemble-scene-log/agents/openai.yaml",
-          "git_blob": "458ebcb4b8c17d0af54273b84761afcaabba9b7b",
           "mode": "100644",
+          "git_blob": "458ebcb4b8c17d0af54273b84761afcaabba9b7b",
           "source_sha256": "fdae546524ae5cec18df4a23e5e73f57069446432bacf8216ffa618f6842c1b8",
           "export_sha256": "fdae546524ae5cec18df4a23e5e73f57069446432bacf8216ffa618f6842c1b8"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/skills/cinematography-advisor/SKILL.md",
-          "git_blob": "6d7996011e27af97569b9ef147867ea741ade3aa",
           "mode": "100644",
+          "git_blob": "6d7996011e27af97569b9ef147867ea741ade3aa",
           "source_sha256": "022fa9aa753b4d0eae47292f4f92f98d55aae4e16b7fecf7ce3f7de03f0ff275",
           "export_sha256": "022fa9aa753b4d0eae47292f4f92f98d55aae4e16b7fecf7ce3f7de03f0ff275"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/skills/cinematography-advisor/references/knowledge.md",
-          "git_blob": "4393c18e7cd94ce1e5e28df46307592902a95db6",
           "mode": "100644",
+          "git_blob": "4393c18e7cd94ce1e5e28df46307592902a95db6",
           "source_sha256": "0870ab5e2ca736adb26dd41c781da7e97a953d984919866b6f2e08db64214628",
           "export_sha256": "0870ab5e2ca736adb26dd41c781da7e97a953d984919866b6f2e08db64214628"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/skills/dialogue-formatter/SKILL.md",
-          "git_blob": "30fd65fc59fa50faee034e560bdd0525b2154147",
           "mode": "100644",
+          "git_blob": "30fd65fc59fa50faee034e560bdd0525b2154147",
           "source_sha256": "7a80e0d929757f7d235094aff7aca5bbf31914f5b915519d36c9b33125ef6f0b",
           "export_sha256": "7a80e0d929757f7d235094aff7aca5bbf31914f5b915519d36c9b33125ef6f0b"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/skills/dialogue-formatter/references/knowledge.md",
-          "git_blob": "4d270daa6b3ae5cf451e321b6f083d5fe5aca19f",
           "mode": "100644",
+          "git_blob": "4d270daa6b3ae5cf451e321b6f083d5fe5aca19f",
           "source_sha256": "25e9a60e1068a895595e05a0fc2e49e11abd861003fbd78fadc7da4097d6e590",
           "export_sha256": "25e9a60e1068a895595e05a0fc2e49e11abd861003fbd78fadc7da4097d6e590"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/skills/enrich-scene/SKILL.md",
-          "git_blob": "aee1bbfd4b272598a27f20bdff8af440c33ec90c",
           "mode": "100644",
+          "git_blob": "aee1bbfd4b272598a27f20bdff8af440c33ec90c",
           "source_sha256": "c4a0162b993e6e2ddaf704ac4d4d6d0a213e82281e5fc653031372a67f872d0a",
           "export_sha256": "c4a0162b993e6e2ddaf704ac4d4d6d0a213e82281e5fc653031372a67f872d0a"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/skills/enrich-scene/agents/openai.yaml",
-          "git_blob": "c96f46fd04e813ecc401b034eae10702b734cb44",
           "mode": "100644",
+          "git_blob": "c96f46fd04e813ecc401b034eae10702b734cb44",
           "source_sha256": "a2a2fdd03be24ca746049a133de864b8cf0abf5a3073ab6d8aea3f5f81cbf7e0",
           "export_sha256": "a2a2fdd03be24ca746049a133de864b8cf0abf5a3073ab6d8aea3f5f81cbf7e0"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/skills/finalize-scene-log/SKILL.md",
-          "git_blob": "cc2e6a12de4a8eaaaec722681b4c560984be28a9",
           "mode": "100644",
+          "git_blob": "cc2e6a12de4a8eaaaec722681b4c560984be28a9",
           "source_sha256": "b780d9c529ca81abd52c25fa520bb4fe83426107d805feef0eb7c9ba9de583d6",
           "export_sha256": "b780d9c529ca81abd52c25fa520bb4fe83426107d805feef0eb7c9ba9de583d6"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/skills/finalize-scene-log/agents/openai.yaml",
-          "git_blob": "fa64541e00e55f82fe9290df6efc7c1b6f6e9129",
           "mode": "100644",
+          "git_blob": "fa64541e00e55f82fe9290df6efc7c1b6f6e9129",
           "source_sha256": "45122984333293c723f7c4dc56196428ae9fd6866bc3fa7cc1fe9672fc42b02e",
           "export_sha256": "45122984333293c723f7c4dc56196428ae9fd6866bc3fa7cc1fe9672fc42b02e"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/skills/lighting-colorist/SKILL.md",
-          "git_blob": "1616d50c9e8c3b4024a6097277df1ede9f1fe909",
           "mode": "100644",
+          "git_blob": "1616d50c9e8c3b4024a6097277df1ede9f1fe909",
           "source_sha256": "2cefff91bf9927d057139a6fa4b4cff634df03ede0c6ae1e714f104dff54c6ed",
           "export_sha256": "2cefff91bf9927d057139a6fa4b4cff634df03ede0c6ae1e714f104dff54c6ed"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/skills/lighting-colorist/references/knowledge.md",
-          "git_blob": "1cb28de8be6469ae107e4b4a68d36814bf5fdc41",
           "mode": "100644",
+          "git_blob": "1cb28de8be6469ae107e4b4a68d36814bf5fdc41",
           "source_sha256": "403dc035c2deafd82fe0f8c2394c594338b68491528566884302993ea2a2d3a1",
           "export_sha256": "403dc035c2deafd82fe0f8c2394c594338b68491528566884302993ea2a2d3a1"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/skills/micro-expression-director/SKILL.md",
-          "git_blob": "9dc3624f2b127c4295c063d843057e1745907067",
           "mode": "100644",
+          "git_blob": "9dc3624f2b127c4295c063d843057e1745907067",
           "source_sha256": "acfd3d248517ad3c2fa8b6e2e199076063ed37c233a422273e13ad1eb9e8044e",
           "export_sha256": "acfd3d248517ad3c2fa8b6e2e199076063ed37c233a422273e13ad1eb9e8044e"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/skills/micro-expression-director/references/knowledge.md",
-          "git_blob": "65d2859ea6c14ae3cacbb68b2b6c19bdd1b4a2e4",
           "mode": "100644",
+          "git_blob": "65d2859ea6c14ae3cacbb68b2b6c19bdd1b4a2e4",
           "source_sha256": "b1e3e64a72caf6cffa8c1954fd93f7ffb6d36c912013001c58e496dc482d8fba",
           "export_sha256": "b1e3e64a72caf6cffa8c1954fd93f7ffb6d36c912013001c58e496dc482d8fba"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/skills/review-continuity/SKILL.md",
-          "git_blob": "2e60e66e3f5f1990b4ab30744441098b675d675f",
           "mode": "100644",
+          "git_blob": "2e60e66e3f5f1990b4ab30744441098b675d675f",
           "source_sha256": "74a5d61588293d137af5903aeefc2ec1ee9737bbd79ae305173f0435b825da68",
           "export_sha256": "74a5d61588293d137af5903aeefc2ec1ee9737bbd79ae305173f0435b825da68"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/skills/review-continuity/agents/openai.yaml",
-          "git_blob": "4e2a92d2c9ee8fccbf7885acd835527b7004d911",
           "mode": "100644",
+          "git_blob": "4e2a92d2c9ee8fccbf7885acd835527b7004d911",
           "source_sha256": "37d171442bc779275db544fbdda2121978f128ea08204d048ff124504926edd3",
           "export_sha256": "37d171442bc779275db544fbdda2121978f128ea08204d048ff124504926edd3"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/skills/scene-log-extractor/SKILL.md",
-          "git_blob": "6fce9b1ca380f478b9d66a7a59c4f9c7c06912ba",
           "mode": "100644",
+          "git_blob": "6fce9b1ca380f478b9d66a7a59c4f9c7c06912ba",
           "source_sha256": "e766ecc047f25f1143bf3345e88bbb12e1f26ae2498d2ac899d9a493b3753f30",
           "export_sha256": "e766ecc047f25f1143bf3345e88bbb12e1f26ae2498d2ac899d9a493b3753f30"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/skills/scene-log-extractor/agents/openai.yaml",
-          "git_blob": "d074c07ec862dc1a8c52e4149f5b0e5c476d92ac",
           "mode": "100644",
+          "git_blob": "d074c07ec862dc1a8c52e4149f5b0e5c476d92ac",
           "source_sha256": "0a0d8a160eb5edb869b01d433d938aaaf7ca067293b44fcdbed3cbab16ddcaf2",
           "export_sha256": "0a0d8a160eb5edb869b01d433d938aaaf7ca067293b44fcdbed3cbab16ddcaf2"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/skills/scene-synopsis/SKILL.md",
-          "git_blob": "b818dc059d8d8e70d1e2e43c5ed1317d43af9982",
           "mode": "100644",
+          "git_blob": "b818dc059d8d8e70d1e2e43c5ed1317d43af9982",
           "source_sha256": "07ff87b19243147af126a972faf61a24ac7755477ab17a075d729f5e1571fcf5",
           "export_sha256": "07ff87b19243147af126a972faf61a24ac7755477ab17a075d729f5e1571fcf5"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/skills/scene-synopsis/references/knowledge.md",
-          "git_blob": "8726a73c19250f9470c52aebd8bf101ecbf01149",
           "mode": "100644",
+          "git_blob": "8726a73c19250f9470c52aebd8bf101ecbf01149",
           "source_sha256": "ae36932d8eab7e85628575822a3396ea6d826dec89fdcd4d327fafc663d9a8b4",
           "export_sha256": "ae36932d8eab7e85628575822a3396ea6d826dec89fdcd4d327fafc663d9a8b4"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/skills/segment-scene/SKILL.md",
-          "git_blob": "98347800d3a78a148300ff642a5eb3f240358a61",
           "mode": "100644",
+          "git_blob": "98347800d3a78a148300ff642a5eb3f240358a61",
           "source_sha256": "45d454fabf6e23b6b85097574dedb9770ef360f210baf1de43a5cbc9d2c380ce",
           "export_sha256": "45d454fabf6e23b6b85097574dedb9770ef360f210baf1de43a5cbc9d2c380ce"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/skills/segment-scene/agents/openai.yaml",
-          "git_blob": "73d95da8e3f24671569749df63f294cd4b71263c",
           "mode": "100644",
+          "git_blob": "73d95da8e3f24671569749df63f294cd4b71263c",
           "source_sha256": "943a4f1c9388e97ab40a64bdffeea9a94007a7dbe9600800f45c3d6a37915382",
           "export_sha256": "943a4f1c9388e97ab40a64bdffeea9a94007a7dbe9600800f45c3d6a37915382"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/skills/shot-duration-calculator/SKILL.md",
-          "git_blob": "36e639175fa06cbe7ba65e914b1923c9ebfee636",
           "mode": "100644",
+          "git_blob": "36e639175fa06cbe7ba65e914b1923c9ebfee636",
           "source_sha256": "2f847711b2593e8a9bfccaea51e83315b809cf908ce2993b89614e68fc41b13b",
           "export_sha256": "2f847711b2593e8a9bfccaea51e83315b809cf908ce2993b89614e68fc41b13b"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/skills/shot-duration-calculator/references/knowledge.md",
-          "git_blob": "4c46005cb07ce67d512bc951bac5503477e9688f",
           "mode": "100644",
+          "git_blob": "4c46005cb07ce67d512bc951bac5503477e9688f",
           "source_sha256": "8c6c64b0fce9572ae106f270913ff103ab25c471065ee9c4c58316981e610c3f",
           "export_sha256": "8c6c64b0fce9572ae106f270913ff103ab25c471065ee9c4c58316981e610c3f"
         },
         {
           "path": "level-2/scene-log-extraction/scene-log-extractor/sources.lock.json",
-          "git_blob": "27d905daa18f536f1733af80288fcc95f46caed8",
           "mode": "100644",
+          "git_blob": "27d905daa18f536f1733af80288fcc95f46caed8",
           "source_sha256": "1502f5ffe6acd5d73ff044eef953c7b6da5357a7dcb3e79f184cfcd6181e2beb",
           "export_sha256": "1502f5ffe6acd5d73ff044eef953c7b6da5357a7dcb3e79f184cfcd6181e2beb"
         },
         {
           "path": "level-2/scene-log-extraction/scene-synopsis/SKILL.md",
-          "git_blob": "b818dc059d8d8e70d1e2e43c5ed1317d43af9982",
           "mode": "100644",
+          "git_blob": "b818dc059d8d8e70d1e2e43c5ed1317d43af9982",
           "source_sha256": "07ff87b19243147af126a972faf61a24ac7755477ab17a075d729f5e1571fcf5",
           "export_sha256": "07ff87b19243147af126a972faf61a24ac7755477ab17a075d729f5e1571fcf5"
         },
         {
           "path": "level-2/scene-log-extraction/scene-synopsis/references/knowledge.md",
-          "git_blob": "8726a73c19250f9470c52aebd8bf101ecbf01149",
           "mode": "100644",
+          "git_blob": "8726a73c19250f9470c52aebd8bf101ecbf01149",
           "source_sha256": "ae36932d8eab7e85628575822a3396ea6d826dec89fdcd4d327fafc663d9a8b4",
           "export_sha256": "ae36932d8eab7e85628575822a3396ea6d826dec89fdcd4d327fafc663d9a8b4"
         },
         {
           "path": "level-2/scene-log-extraction/shot-duration-calculator/SKILL.md",
-          "git_blob": "36e639175fa06cbe7ba65e914b1923c9ebfee636",
           "mode": "100644",
+          "git_blob": "36e639175fa06cbe7ba65e914b1923c9ebfee636",
           "source_sha256": "2f847711b2593e8a9bfccaea51e83315b809cf908ce2993b89614e68fc41b13b",
           "export_sha256": "2f847711b2593e8a9bfccaea51e83315b809cf908ce2993b89614e68fc41b13b"
         },
         {
           "path": "level-2/scene-log-extraction/shot-duration-calculator/references/knowledge.md",
-          "git_blob": "4c46005cb07ce67d512bc951bac5503477e9688f",
           "mode": "100644",
+          "git_blob": "4c46005cb07ce67d512bc951bac5503477e9688f",
           "source_sha256": "8c6c64b0fce9572ae106f270913ff103ab25c471065ee9c4c58316981e610c3f",
           "export_sha256": "8c6c64b0fce9572ae106f270913ff103ab25c471065ee9c4c58316981e610c3f"
         },
         {
           "path": "release.json",
-          "git_blob": "dc969d1b5e8f981864c1979411570acd88a3dad0",
           "mode": "100644",
-          "source_sha256": "607443c948ead12a40725db68d6ab97ce2d3b45ce7e81a6e7b60e413f25d8391",
-          "export_sha256": "607443c948ead12a40725db68d6ab97ce2d3b45ce7e81a6e7b60e413f25d8391"
+          "git_blob": "19b8b79f21a4e1062308ed99ea4d0db01684e9a9",
+          "source_sha256": "899359d7ccbc6d0a0107593730dc82df2b28bfc82be4cdd7b69c5df293b9e73f",
+          "export_sha256": "899359d7ccbc6d0a0107593730dc82df2b28bfc82be4cdd7b69c5df293b9e73f"
         },
         {
           "path": "scripts/release.py",
-          "git_blob": "89a2c69a26dda560d412b4b4e72755d1d632e881",
           "mode": "100644",
+          "git_blob": "89a2c69a26dda560d412b4b4e72755d1d632e881",
           "source_sha256": "4b4f3cb9c81cf3fd7087002aed36870abd060120692c15ffb0523015addfc20a",
           "export_sha256": "4b4f3cb9c81cf3fd7087002aed36870abd060120692c15ffb0523015addfc20a"
         }
@@ -2050,10 +2148,10 @@
     },
     {
       "repository": "kaibaoxiang-studio/ZiChan",
-      "commit": "b9bb60204d5aaa3b11d998b096dbb7c746b1038f",
-      "tree": "b9bb60204d5aaa3b11d998b096dbb7c746b1038f",
+      "commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
+      "tree": "198dd611a2fd5841c33b47b7f0774b8cc2fe0f85",
       "target": "asset-design-plugin/bundled-plugins",
-      "scope": "Authoritative role, scene and prop business snapshots.",
+      "scope": "Authoritative role, scene and prop snapshots.",
       "files": [
         {
           "path": "character-assets/.agents/plugins/marketplace.json",
@@ -2065,16 +2163,16 @@
         {
           "path": "character-assets/.codex-plugin/plugin.json",
           "mode": "100644",
-          "git_blob": "cf57fc275f0d68027364f66acb7ae8f48c1ebe9c",
-          "source_sha256": "c3ab7c5255c3770a5c12e6b1b6695f7e139d6f1c0a7f6929a645f9e4ad491708",
-          "export_sha256": "c3ab7c5255c3770a5c12e6b1b6695f7e139d6f1c0a7f6929a645f9e4ad491708"
+          "git_blob": "9467188279106afb9ce7bbc22cf6f36500a41cba",
+          "source_sha256": "c7d68233a6a788d4a3028284d0814f8b884ca97ed72571519e5003f5ae288c4f",
+          "export_sha256": "c7d68233a6a788d4a3028284d0814f8b884ca97ed72571519e5003f5ae288c4f"
         },
         {
           "path": "character-assets/README.md",
           "mode": "100644",
-          "git_blob": "7c27d329a19e846c7fc5249b9f04fe67d3e2ad40",
-          "source_sha256": "bb9c8894dccc76e84ebfb2a1ecb54233f67b556874e3de23b8b60e843474fbcb",
-          "export_sha256": "bb9c8894dccc76e84ebfb2a1ecb54233f67b556874e3de23b8b60e843474fbcb"
+          "git_blob": "2e3d50d003408a04c7d18f5dea2df78cd6fa6a95",
+          "source_sha256": "29b75b440c725fb0d3f4e11a53e139855c33d0c95ba1da20c3d5287d07e8147c",
+          "export_sha256": "29b75b440c725fb0d3f4e11a53e139855c33d0c95ba1da20c3d5287d07e8147c"
         },
         {
           "path": "character-assets/RUNTIME.md",
@@ -2093,9 +2191,9 @@
         {
           "path": "character-assets/capabilities.json",
           "mode": "100644",
-          "git_blob": "9879c7c64dd568ec4280191f096d7bc86ee08d43",
-          "source_sha256": "904962a8955e2361a19e2a1adc602cba59e7339a9cc7185d412ca7e3a00a0794",
-          "export_sha256": "904962a8955e2361a19e2a1adc602cba59e7339a9cc7185d412ca7e3a00a0794"
+          "git_blob": "517f9b19ed643648c41e46dc3b3d9f9282a8d30a",
+          "source_sha256": "f2eac75e1f02e4f24e3f4ff9ce5a444dcbf3abec417b5acfec48786db22d9c6b",
+          "export_sha256": "f2eac75e1f02e4f24e3f4ff9ce5a444dcbf3abec417b5acfec48786db22d9c6b"
         },
         {
           "path": "character-assets/examples/body-proportion-contract.md",
@@ -2124,7 +2222,7 @@
           "git_blob": "952782b50dd4bd17cd50d525b7666a977c2802da",
           "source_sha256": "eb8565b31ce93f6285f4afb0f018d6b46eefa1e8fe05938168bb8186d9dd637e",
           "export_sha256": "a9f07741a300ddc03952a256b38be744d911aca403f76f4ae31285bd17957160",
-          "overlay_reason": "Public source-locator anonymization; latest domain design guidance preserved."
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         },
         {
           "path": "character-assets/examples/sample-assets.json",
@@ -2171,18 +2269,18 @@
         {
           "path": "character-assets/generation-lock.json",
           "mode": "100644",
-          "git_blob": "80a9890979794013ffd873640e03c4f20db2ed6c",
-          "source_sha256": "42f95d0aff529611a3cfea60491c36991aa83f3cbfeb0f1367d02697cde055b1",
-          "export_sha256": "e91ae8eb6cbb709e36411cb0f25d23cb09dc390deb9e14d3b6b9cdb8cb5c6bcc",
-          "overlay_reason": "Public source-locator anonymization; latest domain design guidance preserved."
+          "git_blob": "1e5e963b27cd99c3d0870b132c2f5285c305a8d5",
+          "source_sha256": "bda38e992f0896ed25ffd137cb9bcbb8004d16b01f9051be414ab87f6d8b5f5d",
+          "export_sha256": "f7d34a19460794510c7321962d5e92e81c85572a08979e20446e19a0712ccab5",
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         },
         {
           "path": "character-assets/harness-blueprint.json",
           "mode": "100644",
-          "git_blob": "7f51bbae09bcb86828d21f79915a658ed02963ca",
-          "source_sha256": "2af89a99dd592bfa09c4ba26d304c30589535e76246314d283445b4aec028fbf",
-          "export_sha256": "0110291f0f38a6bd1c881277ff6785af1418c89c2abb676db6b3cc09c23088dc",
-          "overlay_reason": "Public source-locator anonymization; latest domain design guidance preserved."
+          "git_blob": "bc72ff4e64d01eaa77ab45725199e572e3e08066",
+          "source_sha256": "e6927d6f4d1e12acbec4036870c5b0974a6d49016ddc35c2292c5fe51f43ae40",
+          "export_sha256": "db33af3dab154441b9922aac93e10a6887ae88ccfa8ddc9297a6ca6390627e89",
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         },
         {
           "path": "character-assets/harness.py",
@@ -2194,9 +2292,9 @@
         {
           "path": "character-assets/knowledge-lock.json",
           "mode": "100644",
-          "git_blob": "25b927e0744a538d1f1e9e6e904d9c1e5b36a244",
-          "source_sha256": "c6ab9a6573c86754fde45610ddc503db1ded3807001d838d4c30691d1b309f53",
-          "export_sha256": "c6ab9a6573c86754fde45610ddc503db1ded3807001d838d4c30691d1b309f53"
+          "git_blob": "a14e8760071abf1a86a5098f4c9e2324d272948b",
+          "source_sha256": "5ac737153fe16a7bcc1cf450567f8215812afad285018498062c397faeff2d1c",
+          "export_sha256": "5ac737153fe16a7bcc1cf450567f8215812afad285018498062c397faeff2d1c"
         },
         {
           "path": "character-assets/knowledge/archive-manifest.json",
@@ -2208,9 +2306,9 @@
         {
           "path": "character-assets/knowledge/index.md",
           "mode": "100644",
-          "git_blob": "32f2eee15a45cde0e7f8e0f459a78c06cedc6787",
-          "source_sha256": "e03822efd424338bdf3b78e4ec08b92561801169cb6278386ab4e06927217f49",
-          "export_sha256": "e03822efd424338bdf3b78e4ec08b92561801169cb6278386ab4e06927217f49"
+          "git_blob": "d60cf879770c78fcd55cc1a1187c10400d20a828",
+          "source_sha256": "61794b920f4a40ef39251148733b3f47f03ec9fb9db9fc681b6a200bec919221",
+          "export_sha256": "61794b920f4a40ef39251148733b3f47f03ec9fb9db9fc681b6a200bec919221"
         },
         {
           "path": "character-assets/knowledge/source-register.json",
@@ -2243,9 +2341,16 @@
         {
           "path": "character-assets/plugin.json",
           "mode": "100644",
-          "git_blob": "b7d8d790848d1078469b79f04db64a523d8a7836",
-          "source_sha256": "4f972afd29f4a4168d2d21135cb732215d33a6b85e690ed9ff54f265439330be",
-          "export_sha256": "4f972afd29f4a4168d2d21135cb732215d33a6b85e690ed9ff54f265439330be"
+          "git_blob": "f8eed3923f1abfcf4fae86ad842dc35487c603d2",
+          "source_sha256": "8b6807c82aed8ca93b77086bda6c0d2e3a1ca44304dc98a170c65f88d2d60457",
+          "export_sha256": "8b6807c82aed8ca93b77086bda6c0d2e3a1ca44304dc98a170c65f88d2d60457"
+        },
+        {
+          "path": "character-assets/references/avatar-identity-granularity.md",
+          "mode": "100644",
+          "git_blob": "d76ae4682057675d2ad7a44b3b4f7491f40a4761",
+          "source_sha256": "e221fa04ec5ffd6ca5fb2198048b9a3e3ce1a65187cdd7a1eed3f13395a2a7b1",
+          "export_sha256": "e221fa04ec5ffd6ca5fb2198048b9a3e3ce1a65187cdd7a1eed3f13395a2a7b1"
         },
         {
           "path": "character-assets/references/character-design.md",
@@ -2278,9 +2383,9 @@
         {
           "path": "character-assets/references/design-detail-standard.md",
           "mode": "100644",
-          "git_blob": "b5d554dcaa82fdf9bc8e5ccab1fb8e68cf4153ad",
-          "source_sha256": "d429ffa72faca6e2296c3745a15382c7f5614fd3576751ca11976c420a7a6c00",
-          "export_sha256": "d429ffa72faca6e2296c3745a15382c7f5614fd3576751ca11976c420a7a6c00"
+          "git_blob": "1d67c46b90c509119c3a32ec826581460d8c10fe",
+          "source_sha256": "1768be80f6051676111d0025f3f6674ce9b2de08368aa8f4102d9de1acd40ebf",
+          "export_sha256": "1768be80f6051676111d0025f3f6674ce9b2de08368aa8f4102d9de1acd40ebf"
         },
         {
           "path": "character-assets/references/differentiation-framework.md",
@@ -2351,7 +2456,7 @@
           "git_blob": "8c8d110c9dd6bb63388abe3ebd137b905fcc6980",
           "source_sha256": "e6a81fe7dde6b6138739d2577309fe552b1df4d5574895e38331f9ef1cfc2fc8",
           "export_sha256": "d77d604e43e582a0a0d0eea19a0f5e57b6613ba760a7fcea7b836e1087527d10",
-          "overlay_reason": "Public source-locator anonymization; latest domain design guidance preserved."
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         },
         {
           "path": "character-assets/references/interfaces.md",
@@ -2466,11 +2571,60 @@
           "export_sha256": "a0c9e3ffea970fa51472ef61514da59b6a75f239d06d9cf5e03b0e6830de52c1"
         },
         {
+          "path": "character-assets/references/knowledge/character-face-decoration-design/avatar-makeup-13.md",
+          "mode": "100644",
+          "git_blob": "8e5f071f21fafb447e920b928ae05291229cb97a",
+          "source_sha256": "df722a2f530b3df7bba86726825ffb05db8fd24cc2fb91062b92431732f68755",
+          "export_sha256": "df722a2f530b3df7bba86726825ffb05db8fd24cc2fb91062b92431732f68755"
+        },
+        {
           "path": "character-assets/references/knowledge/character-face-decoration-design/face-decoration.md",
           "mode": "100644",
           "git_blob": "80338a41e2f23ca923bd8d0ab1625cc3450d1079",
           "source_sha256": "3fc90db8d09b976f8519a27b9da7d169f4336978e6daf75ebd2b527b0fc4b937",
           "export_sha256": "3fc90db8d09b976f8519a27b9da7d169f4336978e6daf75ebd2b527b0fc4b937"
+        },
+        {
+          "path": "character-assets/references/knowledge/character-face-design/avatar-brows-08.md",
+          "mode": "100644",
+          "git_blob": "a99ac6a001c86c5063d2bdf2a6dad243c5ba4681",
+          "source_sha256": "83e23543d7995cd283925458d0460b780e6f8ffcf0da7f981546fe4c25687134",
+          "export_sha256": "83e23543d7995cd283925458d0460b780e6f8ffcf0da7f981546fe4c25687134"
+        },
+        {
+          "path": "character-assets/references/knowledge/character-face-design/avatar-ears-10.md",
+          "mode": "100644",
+          "git_blob": "cce25869272d462b4583da047e9fbc35d8f53be7",
+          "source_sha256": "4e57d77f46487326f636d89f07794671fe0a92ae3f6a98de8f1ee4db265308df",
+          "export_sha256": "4e57d77f46487326f636d89f07794671fe0a92ae3f6a98de8f1ee4db265308df"
+        },
+        {
+          "path": "character-assets/references/knowledge/character-face-design/avatar-eyes-09.md",
+          "mode": "100644",
+          "git_blob": "25e544a890d45dc01c0a295e74abfe070d3c8911",
+          "source_sha256": "72a3ee18b08af4b1b79230b9615ad42b504528efa76b0fe8911c36e97db9ec98",
+          "export_sha256": "72a3ee18b08af4b1b79230b9615ad42b504528efa76b0fe8911c36e97db9ec98"
+        },
+        {
+          "path": "character-assets/references/knowledge/character-face-design/avatar-face-shapes-06.md",
+          "mode": "100644",
+          "git_blob": "3e6e24574084f70147014664965ed21e1d7abc59",
+          "source_sha256": "9232fb13c1cd138ca234168c316f0f51b49cb1ce662f4cc721c79e1418aea288",
+          "export_sha256": "9232fb13c1cd138ca234168c316f0f51b49cb1ce662f4cc721c79e1418aea288"
+        },
+        {
+          "path": "character-assets/references/knowledge/character-face-design/avatar-lips-12.md",
+          "mode": "100644",
+          "git_blob": "4b8e501413754b1fdeb6e9c930c4fdcdf1d373d4",
+          "source_sha256": "e65f85deaa76c6a8bf1c970a2e7b6d11431cbc1f03ed16b33617f7044d6b96c8",
+          "export_sha256": "e65f85deaa76c6a8bf1c970a2e7b6d11431cbc1f03ed16b33617f7044d6b96c8"
+        },
+        {
+          "path": "character-assets/references/knowledge/character-face-design/avatar-noses-11.md",
+          "mode": "100644",
+          "git_blob": "4464112c93bddcf439c5c38ee1815a6c6b5fd08f",
+          "source_sha256": "1d9aca5693919a8c93d198d3f52fe8e6afc44fb86a50d414645378f3f2e1c2bb",
+          "export_sha256": "1d9aca5693919a8c93d198d3f52fe8e6afc44fb86a50d414645378f3f2e1c2bb"
         },
         {
           "path": "character-assets/references/knowledge/character-face-design/face.md",
@@ -2487,6 +2641,13 @@
           "export_sha256": "791f79fac516716ee5579829f7311db4ba3ba27894fcc6402eadbd0581f19286"
         },
         {
+          "path": "character-assets/references/knowledge/character-face-signature-design/avatar-head-ear-neck-16.md",
+          "mode": "100644",
+          "git_blob": "8d1ddc24e2cfb194111e911e8688ea30c98c7651",
+          "source_sha256": "8e055a2489648a6bb4970e2b367e99225ac83204c28d1a9a29e09fa131f905c8",
+          "export_sha256": "8e055a2489648a6bb4970e2b367e99225ac83204c28d1a9a29e09fa131f905c8"
+        },
+        {
           "path": "character-assets/references/knowledge/character-face-signature-design/face-memory.md",
           "mode": "100644",
           "git_blob": "d2662dd36f4a669a988d9c39359b391b3f72892b",
@@ -2499,6 +2660,13 @@
           "git_blob": "2034796a40adeae613c54b4fbf38c726e3fc12fe",
           "source_sha256": "a34fa6815f186af72626fd48286edd0ba89de0b4b6a3ed879d17ab136ad0f59c",
           "export_sha256": "a34fa6815f186af72626fd48286edd0ba89de0b4b6a3ed879d17ab136ad0f59c"
+        },
+        {
+          "path": "character-assets/references/knowledge/character-hair-design/avatar-hair-names-07.md",
+          "mode": "100644",
+          "git_blob": "9913ec861085784e7230198aae16a5a717c2eab2",
+          "source_sha256": "0a3708a25985383defad01a5cbc74fee224cad35bb9b03308d39fc7260f0ac38",
+          "export_sha256": "0a3708a25985383defad01a5cbc74fee224cad35bb9b03308d39fc7260f0ac38"
         },
         {
           "path": "character-assets/references/knowledge/character-hair-design/hair.md",
@@ -2571,6 +2739,20 @@
           "export_sha256": "f885d50cd23d6b23045b327349d939857afaa8c078efd21102ff3e6e32772462"
         },
         {
+          "path": "character-assets/references/knowledge/character-skin-design/avatar-facial-hair-15.md",
+          "mode": "100644",
+          "git_blob": "52c2553b07993892f929603e4072c58686adfdcb",
+          "source_sha256": "cdd06174d46982f805317e525118198a73d04a5147c30556690ebf0d410d5ff7",
+          "export_sha256": "cdd06174d46982f805317e525118198a73d04a5147c30556690ebf0d410d5ff7"
+        },
+        {
+          "path": "character-assets/references/knowledge/character-skin-design/avatar-skin-material-14.md",
+          "mode": "100644",
+          "git_blob": "430097ac93c9e8cf32e28d324c71fcfc27eae6f9",
+          "source_sha256": "9f67f9bef97cf6488db30faed537cb72fd922b2fb4fe8cd2d0c86ff92e9aa7f7",
+          "export_sha256": "9f67f9bef97cf6488db30faed537cb72fd922b2fb4fe8cd2d0c86ff92e9aa7f7"
+        },
+        {
           "path": "character-assets/references/knowledge/character-skin-design/skin.md",
           "mode": "100644",
           "git_blob": "de06606f5ba186d028d1cd9d0ba454f7c105cdaf",
@@ -2601,30 +2783,30 @@
         {
           "path": "character-assets/references/prompting.md",
           "mode": "100644",
-          "git_blob": "679feada4e0731da4458e21a014f0962101167e1",
-          "source_sha256": "30b8c8b85f10604f98860a9b45581807fc4f011f0d0a141a004c17379f74ac8c",
-          "export_sha256": "30b8c8b85f10604f98860a9b45581807fc4f011f0d0a141a004c17379f74ac8c"
+          "git_blob": "7271c18d542eafe16cd3c4ea07b6fd987e4ecae5",
+          "source_sha256": "3653389c1992277e736af42c508e5b63baaa1c1190891b2dbf35733392daffea",
+          "export_sha256": "3653389c1992277e736af42c508e5b63baaa1c1190891b2dbf35733392daffea"
         },
         {
           "path": "character-assets/references/render-texture-standard.md",
           "mode": "100644",
-          "git_blob": "e3af9d9fd25baea57a40d0cf112bef2d2bab742f",
-          "source_sha256": "dccb25c8d221e88a7b32b857c009f619b86226bcdebf6429b8b76b32bb621452",
-          "export_sha256": "dccb25c8d221e88a7b32b857c009f619b86226bcdebf6429b8b76b32bb621452"
+          "git_blob": "c5055f302549f6553063ba2e8f1a916d81620360",
+          "source_sha256": "1820f7aa3fc42a78d33aa701768c23a43c251b0f21620c879092a62eedd58559",
+          "export_sha256": "1820f7aa3fc42a78d33aa701768c23a43c251b0f21620c879092a62eedd58559"
         },
         {
           "path": "character-assets/references/review.md",
           "mode": "100644",
-          "git_blob": "62ff89eb7844b1a30ac3c1105cc317883592e41e",
-          "source_sha256": "1f9e085ce70bc9174f334bfa61448db4acbf04e400f9da64da37a31d70bb92d2",
-          "export_sha256": "1f9e085ce70bc9174f334bfa61448db4acbf04e400f9da64da37a31d70bb92d2"
+          "git_blob": "68fd4036d3f071d7934e9e05371cc3d443dea5f0",
+          "source_sha256": "9888645506f0111f005239fa4d6a25c4a5ecb10b9385d86afae230cf397366c4",
+          "export_sha256": "9888645506f0111f005239fa4d6a25c4a5ecb10b9385d86afae230cf397366c4"
         },
         {
           "path": "character-assets/references/routing-and-integration.md",
           "mode": "100644",
-          "git_blob": "82f9600ad0bafc4bc382b2b7405e1c8c661bf2bd",
-          "source_sha256": "33f3e088bbceac0dbb8780f6bcf05e3ebfb7a152da33c99bdef2cd3cd1600907",
-          "export_sha256": "33f3e088bbceac0dbb8780f6bcf05e3ebfb7a152da33c99bdef2cd3cd1600907"
+          "git_blob": "84c08f3c6999bab2df4931a7a4fd85599f97ddaf",
+          "source_sha256": "411e75766f5df0483d3d989bd9e8b2ef94db39e31eda0aa51c738b73de372900",
+          "export_sha256": "411e75766f5df0483d3d989bd9e8b2ef94db39e31eda0aa51c738b73de372900"
         },
         {
           "path": "character-assets/references/source-notes.md",
@@ -2706,9 +2888,9 @@
         {
           "path": "character-assets/runtime/harness_core/packages.py",
           "mode": "100644",
-          "git_blob": "496bfeb12e1eb6769f674fc97dafbd126cfc4eea",
-          "source_sha256": "67a687960d152eddefa38fbba2d8907b2dfa53717709421a201e16125cf599c9",
-          "export_sha256": "67a687960d152eddefa38fbba2d8907b2dfa53717709421a201e16125cf599c9"
+          "git_blob": "3e29101d7514a05a52afcb63c27197edf70d41b1",
+          "source_sha256": "cdd35b30bdf1f78557cabc7cda9ad9bd854e2606de21bea482d33c36c2a703e0",
+          "export_sha256": "cdd35b30bdf1f78557cabc7cda9ad9bd854e2606de21bea482d33c36c2a703e0"
         },
         {
           "path": "character-assets/runtime/harness_core/sources.py",
@@ -2776,9 +2958,9 @@
         {
           "path": "character-assets/skills/character-assets/SKILL.md",
           "mode": "100644",
-          "git_blob": "c682bb83f7174aaceab0fa9ee61fb614a2003656",
-          "source_sha256": "14700d325011347b1442d972884192e82b93040b8d979320e88be5470539e862",
-          "export_sha256": "14700d325011347b1442d972884192e82b93040b8d979320e88be5470539e862"
+          "git_blob": "5fdf349a1c205772633200b7e78e888cbb293798",
+          "source_sha256": "81fe72ed36e83b0a95f6c20ddfe7ee41d275c17546d0b15776e9a0e1f1e31751",
+          "export_sha256": "81fe72ed36e83b0a95f6c20ddfe7ee41d275c17546d0b15776e9a0e1f1e31751"
         },
         {
           "path": "character-assets/skills/character-assets/agents/openai.yaml",
@@ -2944,9 +3126,9 @@
         {
           "path": "character-assets/skills/character-face-decoration-design/SKILL.md",
           "mode": "100644",
-          "git_blob": "913fa0cb6388159dfe6f43318aba91184501aa03",
-          "source_sha256": "e6405c370e46234aca71c053ccc582d3026ea19ee5ba12ca99ca3f287ef80126",
-          "export_sha256": "e6405c370e46234aca71c053ccc582d3026ea19ee5ba12ca99ca3f287ef80126"
+          "git_blob": "47107da6527707524047fd7116727407634ec425",
+          "source_sha256": "c8eff1946e5d9b7e45670c676bc4a856a7097f9abbaf88d6062930d19525b01e",
+          "export_sha256": "c8eff1946e5d9b7e45670c676bc4a856a7097f9abbaf88d6062930d19525b01e"
         },
         {
           "path": "character-assets/skills/character-face-decoration-design/agents/openai.yaml",
@@ -2958,9 +3140,9 @@
         {
           "path": "character-assets/skills/character-face-design/SKILL.md",
           "mode": "100644",
-          "git_blob": "dc277d1f95574c1af5d22234d095b59c7d5c65e5",
-          "source_sha256": "8fd0168775d10f327ab584224a54d794cc51744042f6691ddd5aecc285ed08d7",
-          "export_sha256": "8fd0168775d10f327ab584224a54d794cc51744042f6691ddd5aecc285ed08d7"
+          "git_blob": "07cced2c72807f108df60f3bd2d9ce072fcc6e10",
+          "source_sha256": "b542ceb788c6f9fdeb96c53fbb855d16c302e5987787fecfaee77ef5f012eba1",
+          "export_sha256": "b542ceb788c6f9fdeb96c53fbb855d16c302e5987787fecfaee77ef5f012eba1"
         },
         {
           "path": "character-assets/skills/character-face-design/agents/openai.yaml",
@@ -2972,9 +3154,9 @@
         {
           "path": "character-assets/skills/character-face-signature-design/SKILL.md",
           "mode": "100644",
-          "git_blob": "928aef5211e89533d40cd20811b0838311c375e1",
-          "source_sha256": "f8a4b2cca9b4377af7bd0b99dbc08ef72ad70001a7a89f6f53d89870e4bf2bb8",
-          "export_sha256": "f8a4b2cca9b4377af7bd0b99dbc08ef72ad70001a7a89f6f53d89870e4bf2bb8"
+          "git_blob": "aab907cb0d394d197ff617accec7b06e416c9153",
+          "source_sha256": "3c700bab85c2688ac975728024028998490faafc6c9601b1e0108dc9fdac54b6",
+          "export_sha256": "3c700bab85c2688ac975728024028998490faafc6c9601b1e0108dc9fdac54b6"
         },
         {
           "path": "character-assets/skills/character-face-signature-design/agents/openai.yaml",
@@ -3000,9 +3182,9 @@
         {
           "path": "character-assets/skills/character-hair-design/SKILL.md",
           "mode": "100644",
-          "git_blob": "7a44f3202a09e57af882d36fe8b108d14cb09847",
-          "source_sha256": "5e5543967912bda5729d36ecec02441fbe834eb36ffbc59a4363007122b92f10",
-          "export_sha256": "5e5543967912bda5729d36ecec02441fbe834eb36ffbc59a4363007122b92f10"
+          "git_blob": "32bc1eafa985fefb08fdcf491f01583a5525c548",
+          "source_sha256": "ffec61774ff3eadf5b41b463483aad7a80d7cc4184f4dcafb266419b93db7d05",
+          "export_sha256": "ffec61774ff3eadf5b41b463483aad7a80d7cc4184f4dcafb266419b93db7d05"
         },
         {
           "path": "character-assets/skills/character-hair-design/agents/openai.yaml",
@@ -3028,9 +3210,9 @@
         {
           "path": "character-assets/skills/character-image-prompt/SKILL.md",
           "mode": "100644",
-          "git_blob": "4a4ff6bbe0277ca13779bc881b1e375b449c3ddc",
-          "source_sha256": "86a45b95e586553ef744458552232d28de3221fdf836b573abc7f94aa791e762",
-          "export_sha256": "86a45b95e586553ef744458552232d28de3221fdf836b573abc7f94aa791e762"
+          "git_blob": "1700d68704274bd02dee81bb23d52016823b6db7",
+          "source_sha256": "6de52951611dad56657740be54d8628a1590e859ae794839fde96b143bd49555",
+          "export_sha256": "6de52951611dad56657740be54d8628a1590e859ae794839fde96b143bd49555"
         },
         {
           "path": "character-assets/skills/character-image-prompt/agents/openai.yaml",
@@ -3042,9 +3224,9 @@
         {
           "path": "character-assets/skills/character-image-review/SKILL.md",
           "mode": "100644",
-          "git_blob": "09a129277b803aea2c21dc869b11609403b1fa4a",
-          "source_sha256": "9cd74fdebab061e598307a519da6ddfffecf0b624b8b97e47fe2df77348c3671",
-          "export_sha256": "9cd74fdebab061e598307a519da6ddfffecf0b624b8b97e47fe2df77348c3671"
+          "git_blob": "55a624bf84935293b310a316c8bd8eac35f9af4a",
+          "source_sha256": "98a22cb121980f488d20968a4378c3f3a11ad46008dfb2fee99beb06852d5916",
+          "export_sha256": "98a22cb121980f488d20968a4378c3f3a11ad46008dfb2fee99beb06852d5916"
         },
         {
           "path": "character-assets/skills/character-image-review/agents/openai.yaml",
@@ -3056,9 +3238,9 @@
         {
           "path": "character-assets/skills/character-skin-design/SKILL.md",
           "mode": "100644",
-          "git_blob": "82f56f4c0cd6287e8294629bb4469fecf1ff5ea4",
-          "source_sha256": "ee520fb8f7aadce65041484cab9971f954efb7e8b2ce0e5ef4c045c0fd579d65",
-          "export_sha256": "ee520fb8f7aadce65041484cab9971f954efb7e8b2ce0e5ef4c045c0fd579d65"
+          "git_blob": "641834c37585f8f23b0af5bd4eac5610aaa4570f",
+          "source_sha256": "ebb6afaa1fdac40ffb175bf3c6f087bb845148e9b00086cc3db4b69a0869a03e",
+          "export_sha256": "ebb6afaa1fdac40ffb175bf3c6f087bb845148e9b00086cc3db4b69a0869a03e"
         },
         {
           "path": "character-assets/skills/character-skin-design/agents/openai.yaml",
@@ -4683,7 +4865,7 @@
           "git_blob": "1e8a77b8884a661e30ba8e49a5ad3cddb6d1a8fa",
           "source_sha256": "574568f1f42fa3b7f572159d24953824e750b0c0ba4c0a29c0c17a166dddadb6",
           "export_sha256": "4ac59c752582e2948e56a4b45a3300f60b7756e111e8f5751cdda8310dce7e86",
-          "overlay_reason": "Public source-locator anonymization; latest domain design guidance preserved."
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         },
         {
           "path": "scene-assets/skills/sence-prompts/knowledge/design-library/knowledge/design/entries/DES-001.md",
@@ -4733,7 +4915,7 @@
           "git_blob": "245edb1cc941dff72228b1c18eeb0053c033a806",
           "source_sha256": "099bea1d6e8f2a0927c50e6e32e11adcd57e3715bbf5af9ce6b928f99cc23616",
           "export_sha256": "39288f4f9c268174f984cde211091d7da490dcb7c65e15071551521d1de40afc",
-          "overlay_reason": "Public source-locator anonymization; latest domain design guidance preserved."
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         },
         {
           "path": "scene-assets/skills/sence-prompts/knowledge/design-library/knowledge/design/entries/DES-008.md",
@@ -4741,7 +4923,7 @@
           "git_blob": "820b1210a28d069eb4650ee1d6f0ac521ea87507",
           "source_sha256": "dcfe7e8f37659543b9c3e2b137c9e3a50af691638842781cc3e8970e7da6c72f",
           "export_sha256": "2ee1b4df8950ba99a5f3b087f892b592677f36011c58d2460a2c34aa5ba597f3",
-          "overlay_reason": "Public source-locator anonymization; latest domain design guidance preserved."
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         },
         {
           "path": "scene-assets/skills/sence-prompts/knowledge/design-library/knowledge/design/entries/DES-009.md",
@@ -4749,7 +4931,7 @@
           "git_blob": "b57bc191118d7fb125fa9f949447ede61169a1d8",
           "source_sha256": "65420f5646d5d992102a6e6afa43c6749e27bb9072aa83662da8ef6180faeb81",
           "export_sha256": "415a2accf447a296f799a8d3acb363602377f08ca4c1d0e1f3901054bfc985b6",
-          "overlay_reason": "Public source-locator anonymization; latest domain design guidance preserved."
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         },
         {
           "path": "scene-assets/skills/sence-prompts/knowledge/design-library/knowledge/design/entries/DES-010.md",
@@ -4757,7 +4939,7 @@
           "git_blob": "bdcfe5b1b65893896d5a494a90e12fa42c6e0134",
           "source_sha256": "5794f724628116316f60be578544bd16be3cd2a32a791d54e22c0bed06dfe430",
           "export_sha256": "196b5f6a0589bf252a30ad270eb92d7cab932a13396db6f5d624450dd1da578e",
-          "overlay_reason": "Public source-locator anonymization; latest domain design guidance preserved."
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         },
         {
           "path": "scene-assets/skills/sence-prompts/knowledge/design-library/knowledge/design/entries/DES-011.md",
@@ -4765,7 +4947,7 @@
           "git_blob": "af1f301122a0b8fc633ac5025c0771314acc6ce6",
           "source_sha256": "2b3ad862cb8a0914e41e8158e03a64ca9b01cb3b6dae7a601ad025b7f5c01eae",
           "export_sha256": "ce1bf9d1f68f462d03f5d08efd1391a374db6a90b37eb9031b6c1d173eb21bc4",
-          "overlay_reason": "Public source-locator anonymization; latest domain design guidance preserved."
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         },
         {
           "path": "scene-assets/skills/sence-prompts/knowledge/design-library/knowledge/design/index.json",
@@ -4773,7 +4955,7 @@
           "git_blob": "55d8fa11d9a3cadd04820fa35918bd9148afd59d",
           "source_sha256": "361e048f8ac0e8e21894ce1089ac5b86190e20b6bc7a48886a98acab63698508",
           "export_sha256": "5605468f52d7d551406cc263fd6b0e76ef7abbe4d7c47798453d356dd9c199b1",
-          "overlay_reason": "Public source-locator anonymization; latest domain design guidance preserved."
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         },
         {
           "path": "scene-assets/skills/sence-prompts/knowledge/design-library/knowledge/design/problems/color-light.md",
@@ -4832,7 +5014,7 @@
           "source_path_redacted": true,
           "source_path_sha256": "778192d3ad92992392e1bd298d47569aae226f463a94fc37439de8faeda5ec2d",
           "export_sha256": "c1171f78fe121c65da866b77078b06058ee95ef7b283d0bc6e79a9f832359bdc",
-          "overlay_reason": "Public source-locator anonymization; latest domain design guidance preserved."
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         },
         {
           "path": "scene-assets/skills/sence-prompts/knowledge/design-library/knowledge/design/sources.json",
@@ -4840,7 +5022,7 @@
           "git_blob": "365210712475077aee1296b7093fc80d4da24bda",
           "source_sha256": "8db31a2d0bfe9fea79201dec146db41ec0e72cc4d32d57f40c40a7ffe4ab4790",
           "export_sha256": "15d4cc2b5a997f192e0260cc09589b2814d14f1ab0a5f3957db93dd121dbfd6b",
-          "overlay_reason": "Public source-locator anonymization; latest domain design guidance preserved."
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         },
         {
           "path": "scene-assets/skills/sence-prompts/knowledge/design-library/knowledge/design/templates/validation-record.md",
@@ -4883,7 +5065,7 @@
           "git_blob": "bb014ffdcdd20b7d7c2a8417cd7df93594d60af7",
           "source_sha256": "7c0f001c8006038a3cc0bca44c8129c67e36bb3f79a0cdf2bd9945af8766f0bc",
           "export_sha256": "028b904612b8843ff454a32bd0155fefd7305bf72cdcf5b588d0bd6b251322fa",
-          "overlay_reason": "Public source-locator anonymization; latest domain design guidance preserved."
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         },
         {
           "path": "scene-assets/skills/sence-prompts/knowledge/lighting/living-room-atmospheres.md",
@@ -4975,7 +5157,7 @@
           "git_blob": "29f0621b02619eee7f65d0a6d852e3c22735832a",
           "source_sha256": "1f15f867344b6f34eed9ce8d91cbb72d93e8977996066d322bd7d1055a643ff8",
           "export_sha256": "eb488d794bd11866d6c836ebf006a934be070246197261dbc08f25b96ed8bedf",
-          "overlay_reason": "Public source-locator anonymization; latest domain design guidance preserved."
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         },
         {
           "path": "scene-assets/skills/sence-prompts/references/maintenance-entry.md",
@@ -5810,24 +5992,24 @@
           "git_blob": "0c370d8998bfb9f663f82ed301d89094508cfa9a",
           "mode": "100644",
           "source_sha256": "2250b492067858a738ff0285b2642c987bbe87f5d9dc65e216cab4909b2681a6",
-          "export_sha256": "c191d5134001eb0a81c030945d4492b4667f8cecbcbec8765c31ebc8da270560",
-          "overlay_reason": "Public installation/source documentation, privacy metadata, or approved bundle-pin integration."
+          "export_sha256": "abd3b333e138cb86c97ea27fa2e1533d4f4a2694813b38e04751c70e0d1e2dec",
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         },
         {
           "path": "THIRD_PARTY_NOTICES.md",
           "git_blob": "e1821c5ba95f9dbfa82ff314e650d42f88a25d91",
           "mode": "100644",
           "source_sha256": "ac312f02c65fe788fda3144280a4a12b6f30e0157c355d5327391fefaddbc768",
-          "export_sha256": "124e1e3647c0a3e108c159cdf6dca267d5cc9a1bb7c15fdb1b867ba2f81ce465",
-          "overlay_reason": "Public installation/source documentation, privacy metadata, or approved bundle-pin integration."
+          "export_sha256": "ea218d8c03e4a439040d64f7af0fb016cb580dc6bb4179c34cb4301e4c757e73",
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         },
         {
           "path": "bundle-lock.json",
           "git_blob": "b4abda6adf46970a86b86da52bcd3e89350fceab",
           "mode": "100644",
           "source_sha256": "34fce1d68430d78d08282442aee353f838470d882fc64f7eca40546c18cc80bc",
-          "export_sha256": "65a43396ccef22d345cfdae6f55aee2b7aa96100ac101c806943f920b4bf6671",
-          "overlay_reason": "Public installation/source documentation, privacy metadata, or approved bundle-pin integration."
+          "export_sha256": "1a90030a793233dda8ca8074ea966a7789e0cad60a87f94b33df1601ed546317",
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         },
         {
           "path": "capabilities.json",
@@ -5883,8 +6065,8 @@
           "git_blob": "c9e94acb2f6cdc1cf2ee4c64d784d1e74bccee34",
           "mode": "100644",
           "source_sha256": "33c2e93d0349903a74b6b82dcabddbd24e696f004bb8f37e94146274e4ea42d9",
-          "export_sha256": "4cf45c1a1a5d53267fed1e61ba93f44d907a375cf9c83dd50f5aa7b1c1e475bb",
-          "overlay_reason": "Public installation/source documentation, privacy metadata, or approved bundle-pin integration."
+          "export_sha256": "d32598c649bfb1c9386f00a4cb834cb0414fd8e94ce6963da7bea6c252cfcd88",
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         },
         {
           "path": "references/workflow.md",
@@ -5898,8 +6080,8 @@
           "git_blob": "2dcd2bc31784d2df99525cbda61c5fd28cdec39a",
           "mode": "100644",
           "source_sha256": "7890172d27b030b68972ea6598f97715a39d433c5f54502c8699d30604f00a93",
-          "export_sha256": "2cd38beb3743438be290491e79ddaaeac39a6707fe1067060203b3a11d81000b",
-          "overlay_reason": "Public installation/source documentation, privacy metadata, or approved bundle-pin integration."
+          "export_sha256": "cb2c110ba54835143c457a48cc3500b108934290b4d460eb60eec1e1d37b05a1",
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         },
         {
           "path": "requirements.lock",
@@ -5997,8 +6179,8 @@
           "git_blob": "773914a2c5d4220b2f7be5eaaf5e3a213e1fcdc3",
           "mode": "100644",
           "source_sha256": "30e488e5c90a832fcc15eaf4bf28c4b3ff7c89a84cfd750f6c8c15c4b4a34e49",
-          "export_sha256": "105ee7bc875c937346c307da9a3fccd15b7ef36668e79f5fb38cc710d9c9025b",
-          "overlay_reason": "Public installation/source documentation, privacy metadata, or approved bundle-pin integration."
+          "export_sha256": "e978ade25a64a5c35ae76e0a54f8a629508e5d119363ddd2f7bfa1411658c323",
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         },
         {
           "path": "scripts/install.py",
@@ -6019,8 +6201,8 @@
           "git_blob": "6e2b37e10c7ea6c73ea940b7400033709f74d430",
           "mode": "100644",
           "source_sha256": "5704651c1184787bc368c9c960cc3b21b977c1391c2a24b1bb508727403e3951",
-          "export_sha256": "8d7d7d6b2c2a42e4235018f540e7a06e11ec8fc2c3cc4c03c13cba02c3b4f453",
-          "overlay_reason": "Public installation/source documentation, privacy metadata, or approved bundle-pin integration."
+          "export_sha256": "13ce0af2302ed13cf8e7bb1f5d60801993567337a884cd720bd99eaaee04a8b3",
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         },
         {
           "path": "skills/asset-character/SKILL.md",
@@ -6140,7 +6322,7 @@
           "mode": "100644",
           "source_sha256": "05dc72d9d1d7f383f3ab4c36f358c3a63623082e7f7d30cc3ceea6f4e6254388",
           "export_sha256": "20532bcc0f479b93d1b9d6683557a2b1b54a45ecf5865c55b5dd13fc1cfc54e6",
-          "overlay_reason": "Public installation/source documentation, privacy metadata, or approved bundle-pin integration."
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         },
         {
           "path": "validation/package-validation.json",
@@ -6155,7 +6337,7 @@
           "mode": "100644",
           "source_sha256": "a2b148100e46a7d77fafb4eba8d1a8b9942053a0c490b409c3bd359651aa6b9a",
           "export_sha256": "26787be104afb6236c8781ee1dea9ab9500c984cb3a802f867c58c33284e7d51",
-          "overlay_reason": "Public installation/source documentation, privacy metadata, or approved bundle-pin integration."
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         },
         {
           "path": "validation/real-calls/character/design.md",
@@ -6177,7 +6359,7 @@
           "mode": "100644",
           "source_sha256": "a67538b8eaa2d3bdeb493926c39b752d1650a6c03b17c3dc3c5555f786f47d63",
           "export_sha256": "12102e58ccc8960f06bba26e86d9e30238e6f24322d3c126a262397d26355b9a",
-          "overlay_reason": "Public installation/source documentation, privacy metadata, or approved bundle-pin integration."
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         },
         {
           "path": "validation/real-calls/prop/design.md",
@@ -6199,7 +6381,7 @@
           "mode": "100644",
           "source_sha256": "496379446504f0d7bfed32373386b446dc596f89f8c6b5563560d40f9b29b044",
           "export_sha256": "d0fe7ed2a760b257fd9401eabff3847fa985764e94f4c67fdb2a6198589c9bd0",
-          "overlay_reason": "Public installation/source documentation, privacy metadata, or approved bundle-pin integration."
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         },
         {
           "path": "validation/real-calls/scene/design.md",
@@ -6221,7 +6403,7 @@
           "mode": "100644",
           "source_sha256": "efc71984728cb6e7816f7fea4a0e1a2535cc4e4397c312a6eafeffc074c49687",
           "export_sha256": "1fc85f969ba020b87106bc746ec6d7f0a877e27d1b2e1e0af42a4d7c6a915cd4",
-          "overlay_reason": "Public installation/source documentation, privacy metadata, or approved bundle-pin integration."
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         },
         {
           "path": "validation/release-checks.json",
@@ -6243,24 +6425,29 @@
           "mode": "100644",
           "source_sha256": "6ae0cb16c7f7a965922e8105606a4c2deda26ba9347333690aefd8582dc600f0",
           "export_sha256": "910b3bfe1e3a63a35759e11f94b152f32c13060acc42725aaa6c41c2db2caeee",
-          "overlay_reason": "Public installation/source documentation, privacy metadata, or approved bundle-pin integration."
+          "overlay_reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
         }
       ],
       "additions": [
         {
           "path": "public-export-manifest.json",
-          "export_sha256": "112e93b341fcbe80541e8ebeb808216312fdae60fb964dd019d362247762d1dc",
-          "reason": "Public export record or current validation evidence."
+          "export_sha256": "5f4ad1dd673bb6500be645861d3c9fe731962816782bbb5e540cc7405b17bdd9",
+          "reason": "Public export record or actual current validation evidence."
+        },
+        {
+          "path": "validation/public-export-checks.json",
+          "export_sha256": "3b38798e2a8004417387511bd6c70db736aaa8efcb571c19d588c7efe7ff22bf",
+          "reason": "Public export record or actual current validation evidence."
+        },
+        {
+          "path": "validation/r3-integration-checks.json",
+          "export_sha256": "013c4e34324fd2750ce187a50ab517afdb3b2be56c075f9b0dd4be26cd3886c3",
+          "reason": "Public export record or actual current validation evidence."
         },
         {
           "path": "validation/scene-0.9.5-checks.json",
           "export_sha256": "3e084f0829f1f031160294e64767cc99b9cdda3883562b6645eb4fb8f1f1dbe5",
-          "reason": "Public export record or current validation evidence."
-        },
-        {
-          "path": "validation/public-export-checks.json",
-          "export_sha256": "1e94c8c3f007b007d4853e269dbcb78a7d8834027385213ede4a45735a14e937",
-          "reason": "Public export record or current validation evidence."
+          "reason": "Public export record or actual current validation evidence."
         }
       ],
       "scope": "Mother orchestration runtime and public adapters only; business children governed by ZiChan."

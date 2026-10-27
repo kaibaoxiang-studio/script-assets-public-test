@@ -1,0 +1,152 @@
+{
+  "schema_version": "PublicIntegrationChecksV1",
+  "snapshot_tag": "public-test-2026-10-27-r3",
+  "date": "2026-10-27",
+  "status": "passed",
+  "scope": "Actual current public-tree deterministic integration tests and exact-source comparisons. No new model or image calls in this independent check.",
+  "source_commits": {
+    "script-plugins": "b1f232c743a927a4f7c94f02c1dede2fab4e49a0",
+    "ZiChan": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2"
+  },
+  "checks": [
+    {
+      "name": "mother-regressions",
+      "status": "passed",
+      "returncode": 0,
+      "command": [
+        "python3.12",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "asset-design-plugin/tests",
+        "-v"
+      ],
+      "tests_run": 32,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "name": "mother-harness-validation",
+      "status": "passed",
+      "returncode": 0,
+      "command": [
+        "python3.12",
+        "asset-design-plugin/harness.py",
+        "validate"
+      ],
+      "checked_bundle_files": 541,
+      "public_skills": [
+        "asset-design",
+        "asset-character",
+        "asset-scene",
+        "asset-prop"
+      ],
+      "errors": []
+    },
+    {
+      "name": "mother-package-validation",
+      "status": "passed",
+      "returncode": 0,
+      "command": [
+        "python3.12",
+        "asset-design-plugin/scripts/validate_package.py"
+      ],
+      "checked_bundle_files": 541,
+      "errors": []
+    },
+    {
+      "name": "character-snapshot-lock",
+      "status": "passed",
+      "version": "0.2.6.4-local",
+      "files": 159,
+      "hash_mismatches": 0
+    },
+    {
+      "name": "scene-prop-r2-bytes-unchanged",
+      "status": "passed",
+      "baseline_commit": "9115d353369908576fb3f6af7e5dbb586ac463ff",
+      "files": {
+        "scene-assets": 355,
+        "prop-assets": 27
+      },
+      "changed_files": 0
+    },
+    {
+      "name": "asset-extractor-canonical-identity",
+      "status": "passed",
+      "files": 65,
+      "byte_differences": 0,
+      "paths": [
+        ".codex-plugin/plugin.json",
+        "README.md",
+        "RUNTIME.md",
+        "THIRD_PARTY_NOTICES.md",
+        "VALIDATION.md",
+        "capabilities.json",
+        "generation-lock.json",
+        "harness-blueprint.json",
+        "harness.py",
+        "licenses/Bird-s-Nest-MIT.txt",
+        "licenses/skill-creator-Apache-2.0.txt",
+        "plugin.json",
+        "references/asset-rules.md",
+        "references/semantic-review.md",
+        "references/source-notes.md",
+        "references/work-contract.md",
+        "requirements.lock",
+        "runtime/harness_core/__init__.py",
+        "runtime/harness_core/appserver.py",
+        "runtime/harness_core/cli.py",
+        "runtime/harness_core/common.py",
+        "runtime/harness_core/contracts.py",
+        "runtime/harness_core/engine.py",
+        "runtime/harness_core/knowledge.py",
+        "runtime/harness_core/packages.py",
+        "runtime/harness_core/sources.py",
+        "runtime/harness_core/store.py",
+        "schemas/blueprint.schema.json",
+        "scripts/asset_core.py",
+        "scripts/asset_run.py",
+        "scripts/asset_xlsx.py",
+        "scripts/bootstrap.py",
+        "scripts/show_batch.py",
+        "scripts/verify_delivery.py",
+        "skills/extract-asset-table/SKILL.md",
+        "skills/extract-asset-table/agents/openai.yaml",
+        "skills/screenplay-asset-extractor/SKILL.md",
+        "skills/screenplay-asset-extractor/agents/openai.yaml",
+        "skills/script-asset-extractor/SKILL.md",
+        "skills/script-asset-extractor/references/asset_schema.md",
+        "skills/script-asset-extractor/references/character_states.md",
+        "skills/script-asset-extractor/references/excel_output.md",
+        "skills/script-asset-extractor/references/prop_identity.md",
+        "skills/script-asset-extractor/references/semantic_review.md",
+        "skills/script-asset-extractor/references/warning_approvals.md",
+        "skills/script-asset-extractor/scripts/add_native_filters.py",
+        "skills/script-asset-extractor/scripts/asset_validation.py",
+        "skills/script-asset-extractor/scripts/build_xlsx.py",
+        "skills/script-asset-extractor/scripts/character_changes.py",
+        "skills/script-asset-extractor/scripts/character_ledger.py",
+        "skills/script-asset-extractor/scripts/check_workbook.py",
+        "skills/script-asset-extractor/scripts/enrich_descriptions.py",
+        "skills/script-asset-extractor/scripts/export_contract.py",
+        "skills/script-asset-extractor/scripts/parse_script.py",
+        "skills/script-asset-extractor/scripts/prop_identity.py",
+        "skills/script-asset-extractor/scripts/semantic_review.py",
+        "skills/script-asset-extractor/scripts/show_character.py",
+        "skills/script-asset-extractor/scripts/show_episodes.py",
+        "skills/script-asset-extractor/scripts/show_prop.py",
+        "skills/script-asset-extractor/scripts/test_character_ledger.py",
+        "skills/script-asset-extractor/scripts/test_export_contract.py",
+        "skills/script-asset-extractor/scripts/test_prop_identity.py",
+        "skills/script-asset-extractor/scripts/test_semantic_review.py",
+        "skills/script-asset-extractor/scripts/warning_approvals.py",
+        "sources.lock.json"
+      ]
+    }
+  ],
+  "model_calls": 0,
+  "image_calls": 0,
+  "mirror_validation": "Not executed: pending evidence is expected to block mirror.py until the root task records all current checks."
+}

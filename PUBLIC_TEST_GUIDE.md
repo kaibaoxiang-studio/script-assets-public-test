@@ -1,6 +1,6 @@
 # 本轮测试指南
 
-快照：`public-test-2026-10-27-r2`。优先用短稿跑通流程，再选择一份完整稿测试覆盖和续做。单项插件可独立测试。剧本能力以 [script-plugins](https://github.com/kaibaoxiang-studio/script-plugins) 为来源，角色／场景／道具以 [ZiChan](https://github.com/kaibaoxiang-studio/ZiChan) 为来源；本轮资产业务固定提交 `b9bb60204d5aaa3b11d998b096dbb7c746b1038f`，场景为 **0.9.5**。旧快照更新安装见[首页](README.md#安装)。
+快照：`public-test-2026-10-27-r3`。优先用短稿跑通流程，再选择一份完整稿测试覆盖和续做。单项插件可独立测试。剧本能力以 [script-plugins](https://github.com/kaibaoxiang-studio/script-plugins) 为来源，角色／场景／道具以 [ZiChan](https://github.com/kaibaoxiang-studio/ZiChan) 为来源；本轮资产业务固定提交 `c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2`，场景为 **0.9.5**。旧快照更新安装见[首页](README.md#安装)。
 
 ## 1. 剧本标准化
 

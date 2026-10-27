@@ -1382,7 +1382,8 @@
         "references/specialist-contract.md",
         "references/differentiation-framework.md",
         "references/design-detail-standard.md",
-        "references/knowledge/character-hair-design/hair.md"
+        "references/knowledge/character-hair-design/hair.md",
+        "references/knowledge/character-hair-design/avatar-hair-names-07.md"
       ],
       "explicit_only": true
     },
@@ -1592,7 +1593,13 @@
         "references/differentiation-framework.md",
         "references/design-detail-standard.md",
         "references/knowledge/character-face-design/face.md",
-        "references/knowledge/character-face-design/original-face.md"
+        "references/knowledge/character-face-design/original-face.md",
+        "references/knowledge/character-face-design/avatar-face-shapes-06.md",
+        "references/knowledge/character-face-design/avatar-brows-08.md",
+        "references/knowledge/character-face-design/avatar-eyes-09.md",
+        "references/knowledge/character-face-design/avatar-ears-10.md",
+        "references/knowledge/character-face-design/avatar-noses-11.md",
+        "references/knowledge/character-face-design/avatar-lips-12.md"
       ],
       "explicit_only": true
     },
@@ -1696,7 +1703,8 @@
         "references/specialist-contract.md",
         "references/differentiation-framework.md",
         "references/design-detail-standard.md",
-        "references/knowledge/character-face-signature-design/face-memory.md"
+        "references/knowledge/character-face-signature-design/face-memory.md",
+        "references/knowledge/character-face-signature-design/avatar-head-ear-neck-16.md"
       ],
       "explicit_only": true
     },
@@ -1801,7 +1809,8 @@
         "references/differentiation-framework.md",
         "references/design-detail-standard.md",
         "references/knowledge/character-face-decoration-design/face-decoration.md",
-        "references/knowledge/character-costume-designer/state-makeup.md"
+        "references/knowledge/character-costume-designer/state-makeup.md",
+        "references/knowledge/character-face-decoration-design/avatar-makeup-13.md"
       ],
       "explicit_only": true
     },
@@ -1907,7 +1916,9 @@
         "references/design-detail-standard.md",
         "references/knowledge/character-skin-design/skin.md",
         "references/render-texture-standard.md",
-        "references/knowledge/character-skin-design/anti-stereotype-texture.md"
+        "references/knowledge/character-skin-design/anti-stereotype-texture.md",
+        "references/knowledge/character-skin-design/avatar-skin-material-14.md",
+        "references/knowledge/character-skin-design/avatar-facial-hair-15.md"
       ],
       "explicit_only": true
     },

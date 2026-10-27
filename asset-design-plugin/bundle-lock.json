@@ -1,13 +1,13 @@
 {
   "schema_version": "BundledPluginsLockV1",
   "source_repository": "https://github.com/kaibaoxiang-studio/ZiChan",
-  "source_commit": "b9bb60204d5aaa3b11d998b096dbb7c746b1038f",
+  "source_commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
   "plugins": {
     "character-assets": {
-      "version": "0.2.6.2",
+      "version": "0.2.6.4-local",
       "root": "bundled-plugins/character-assets",
       "source_repository": "https://github.com/kaibaoxiang-studio/ZiChan",
-      "source_commit": "b9bb60204d5aaa3b11d998b096dbb7c746b1038f",
+      "source_commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
       "files": [
         {
           "path": ".agents/plugins/marketplace.json",
@@ -18,14 +18,14 @@
         {
           "path": ".codex-plugin/plugin.json",
           "mode": "100644",
-          "git_blob": "cf57fc275f0d68027364f66acb7ae8f48c1ebe9c",
-          "sha256": "c3ab7c5255c3770a5c12e6b1b6695f7e139d6f1c0a7f6929a645f9e4ad491708"
+          "git_blob": "9467188279106afb9ce7bbc22cf6f36500a41cba",
+          "sha256": "c7d68233a6a788d4a3028284d0814f8b884ca97ed72571519e5003f5ae288c4f"
         },
         {
           "path": "README.md",
           "mode": "100644",
-          "git_blob": "7c27d329a19e846c7fc5249b9f04fe67d3e2ad40",
-          "sha256": "bb9c8894dccc76e84ebfb2a1ecb54233f67b556874e3de23b8b60e843474fbcb"
+          "git_blob": "2e3d50d003408a04c7d18f5dea2df78cd6fa6a95",
+          "sha256": "29b75b440c725fb0d3f4e11a53e139855c33d0c95ba1da20c3d5287d07e8147c"
         },
         {
           "path": "RUNTIME.md",
@@ -42,8 +42,8 @@
         {
           "path": "capabilities.json",
           "mode": "100644",
-          "git_blob": "9879c7c64dd568ec4280191f096d7bc86ee08d43",
-          "sha256": "904962a8955e2361a19e2a1adc602cba59e7339a9cc7185d412ca7e3a00a0794"
+          "git_blob": "517f9b19ed643648c41e46dc3b3d9f9282a8d30a",
+          "sha256": "f2eac75e1f02e4f24e3f4ff9ce5a444dcbf3abec417b5acfec48786db22d9c6b"
         },
         {
           "path": "examples/body-proportion-contract.md",
@@ -69,7 +69,7 @@
           "git_blob": "952782b50dd4bd17cd50d525b7666a977c2802da",
           "sha256": "a9f07741a300ddc03952a256b38be744d911aca403f76f4ae31285bd17957160",
           "upstream_sha256": "eb8565b31ce93f6285f4afb0f018d6b46eefa1e8fe05938168bb8186d9dd637e",
-          "public_overlay": "Source-locator anonymization; original design guidance preserved."
+          "public_overlay": "Public source-locator anonymization and corresponding generation lock."
         },
         {
           "path": "examples/sample-assets.json",
@@ -110,18 +110,18 @@
         {
           "path": "generation-lock.json",
           "mode": "100644",
-          "git_blob": "80a9890979794013ffd873640e03c4f20db2ed6c",
-          "sha256": "e91ae8eb6cbb709e36411cb0f25d23cb09dc390deb9e14d3b6b9cdb8cb5c6bcc",
-          "upstream_sha256": "42f95d0aff529611a3cfea60491c36991aa83f3cbfeb0f1367d02697cde055b1",
-          "public_overlay": "Source-locator anonymization; original design guidance preserved."
+          "git_blob": "1e5e963b27cd99c3d0870b132c2f5285c305a8d5",
+          "sha256": "f7d34a19460794510c7321962d5e92e81c85572a08979e20446e19a0712ccab5",
+          "upstream_sha256": "bda38e992f0896ed25ffd137cb9bcbb8004d16b01f9051be414ab87f6d8b5f5d",
+          "public_overlay": "Public source-locator anonymization and corresponding generation lock."
         },
         {
           "path": "harness-blueprint.json",
           "mode": "100644",
-          "git_blob": "7f51bbae09bcb86828d21f79915a658ed02963ca",
-          "sha256": "0110291f0f38a6bd1c881277ff6785af1418c89c2abb676db6b3cc09c23088dc",
-          "upstream_sha256": "2af89a99dd592bfa09c4ba26d304c30589535e76246314d283445b4aec028fbf",
-          "public_overlay": "Source-locator anonymization; original design guidance preserved."
+          "git_blob": "bc72ff4e64d01eaa77ab45725199e572e3e08066",
+          "sha256": "db33af3dab154441b9922aac93e10a6887ae88ccfa8ddc9297a6ca6390627e89",
+          "upstream_sha256": "e6927d6f4d1e12acbec4036870c5b0974a6d49016ddc35c2292c5fe51f43ae40",
+          "public_overlay": "Public source-locator anonymization and corresponding generation lock."
         },
         {
           "path": "harness.py",
@@ -132,8 +132,8 @@
         {
           "path": "knowledge-lock.json",
           "mode": "100644",
-          "git_blob": "25b927e0744a538d1f1e9e6e904d9c1e5b36a244",
-          "sha256": "c6ab9a6573c86754fde45610ddc503db1ded3807001d838d4c30691d1b309f53"
+          "git_blob": "a14e8760071abf1a86a5098f4c9e2324d272948b",
+          "sha256": "5ac737153fe16a7bcc1cf450567f8215812afad285018498062c397faeff2d1c"
         },
         {
           "path": "knowledge/archive-manifest.json",
@@ -144,8 +144,8 @@
         {
           "path": "knowledge/index.md",
           "mode": "100644",
-          "git_blob": "32f2eee15a45cde0e7f8e0f459a78c06cedc6787",
-          "sha256": "e03822efd424338bdf3b78e4ec08b92561801169cb6278386ab4e06927217f49"
+          "git_blob": "d60cf879770c78fcd55cc1a1187c10400d20a828",
+          "sha256": "61794b920f4a40ef39251148733b3f47f03ec9fb9db9fc681b6a200bec919221"
         },
         {
           "path": "knowledge/source-register.json",
@@ -174,8 +174,14 @@
         {
           "path": "plugin.json",
           "mode": "100644",
-          "git_blob": "b7d8d790848d1078469b79f04db64a523d8a7836",
-          "sha256": "4f972afd29f4a4168d2d21135cb732215d33a6b85e690ed9ff54f265439330be"
+          "git_blob": "f8eed3923f1abfcf4fae86ad842dc35487c603d2",
+          "sha256": "8b6807c82aed8ca93b77086bda6c0d2e3a1ca44304dc98a170c65f88d2d60457"
+        },
+        {
+          "path": "references/avatar-identity-granularity.md",
+          "mode": "100644",
+          "git_blob": "d76ae4682057675d2ad7a44b3b4f7491f40a4761",
+          "sha256": "e221fa04ec5ffd6ca5fb2198048b9a3e3ce1a65187cdd7a1eed3f13395a2a7b1"
         },
         {
           "path": "references/character-design.md",
@@ -204,8 +210,8 @@
         {
           "path": "references/design-detail-standard.md",
           "mode": "100644",
-          "git_blob": "b5d554dcaa82fdf9bc8e5ccab1fb8e68cf4153ad",
-          "sha256": "d429ffa72faca6e2296c3745a15382c7f5614fd3576751ca11976c420a7a6c00"
+          "git_blob": "1d67c46b90c509119c3a32ec826581460d8c10fe",
+          "sha256": "1768be80f6051676111d0025f3f6674ce9b2de08368aa8f4102d9de1acd40ebf"
         },
         {
           "path": "references/differentiation-framework.md",
@@ -267,7 +273,7 @@
           "git_blob": "8c8d110c9dd6bb63388abe3ebd137b905fcc6980",
           "sha256": "d77d604e43e582a0a0d0eea19a0f5e57b6613ba760a7fcea7b836e1087527d10",
           "upstream_sha256": "e6a81fe7dde6b6138739d2577309fe552b1df4d5574895e38331f9ef1cfc2fc8",
-          "public_overlay": "Source-locator anonymization; original design guidance preserved."
+          "public_overlay": "Public source-locator anonymization and corresponding generation lock."
         },
         {
           "path": "references/interfaces.md",
@@ -366,10 +372,52 @@
           "sha256": "a0c9e3ffea970fa51472ef61514da59b6a75f239d06d9cf5e03b0e6830de52c1"
         },
         {
+          "path": "references/knowledge/character-face-decoration-design/avatar-makeup-13.md",
+          "mode": "100644",
+          "git_blob": "8e5f071f21fafb447e920b928ae05291229cb97a",
+          "sha256": "df722a2f530b3df7bba86726825ffb05db8fd24cc2fb91062b92431732f68755"
+        },
+        {
           "path": "references/knowledge/character-face-decoration-design/face-decoration.md",
           "mode": "100644",
           "git_blob": "80338a41e2f23ca923bd8d0ab1625cc3450d1079",
           "sha256": "3fc90db8d09b976f8519a27b9da7d169f4336978e6daf75ebd2b527b0fc4b937"
+        },
+        {
+          "path": "references/knowledge/character-face-design/avatar-brows-08.md",
+          "mode": "100644",
+          "git_blob": "a99ac6a001c86c5063d2bdf2a6dad243c5ba4681",
+          "sha256": "83e23543d7995cd283925458d0460b780e6f8ffcf0da7f981546fe4c25687134"
+        },
+        {
+          "path": "references/knowledge/character-face-design/avatar-ears-10.md",
+          "mode": "100644",
+          "git_blob": "cce25869272d462b4583da047e9fbc35d8f53be7",
+          "sha256": "4e57d77f46487326f636d89f07794671fe0a92ae3f6a98de8f1ee4db265308df"
+        },
+        {
+          "path": "references/knowledge/character-face-design/avatar-eyes-09.md",
+          "mode": "100644",
+          "git_blob": "25e544a890d45dc01c0a295e74abfe070d3c8911",
+          "sha256": "72a3ee18b08af4b1b79230b9615ad42b504528efa76b0fe8911c36e97db9ec98"
+        },
+        {
+          "path": "references/knowledge/character-face-design/avatar-face-shapes-06.md",
+          "mode": "100644",
+          "git_blob": "3e6e24574084f70147014664965ed21e1d7abc59",
+          "sha256": "9232fb13c1cd138ca234168c316f0f51b49cb1ce662f4cc721c79e1418aea288"
+        },
+        {
+          "path": "references/knowledge/character-face-design/avatar-lips-12.md",
+          "mode": "100644",
+          "git_blob": "4b8e501413754b1fdeb6e9c930c4fdcdf1d373d4",
+          "sha256": "e65f85deaa76c6a8bf1c970a2e7b6d11431cbc1f03ed16b33617f7044d6b96c8"
+        },
+        {
+          "path": "references/knowledge/character-face-design/avatar-noses-11.md",
+          "mode": "100644",
+          "git_blob": "4464112c93bddcf439c5c38ee1815a6c6b5fd08f",
+          "sha256": "1d9aca5693919a8c93d198d3f52fe8e6afc44fb86a50d414645378f3f2e1c2bb"
         },
         {
           "path": "references/knowledge/character-face-design/face.md",
@@ -384,6 +432,12 @@
           "sha256": "791f79fac516716ee5579829f7311db4ba3ba27894fcc6402eadbd0581f19286"
         },
         {
+          "path": "references/knowledge/character-face-signature-design/avatar-head-ear-neck-16.md",
+          "mode": "100644",
+          "git_blob": "8d1ddc24e2cfb194111e911e8688ea30c98c7651",
+          "sha256": "8e055a2489648a6bb4970e2b367e99225ac83204c28d1a9a29e09fa131f905c8"
+        },
+        {
           "path": "references/knowledge/character-face-signature-design/face-memory.md",
           "mode": "100644",
           "git_blob": "d2662dd36f4a669a988d9c39359b391b3f72892b",
@@ -394,6 +448,12 @@
           "mode": "100644",
           "git_blob": "2034796a40adeae613c54b4fbf38c726e3fc12fe",
           "sha256": "a34fa6815f186af72626fd48286edd0ba89de0b4b6a3ed879d17ab136ad0f59c"
+        },
+        {
+          "path": "references/knowledge/character-hair-design/avatar-hair-names-07.md",
+          "mode": "100644",
+          "git_blob": "9913ec861085784e7230198aae16a5a717c2eab2",
+          "sha256": "0a3708a25985383defad01a5cbc74fee224cad35bb9b03308d39fc7260f0ac38"
         },
         {
           "path": "references/knowledge/character-hair-design/hair.md",
@@ -456,6 +516,18 @@
           "sha256": "f885d50cd23d6b23045b327349d939857afaa8c078efd21102ff3e6e32772462"
         },
         {
+          "path": "references/knowledge/character-skin-design/avatar-facial-hair-15.md",
+          "mode": "100644",
+          "git_blob": "52c2553b07993892f929603e4072c58686adfdcb",
+          "sha256": "cdd06174d46982f805317e525118198a73d04a5147c30556690ebf0d410d5ff7"
+        },
+        {
+          "path": "references/knowledge/character-skin-design/avatar-skin-material-14.md",
+          "mode": "100644",
+          "git_blob": "430097ac93c9e8cf32e28d324c71fcfc27eae6f9",
+          "sha256": "9f67f9bef97cf6488db30faed537cb72fd922b2fb4fe8cd2d0c86ff92e9aa7f7"
+        },
+        {
           "path": "references/knowledge/character-skin-design/skin.md",
           "mode": "100644",
           "git_blob": "de06606f5ba186d028d1cd9d0ba454f7c105cdaf",
@@ -482,26 +554,26 @@
         {
           "path": "references/prompting.md",
           "mode": "100644",
-          "git_blob": "679feada4e0731da4458e21a014f0962101167e1",
-          "sha256": "30b8c8b85f10604f98860a9b45581807fc4f011f0d0a141a004c17379f74ac8c"
+          "git_blob": "7271c18d542eafe16cd3c4ea07b6fd987e4ecae5",
+          "sha256": "3653389c1992277e736af42c508e5b63baaa1c1190891b2dbf35733392daffea"
         },
         {
           "path": "references/render-texture-standard.md",
           "mode": "100644",
-          "git_blob": "e3af9d9fd25baea57a40d0cf112bef2d2bab742f",
-          "sha256": "dccb25c8d221e88a7b32b857c009f619b86226bcdebf6429b8b76b32bb621452"
+          "git_blob": "c5055f302549f6553063ba2e8f1a916d81620360",
+          "sha256": "1820f7aa3fc42a78d33aa701768c23a43c251b0f21620c879092a62eedd58559"
         },
         {
           "path": "references/review.md",
           "mode": "100644",
-          "git_blob": "62ff89eb7844b1a30ac3c1105cc317883592e41e",
-          "sha256": "1f9e085ce70bc9174f334bfa61448db4acbf04e400f9da64da37a31d70bb92d2"
+          "git_blob": "68fd4036d3f071d7934e9e05371cc3d443dea5f0",
+          "sha256": "9888645506f0111f005239fa4d6a25c4a5ecb10b9385d86afae230cf397366c4"
         },
         {
           "path": "references/routing-and-integration.md",
           "mode": "100644",
-          "git_blob": "82f9600ad0bafc4bc382b2b7405e1c8c661bf2bd",
-          "sha256": "33f3e088bbceac0dbb8780f6bcf05e3ebfb7a152da33c99bdef2cd3cd1600907"
+          "git_blob": "84c08f3c6999bab2df4931a7a4fd85599f97ddaf",
+          "sha256": "411e75766f5df0483d3d989bd9e8b2ef94db39e31eda0aa51c738b73de372900"
         },
         {
           "path": "references/source-notes.md",
@@ -572,8 +644,8 @@
         {
           "path": "runtime/harness_core/packages.py",
           "mode": "100644",
-          "git_blob": "496bfeb12e1eb6769f674fc97dafbd126cfc4eea",
-          "sha256": "67a687960d152eddefa38fbba2d8907b2dfa53717709421a201e16125cf599c9"
+          "git_blob": "3e29101d7514a05a52afcb63c27197edf70d41b1",
+          "sha256": "cdd35b30bdf1f78557cabc7cda9ad9bd854e2606de21bea482d33c36c2a703e0"
         },
         {
           "path": "runtime/harness_core/sources.py",
@@ -632,8 +704,8 @@
         {
           "path": "skills/character-assets/SKILL.md",
           "mode": "100644",
-          "git_blob": "c682bb83f7174aaceab0fa9ee61fb614a2003656",
-          "sha256": "14700d325011347b1442d972884192e82b93040b8d979320e88be5470539e862"
+          "git_blob": "5fdf349a1c205772633200b7e78e888cbb293798",
+          "sha256": "81fe72ed36e83b0a95f6c20ddfe7ee41d275c17546d0b15776e9a0e1f1e31751"
         },
         {
           "path": "skills/character-assets/agents/openai.yaml",
@@ -776,8 +848,8 @@
         {
           "path": "skills/character-face-decoration-design/SKILL.md",
           "mode": "100644",
-          "git_blob": "913fa0cb6388159dfe6f43318aba91184501aa03",
-          "sha256": "e6405c370e46234aca71c053ccc582d3026ea19ee5ba12ca99ca3f287ef80126"
+          "git_blob": "47107da6527707524047fd7116727407634ec425",
+          "sha256": "c8eff1946e5d9b7e45670c676bc4a856a7097f9abbaf88d6062930d19525b01e"
         },
         {
           "path": "skills/character-face-decoration-design/agents/openai.yaml",
@@ -788,8 +860,8 @@
         {
           "path": "skills/character-face-design/SKILL.md",
           "mode": "100644",
-          "git_blob": "dc277d1f95574c1af5d22234d095b59c7d5c65e5",
-          "sha256": "8fd0168775d10f327ab584224a54d794cc51744042f6691ddd5aecc285ed08d7"
+          "git_blob": "07cced2c72807f108df60f3bd2d9ce072fcc6e10",
+          "sha256": "b542ceb788c6f9fdeb96c53fbb855d16c302e5987787fecfaee77ef5f012eba1"
         },
         {
           "path": "skills/character-face-design/agents/openai.yaml",
@@ -800,8 +872,8 @@
         {
           "path": "skills/character-face-signature-design/SKILL.md",
           "mode": "100644",
-          "git_blob": "928aef5211e89533d40cd20811b0838311c375e1",
-          "sha256": "f8a4b2cca9b4377af7bd0b99dbc08ef72ad70001a7a89f6f53d89870e4bf2bb8"
+          "git_blob": "aab907cb0d394d197ff617accec7b06e416c9153",
+          "sha256": "3c700bab85c2688ac975728024028998490faafc6c9601b1e0108dc9fdac54b6"
         },
         {
           "path": "skills/character-face-signature-design/agents/openai.yaml",
@@ -824,8 +896,8 @@
         {
           "path": "skills/character-hair-design/SKILL.md",
           "mode": "100644",
-          "git_blob": "7a44f3202a09e57af882d36fe8b108d14cb09847",
-          "sha256": "5e5543967912bda5729d36ecec02441fbe834eb36ffbc59a4363007122b92f10"
+          "git_blob": "32bc1eafa985fefb08fdcf491f01583a5525c548",
+          "sha256": "ffec61774ff3eadf5b41b463483aad7a80d7cc4184f4dcafb266419b93db7d05"
         },
         {
           "path": "skills/character-hair-design/agents/openai.yaml",
@@ -848,8 +920,8 @@
         {
           "path": "skills/character-image-prompt/SKILL.md",
           "mode": "100644",
-          "git_blob": "4a4ff6bbe0277ca13779bc881b1e375b449c3ddc",
-          "sha256": "86a45b95e586553ef744458552232d28de3221fdf836b573abc7f94aa791e762"
+          "git_blob": "1700d68704274bd02dee81bb23d52016823b6db7",
+          "sha256": "6de52951611dad56657740be54d8628a1590e859ae794839fde96b143bd49555"
         },
         {
           "path": "skills/character-image-prompt/agents/openai.yaml",
@@ -860,8 +932,8 @@
         {
           "path": "skills/character-image-review/SKILL.md",
           "mode": "100644",
-          "git_blob": "09a129277b803aea2c21dc869b11609403b1fa4a",
-          "sha256": "9cd74fdebab061e598307a519da6ddfffecf0b624b8b97e47fe2df77348c3671"
+          "git_blob": "55a624bf84935293b310a316c8bd8eac35f9af4a",
+          "sha256": "98a22cb121980f488d20968a4378c3f3a11ad46008dfb2fee99beb06852d5916"
         },
         {
           "path": "skills/character-image-review/agents/openai.yaml",
@@ -872,8 +944,8 @@
         {
           "path": "skills/character-skin-design/SKILL.md",
           "mode": "100644",
-          "git_blob": "82f56f4c0cd6287e8294629bb4469fecf1ff5ea4",
-          "sha256": "ee520fb8f7aadce65041484cab9971f954efb7e8b2ce0e5ef4c045c0fd579d65"
+          "git_blob": "641834c37585f8f23b0af5bd4eac5610aaa4570f",
+          "sha256": "ebb6afaa1fdac40ffb175bf3c6f087bb845148e9b00086cc3db4b69a0869a03e"
         },
         {
           "path": "skills/character-skin-design/agents/openai.yaml",
@@ -905,7 +977,7 @@
       "version": "0.9.5",
       "root": "bundled-plugins/scene-assets",
       "source_repository": "https://github.com/kaibaoxiang-studio/ZiChan",
-      "source_commit": "b9bb60204d5aaa3b11d998b096dbb7c746b1038f",
+      "source_commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
       "files": [
         {
           "path": ".codex-plugin/plugin.json",
@@ -3067,7 +3139,7 @@
       "version": "0.2.5",
       "root": "bundled-plugins/prop-assets",
       "source_repository": "https://github.com/kaibaoxiang-studio/ZiChan",
-      "source_commit": "b9bb60204d5aaa3b11d998b096dbb7c746b1038f",
+      "source_commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
       "files": [
         {
           "path": ".codex-plugin/plugin.json",
@@ -3236,7 +3308,7 @@
   },
   "distribution": {
     "kind": "public-test-export",
-    "snapshot_tag": "public-test-2026-10-27-r2",
+    "snapshot_tag": "public-test-2026-10-27-r3",
     "mother_shell_source": "kaibaoxiang-studio/asset-design-plugin",
     "mother_shell_commit": "2c4a66669ced1d2ee2cc8cd1c1636c09e67599bf",
     "capability_authority": "kaibaoxiang-studio/ZiChan",

@@ -1,12 +1,12 @@
-# 开宝箱工作室 · 剧本插件 1.0
+# 开宝箱工作室 · 剧本插件 1.0.2
 
-> 公开测试镜像：剧本业务权威来源为 [script-plugins](https://github.com/kaibaoxiang-studio/script-plugins)，本目录固定其 `main` 提交 `c1a101d87cd2d35f8c92ac382ed34e3860fb046e`。统一测试仓库为 [script-assets-public-test](https://github.com/kaibaoxiang-studio/script-assets-public-test)，本轮固定标签为 `public-test-2026-10-27-r2`；安装与反馈入口见[统一测试说明](../README.md)。保留来源组件版本，以下历史测试数据不代表本轮重新执行了模型测试。
+> 公开测试镜像：剧本业务权威来源为 [script-plugins](https://github.com/kaibaoxiang-studio/script-plugins)，本目录固定其 `main` 提交 `b1f232c743a927a4f7c94f02c1dede2fab4e49a0`。统一测试仓库为 [script-assets-public-test](https://github.com/kaibaoxiang-studio/script-assets-public-test)，本轮固定标签为 `public-test-2026-10-27-r3`；安装与反馈入口见[统一测试说明](../README.md)。保留来源组件版本，以下历史测试数据不代表本轮重新执行了模型测试。
 
 团队共建的三个业务插件：**剧本标准化（一级）**、**场记表提取（二级）**、**剧本资产表提取（二级）**。两项二级能力可读取同一份一级标准 JSON 并分别运行，资产表还提供标准 DOCX 主入口；节拍归入场记表。
 
-项目版本为 **1.0.1（2026-10-22）**。剧本标准化组件为 **0.1.2**，其他三个组件仍为 **0.1.0**。仓库包含完整插件、维护源码、统一安装目录、独立 ZIP 和脱敏测试证据。
+项目版本为 **1.0.2（2026-10-27）**。剧本标准化为 **0.1.2**，资产提取器为 **0.1.1**，场记与 Creator 为 **0.1.0**。仓库包含完整插件、维护源码、统一安装目录、独立 ZIP 和脱敏测试证据。
 
-本镜像采用来源 `main` 的最新内容：剧本资产表提取插件外层版本仍为 **0.1.0**，其中标准 DOCX 主入口 `script-asset-extractor` 为 **0.1.1**。它与读取一级 JSON 的 `extract-asset-table` 兼容入口同时保留；向资产设计母插件交接时，优先使用保留来源哈希的标准剧本 JSON 与对应资产 JSON。
+本镜像采用来源 `main` 的最新内容：剧本资产表提取插件外层版本为 **0.1.1**，其中标准 DOCX 主入口 `script-asset-extractor` 为 **0.1.2**。它与读取一级 JSON 的 `extract-asset-table` 兼容入口同时保留；向资产设计母插件交接时，优先使用保留来源哈希的标准剧本 JSON 与对应资产 JSON。
 
 ## 功能与交付
 
@@ -36,7 +36,7 @@ flowchart TD
 添加本轮统一公开测试市场：
 
 ```sh
-codex plugin marketplace add https://github.com/kaibaoxiang-studio/script-assets-public-test.git --ref public-test-2026-10-27-r2
+codex plugin marketplace add https://github.com/kaibaoxiang-studio/script-assets-public-test.git --ref public-test-2026-10-27-r3
 codex plugin add screenplay-standardizer@script-assets-public-test
 codex plugin add scene-log-extractor@script-assets-public-test
 codex plugin add screenplay-asset-extractor@script-assets-public-test
@@ -75,3 +75,7 @@ scripts/                            仓库检查与 ZIP 打包
 creator-src 保存维护脚本、规则、蓝图和测试；同级插件目录是独立安装快照。场记源码来自团队 [ai-continuity-sheet](https://github.com/kaibaoxiang-studio/ai-continuity-sheet) 的固定版本，维护关系见其组件 README。
 
 旧 capabilities/01–05 归档和三级设计保留在 Git 历史中。见 [CHANGELOG](CHANGELOG.md)、[开发说明](docs/development.md)、[贡献指南](CONTRIBUTING.md)和[来源说明](NOTICE.md)。
+
+## 本轮提取完成检查修复
+
+JSON 与 DOCX 两条链路均要求逐场、逐原文单元的语义审核，审核绑定来源及资产快照；未完成、漏行、错引用或过期审核会阻止正式导出。有依据的零道具可以交付，未知归属、无破损变化不是剔除已使用物件的理由。当前验证以统一仓库 public-validation.json 为准，以上历史统计不作为新版本验证。

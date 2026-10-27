@@ -2,7 +2,7 @@
 
 从完整剧本建立共同美术基准，统筹角色、场景、道具的具体设计，并保留每个决定的来源、版本、审批和交付记录。
 
-> 本页描述公开测试快照 `public-test-2026-10-27-r2`。母插件外壳保持 v0.1.0，包内角色、场景、道具业务以 [ZiChan](https://github.com/kaibaoxiang-studio/ZiChan) 提交 `b9bb60204d5aaa3b11d998b096dbb7c746b1038f` 为准，场景为 v0.9.5。来源文档经过匿名化，变换与原始字节依据见 [公开导出清单](public-export-manifest.json)。
+> 本页描述公开测试快照 `public-test-2026-10-27-r3`。母插件外壳保持 v0.1.0，包内角色、场景、道具业务以 [ZiChan](https://github.com/kaibaoxiang-studio/ZiChan) 提交 `c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2` 为准，场景为 v0.9.5。来源文档经过匿名化，变换与原始字节依据见 [公开导出清单](public-export-manifest.json)。
 
 剧本业务的权威来源是 [script-plugins](https://github.com/kaibaoxiang-studio/script-plugins)；角色、场景和道具的权威来源是 ZiChan。母仓库 [asset-design-plugin](https://github.com/kaibaoxiang-studio/asset-design-plugin) 提供跨资产总控外壳，本公开快照单独更新其领域封装，不对母仓库发布新正式版本。
 
@@ -23,7 +23,7 @@
 
 需要 Python 3.12+、Codex CLI 和当前用户的可用模型配置。包内 Python 依赖通过 `requirements.lock` 固定；缺少依赖时按启动器提示安装到用户缓存。
 
-本公开测试版从[统一公开市场](../README.md#安装)安装，或下载 [r2 完整测试包](https://github.com/kaibaoxiang-studio/script-assets-public-test/releases/tag/public-test-2026-10-27-r2)，解压后在测试包根目录运行 `python3.12 scripts/install.py`。随后可在本资产插件目录运行 `python3.12 harness.py doctor`。
+本公开测试版从[统一公开市场](../README.md#安装)安装，或下载 [r3 完整测试包](https://github.com/kaibaoxiang-studio/script-assets-public-test/releases/tag/public-test-2026-10-27-r3)，解压后在测试包根目录运行 `python3.12 scripts/install.py`。随后可在本资产插件目录运行 `python3.12 harness.py doctor`。
 
 公开市场的资产入口为 `asset-design@script-assets-public-test`。旧标签安装者按首页先更新市场注册和资产插件缓存。安装后新开聊天刷新入口列表；母包已包含锁定的角色、场景、道具目录，原有独立安装可并存。
 
@@ -127,11 +127,11 @@ python3 harness.py index --project /absolute/project
 
 | 子插件 | 锁版版本 | 主要入口 |
 | --- | --- | --- |
-| 角色资产插件 | v0.2.6.2 | `character-assets` |
+| 角色资产插件 | v0.2.6.4-local | `character-assets` |
 | 场景资产插件 | v0.9.5 | `sence-prompts` |
 | 道具资产插件 | v0.2.5 | `prop-concept-design` |
 
-本轮三类业务来源为 ZiChan 提交 `b9bb60204d5aaa3b11d998b096dbb7c746b1038f`，提交及逐文件哈希保存在 [bundle-lock.json](bundle-lock.json)，原目录、知识引用与来源声明随包保留。每次公开测试更新显式核对权威来源、锁版并检查兼容，不由旧母包版本推定领域内容。封装说明见 [来源追溯](references/package-provenance.md)及 [第三方来源](THIRD_PARTY_NOTICES.md)。
+本轮三类业务来源为 ZiChan 提交 `c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2`，提交及逐文件哈希保存在 [bundle-lock.json](bundle-lock.json)，原目录、知识引用与来源声明随包保留。每次公开测试更新显式核对权威来源、锁版并检查兼容，不由旧母包版本推定领域内容。封装说明见 [来源追溯](references/package-provenance.md)及 [第三方来源](THIRD_PARTY_NOTICES.md)。
 
 ```sh
 python3 harness.py validate

@@ -1,4 +1,8 @@
-# 角色资产知识索引 v0.2.6.1
+# 角色资产知识索引 v0.2.6.4-local
+
+人形基础头像在主控完成全文理解与比较组之后，读取 [头像命名、颗粒度与材质边界](../references/avatar-identity-granularity.md)。按当前问题调用脸型与五官、发型、皮肤、妆容、头耳颈饰专项；用户提供的 06–16 资料已分别精炼成对应能力的独立快照，按需加载，不把单一角色试验的外观设为全员默认。头耳颈饰在剧本留白时仍可提出候选，但必须说明设计锚点、物理佩戴与待审状态；允许无饰品。
+
+用户要求“头像从 0 到 1 全维度”时，主控逐项完成脸型、发型、眉、眼、耳、鼻、唇、皮肤、稳定标记、妆容与头耳颈饰，按已确认选择合成无板块标题的提示词。用户要求先看词再看图时先展示正文；会话可用图像工具且用户已授权生图才生成未批准预览，并实际看图。正式项目仍按阶段冻结、审查和批准；纯对话测试遵循用户不写项目文件的边界。
 
 无台词群演／群像先由 `plan.asset_mode=ensemble` 路由 `$character-ensemble-designer`，加载 `references/group-ensemble.md`：剧本明确人数照数、未明确标代表人数；按获批世界美术基准做一张全身同画布执行图。有指定台词者走 `speaking_extra`，每状态只做一张独立 9:16 四格执行图。下文服饰设计师与四图链路只适用于常规 `individual`。
 
@@ -16,14 +20,15 @@
 | 无台词群演群像 | `$character-ensemble-designer`、`references/group-ensemble.md`、`references/differentiation-framework.md` | 核人数与同组差异，按项目获批风格设计一张全身同画布执行图 |
 | 单张或批量产出、状态与技能路由 | `references/routing-and-integration.md`、`references/workflow.md` | 规格化需求，用 CLI plan 列阻断，按阶段和状态交接 |
 | 环境、资源、科技改变外观 | `references/knowledge/character-world-appearance-design/world-appearance.md` | 区分实际接触的机制推演与世界相容的主动创作选择；没外观原文不等于跳过设计，避免族群刻板映射 |
-| 面部标记、妆容或状态变化 | `references/knowledge/character-face-decoration-design/face-decoration.md` | 稳定痕迹、主动施加、临时效果分层，逐项写叙事与连续性 |
+| 面部标记、妆容或状态变化 | `references/knowledge/character-face-decoration-design/face-decoration.md`、`references/knowledge/character-face-decoration-design/avatar-makeup-13.md` | 稳定痕迹、主动施加、临时效果分层；素颜与低覆盖裸妆区分，逐项写范围和连续性 |
+| 剧本未写头耳颈饰但需评估识别点 | `$character-face-signature-design`、`references/knowledge/character-face-signature-design/avatar-head-ear-neck-16.md` | 从世界、功能、个人选择、资源四类锚点形成待审候选或明确留空；不强制每人一件故事饰品 |
 | 特征主次与三维形体缺口 | `references/feature-focus-and-body-form.md`；按路由分别加载 `character-feature-focus/feature-focus.md`、`character-body-design/body-proportion-3d.md` | 理解与意图先于路由；普通主控执行规范、复杂真实会诊；到身体阶段给可核对比例、体块和动作 |
 | 逐人设计、Grill Me | `references/character-design.md`、`references/costume-and-morphology.md`、`references/specialist-contract.md` | 先理解定位并形成意图，主动填补留白；按难度采用inline或independent，不强制全员走完岗位 |
 | 新建重点人形设计卡过于概括 | `references/design-detail-standard.md`、`references/knowledge/character-design/anti-stereotype-texture.md` | 对应阶段具象细节、十三项规划及实际执行收据；最终V2.5合成卡 |
 | 剧本与三份输入冲突 | `references/evidence.md` | 按原文证据优先列疑点，不暗改事实 |
-| 头像、九宫格、全身模卡提示词 | `references/prompting.md`、`references/model-card-baseline.md` | 从当前阶段已确认依据抽取可见锚点；preview冻结草案，指定参考职责和模卡衣着 |
+| 头像、九宫格、全身模卡提示词 | `references/prompting.md`、`references/model-card-baseline.md`、`references/avatar-identity-granularity.md` | 从当前阶段已确认依据抽取可见锚点；人形头像正文无板块标题，preview冻结草案，指定参考职责和模卡衣着 |
 | 每状态服饰设计图 | `references/costume-design-stage.md`、`references/prompting.md` | 一状态一图，绑定三张已批准身份图及状态卡 |
-| 油亮、蜡感、材质空泛或脏糊 | `references/render-texture-standard.md`，再按设计/提示词/审查/修图的对应 `anti-stereotype-texture.md` 快照加载 | 分开设计层与渲染层；按媒介、证据和回图缺陷选词与修复 |
+| 油亮、蜡感、材质空泛、皮肤压印纹或发际乱丝 | `references/render-texture-standard.md`、`references/avatar-identity-granularity.md`，再按设计/提示词/审查/修图的对应 `anti-stereotype-texture.md` 快照加载 | 分开设计层与渲染层；正常头像尺度不主动强调全脸毛孔/绒毛和逐根额前细丝，实际回图复核 |
 | 外部出图的通用提示词结构与原样中文 | `references/knowledge/character-image-prompt/hedgehog-general-image-skill.md`、`references/prompting.md` | 区分新图/编辑，控制补充细节，逐张标注参考图职责 |
 | 已批准的 2D→3D 呈现 | `references/knowledge/character-image-prompt/hedgehog-2d3d.md`、`references/prompting.md` | 保留身份与服装，只转换已批准的媒介、材质和光照 |
 | 表情资产 | `references/expression.md`、`references/prompting.md` | 默认九宫格并生成图内中文标签；16 格须明确用户选择 |

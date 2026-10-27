@@ -9,9 +9,9 @@ import os
 from pathlib import Path
 import subprocess
 
-SOURCE_COMMIT = "b9bb60204d5aaa3b11d998b096dbb7c746b1038f"
+SOURCE_COMMIT = "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2"
 SOURCE_REPOSITORY = "https://github.com/kaibaoxiang-studio/ZiChan"
-VERSIONS = {"character-assets": "0.2.6.2", "scene-assets": "0.9.5", "prop-assets": "0.2.5"}
+VERSIONS = {"character-assets": "0.2.6.4-local", "scene-assets": "0.9.5", "prop-assets": "0.2.5"}
 
 
 def git(repo: Path, *args: str) -> bytes:

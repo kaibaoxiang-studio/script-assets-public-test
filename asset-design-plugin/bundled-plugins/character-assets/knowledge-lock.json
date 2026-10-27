@@ -320,6 +320,116 @@
       "capability_ids": [
         "character-costume-designer"
       ]
+    },
+    {
+      "source_id": "avatar-face-shapes-06",
+      "source_sha256": "ba9af77417f797921ef0d8d142a631bdea7ed5d0bf94d86f384b04df4967e409",
+      "origin": "06-脸型名称全集-三套体系对照表.md",
+      "path": "references/knowledge/character-face-design/avatar-face-shapes-06.md",
+      "rules_sha256": "9232fb13c1cd138ca234168c316f0f51b49cb1ce662f4cc721c79e1418aea288",
+      "capability_ids": [
+        "character-face-design"
+      ]
+    },
+    {
+      "source_id": "avatar-hair-names-07",
+      "source_sha256": "0c60fdaae99b462048f562e10bfb11a57491ef2ba204ede9523c2887a1e2d701",
+      "origin": "07-发型名称全集-动画游戏行业发型命名.md",
+      "path": "references/knowledge/character-hair-design/avatar-hair-names-07.md",
+      "rules_sha256": "0a3708a25985383defad01a5cbc74fee224cad35bb9b03308d39fc7260f0ac38",
+      "capability_ids": [
+        "character-hair-design"
+      ]
+    },
+    {
+      "source_id": "avatar-brows-08",
+      "source_sha256": "a8961f9de4a66703ee903b76370d027dea4db57e57e00df93e14294978ccb0a3",
+      "origin": "08-眉毛名称全集-动画游戏行业眉毛命名.md",
+      "path": "references/knowledge/character-face-design/avatar-brows-08.md",
+      "rules_sha256": "83e23543d7995cd283925458d0460b780e6f8ffcf0da7f981546fe4c25687134",
+      "capability_ids": [
+        "character-face-design"
+      ]
+    },
+    {
+      "source_id": "avatar-eyes-09",
+      "source_sha256": "e94a26feabe456b9c0e47644adad96ff2492a93986cb909f67016d0222bab51c",
+      "origin": "09-眼睛名称全集-动画游戏行业眼睛命名.md",
+      "path": "references/knowledge/character-face-design/avatar-eyes-09.md",
+      "rules_sha256": "72a3ee18b08af4b1b79230b9615ad42b504528efa76b0fe8911c36e97db9ec98",
+      "capability_ids": [
+        "character-face-design"
+      ]
+    },
+    {
+      "source_id": "avatar-ears-10",
+      "source_sha256": "1e2728b57837ebc9f320f56f9a6cbffcfb72dd90849bfc3b469711e7921d14ec",
+      "origin": "10-耳朵名称全集-动画游戏行业耳朵命名.md",
+      "path": "references/knowledge/character-face-design/avatar-ears-10.md",
+      "rules_sha256": "4e57d77f46487326f636d89f07794671fe0a92ae3f6a98de8f1ee4db265308df",
+      "capability_ids": [
+        "character-face-design"
+      ]
+    },
+    {
+      "source_id": "avatar-noses-11",
+      "source_sha256": "489e02f22fc895dcda44d9000e9148dc7f2114767f3ecb7d20b8906baabdefa6",
+      "origin": "11-鼻子名称全集-动画游戏行业鼻子命名.md",
+      "path": "references/knowledge/character-face-design/avatar-noses-11.md",
+      "rules_sha256": "1d9aca5693919a8c93d198d3f52fe8e6afc44fb86a50d414645378f3f2e1c2bb",
+      "capability_ids": [
+        "character-face-design"
+      ]
+    },
+    {
+      "source_id": "avatar-lips-12",
+      "source_sha256": "1e4ebf6c507a4f4f60696d66407a1f49145fada05dea4530147c49724c20b97b",
+      "origin": "12-嘴唇名称全集-动画游戏行业嘴唇命名.md",
+      "path": "references/knowledge/character-face-design/avatar-lips-12.md",
+      "rules_sha256": "e65f85deaa76c6a8bf1c970a2e7b6d11431cbc1f03ed16b33617f7044d6b96c8",
+      "capability_ids": [
+        "character-face-design"
+      ]
+    },
+    {
+      "source_id": "avatar-makeup-13",
+      "source_sha256": "028fde9843920d8ea700656baaabc3f78a573d0b99e3230931e14c1154cf56ad",
+      "origin": "13-妆容名称全集-动画游戏行业妆容命名.md",
+      "path": "references/knowledge/character-face-decoration-design/avatar-makeup-13.md",
+      "rules_sha256": "df722a2f530b3df7bba86726825ffb05db8fd24cc2fb91062b92431732f68755",
+      "capability_ids": [
+        "character-face-decoration-design"
+      ]
+    },
+    {
+      "source_id": "avatar-skin-material-14",
+      "source_sha256": "e4aa50c45c5a74b4d700da4f0bf51a857e1be17d0f0616abed78bf044c3b4368",
+      "origin": "14-皮肤材质名称全集-动画游戏行业皮肤命名.md",
+      "path": "references/knowledge/character-skin-design/avatar-skin-material-14.md",
+      "rules_sha256": "9f67f9bef97cf6488db30faed537cb72fd922b2fb4fe8cd2d0c86ff92e9aa7f7",
+      "capability_ids": [
+        "character-skin-design"
+      ]
+    },
+    {
+      "source_id": "avatar-facial-hair-15",
+      "source_sha256": "3f1dc94340afde78b2bba4a307b201d5778955852d66c5ba1f80c1f23ffc8193",
+      "origin": "15-面部毛发名称全集-动画游戏行业胡须命名.md",
+      "path": "references/knowledge/character-skin-design/avatar-facial-hair-15.md",
+      "rules_sha256": "cdd06174d46982f805317e525118198a73d04a5147c30556690ebf0d410d5ff7",
+      "capability_ids": [
+        "character-skin-design"
+      ]
+    },
+    {
+      "source_id": "avatar-head-ear-neck-16",
+      "source_sha256": "ea4d8acc8aeaca839892e8f5e254894cb0f313c424b4b7d63ec761f72c33d576",
+      "origin": "16-头耳颈饰品设计方法论.md",
+      "path": "references/knowledge/character-face-signature-design/avatar-head-ear-neck-16.md",
+      "rules_sha256": "8e055a2489648a6bb4970e2b367e99225ac83204c28d1a9a29e09fa131f905c8",
+      "capability_ids": [
+        "character-face-signature-design"
+      ]
     }
   ]
 }

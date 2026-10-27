@@ -155,7 +155,7 @@ def build(spec,output,core_root,confirmed=False):
         for relative in ('harness.py','scripts/bootstrap.py','requirements.lock','RUNTIME.md','THIRD_PARTY_NOTICES.md'):
             target=staging/relative; target.parent.mkdir(parents=True,exist_ok=True)
             shutil.copy2(core_root/relative,target)
-        shutil.copytree(core_root/'licenses',staging/'licenses')
+        shutil.copytree(core_root/'licenses',staging/'licenses',dirs_exist_ok=True)
         shutil.copytree(core_root/'schemas',staging/'schemas',dirs_exist_ok=True)
         write_json(staging/'harness-blueprint.json',spec)
         write_json(staging/'sources.lock.json',{'schema_version':'SourceReceiptsV1','sources':spec.get('sources',[])})

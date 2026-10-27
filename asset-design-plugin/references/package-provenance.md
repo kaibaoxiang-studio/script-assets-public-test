@@ -1,11 +1,11 @@
 # 封装来源与独立更新
 
-本页适用于公开测试快照 `public-test-2026-10-27-r2`。剧本业务以 [script-plugins](https://github.com/kaibaoxiang-studio/script-plugins) 为权威来源；角色、场景、道具业务以 [ZiChan](https://github.com/kaibaoxiang-studio/ZiChan) 为权威来源。母插件 v0.1.0 提供总控、交接和台账外壳，其历史封装不决定领域插件的当前业务内容。
+本页适用于公开测试快照 `public-test-2026-10-27-r3`。剧本业务以 [script-plugins](https://github.com/kaibaoxiang-studio/script-plugins) 为权威来源；角色、场景、道具业务以 [ZiChan](https://github.com/kaibaoxiang-studio/ZiChan) 为权威来源。母插件 v0.1.0 提供总控、交接和台账外壳，其历史封装不决定领域插件的当前业务内容。
 
-本轮角色、场景和道具均固定到 ZiChan 提交 `b9bb60204d5aaa3b11d998b096dbb7c746b1038f`，对应角色 v0.2.6.2、场景 v0.9.5、道具 v0.2.5。版本按该提交内的 manifest 核对；不能仅比较版本数字判定新旧。实际来源、逐文件公开导出与上游字节哈希以根目录 `bundle-lock.json` 和 `public-export-manifest.json` 为准。
+本轮角色、场景和道具均固定到 ZiChan 提交 `c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2`，对应角色 v0.2.6.4-local、场景 v0.9.5、道具 v0.2.5。版本按该提交内的 manifest 核对；不能仅比较版本数字判定新旧。实际来源、逐文件公开导出与上游字节哈希以根目录 `bundle-lock.json` 和 `public-export-manifest.json` 为准。
 
 快照保留原插件根目录、知识、脚本和来源说明，入口包装不改写专业规则。母包运行不依赖本机另装同名插件或 Harness Creator；现有独立插件可并存。四个入口中 `$asset-scene` 使用本包更新后的场景快照，不另加重复的公开业务市场项。
 
 领域源仓库继续独立维护。更新公开快照时显式选择来源提交与版本、重新生成锁定记录，检查接口和原相对引用，并按改动范围验证。母项目记录实际执行版本，旧产物保留其原版本依据。历史真实调用只能证明当时所用快照；本轮验证结论以统一公开仓库的 `public-validation.json` 为准。
 
-本次只更新公开测试镜像，私有母仓库和 ZiChan 均为只读来源。旧公开标签保持历史内容，`r2` 不构成母插件的新正式版本。保留子插件来源和随附许可证，母插件新增方法和适配代码不替代其来源声明。
+本次同步已获授权的私有权威源修订，私有仓库保持原可见性；母仓库外壳未发布新正式版本。旧公开标签保持历史内容，`r3` 不构成母插件的新正式版本。保留子插件来源和随附许可证，母插件新增方法和适配代码不替代其来源声明。

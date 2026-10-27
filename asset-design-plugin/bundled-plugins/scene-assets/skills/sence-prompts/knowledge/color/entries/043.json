@@ -1,0 +1,198 @@
+{
+  "schema_version": "1.0.0",
+  "id": "043",
+  "label": {
+    "name_zh": "阿方索·卡隆",
+    "name_en": "Alfonso Cuarón",
+    "category": "03_大地暖调与自然光诗意",
+    "source_volume": "第1期_SKILL_冷调与大地_001-080"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "暖金回忆",
+        "name_en": "Warm Gold Memory",
+        "hex": "#D4A574",
+        "source_ratio": 0.22,
+        "normalized_ratio": 0.22,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "土黄街景",
+        "name_en": "Earth Yellow Street",
+        "hex": "#B89968",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "深空黑",
+        "name_en": "Deep Space Black",
+        "hex": "#2C2C2C",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "冷钢蓝灰",
+        "name_en": "Cold Steel Blue-Grey",
+        "hex": "#6B8E9A",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "橄榄棕",
+        "name_en": "Olive Brown",
+        "hex": "#8B7355",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "柔光米白",
+        "name_en": "Soft Light Beige",
+        "hex": "#E8D5B7",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "记忆金",
+        "name_en": "Memory Gold",
+        "hex": "#F4C430",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "童年回望"
+      },
+      {
+        "code": "E02",
+        "name_zh": "太空蓝",
+        "name_en": "Space Blue",
+        "hex": "#4A6FA5",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "孤独浩瀚"
+      },
+      {
+        "code": "E03",
+        "name_zh": "赭石红",
+        "name_en": "Sienna Red",
+        "hex": "#A0522D",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "末世苦难"
+      },
+      {
+        "code": "E04",
+        "name_zh": "银白",
+        "name_en": "Silver White",
+        "hex": "#DCDCDC",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "失重漂浮"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "natural available light, long take continuous lighting, soft window bounce",
+      "highlight_description": "warm gold / amber memory",
+      "shadow_description": "cool steel blue / warm umber",
+      "contrast_description": "medium 50-65%, wide range by scene",
+      "overall_tone": "warm memory + cold reality, 60% warm + 40% cool"
+    },
+    "color_keywords": [
+      "warm golden memory tones",
+      "black and white stark realism",
+      "cool steel blue space",
+      "earth brown post-apocalypse",
+      "soft morning light",
+      "dust motes in sunbeam",
+      "rain-washed street",
+      "fire in darkness"
+    ],
+    "mood_keywords": [
+      "memory and longing",
+      "isolation in vastness",
+      "childhood innocence lost",
+      "human connection",
+      "gravity and weightlessness",
+      "political urgency",
+      "poetic realism",
+      "quiet resilience"
+    ],
+    "composition_keywords": [
+      "long take immersion",
+      "zero-gravity fluid camera",
+      "wide-angle depth",
+      "handheld documentary",
+      "child's eye low angle",
+      "360-degree spatial camera",
+      "natural framing",
+      "silent long shot"
+    ],
+    "style_profile": {
+      "definition": "长镜自然主义在灰白、土色与单一环境主色中保持现场感。",
+      "lighting": "自然光、实景光、长镜曝光连续；肤色保持可读，不让环境偏色吞没面部层次。",
+      "framing": "复杂长镜、人物与环境同步变化；先交代颜色承载的空间，再进入人物与关键物件。",
+      "grading": "写实低饱和，主色随环境统一；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+      "avoid": "炫彩LUT、切碎长动作、不连续曝光、无动机环绕和随机变焦、用统一滤镜替代色彩比例、光源和材质。"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "043",
+      "relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/043_AlfonsoCuaron_阿方索·卡隆/assets/color_palettes/palette.json",
+      "sha256": "7038b18783b2b6d05f9aab52e464d4be0de949343ab5b44186b46c681162c51b"
+    },
+    "source_entry_relative_dir": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/043_AlfonsoCuaron_阿方索·卡隆",
+    "source_records": [
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/043_AlfonsoCuaron_阿方索·卡隆/assets/references/reference_director_manifest.json",
+        "sha256": "1518c3bedf9ea85044c1c596a57a0eca55ac174fa1959c3cbcaacc6b087e9f3f",
+        "declared_url_count": 20,
+        "externally_verified": false
+      },
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/043_AlfonsoCuaron_阿方索·卡隆/assets/references/reference_sources.md",
+        "sha256": "b39826aa55b5c4a6cd85bda7493d1712da1ecd0a18ed54b3a86cc2c46671e541",
+        "declared_url_count": 20,
+        "externally_verified": false
+      }
+    ],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 4,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": "film-references/043.json"
+}

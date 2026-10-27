@@ -1,0 +1,41 @@
+{
+  "schema_version": "StandardScreenplayV1",
+  "title": "潮门修理铺",
+  "episodes": [
+    {
+      "episode_id": "1",
+      "scenes": [
+        {
+          "scene_id": "1-1",
+          "location": "潮门修理铺",
+          "time": "黄昏",
+          "characters": [
+            "林禾",
+            "邵叔"
+          ],
+          "action": "暴雨压向海堤。林禾把铜闸钥匙压在手心，站在一间狭长修理铺的低矮工作台前。",
+          "dialogue": [
+            {
+              "speaker": "邵叔",
+              "text": "你从来不敢替别人担事。"
+            },
+            {
+              "speaker": "林禾",
+              "text": "钥匙我送。"
+            }
+          ]
+        },
+        {
+          "scene_id": "1-2",
+          "location": "潮门修理铺",
+          "time": "夜",
+          "characters": [
+            "林禾"
+          ],
+          "action": "她以旧帆布擦干钥匙齿槽，把唯一防水披肩留给门外的孩子，独自走向暴雨。旁人对她胆怯的评价与她实际保护别人的行为有反差。",
+          "dialogue": []
+        }
+      ]
+    }
+  ]
+}

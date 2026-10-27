@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0.0",
+  "id": "031",
+  "label": {
+    "name_zh": "詹姆斯·卡梅隆",
+    "name_en": "James Cameron",
+    "category": "02_霓虹黑色与赛博未来",
+    "source_volume": "第1期_SKILL_冷调与大地_001-080"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "深海蓝黑",
+        "name_en": "Deep Ocean Blue-Black",
+        "hex": "#0A1929",
+        "source_ratio": 0.28,
+        "normalized_ratio": 0.28,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "机械钢蓝",
+        "name_en": "Mechanical Steel Blue",
+        "hex": "#37474F",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "镀铬银",
+        "name_en": "Chrome Silver",
+        "hex": "#B0BEC5",
+        "source_ratio": 0.1,
+        "normalized_ratio": 0.1,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "火焰橙",
+        "name_en": "Fire Orange",
+        "hex": "#FF6D00",
+        "source_ratio": 0.12,
+        "normalized_ratio": 0.12,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "生物荧光青",
+        "name_en": "Bioluminescent Cyan-Green",
+        "hex": "#00E676",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "暖金内光",
+        "name_en": "Warm Golden Interior",
+        "hex": "#FFB74D",
+        "source_ratio": 0.17,
+        "normalized_ratio": 0.17,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "激光红眼",
+        "name_en": "Laser Red Eye",
+        "hex": "#F44336",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "终结者红眼、危险追杀、机械无情"
+      },
+      {
+        "code": "E02",
+        "name_zh": "水下幽蓝",
+        "name_en": "Underwater Ghost Blue",
+        "hex": "#18FFFF",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "深海恐惧、未知深渊、幽闭压迫"
+      },
+      {
+        "code": "E03",
+        "name_zh": "外星紫辉",
+        "name_en": "Alien Purple Glow",
+        "hex": "#D500F9",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "潘多拉夜晚、外星奇观、异星生态"
+      },
+      {
+        "code": "E04",
+        "name_zh": "电蓝全息",
+        "name_en": "Electric Blue Hologram",
+        "hex": "#2979FF",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "科技界面、全息投影、未来HUD"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "强侧光/底光为主，机械硬光与生物柔光交替，爆炸光源和生物自发光",
+      "highlight_description": "镀铬银/火焰橙（金属反射/爆炸火光/枪火闪光）",
+      "shadow_description": "深海蓝黑（暗部偏蓝、水底/太空/夜景阴影）",
+      "contrast_description": "高对比（70-90%），冷暖极端对比，蓝冷vs橙暖经典互补",
+      "overall_tone": "冷调科技，65%蓝冷钢色 + 35%橙暖火焰/金内光"
+    },
+    "color_keywords": [
+      "蓝钢机械",
+      "镀铬银反射",
+      "火焰橙爆裂",
+      "生物荧光青",
+      "深海幽蓝",
+      "暖金内光",
+      "激光红眼",
+      "水下光柱",
+      "全息电蓝",
+      "冷暖强对比"
+    ],
+    "mood_keywords": [
+      "高科技史诗",
+      "机械无情",
+      "生存搏斗",
+      "深海幽闭",
+      "外星奇观",
+      "人机对抗",
+      "末日审判",
+      "浪漫悲剧",
+      "技术敬畏",
+      "英雄主义"
+    ],
+    "composition_keywords": [
+      "史诗远景",
+      "机械细节特写",
+      "追逐运动长镜",
+      "水下光影",
+      "机甲对峙正面",
+      "外星奇观全景",
+      "沉船纵深",
+      "爆炸冲击帧",
+      "终结者行走",
+      "飞船/潜艇航行"
+    ],
+    "style_profile": {
+      "definition": "深海蓝、科技青和火焰橙支撑清楚有力的动作世界。",
+      "lighting": "高反差动机光、水下散射、火光；肤色保持可读，不让环境偏色吞没面部层次。",
+      "framing": "清晰动作轴、稳定推进、规模揭示；先交代颜色承载的空间，再进入人物与关键物件。",
+      "grading": "蓝色层次丰富，橙红只作能量与危险；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+      "avoid": "颜色脏混、看不清动作、廉价霓虹、无动机环绕和随机变焦、用统一滤镜替代色彩比例、光源和材质。"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "031",
+      "relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/031_JamesCameron_詹姆斯·卡梅隆/assets/color_palettes/palette.json",
+      "sha256": "1ac01cd821a9af44c5225b5ff05bd82c069a07c271ee5bde4d3c7b3c748dfcf6"
+    },
+    "source_entry_relative_dir": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/031_JamesCameron_詹姆斯·卡梅隆",
+    "source_records": [
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/031_JamesCameron_詹姆斯·卡梅隆/assets/references/reference_director_manifest.json",
+        "sha256": "2b77cff38f1b73fb411002efc7bd2938de79e74e18e0df1f7d8d7c04fc3ca267",
+        "declared_url_count": 20,
+        "externally_verified": false
+      },
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/031_JamesCameron_詹姆斯·卡梅隆/assets/references/reference_sources.md",
+        "sha256": "56833e3c76ab6c49fa8c77ae85ac22bba2f0b5426caed2326adf026bacdd9c28",
+        "declared_url_count": 20,
+        "externally_verified": false
+      }
+    ],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 4,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": "film-references/031.json"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "character-assets",
+  "version": "0.2.6.2",
+  "description": "从剧本依据建设可追溯的角色视觉资产包与 GPT Image 2.5 提示词",
+  "author": {
+    "name": "开宝箱工作室"
+  },
+  "skills": "./skills/",
+  "requires_local_executor": true,
+  "interface": {
+    "displayName": "角色资产插件",
+    "shortDescription": "从剧本依据到角色视觉资产包",
+    "defaultPrompt": "Use $character-assets to build a character asset package from my screenplay and asset table."
+  }
+}

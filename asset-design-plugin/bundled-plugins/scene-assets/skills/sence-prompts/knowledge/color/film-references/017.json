@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "017",
+  "films": [
+    {
+      "title_zh": "共同警备区",
+      "title_en": "Joint Security Area",
+      "year": 2000,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#404F68",
+          "source_ratio": 15.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.159,
+          "source_luminance": 0.0768,
+          "source_saturation": 0.3846
+        },
+        {
+          "hex": "#34363F",
+          "source_ratio": 15.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.152,
+          "source_luminance": 0.0373,
+          "source_saturation": 0.1746
+        },
+        {
+          "hex": "#0C0B0D",
+          "source_ratio": 13.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.139,
+          "source_luminance": 0.0035,
+          "source_saturation": 0.1538
+        },
+        {
+          "hex": "#445F74",
+          "source_ratio": 13.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.132,
+          "source_luminance": 0.1067,
+          "source_saturation": 0.4138
+        },
+        {
+          "hex": "#989899",
+          "source_ratio": 10.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.107,
+          "source_luminance": 0.3143,
+          "source_saturation": 0.0065
+        },
+        {
+          "hex": "#2B3C50",
+          "source_ratio": 10.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.106,
+          "source_luminance": 0.0432,
+          "source_saturation": 0.4625
+        },
+        {
+          "hex": "#868586",
+          "source_ratio": 10.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.102,
+          "source_luminance": 0.2356,
+          "source_saturation": 0.0075
+        },
+        {
+          "hex": "#636971",
+          "source_ratio": 10.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10300000000000001,
+          "source_luminance": 0.1395,
+          "source_saturation": 0.1239
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2024/02/08/joint-security-area/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/017_ParkChan-wook_朴赞郁/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/JSA_01.jpg?bwg=1699885721",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/017_ParkChan-wook_朴赞郁/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/JSA_22.jpg?bwg=1699885719",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/017_ParkChan-wook_朴赞郁/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/JSA_44.jpg?bwg=1699885719",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/017_ParkChan-wook_朴赞郁/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/JSA_65.jpg?bwg=1699885719",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/017_ParkChan-wook_朴赞郁/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "亲切的金子",
+      "title_en": "Lady Vengeance",
+      "year": 2005,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#FFFFFF",
+          "source_ratio": 52.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.525,
+          "source_luminance": 1,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#020106",
+          "source_ratio": 9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.09,
+          "source_luminance": 0.0005,
+          "source_saturation": 0.8333
+        },
+        {
+          "hex": "#37363C",
+          "source_ratio": 8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.08,
+          "source_luminance": 0.0378,
+          "source_saturation": 0.1
+        },
+        {
+          "hex": "#616A7D",
+          "source_ratio": 7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.07,
+          "source_luminance": 0.1433,
+          "source_saturation": 0.224
+        },
+        {
+          "hex": "#444852",
+          "source_ratio": 6.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.064,
+          "source_luminance": 0.0647,
+          "source_saturation": 0.1707
+        },
+        {
+          "hex": "#5A595D",
+          "source_ratio": 6.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.062,
+          "source_luminance": 0.1011,
+          "source_saturation": 0.043
+        },
+        {
+          "hex": "#1C1C20",
+          "source_ratio": 5.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.057999999999999996,
+          "source_luminance": 0.0118,
+          "source_saturation": 0.125
+        },
+        {
+          "hex": "#727376",
+          "source_ratio": 5.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.051,
+          "source_luminance": 0.1715,
+          "source_saturation": 0.0339
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2017/01/26/lady-vengeance/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/017_ParkChan-wook_朴赞郁/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/012.jpg?bwg=1547052281",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/017_ParkChan-wook_朴赞郁/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/222.jpg?bwg=1547052280",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/017_ParkChan-wook_朴赞郁/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/442.jpg?bwg=1547052280",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/017_ParkChan-wook_朴赞郁/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/651.jpg?bwg=1547052280",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/017_ParkChan-wook_朴赞郁/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "蝙蝠",
+      "title_en": "Thirst",
+      "year": 2009,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#FAC882",
+          "source_ratio": 14.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14800000000000002,
+          "source_luminance": 0.6324,
+          "source_saturation": 0.48
+        },
+        {
+          "hex": "#000B0C",
+          "source_ratio": 13.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.131,
+          "source_luminance": 0.0027,
+          "source_saturation": 1
+        },
+        {
+          "hex": "#739EC1",
+          "source_ratio": 13,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.13,
+          "source_luminance": 0.3195,
+          "source_saturation": 0.4041
+        },
+        {
+          "hex": "#3F2A13",
+          "source_ratio": 12.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.124,
+          "source_luminance": 0.0276,
+          "source_saturation": 0.6984
+        },
+        {
+          "hex": "#FCD88A",
+          "source_ratio": 12,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12,
+          "source_luminance": 0.7164,
+          "source_saturation": 0.4524
+        },
+        {
+          "hex": "#272A20",
+          "source_ratio": 11.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11900000000000001,
+          "source_luminance": 0.0219,
+          "source_saturation": 0.2381
+        },
+        {
+          "hex": "#B6D9EA",
+          "source_ratio": 11.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.114,
+          "source_luminance": 0.6551,
+          "source_saturation": 0.2222
+        },
+        {
+          "hex": "#CD9766",
+          "source_ratio": 11.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.114,
+          "source_luminance": 0.3607,
+          "source_saturation": 0.5024
+        }
+      ],
+      "source_ratio_sum": 100.00000000000001,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2013/12/05/thirst/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/017_ParkChan-wook_朴赞郁/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1209).jpg?bwg=1547476010",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/017_ParkChan-wook_朴赞郁/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1233).jpg?bwg=1547476011",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/017_ParkChan-wook_朴赞郁/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1214).jpg?bwg=1547476010",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/017_ParkChan-wook_朴赞郁/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (832).jpg?bwg=1547476010",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/017_ParkChan-wook_朴赞郁/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "分手的决心",
+      "title_en": "Decision To Leave",
+      "year": 2022,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#097489",
+          "source_ratio": 15.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.153,
+          "source_luminance": 0.1436,
+          "source_saturation": 0.9343
+        },
+        {
+          "hex": "#384D4A",
+          "source_ratio": 14.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14300000000000002,
+          "source_luminance": 0.0664,
+          "source_saturation": 0.2727
+        },
+        {
+          "hex": "#0B0B0C",
+          "source_ratio": 13.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.139,
+          "source_luminance": 0.0034,
+          "source_saturation": 0.0833
+        },
+        {
+          "hex": "#21241E",
+          "source_ratio": 12.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.128,
+          "source_luminance": 0.0168,
+          "source_saturation": 0.1667
+        },
+        {
+          "hex": "#77837A",
+          "source_ratio": 12.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.128,
+          "source_luminance": 0.2156,
+          "source_saturation": 0.0916
+        },
+        {
+          "hex": "#435E59",
+          "source_ratio": 12.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.126,
+          "source_luminance": 0.0992,
+          "source_saturation": 0.2872
+        },
+        {
+          "hex": "#928C7F",
+          "source_ratio": 9.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.092,
+          "source_luminance": 0.264,
+          "source_saturation": 0.1301
+        },
+        {
+          "hex": "#3F4133",
+          "source_ratio": 9.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.091,
+          "source_luminance": 0.0508,
+          "source_saturation": 0.2154
+        }
+      ],
+      "source_ratio_sum": 99.99999999999999,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2023/05/29/decision-to-leave/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/017_ParkChan-wook_朴赞郁/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Decision_to_Leave_01.jpg?bwg=1680014733",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/017_ParkChan-wook_朴赞郁/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Decision_to_Leave_20.jpg?bwg=1680014733",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/017_ParkChan-wook_朴赞郁/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Decision_to_Leave_38.jpg?bwg=1680014733",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/017_ParkChan-wook_朴赞郁/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Decision_to_Leave_57.jpg?bwg=1680014736",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/017_ParkChan-wook_朴赞郁/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/017_ParkChan-wook_朴赞郁/assets/references/reference_director_manifest.json",
+      "sha256": "98aad54429d25262ac1826ad438b027a68257b749bb02e37324338a80a634390",
+      "declared_urls": [
+        "https://film-grab.com/2024/02/08/joint-security-area/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/JSA_01.jpg?bwg=1699885721",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/JSA_22.jpg?bwg=1699885719",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/JSA_44.jpg?bwg=1699885719",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/JSA_65.jpg?bwg=1699885719",
+        "https://film-grab.com/2017/01/26/lady-vengeance/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/012.jpg?bwg=1547052281",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/222.jpg?bwg=1547052280",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/442.jpg?bwg=1547052280",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/651.jpg?bwg=1547052280",
+        "https://film-grab.com/2013/12/05/thirst/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1209).jpg?bwg=1547476010",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1233).jpg?bwg=1547476011",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1214).jpg?bwg=1547476010",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (832).jpg?bwg=1547476010",
+        "https://film-grab.com/2023/05/29/decision-to-leave/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Decision_to_Leave_01.jpg?bwg=1680014733",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Decision_to_Leave_20.jpg?bwg=1680014733",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Decision_to_Leave_38.jpg?bwg=1680014733",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Decision_to_Leave_57.jpg?bwg=1680014736"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/017_ParkChan-wook_朴赞郁/assets/references/reference_sources.md",
+      "sha256": "937bad516dd52c635c3bf589d0c21edbe599fd0411e504880e0e01d65519a603",
+      "declared_urls": [
+        "https://film-grab.com/2024/02/08/joint-security-area/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/JSA_01.jpg?bwg=1699885721",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/JSA_22.jpg?bwg=1699885719",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/JSA_44.jpg?bwg=1699885719",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/JSA_65.jpg?bwg=1699885719",
+        "https://film-grab.com/2017/01/26/lady-vengeance/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/012.jpg?bwg=1547052281",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/222.jpg?bwg=1547052280",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/442.jpg?bwg=1547052280",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/651.jpg?bwg=1547052280",
+        "https://film-grab.com/2013/12/05/thirst/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1209).jpg?bwg=1547476010",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1233).jpg?bwg=1547476011",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1214).jpg?bwg=1547476010",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (832).jpg?bwg=1547476010",
+        "https://film-grab.com/2023/05/29/decision-to-leave/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Decision_to_Leave_01.jpg?bwg=1680014733",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Decision_to_Leave_20.jpg?bwg=1680014733",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Decision_to_Leave_38.jpg?bwg=1680014733",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Decision_to_Leave_57.jpg?bwg=1680014736"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

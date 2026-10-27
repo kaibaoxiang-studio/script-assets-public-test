@@ -1,0 +1,6 @@
+interface:
+  display_name: 角色资产
+  short_description: 人物设计、角色提示词与回图审查
+  default_prompt: 请使用 $asset-character 完成本次已指定范围的资产设计任务。
+policy:
+  allow_implicit_invocation: false

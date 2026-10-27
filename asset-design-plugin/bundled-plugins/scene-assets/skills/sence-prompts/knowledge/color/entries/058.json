@@ -1,0 +1,185 @@
+{
+  "schema_version": "1.0.0",
+  "id": "058",
+  "label": {
+    "name_zh": "罗杰·迪金斯",
+    "name_en": "Roger Deakins",
+    "category": "03_大地暖调与自然光诗意",
+    "source_volume": "第1期_SKILL_冷调与大地_001-080"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "雾霭蓝灰",
+        "name_en": "Blue",
+        "hex": "#6B7B8C",
+        "source_ratio": 0.22,
+        "normalized_ratio": 0.22,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "琥珀暖黄",
+        "name_en": "Yellow",
+        "hex": "#C49A5C",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "深炭暗影",
+        "name_en": "Color 3",
+        "hex": "#2A2E33",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "羊皮纸米",
+        "name_en": "Color 4",
+        "hex": "#D9CDB8",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "钢蓝冷调",
+        "name_en": "Blue",
+        "hex": "#4A5568",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "沙土金棕",
+        "name_en": "Gold",
+        "hex": "#8B6F47",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "窗光金",
+        "name_en": "Gold",
+        "hex": "#D4AF37",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "宁静启示"
+      },
+      {
+        "code": "E02",
+        "name_zh": "赛博蓝",
+        "name_en": "Blue",
+        "hex": "#00BFFF",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "未来疏离"
+      },
+      {
+        "code": "E03",
+        "name_zh": "雾都灰",
+        "name_en": "Gray",
+        "hex": "#708090",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "战争虚无"
+      },
+      {
+        "code": "E04",
+        "name_zh": "落日铜",
+        "name_en": "Copper",
+        "hex": "#CD853F",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "宿命苍凉"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "natural window light, precise silhouette framing, foggy blue-grey diffusion",
+      "highlight_description": "warm amber gold / pale cream",
+      "shadow_description": "cool slate blue / deep charcoal",
+      "contrast_description": "high 70-85%",
+      "overall_tone": "balanced naturalism, 50% warm + 50% cool"
+    },
+    "color_keywords": [
+      "foggy slate blue",
+      "amber tungsten warm",
+      "charcoal deep shadow",
+      "parchment skin tone",
+      "desert sand gold",
+      "cyberpunk neon blue",
+      "window rim light",
+      "natural daylight precision"
+    ],
+    "mood_keywords": [
+      "quiet contemplation",
+      "existential precision",
+      "dystopian beauty",
+      "wartime desolation",
+      "western stoicism",
+      "visual poetry",
+      "moral ambiguity",
+      "cinematic meditation"
+    ],
+    "composition_keywords": [
+      "precision framing",
+      "natural window light",
+      "foggy atmosphere",
+      "silhouette against light",
+      "long takes (1917)",
+      "negative space",
+      "geometric composition",
+      "painterly chiaroscuro"
+    ],
+    "style_profile": {
+      "definition": "雾蓝、琥珀与炭灰构成的精准世界，窗光与剪影把每个镜头炼成油画。",
+      "lighting": "自然光为主，窗光勾勒轮廓，雾霭柔化边界；肤色自然不偏色，明暗关系精准如古典绘画。",
+      "framing": "几何对称、负空间、精准分割；先建立空间秩序，再让人物在秩序中寻找位置。",
+      "grading": "蓝灰与暖黄两极平衡；冷调场景偏雾蓝，暖调场景偏琥珀，但始终保留中间调的真实感。",
+      "avoid": "色偏过重、过度饱和、无动机光源、炫光滥用、用统一滤镜替代精心设计的自然光效"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "058",
+      "relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/058_Roger Deakins_罗杰·迪金斯/assets/color_palettes/palette.json",
+      "sha256": "80e90e2a81c468addccd9faf07fc00bfd21a891e639761826a7726d31224752a"
+    },
+    "source_entry_relative_dir": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/058_Roger Deakins_罗杰·迪金斯",
+    "source_records": [],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 0,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": null
+}

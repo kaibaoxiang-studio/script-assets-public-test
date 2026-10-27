@@ -1,0 +1,6 @@
+interface:
+  display_name: 形体体态设计
+  short_description: 形体体态设计：年龄比例、骨架、重心与动作习惯
+  default_prompt: Use $character-body-design to complete the requested task.
+policy:
+  allow_implicit_invocation: false

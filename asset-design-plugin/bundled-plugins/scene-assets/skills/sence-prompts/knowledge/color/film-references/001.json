@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "001",
+  "films": [
+    {
+      "title_zh": "房客",
+      "title_en": "The Lodger",
+      "year": 1927,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#13182B",
+          "source_ratio": 18.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.185,
+          "source_luminance": 0.0097,
+          "source_saturation": 0.5581
+        },
+        {
+          "hex": "#171B20",
+          "source_ratio": 15.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.155,
+          "source_luminance": 0.0107,
+          "source_saturation": 0.2812
+        },
+        {
+          "hex": "#333639",
+          "source_ratio": 13.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.135,
+          "source_luminance": 0.0364,
+          "source_saturation": 0.1053
+        },
+        {
+          "hex": "#37261C",
+          "source_ratio": 13.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.135,
+          "source_luminance": 0.0228,
+          "source_saturation": 0.4909
+        },
+        {
+          "hex": "#555252",
+          "source_ratio": 13.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.132,
+          "source_luminance": 0.0858,
+          "source_saturation": 0.0353
+        },
+        {
+          "hex": "#513223",
+          "source_ratio": 12.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.125,
+          "source_luminance": 0.0415,
+          "source_saturation": 0.5679
+        },
+        {
+          "hex": "#643B27",
+          "source_ratio": 8.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.08199999999999999,
+          "source_luminance": 0.0598,
+          "source_saturation": 0.61
+        },
+        {
+          "hex": "#674939",
+          "source_ratio": 5.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.051,
+          "source_luminance": 0.0794,
+          "source_saturation": 0.4466
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2021/08/31/the-lodger/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/001_AlfredHitchcock_希区柯克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Lodger_001.jpg?bwg=1601549424",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/001_AlfredHitchcock_希区柯克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Lodger_016.jpg?bwg=1601549424",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/001_AlfredHitchcock_希区柯克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Lodger_032.jpg?bwg=1601549424",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/001_AlfredHitchcock_希区柯克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Lodger_047.jpg?bwg=1601549424",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/001_AlfredHitchcock_希区柯克/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "美人计",
+      "title_en": "Notorious",
+      "year": 1946,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#B2B2B2",
+          "source_ratio": 16.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.16699999999999998,
+          "source_luminance": 0.4452,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#686868",
+          "source_ratio": 13.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.138,
+          "source_luminance": 0.1384,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#828282",
+          "source_ratio": 13,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.13,
+          "source_luminance": 0.2232,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#4A4A4A",
+          "source_ratio": 12.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.127,
+          "source_luminance": 0.0685,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#2E2E2E",
+          "source_ratio": 12.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.126,
+          "source_luminance": 0.0273,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#151515",
+          "source_ratio": 12.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12300000000000001,
+          "source_luminance": 0.0075,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#999999",
+          "source_ratio": 10.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10800000000000001,
+          "source_luminance": 0.3185,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#CBCBCB",
+          "source_ratio": 8.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.081,
+          "source_luminance": 0.5972,
+          "source_saturation": 0
+        }
+      ],
+      "source_ratio_sum": 99.99999999999999,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2015/09/22/notorious/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/001_AlfredHitchcock_希区柯克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (758).jpg?bwg=1547240090",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/001_AlfredHitchcock_希区柯克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (773).jpg?bwg=1547240089",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/001_AlfredHitchcock_希区柯克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (759).jpg?bwg=1547240089",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/001_AlfredHitchcock_希区柯克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (517).jpg?bwg=1547240089",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/001_AlfredHitchcock_希区柯克/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "迷魂记",
+      "title_en": "Vertigo",
+      "year": 1958,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#000000",
+          "source_ratio": 16.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.16399999999999998,
+          "source_luminance": 0,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#39485F",
+          "source_ratio": 15.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.154,
+          "source_luminance": 0.0633,
+          "source_saturation": 0.4
+        },
+        {
+          "hex": "#504A4B",
+          "source_ratio": 13.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.134,
+          "source_luminance": 0.0711,
+          "source_saturation": 0.075
+        },
+        {
+          "hex": "#3A3438",
+          "source_ratio": 13.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.133,
+          "source_luminance": 0.0364,
+          "source_saturation": 0.1034
+        },
+        {
+          "hex": "#2A2124",
+          "source_ratio": 11.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11800000000000001,
+          "source_luminance": 0.0171,
+          "source_saturation": 0.2143
+        },
+        {
+          "hex": "#536A92",
+          "source_ratio": 10.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.102,
+          "source_luminance": 0.1422,
+          "source_saturation": 0.4315
+        },
+        {
+          "hex": "#6D7C9D",
+          "source_ratio": 9.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.099,
+          "source_luminance": 0.201,
+          "source_saturation": 0.3057
+        },
+        {
+          "hex": "#283245",
+          "source_ratio": 9.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.096,
+          "source_luminance": 0.0316,
+          "source_saturation": 0.4203
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2013/02/28/vertigo/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/001_AlfredHitchcock_希区柯克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1275).jpg?bwg=1547479423",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/001_AlfredHitchcock_希区柯克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1299).jpg?bwg=1547479422",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/001_AlfredHitchcock_希区柯克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1279).jpg?bwg=1547479422",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/001_AlfredHitchcock_希区柯克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (878).jpg?bwg=1547479422",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/001_AlfredHitchcock_希区柯克/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "大巧局",
+      "title_en": "Family Plot",
+      "year": 1976,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#191815",
+          "source_ratio": 14.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14800000000000002,
+          "source_luminance": 0.0091,
+          "source_saturation": 0.16
+        },
+        {
+          "hex": "#2E302D",
+          "source_ratio": 13.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.132,
+          "source_luminance": 0.0288,
+          "source_saturation": 0.0625
+        },
+        {
+          "hex": "#454143",
+          "source_ratio": 13.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.131,
+          "source_luminance": 0.0545,
+          "source_saturation": 0.058
+        },
+        {
+          "hex": "#CCD7D9",
+          "source_ratio": 12.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.127,
+          "source_luminance": 0.6645,
+          "source_saturation": 0.0599
+        },
+        {
+          "hex": "#4E535D",
+          "source_ratio": 12.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.125,
+          "source_luminance": 0.086,
+          "source_saturation": 0.1613
+        },
+        {
+          "hex": "#53433E",
+          "source_ratio": 11.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.113,
+          "source_luminance": 0.062,
+          "source_saturation": 0.253
+        },
+        {
+          "hex": "#959697",
+          "source_ratio": 11.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11199999999999999,
+          "source_luminance": 0.3044,
+          "source_saturation": 0.0132
+        },
+        {
+          "hex": "#140304",
+          "source_ratio": 11.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11199999999999999,
+          "source_luminance": 0.0022,
+          "source_saturation": 0.85
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2020/07/20/family-plot/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/001_AlfredHitchcock_希区柯克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (367).jpg?bwg=1547216049",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/001_AlfredHitchcock_希区柯克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/21 (374).jpg?bwg=1547216048",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/001_AlfredHitchcock_希区柯克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/41 (367).jpg?bwg=1547216048",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/001_AlfredHitchcock_希区柯克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/61 (313).jpg?bwg=1547216048",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/001_AlfredHitchcock_希区柯克/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/001_AlfredHitchcock_希区柯克/assets/references/reference_director_manifest.json",
+      "sha256": "b9cb618df4ad4c2b87a818f1c6b51ea3ac3977c0d75361386c36c8756b21366a",
+      "declared_urls": [
+        "https://film-grab.com/2021/08/31/the-lodger/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Lodger_001.jpg?bwg=1601549424",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Lodger_016.jpg?bwg=1601549424",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Lodger_032.jpg?bwg=1601549424",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Lodger_047.jpg?bwg=1601549424",
+        "https://film-grab.com/2015/09/22/notorious/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (758).jpg?bwg=1547240090",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (773).jpg?bwg=1547240089",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (759).jpg?bwg=1547240089",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (517).jpg?bwg=1547240089",
+        "https://film-grab.com/2013/02/28/vertigo/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1275).jpg?bwg=1547479423",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1299).jpg?bwg=1547479422",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1279).jpg?bwg=1547479422",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (878).jpg?bwg=1547479422",
+        "https://film-grab.com/2020/07/20/family-plot/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (367).jpg?bwg=1547216049",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/21 (374).jpg?bwg=1547216048",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/41 (367).jpg?bwg=1547216048",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/61 (313).jpg?bwg=1547216048"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/001_AlfredHitchcock_希区柯克/assets/references/reference_sources.md",
+      "sha256": "02b6292d320f8ffdc12ea599ec4b616c08adbf75357f05d434633668de3c0fba",
+      "declared_urls": [
+        "https://film-grab.com/2021/08/31/the-lodger/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Lodger_001.jpg?bwg=1601549424",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Lodger_016.jpg?bwg=1601549424",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Lodger_032.jpg?bwg=1601549424",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Lodger_047.jpg?bwg=1601549424",
+        "https://film-grab.com/2015/09/22/notorious/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (758).jpg?bwg=1547240090",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (773).jpg?bwg=1547240089",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (759).jpg?bwg=1547240089",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (517).jpg?bwg=1547240089",
+        "https://film-grab.com/2013/02/28/vertigo/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1275).jpg?bwg=1547479423",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1299).jpg?bwg=1547479422",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1279).jpg?bwg=1547479422",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (878).jpg?bwg=1547479422",
+        "https://film-grab.com/2020/07/20/family-plot/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (367).jpg?bwg=1547216049",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/21 (374).jpg?bwg=1547216048",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/41 (367).jpg?bwg=1547216048",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/61 (313).jpg?bwg=1547216048"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

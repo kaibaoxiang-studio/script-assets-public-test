@@ -1,0 +1,324 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "064",
+  "films": [
+    {
+      "title_zh": "Family Nest",
+      "title_en": "Family Nest",
+      "year": 1979,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2015/03/26/family-nest/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (366).jpg?bwg=1547216002",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/10 (373).jpg?bwg=1547216002",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/18 (373).jpg?bwg=1547216002",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/27 (373).jpg?bwg=1547216002",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2015/03/26/family-nest/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/064_BelaTarr_贝拉·塔尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (366).jpg?bwg=1547216002",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/064_BelaTarr_贝拉·塔尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/10 (373).jpg?bwg=1547216002",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/064_BelaTarr_贝拉·塔尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/18 (373).jpg?bwg=1547216002",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/064_BelaTarr_贝拉·塔尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/27 (373).jpg?bwg=1547216002",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/064_BelaTarr_贝拉·塔尔/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Damnation",
+      "title_en": "Damnation",
+      "year": 1988,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2015/04/09/damnation/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (282).jpg?bwg=1547209122",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (287).jpg?bwg=1547209122",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (281).jpg?bwg=1547209121",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (193).jpg?bwg=1547209121",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2015/04/09/damnation/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/064_BelaTarr_贝拉·塔尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (282).jpg?bwg=1547209122",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/064_BelaTarr_贝拉·塔尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (287).jpg?bwg=1547209122",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/064_BelaTarr_贝拉·塔尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (281).jpg?bwg=1547209121",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/064_BelaTarr_贝拉·塔尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (193).jpg?bwg=1547209121",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/064_BelaTarr_贝拉·塔尔/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Werckmeister Harmonies",
+      "title_en": "Werckmeister Harmonies",
+      "year": 2000,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2015/04/30/the-werckmeister-harmonies/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1289).jpg?bwg=1547480300",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/20 (1315).jpg?bwg=1547480299",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/40 (1305).jpg?bwg=1547480299",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/59 (1179).jpg?bwg=1547480299",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2015/04/30/the-werckmeister-harmonies/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/064_BelaTarr_贝拉·塔尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1289).jpg?bwg=1547480300",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/064_BelaTarr_贝拉·塔尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/20 (1315).jpg?bwg=1547480299",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/064_BelaTarr_贝拉·塔尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/40 (1305).jpg?bwg=1547480299",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/064_BelaTarr_贝拉·塔尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/59 (1179).jpg?bwg=1547480299",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/064_BelaTarr_贝拉·塔尔/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "The Turin Horse",
+      "title_en": "The Turin Horse",
+      "year": 2011,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2015/05/14/the-turin-horse/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1186).jpg?bwg=1547474749",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/17 (1209).jpg?bwg=1547474749",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/33 (1207).jpg?bwg=1547474749",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/49 (1170).jpg?bwg=1547474749",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2015/05/14/the-turin-horse/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/064_BelaTarr_贝拉·塔尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1186).jpg?bwg=1547474749",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/064_BelaTarr_贝拉·塔尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/17 (1209).jpg?bwg=1547474749",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/064_BelaTarr_贝拉·塔尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/33 (1207).jpg?bwg=1547474749",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/064_BelaTarr_贝拉·塔尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/49 (1170).jpg?bwg=1547474749",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/064_BelaTarr_贝拉·塔尔/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/064_BelaTarr_贝拉·塔尔/assets/references/reference_director_manifest.json",
+      "sha256": "9d855c103189a8f8ca31921582e20b06fd9d32f7288d189d042ce3da1d17a5cb",
+      "declared_urls": [
+        "https://film-grab.com/2015/03/26/family-nest/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (366).jpg?bwg=1547216002",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/10 (373).jpg?bwg=1547216002",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/18 (373).jpg?bwg=1547216002",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/27 (373).jpg?bwg=1547216002",
+        "https://film-grab.com/2015/04/09/damnation/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (282).jpg?bwg=1547209122",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (287).jpg?bwg=1547209122",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (281).jpg?bwg=1547209121",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (193).jpg?bwg=1547209121",
+        "https://film-grab.com/2015/04/30/the-werckmeister-harmonies/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1289).jpg?bwg=1547480300",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/20 (1315).jpg?bwg=1547480299",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/40 (1305).jpg?bwg=1547480299",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/59 (1179).jpg?bwg=1547480299",
+        "https://film-grab.com/2015/05/14/the-turin-horse/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1186).jpg?bwg=1547474749",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/17 (1209).jpg?bwg=1547474749",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/33 (1207).jpg?bwg=1547474749",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/49 (1170).jpg?bwg=1547474749"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/064_BelaTarr_贝拉·塔尔/assets/references/reference_sources.md",
+      "sha256": "8918f77bdbc17ce3e4ae3206c7cc0d313e79567094b145bc10309e2fa588d69b",
+      "declared_urls": [
+        "https://film-grab.com/2015/03/26/family-nest/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (366).jpg?bwg=1547216002",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/10 (373).jpg?bwg=1547216002",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/18 (373).jpg?bwg=1547216002",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/27 (373).jpg?bwg=1547216002",
+        "https://film-grab.com/2015/04/09/damnation/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (282).jpg?bwg=1547209122",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (287).jpg?bwg=1547209122",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (281).jpg?bwg=1547209121",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (193).jpg?bwg=1547209121",
+        "https://film-grab.com/2015/04/30/the-werckmeister-harmonies/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1289).jpg?bwg=1547480300",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/20 (1315).jpg?bwg=1547480299",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/40 (1305).jpg?bwg=1547480299",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/59 (1179).jpg?bwg=1547480299",
+        "https://film-grab.com/2015/05/14/the-turin-horse/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1186).jpg?bwg=1547474749",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/17 (1209).jpg?bwg=1547474749",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/33 (1207).jpg?bwg=1547474749",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/49 (1170).jpg?bwg=1547474749"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

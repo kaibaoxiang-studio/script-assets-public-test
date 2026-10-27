@@ -1,0 +1,179 @@
+{
+  "schema_version": "1.0.0",
+  "id": "063",
+  "label": {
+    "name_zh": "安哲罗普洛斯",
+    "name_en": "TheoAngelopoulos",
+    "category": "04_极简冷构与静观长镜",
+    "source_volume": "第1期_SKILL_冷调与大地_001-080"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "雾灰蓝",
+        "name_en": "Fog Gray Blue",
+        "hex": "#7D8A8F",
+        "source_ratio": 0.22,
+        "normalized_ratio": 0.22,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "深海灰蓝",
+        "name_en": "Deep Sea Gray Blue",
+        "hex": "#5D6B70",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "银雾灰",
+        "name_en": "Silver Mist Gray",
+        "hex": "#9DA8AB",
+        "source_ratio": 0.16,
+        "normalized_ratio": 0.16,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "废墟米灰",
+        "name_en": "Ruins Beige Gray",
+        "hex": "#B8B09E",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "暗石青",
+        "name_en": "Dark Stone Cyan",
+        "hex": "#4A5558",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "旧石米",
+        "name_en": "Old Stone Beige",
+        "hex": "#C9C4B5",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "",
+        "name_en": "Emotional 1",
+        "hex": "#BFC7CB",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "历史苍茫"
+      },
+      {
+        "code": "E02",
+        "name_zh": "",
+        "name_en": "Emotional 2",
+        "hex": "#3E484B",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "流亡孤寂"
+      },
+      {
+        "code": "E03",
+        "name_zh": "",
+        "name_en": "Emotional 3",
+        "hex": "#8D989C",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "时间流逝"
+      },
+      {
+        "code": "E04",
+        "name_zh": "",
+        "name_en": "Emotional 4",
+        "hex": "#D4D0C5",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "记忆微光"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "阴散射光",
+      "highlight_description": "雾气弥漫",
+      "shadow_description": "黄昏微光",
+      "contrast_description": "中高对比",
+      "overall_tone": "冷调"
+    },
+    "color_keywords": [
+      "雾灰蓝调",
+      "希腊冷光",
+      "废墟色调",
+      "冬季灰白",
+      "阴天气氛",
+      "海水冷色"
+    ],
+    "mood_keywords": [
+      "历史重量",
+      "流亡主题",
+      "时间缓慢",
+      "诗意悲伤",
+      "家国记忆",
+      "边境徘徊"
+    ],
+    "composition_keywords": [
+      "超长镜头",
+      "横向移动",
+      "废墟构图",
+      "边境意象",
+      "雨雪天气",
+      "历史与个人"
+    ],
+    "style_profile": {
+      "definition": "安哲罗普洛斯的视觉风格以阴散射光为主，雾灰蓝调、希腊冷光，营造出历史重量的氛围。",
+      "lighting": "阴散射光，高光偏雾气弥漫，阴影偏黄昏微光，整体冷调。",
+      "framing": "超长镜头、横向移动、废墟构图。",
+      "grading": "对比度中高对比，色调冷调。",
+      "avoid": "避免平光照明、避免色彩杂乱、避免构图失衡。"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "063",
+      "relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/063_TheoAngelopoulos_安哲罗普洛斯/assets/color_palettes/palette.json",
+      "sha256": "4f60c9b3dd5eee3b23257c425f004fa4db918925b6adca6ec05821f0020543d8"
+    },
+    "source_entry_relative_dir": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/063_TheoAngelopoulos_安哲罗普洛斯",
+    "source_records": [],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 0,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": null
+}

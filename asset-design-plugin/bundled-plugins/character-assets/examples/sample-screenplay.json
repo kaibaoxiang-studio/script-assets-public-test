@@ -1,0 +1,15 @@
+{
+  "schema_version": "standardized_screenplay_v1",
+  "source_manifest": {"filename": "manual-sample", "source_sha256": "manual-sample-v1"},
+  "episodes": [
+    {
+      "id": "EP-01",
+      "scenes": [
+        {"id": "EP-01-S01", "source_refs": ["sample-screenplay.json:EP-01-S01"],
+         "text": "林岚穿深蓝工作服维修飞船，右眉有一道旧伤。她与穿白色礼服的陆遥争论。"},
+        {"id": "EP-01-S02", "source_refs": ["sample-screenplay.json:EP-01-S02"],
+         "text": "林岚换上防护服进入机舱。四足机器犬灰爪发出警戒光，挡在门前。"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "schema_version": "1.0.0",
+  "id": "019",
+  "label": {
+    "name_zh": "斯科特·德瑞克森",
+    "name_en": "Scott Derrickson",
+    "category": "01_黑色悬疑与冷调惊悚",
+    "source_volume": "第1期_SKILL_冷调与大地_001-080"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "深夜蓝黑",
+        "name_en": "Deep Night Blue Black",
+        "hex": "#0F1B2E",
+        "source_ratio": 0.4,
+        "normalized_ratio": 0.4,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "石板蓝灰",
+        "name_en": "Slate Blue Gray",
+        "hex": "#283747",
+        "source_ratio": 0.2,
+        "normalized_ratio": 0.2,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "暗红血棕",
+        "name_en": "Dark Blood Red Brown",
+        "hex": "#6B2E2E",
+        "source_ratio": 0.12,
+        "normalized_ratio": 0.12,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "暗金烛黄",
+        "name_en": "Dark Gold Candle Yellow",
+        "hex": "#B8860B",
+        "source_ratio": 0.1,
+        "normalized_ratio": 0.1,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "深苔绿",
+        "name_en": "Deep Moss Green",
+        "hex": "#3D5A4A",
+        "source_ratio": 0.1,
+        "normalized_ratio": 0.1,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "苍白冷肤",
+        "name_en": "Pale Cold Skin",
+        "hex": "#D5DBDB",
+        "source_ratio": 0.08,
+        "normalized_ratio": 0.08,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "恶魔红",
+        "name_en": "Demonic Red",
+        "hex": "#FF0000",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "邪恶、地狱、超自然威胁"
+      },
+      {
+        "code": "E02",
+        "name_zh": "幽灵蓝",
+        "name_en": "Ghostly Blue",
+        "hex": "#85C1E9",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "灵异、灵魂、另一世界的存在"
+      },
+      {
+        "code": "E03",
+        "name_zh": "圣光金",
+        "name_en": "Holy Light Gold",
+        "hex": "#FFD700",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "信仰、救赎、神圣的力量"
+      },
+      {
+        "code": "E04",
+        "name_zh": "腐生绿",
+        "name_en": "Rotting Green",
+        "hex": "#27AE60",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "腐烂、堕落、被污染的灵魂"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "冷色调为主，暖金烛光点缀，阴影浓重",
+      "highlight_description": "暗金烛黄（烛光/手电筒/台灯）",
+      "shadow_description": "深蓝偏黑（夜色/暗部/恶魔所在）",
+      "contrast_description": "高对比（75-90%），暗部藏恐怖",
+      "overall_tone": "冷调暗蓝，70%冷蓝 + 30%暖金红"
+    },
+    "color_keywords": [
+      "暗蓝恐怖",
+      "阴影宗教",
+      "冷色超自然",
+      "深蓝夜色",
+      "暗金烛光",
+      "暗红血棕",
+      "苍白肤色",
+      "深苔绿霉",
+      "恶魔红眼",
+      "幽灵蓝光"
+    ],
+    "mood_keywords": [
+      "宗教恐怖",
+      "恶魔附身",
+      "灵魂之战",
+      "心理恐惧",
+      "超自然",
+      "家庭受扰",
+      "信仰考验",
+      "邪恶的本质",
+      "童年创伤",
+      "驱魔仪式"
+    ],
+    "composition_keywords": [
+      "暗蓝阴影",
+      "低角度仰拍",
+      "门框取恐",
+      "黑暗中微光驱",
+      "宗教符号构图",
+      "镜面鬼影",
+      "楼梯阴影",
+      "走廊纵深",
+      "手持跟拍",
+      "特写惊吓"
+    ],
+    "style_profile": {
+      "definition": "斯科特·德瑞克森的视觉风格以冷色调为主，暖金烛光点缀，阴影浓重为主，暗蓝恐怖、阴影宗教，营造出宗教恐怖的氛围。",
+      "lighting": "冷色调为主，暖金烛光点缀，阴影浓重，高光偏暗金烛黄（烛光/手电筒/台灯），阴影偏深蓝偏黑（夜色/暗部/恶魔所在），整体冷调暗蓝，70%冷蓝 + 30%暖金红。",
+      "framing": "暗蓝阴影、低角度仰拍、门框取恐。",
+      "grading": "对比度高对比（75-90%），暗部藏恐怖，色调冷调暗蓝，70%冷蓝 + 30%暖金红。",
+      "avoid": "避免平光照明、避免色彩杂乱、避免构图失衡。"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "019",
+      "relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/019_ScottDerrickson_斯科特·德瑞克森/assets/color_palettes/palette.json",
+      "sha256": "633f2dc7dd0c76ed7e76af0d7beb9fc64aaf4b2e33a901716138e90889b3fdbd"
+    },
+    "source_entry_relative_dir": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/019_ScottDerrickson_斯科特·德瑞克森",
+    "source_records": [],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 0,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": null
+}

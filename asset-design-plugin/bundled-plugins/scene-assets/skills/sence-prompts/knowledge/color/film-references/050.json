@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "050",
+  "films": [
+    {
+      "title_zh": "佛罗里达乐园",
+      "title_en": "The Florida Project",
+      "year": 2017,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#E3D0C8",
+          "source_ratio": 15.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.155,
+          "source_luminance": 0.6561,
+          "source_saturation": 0.1189
+        },
+        {
+          "hex": "#BCDAF2",
+          "source_ratio": 15.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.151,
+          "source_luminance": 0.6724,
+          "source_saturation": 0.2231
+        },
+        {
+          "hex": "#8C7974",
+          "source_ratio": 13.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.13699999999999998,
+          "source_luminance": 0.2051,
+          "source_saturation": 0.1714
+        },
+        {
+          "hex": "#282123",
+          "source_ratio": 12.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12300000000000001,
+          "source_luminance": 0.0166,
+          "source_saturation": 0.175
+        },
+        {
+          "hex": "#3D393A",
+          "source_ratio": 12.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.121,
+          "source_luminance": 0.0422,
+          "source_saturation": 0.0656
+        },
+        {
+          "hex": "#BFB9B8",
+          "source_ratio": 10.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10800000000000001,
+          "source_luminance": 0.4923,
+          "source_saturation": 0.0366
+        },
+        {
+          "hex": "#404D5E",
+          "source_ratio": 10.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10400000000000001,
+          "source_luminance": 0.0721,
+          "source_saturation": 0.3191
+        },
+        {
+          "hex": "#A9988A",
+          "source_ratio": 10.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10099999999999999,
+          "source_luminance": 0.3273,
+          "source_saturation": 0.1834
+        }
+      ],
+      "source_ratio_sum": 99.99999999999999,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/394117/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/050_SeanBaker_肖恩·贝克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/GOwNU7Z9G3ORjNxdZnURfuIGS6.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/050_SeanBaker_肖恩·贝克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/6hsJd8c0ZXnjCCL7KlkajA44nES.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/050_SeanBaker_肖恩·贝克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/zQX9kkrXOiD9CzJlTtT0yTFhMS2.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/050_SeanBaker_肖恩·贝克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/fKJOJfZaZIyz2bMZqCyrLADREJ5.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/050_SeanBaker_肖恩·贝克/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "橘色",
+      "title_en": "Tangerine",
+      "year": 2015,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#6F5F42",
+          "source_ratio": 16.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.161,
+          "source_luminance": 0.1196,
+          "source_saturation": 0.4054
+        },
+        {
+          "hex": "#FAF9EF",
+          "source_ratio": 14.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.146,
+          "source_luminance": 0.9431,
+          "source_saturation": 0.044
+        },
+        {
+          "hex": "#0E1525",
+          "source_ratio": 13.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.135,
+          "source_luminance": 0.0076,
+          "source_saturation": 0.6216
+        },
+        {
+          "hex": "#DF7C72",
+          "source_ratio": 11.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11800000000000001,
+          "source_luminance": 0.3132,
+          "source_saturation": 0.4888
+        },
+        {
+          "hex": "#564329",
+          "source_ratio": 11.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.115,
+          "source_luminance": 0.0615,
+          "source_saturation": 0.5233
+        },
+        {
+          "hex": "#6992C8",
+          "source_ratio": 11.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.113,
+          "source_luminance": 0.2773,
+          "source_saturation": 0.475
+        },
+        {
+          "hex": "#F09B71",
+          "source_ratio": 11.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11199999999999999,
+          "source_luminance": 0.4316,
+          "source_saturation": 0.5292
+        },
+        {
+          "hex": "#EE784B",
+          "source_ratio": 10,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.1,
+          "source_luminance": 0.3212,
+          "source_saturation": 0.6849
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/308084/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/050_SeanBaker_肖恩·贝克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/q18pdMKGX4wSHaT3lllt5jLjp8d.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/050_SeanBaker_肖恩·贝克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/hFVPsoiU8V2XJRf9N367acWjMMa.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/050_SeanBaker_肖恩·贝克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/ia3EDkW77P2oFlBM2vIi9uUfhNX.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/050_SeanBaker_肖恩·贝克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/slp23A53gDadzbRjy0dFah7Xvut.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/050_SeanBaker_肖恩·贝克/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "红色火箭",
+      "title_en": "Red Rocket",
+      "year": 2021,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#FBF7EC",
+          "source_ratio": 38,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.38,
+          "source_luminance": 0.9309,
+          "source_saturation": 0.0598
+        },
+        {
+          "hex": "#767689",
+          "source_ratio": 14.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.141,
+          "source_luminance": 0.1861,
+          "source_saturation": 0.1387
+        },
+        {
+          "hex": "#8DB6B3",
+          "source_ratio": 10.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10800000000000001,
+          "source_luminance": 0.4237,
+          "source_saturation": 0.2253
+        },
+        {
+          "hex": "#918064",
+          "source_ratio": 8.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.084,
+          "source_luminance": 0.2238,
+          "source_saturation": 0.3103
+        },
+        {
+          "hex": "#855C41",
+          "source_ratio": 7.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.078,
+          "source_luminance": 0.1302,
+          "source_saturation": 0.5113
+        },
+        {
+          "hex": "#513C43",
+          "source_ratio": 7.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.07400000000000001,
+          "source_luminance": 0.0539,
+          "source_saturation": 0.2593
+        },
+        {
+          "hex": "#3C231D",
+          "source_ratio": 6.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.067,
+          "source_luminance": 0.0225,
+          "source_saturation": 0.5167
+        },
+        {
+          "hex": "#010101",
+          "source_ratio": 6.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.068,
+          "source_luminance": 0.0003,
+          "source_saturation": 0
+        }
+      ],
+      "source_ratio_sum": 100.00000000000001,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/763329/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/050_SeanBaker_肖恩·贝克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/nRfJFQQ6OUVW4NV7wFzNDu57J3E.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/050_SeanBaker_肖恩·贝克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/kowGpp3EWz9y6n4SR6jg6H3i9XS.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/050_SeanBaker_肖恩·贝克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/vH4ru7l3IE9DjIa3CBHhJon34za.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/050_SeanBaker_肖恩·贝克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/fjNkYNldoGAdqMxRZTPlYXKp2iD.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/050_SeanBaker_肖恩·贝克/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "阿诺拉",
+      "title_en": "Anora",
+      "year": 2024,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#8F9591",
+          "source_ratio": 18.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.188,
+          "source_luminance": 0.2938,
+          "source_saturation": 0.0403
+        },
+        {
+          "hex": "#643B28",
+          "source_ratio": 14.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.147,
+          "source_luminance": 0.0599,
+          "source_saturation": 0.6
+        },
+        {
+          "hex": "#0F151A",
+          "source_ratio": 14.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14300000000000002,
+          "source_luminance": 0.0071,
+          "source_saturation": 0.4231
+        },
+        {
+          "hex": "#89A9A0",
+          "source_ratio": 11,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11,
+          "source_luminance": 0.3623,
+          "source_saturation": 0.1893
+        },
+        {
+          "hex": "#3C2A19",
+          "source_ratio": 10.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.105,
+          "source_luminance": 0.0269,
+          "source_saturation": 0.5833
+        },
+        {
+          "hex": "#061346",
+          "source_ratio": 10.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10300000000000001,
+          "source_luminance": 0.0095,
+          "source_saturation": 0.9143
+        },
+        {
+          "hex": "#7B573E",
+          "source_ratio": 10.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.102,
+          "source_luminance": 0.1138,
+          "source_saturation": 0.4959
+        },
+        {
+          "hex": "#AB8159",
+          "source_ratio": 10.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.102,
+          "source_luminance": 0.2508,
+          "source_saturation": 0.4795
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/1064213/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/050_SeanBaker_肖恩·贝克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/87GU2ifjNYtgYtcRH1NNH1P4ODo.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/050_SeanBaker_肖恩·贝克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/qq5x5TAl6TuhMiEJsEFVTcyd8fE.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/050_SeanBaker_肖恩·贝克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/51jUQym6fjTWYtCkUCoSRb72mvH.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/050_SeanBaker_肖恩·贝克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/RXg0hynkjxYiEWaKwwNAOhht8Y.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/050_SeanBaker_肖恩·贝克/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/050_SeanBaker_肖恩·贝克/assets/references/reference_director_manifest.json",
+      "sha256": "189a2ece572a9b1bb15f4e4d0fb677c4ccb326647ff0362188b81bd9ede081d9",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/394117/images/backdrops",
+        "https://image.tmdb.org/t/p/original/GOwNU7Z9G3ORjNxdZnURfuIGS6.jpg",
+        "https://image.tmdb.org/t/p/original/6hsJd8c0ZXnjCCL7KlkajA44nES.jpg",
+        "https://image.tmdb.org/t/p/original/zQX9kkrXOiD9CzJlTtT0yTFhMS2.jpg",
+        "https://image.tmdb.org/t/p/original/fKJOJfZaZIyz2bMZqCyrLADREJ5.jpg",
+        "https://www.themoviedb.org/movie/308084/images/backdrops",
+        "https://image.tmdb.org/t/p/original/q18pdMKGX4wSHaT3lllt5jLjp8d.jpg",
+        "https://image.tmdb.org/t/p/original/hFVPsoiU8V2XJRf9N367acWjMMa.jpg",
+        "https://image.tmdb.org/t/p/original/ia3EDkW77P2oFlBM2vIi9uUfhNX.jpg",
+        "https://image.tmdb.org/t/p/original/slp23A53gDadzbRjy0dFah7Xvut.jpg",
+        "https://www.themoviedb.org/movie/763329/images/backdrops",
+        "https://image.tmdb.org/t/p/original/nRfJFQQ6OUVW4NV7wFzNDu57J3E.jpg",
+        "https://image.tmdb.org/t/p/original/kowGpp3EWz9y6n4SR6jg6H3i9XS.jpg",
+        "https://image.tmdb.org/t/p/original/vH4ru7l3IE9DjIa3CBHhJon34za.jpg",
+        "https://image.tmdb.org/t/p/original/fjNkYNldoGAdqMxRZTPlYXKp2iD.jpg",
+        "https://www.themoviedb.org/movie/1064213/images/backdrops",
+        "https://image.tmdb.org/t/p/original/87GU2ifjNYtgYtcRH1NNH1P4ODo.jpg",
+        "https://image.tmdb.org/t/p/original/qq5x5TAl6TuhMiEJsEFVTcyd8fE.jpg",
+        "https://image.tmdb.org/t/p/original/51jUQym6fjTWYtCkUCoSRb72mvH.jpg",
+        "https://image.tmdb.org/t/p/original/RXg0hynkjxYiEWaKwwNAOhht8Y.jpg"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/050_SeanBaker_肖恩·贝克/assets/references/reference_sources.md",
+      "sha256": "4fed7616b7f8835e56eaddc752f8ed2b95bc4d5755ba64aca5594374d73d2066",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/394117/images/backdrops",
+        "https://image.tmdb.org/t/p/original/GOwNU7Z9G3ORjNxdZnURfuIGS6.jpg",
+        "https://image.tmdb.org/t/p/original/6hsJd8c0ZXnjCCL7KlkajA44nES.jpg",
+        "https://image.tmdb.org/t/p/original/zQX9kkrXOiD9CzJlTtT0yTFhMS2.jpg",
+        "https://image.tmdb.org/t/p/original/fKJOJfZaZIyz2bMZqCyrLADREJ5.jpg",
+        "https://www.themoviedb.org/movie/308084/images/backdrops",
+        "https://image.tmdb.org/t/p/original/q18pdMKGX4wSHaT3lllt5jLjp8d.jpg",
+        "https://image.tmdb.org/t/p/original/hFVPsoiU8V2XJRf9N367acWjMMa.jpg",
+        "https://image.tmdb.org/t/p/original/ia3EDkW77P2oFlBM2vIi9uUfhNX.jpg",
+        "https://image.tmdb.org/t/p/original/slp23A53gDadzbRjy0dFah7Xvut.jpg",
+        "https://www.themoviedb.org/movie/763329/images/backdrops",
+        "https://image.tmdb.org/t/p/original/nRfJFQQ6OUVW4NV7wFzNDu57J3E.jpg",
+        "https://image.tmdb.org/t/p/original/kowGpp3EWz9y6n4SR6jg6H3i9XS.jpg",
+        "https://image.tmdb.org/t/p/original/vH4ru7l3IE9DjIa3CBHhJon34za.jpg",
+        "https://image.tmdb.org/t/p/original/fjNkYNldoGAdqMxRZTPlYXKp2iD.jpg",
+        "https://www.themoviedb.org/movie/1064213/images/backdrops",
+        "https://image.tmdb.org/t/p/original/87GU2ifjNYtgYtcRH1NNH1P4ODo.jpg",
+        "https://image.tmdb.org/t/p/original/qq5x5TAl6TuhMiEJsEFVTcyd8fE.jpg",
+        "https://image.tmdb.org/t/p/original/51jUQym6fjTWYtCkUCoSRb72mvH.jpg",
+        "https://image.tmdb.org/t/p/original/RXg0hynkjxYiEWaKwwNAOhht8Y.jpg"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

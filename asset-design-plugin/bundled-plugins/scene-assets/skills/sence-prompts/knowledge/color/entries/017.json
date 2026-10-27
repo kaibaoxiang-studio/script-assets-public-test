@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0.0",
+  "id": "017",
+  "label": {
+    "name_zh": "朴赞郁",
+    "name_en": "Park Chan-wook",
+    "category": "01_黑色悬疑与冷调惊悚",
+    "source_volume": "第1期_SKILL_冷调与大地_001-080"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "深翡绿黑",
+        "name_en": "Deep Jade Green Black",
+        "hex": "#0E2A24",
+        "source_ratio": 0.38,
+        "normalized_ratio": 0.38,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "深紫丝绒",
+        "name_en": "Deep Velvet Purple",
+        "hex": "#3E1F5B",
+        "source_ratio": 0.2,
+        "normalized_ratio": 0.2,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "华丽金",
+        "name_en": "Ornate Gold",
+        "hex": "#C9A227",
+        "source_ratio": 0.13,
+        "normalized_ratio": 0.13,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "深红丝绒",
+        "name_en": "Crimson Velvet Red",
+        "hex": "#7B241C",
+        "source_ratio": 0.1,
+        "normalized_ratio": 0.1,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "孔雀蓝绿",
+        "name_en": "Peacock Blue Green",
+        "hex": "#1F4E5F",
+        "source_ratio": 0.1,
+        "normalized_ratio": 0.1,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "金瓷肤",
+        "name_en": "Golden Porcelain Skin",
+        "hex": "#F7DC6F",
+        "source_ratio": 0.09,
+        "normalized_ratio": 0.09,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "高贵紫",
+        "name_en": "Noble Purple",
+        "hex": "#9B59B6",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "优雅的堕落、禁忌之爱、贵族的秘密"
+      },
+      {
+        "code": "E02",
+        "name_zh": "复仇红",
+        "name_en": "Vengeance Red",
+        "hex": "#E74C3C",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "暴力、复仇的激情、血的美学"
+      },
+      {
+        "code": "E03",
+        "name_zh": "翡翠绿",
+        "name_en": "Emerald Green",
+        "hex": "#1ABC9C",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "嫉妒、秘密、生机与危险"
+      },
+      {
+        "code": "E04",
+        "name_zh": "皇家金",
+        "name_en": "Royal Gold",
+        "hex": "#F1C40F",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "权力、财富、华丽的囚笼"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "装饰性柔光，对称布光，色彩浓艳",
+      "highlight_description": "金紫暖光（灯笼/装饰灯/落地窗）",
+      "shadow_description": "深翡绿偏紫（暗部/阴影/帷幔）",
+      "contrast_description": "中高对比（65-80%），色彩饱和",
+      "overall_tone": "暖暗华丽，60%暖金红 + 40%冷绿紫"
+    },
+    "color_keywords": [
+      "华丽绿紫",
+      "丝绒质感",
+      "对称美学",
+      "优雅暴力",
+      "深翡绿",
+      "深紫丝绒",
+      "华丽金",
+      "金瓷肤",
+      "孔雀蓝",
+      "深红丝绒"
+    ],
+    "mood_keywords": [
+      "复仇三部曲",
+      "禁忌之爱",
+      "优雅暴力",
+      "黑色美学",
+      "心理扭曲",
+      "身份谜题",
+      "女性力量",
+      "阶级批判",
+      "黑色幽默",
+      "华丽堕落"
+    ],
+    "composition_keywords": [
+      "严格对称构图",
+      "俯视几何",
+      "低角度仰拍",
+      "门框窗框取景",
+      "镜面反射",
+      "长镜头平移",
+      "色彩对比构图",
+      "丝绒质感",
+      "旋转镜头",
+      "装饰性构图"
+    ],
+    "style_profile": {
+      "definition": "宝石绿、深红与冷黑在精密构图中制造欲望和危险。",
+      "lighting": "雕刻感侧光、彩色实景光、深黑背景；肤色保持可读，不让环境偏色吞没面部层次。",
+      "framing": "对称与倾斜并用，精确推拉和揭示；先交代颜色承载的空间，再进入人物与关键物件。",
+      "grading": "深色浓郁、肤色克制、红绿分区；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+      "avoid": "廉价紫粉霓虹、过亮肤色、随意手持、无动机环绕和随机变焦、用统一滤镜替代色彩比例、光源和材质。"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "017",
+      "relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/017_ParkChan-wook_朴赞郁/assets/color_palettes/palette.json",
+      "sha256": "128d5b9c5c36e0fadfa430914faf829c43bf71f26cdaabb112af4fbdd242108a"
+    },
+    "source_entry_relative_dir": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/017_ParkChan-wook_朴赞郁",
+    "source_records": [
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/017_ParkChan-wook_朴赞郁/assets/references/reference_director_manifest.json",
+        "sha256": "98aad54429d25262ac1826ad438b027a68257b749bb02e37324338a80a634390",
+        "declared_url_count": 20,
+        "externally_verified": false
+      },
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/017_ParkChan-wook_朴赞郁/assets/references/reference_sources.md",
+        "sha256": "937bad516dd52c635c3bf589d0c21edbe599fd0411e504880e0e01d65519a603",
+        "declared_url_count": 20,
+        "externally_verified": false
+      }
+    ],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 4,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": "film-references/017.json"
+}

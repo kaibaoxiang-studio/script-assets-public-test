@@ -1,0 +1,198 @@
+{
+  "schema_version": "1.0.0",
+  "id": "041",
+  "label": {
+    "name_zh": "泰伦斯·马力克",
+    "name_en": "Terrence Malick",
+    "category": "03_大地暖调与自然光诗意",
+    "source_volume": "第1期_SKILL_冷调与大地_001-080"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "麦田金",
+        "name_en": "Wheat Gold",
+        "hex": "#D4A574",
+        "source_ratio": 0.22,
+        "normalized_ratio": 0.22,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "大地褐",
+        "name_en": "Earth Brown",
+        "hex": "#8B6F47",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "深林绿",
+        "name_en": "Deep Forest Green",
+        "hex": "#2F4530",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "暖沙米",
+        "name_en": "Warm Sand Beige",
+        "hex": "#E8D5B7",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "夕阳橙",
+        "name_en": "Sunset Orange",
+        "hex": "#C25A2A",
+        "source_ratio": 0.12,
+        "normalized_ratio": 0.12,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "圣光金",
+        "name_en": "Divine Light Gold",
+        "hex": "#F5E6C8",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "神圣金",
+        "name_en": "Sacred Gold",
+        "hex": "#FFC857",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "神性启示"
+      },
+      {
+        "code": "E02",
+        "name_zh": "草甸绿",
+        "name_en": "Meadow Green",
+        "hex": "#7BA05B",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "自然生命"
+      },
+      {
+        "code": "E03",
+        "name_zh": "铁锈红",
+        "name_en": "Rust Red",
+        "hex": "#8C3A1F",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "战争苦难"
+      },
+      {
+        "code": "E04",
+        "name_zh": "天空蓝",
+        "name_en": "Sky Blue",
+        "hex": "#B8D4E3",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "浩瀚宇宙"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "golden hour backlight, natural magic hour, soft ambient bounce",
+      "highlight_description": "warm gold / honey yellow",
+      "shadow_description": "warm earth brown / muted green",
+      "contrast_description": "low-medium 40-55%, soft and diffused",
+      "overall_tone": "warm natural earth, 70% warm + 30% cool"
+    },
+    "color_keywords": [
+      "golden hour wheat",
+      "warm earth tones",
+      "soft natural backlight",
+      "honey highlight",
+      "grass green meadow",
+      "warm skin tones",
+      "dust in sunlight",
+      "cloud shadow drift"
+    ],
+    "mood_keywords": [
+      "transcendental nature",
+      "spiritual wonder",
+      "human and cosmos",
+      "memory and time",
+      "quiet melancholy",
+      "pastoral poetry",
+      "divine immanence",
+      "wind and light"
+    ],
+    "composition_keywords": [
+      "magic hour golden light",
+      "wide-angle landscape",
+      "steadicam glide",
+      "low angle sun rays",
+      "silhouettes against sunset",
+      "nature framing",
+      "handheld whisper",
+      "lens flare divine"
+    ],
+    "style_profile": {
+      "definition": "金色逆光、草地绿和天空蓝让人物融入流动自然。",
+      "lighting": "黄金时刻逆光、自然散射、镜头耀斑；肤色保持可读，不让环境偏色吞没面部层次。",
+      "framing": "漂浮跟随、低机位自然细节、广角远景；先交代颜色承载的空间，再进入人物与关键物件。",
+      "grading": "高光金暖、阴影青绿、肤色自然；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+      "avoid": "HDR天空、棚拍逆光、过饱和绿色、无动机环绕和随机变焦、用统一滤镜替代色彩比例、光源和材质。"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "041",
+      "relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/041_TerrenceMalick_泰伦斯·马力克/assets/color_palettes/palette.json",
+      "sha256": "f79585fd8db3b86bbb5e5a8b14d6aa6ce13bc932aefeacf4f67eb819e96f13df"
+    },
+    "source_entry_relative_dir": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/041_TerrenceMalick_泰伦斯·马力克",
+    "source_records": [
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/041_TerrenceMalick_泰伦斯·马力克/assets/references/reference_director_manifest.json",
+        "sha256": "9ec6bffceb41d0a17a6bb79b3309c87e195baae4824a079dc9776a553c04ae1e",
+        "declared_url_count": 20,
+        "externally_verified": false
+      },
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/041_TerrenceMalick_泰伦斯·马力克/assets/references/reference_sources.md",
+        "sha256": "dcf53695e4ee5620bd1618880322cc08c094f6258c7f51f416e83278e7600f15",
+        "declared_url_count": 20,
+        "externally_verified": false
+      }
+    ],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 4,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": "film-references/041.json"
+}

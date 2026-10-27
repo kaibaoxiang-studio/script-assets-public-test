@@ -1,0 +1,324 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "082",
+  "films": [
+    {
+      "title_zh": "卖艺春秋",
+      "title_en": "Variety Lights",
+      "year": 1950,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/08/22/variety-lights/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1271).jpg?bwg=1547479248",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1295).jpg?bwg=1547479245",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/43 (1276).jpg?bwg=1547479245",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/64 (963).jpg?bwg=1547479245",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/08/22/variety-lights/",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/082_FedericoFellini_费里尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1271).jpg?bwg=1547479248",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/082_FedericoFellini_费里尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1295).jpg?bwg=1547479245",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/082_FedericoFellini_费里尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/43 (1276).jpg?bwg=1547479245",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/082_FedericoFellini_费里尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/64 (963).jpg?bwg=1547479245",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/082_FedericoFellini_费里尼/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "甜蜜的生活",
+      "title_en": "La Dolce Vita",
+      "year": 1960,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/10/03/la-dolce-vita/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (570).jpg?bwg=1547226256",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (582).jpg?bwg=1547226256",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (571).jpg?bwg=1547226256",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (398).jpg?bwg=1547226256",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/10/03/la-dolce-vita/",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/082_FedericoFellini_费里尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (570).jpg?bwg=1547226256",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/082_FedericoFellini_费里尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (582).jpg?bwg=1547226256",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/082_FedericoFellini_费里尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (571).jpg?bwg=1547226256",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/082_FedericoFellini_费里尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (398).jpg?bwg=1547226256",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/082_FedericoFellini_费里尼/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "阿玛柯德",
+      "title_en": "Amarcord",
+      "year": 1973,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/11/14/amarcord/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (60).jpg?bwg=1547143566",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (62).jpg?bwg=1547143564",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (61).jpg?bwg=1547143564",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (39).jpg?bwg=1547143564",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/11/14/amarcord/",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/082_FedericoFellini_费里尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (60).jpg?bwg=1547143566",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/082_FedericoFellini_费里尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (62).jpg?bwg=1547143564",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/082_FedericoFellini_费里尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (61).jpg?bwg=1547143564",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/082_FedericoFellini_费里尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (39).jpg?bwg=1547143564",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/082_FedericoFellini_费里尼/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "月吟",
+      "title_en": "The Voice of the Moon",
+      "year": 1990,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2015/01/16/the-voice-of-the-moon/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1191).jpg?bwg=1547475027",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/20 (1215).jpg?bwg=1547475026",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/39 (1208).jpg?bwg=1547475026",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/58 (1097).jpg?bwg=1547475026",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2015/01/16/the-voice-of-the-moon/",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/082_FedericoFellini_费里尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1191).jpg?bwg=1547475027",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/082_FedericoFellini_费里尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/20 (1215).jpg?bwg=1547475026",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/082_FedericoFellini_费里尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/39 (1208).jpg?bwg=1547475026",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/082_FedericoFellini_费里尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/58 (1097).jpg?bwg=1547475026",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/082_FedericoFellini_费里尼/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/082_FedericoFellini_费里尼/assets/references/reference_director_manifest.json",
+      "sha256": "56ed6c867f969f4cf09b7ee6f114177b2115a120b9ed8ca15fbb19d356fe5500",
+      "declared_urls": [
+        "https://film-grab.com/2014/08/22/variety-lights/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1271).jpg?bwg=1547479248",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1295).jpg?bwg=1547479245",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/43 (1276).jpg?bwg=1547479245",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/64 (963).jpg?bwg=1547479245",
+        "https://film-grab.com/2014/10/03/la-dolce-vita/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (570).jpg?bwg=1547226256",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (582).jpg?bwg=1547226256",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (571).jpg?bwg=1547226256",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (398).jpg?bwg=1547226256",
+        "https://film-grab.com/2014/11/14/amarcord/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (60).jpg?bwg=1547143566",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (62).jpg?bwg=1547143564",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (61).jpg?bwg=1547143564",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (39).jpg?bwg=1547143564",
+        "https://film-grab.com/2015/01/16/the-voice-of-the-moon/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1191).jpg?bwg=1547475027",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/20 (1215).jpg?bwg=1547475026",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/39 (1208).jpg?bwg=1547475026",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/58 (1097).jpg?bwg=1547475026"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/082_FedericoFellini_费里尼/assets/references/reference_sources.md",
+      "sha256": "6d166b8ea935afbbf762fb39ebe0ea90c7aa157ac589005ce8f1755c6c123f60",
+      "declared_urls": [
+        "https://film-grab.com/2014/08/22/variety-lights/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1271).jpg?bwg=1547479248",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1295).jpg?bwg=1547479245",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/43 (1276).jpg?bwg=1547479245",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/64 (963).jpg?bwg=1547479245",
+        "https://film-grab.com/2014/10/03/la-dolce-vita/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (570).jpg?bwg=1547226256",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (582).jpg?bwg=1547226256",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (571).jpg?bwg=1547226256",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (398).jpg?bwg=1547226256",
+        "https://film-grab.com/2014/11/14/amarcord/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (60).jpg?bwg=1547143566",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (62).jpg?bwg=1547143564",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (61).jpg?bwg=1547143564",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (39).jpg?bwg=1547143564",
+        "https://film-grab.com/2015/01/16/the-voice-of-the-moon/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1191).jpg?bwg=1547475027",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/20 (1215).jpg?bwg=1547475026",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/39 (1208).jpg?bwg=1547475026",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/58 (1097).jpg?bwg=1547475026"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

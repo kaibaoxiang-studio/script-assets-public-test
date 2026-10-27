@@ -1,0 +1,324 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "071",
+  "films": [
+    {
+      "title_zh": "一个菲律宾家庭的进化",
+      "title_en": "Evolution of a Filipino Family",
+      "year": 2004,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/163957/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/daYYyhugFo1skbvXRakSgaluulp.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/nWkihEjs2WepoVDw0BbxxVZJfMP.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/Au9ippQUt3Zgd1fF6p0lVo3w01H.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/2V1JVhXHa3sgMlwD1nZZl3agSW8.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/163957/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/071_LavDiaz_拉夫·迪亚兹/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/daYYyhugFo1skbvXRakSgaluulp.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/071_LavDiaz_拉夫·迪亚兹/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/nWkihEjs2WepoVDw0BbxxVZJfMP.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/071_LavDiaz_拉夫·迪亚兹/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/Au9ippQUt3Zgd1fF6p0lVo3w01H.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/071_LavDiaz_拉夫·迪亚兹/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/2V1JVhXHa3sgMlwD1nZZl3agSW8.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/071_LavDiaz_拉夫·迪亚兹/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "歷史的終結",
+      "title_en": "Norte, the End of History",
+      "year": 2013,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/186975/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/mkLPEV7raBVlpKZTlJjZ3LpsXSj.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/1rLzztXHOckbxrsWcOY3z4fVi8n.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/AYeHhAzNy4YXJZKd4kblvg8NvF.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/mv97NlttMeWk2q3naiTnzHZZ7wx.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/186975/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/071_LavDiaz_拉夫·迪亚兹/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/mkLPEV7raBVlpKZTlJjZ3LpsXSj.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/071_LavDiaz_拉夫·迪亚兹/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/1rLzztXHOckbxrsWcOY3z4fVi8n.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/071_LavDiaz_拉夫·迪亚兹/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/AYeHhAzNy4YXJZKd4kblvg8NvF.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/071_LavDiaz_拉夫·迪亚兹/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/mv97NlttMeWk2q3naiTnzHZZ7wx.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/071_LavDiaz_拉夫·迪亚兹/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "离去的女人",
+      "title_en": "The Woman Who Left",
+      "year": 2016,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/408542/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/l2r4MIWwrYOmD4vUHVrhvyRzumJ.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/9idm8gUOMQBlJNLzzXjdJUHaQVx.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/dwg1SM52ZcX9TFSknjmblsk8lyP.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/k2zhiqN0RVfJjVB6LT7xGHSnICG.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/408542/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/071_LavDiaz_拉夫·迪亚兹/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/l2r4MIWwrYOmD4vUHVrhvyRzumJ.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/071_LavDiaz_拉夫·迪亚兹/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/9idm8gUOMQBlJNLzzXjdJUHaQVx.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/071_LavDiaz_拉夫·迪亚兹/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/dwg1SM52ZcX9TFSknjmblsk8lyP.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/071_LavDiaz_拉夫·迪亚兹/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/k2zhiqN0RVfJjVB6LT7xGHSnICG.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/071_LavDiaz_拉夫·迪亚兹/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "麥哲倫之死",
+      "title_en": "Magellan",
+      "year": 2025,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/975335/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/8nv5MUtEBMX4DDkrFkDhkppRxuD.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/AiqZxSQEWbA8LQGiESwUXmo2HWV.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/j3ZvqYDmlSExJVTU41Lb7cKuEiT.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/boaujR3sA5SkY5LGPmBkbPB7ZZb.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/975335/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/071_LavDiaz_拉夫·迪亚兹/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/8nv5MUtEBMX4DDkrFkDhkppRxuD.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/071_LavDiaz_拉夫·迪亚兹/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/AiqZxSQEWbA8LQGiESwUXmo2HWV.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/071_LavDiaz_拉夫·迪亚兹/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/j3ZvqYDmlSExJVTU41Lb7cKuEiT.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/071_LavDiaz_拉夫·迪亚兹/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/boaujR3sA5SkY5LGPmBkbPB7ZZb.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/071_LavDiaz_拉夫·迪亚兹/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/071_LavDiaz_拉夫·迪亚兹/assets/references/reference_director_manifest.json",
+      "sha256": "2a3741ece6222f629571866ee10064232c626b8abfaa9905f932b7d781f522b2",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/163957/images/backdrops",
+        "https://image.tmdb.org/t/p/original/daYYyhugFo1skbvXRakSgaluulp.jpg",
+        "https://image.tmdb.org/t/p/original/nWkihEjs2WepoVDw0BbxxVZJfMP.jpg",
+        "https://image.tmdb.org/t/p/original/Au9ippQUt3Zgd1fF6p0lVo3w01H.jpg",
+        "https://image.tmdb.org/t/p/original/2V1JVhXHa3sgMlwD1nZZl3agSW8.jpg",
+        "https://www.themoviedb.org/movie/186975/images/backdrops",
+        "https://image.tmdb.org/t/p/original/mkLPEV7raBVlpKZTlJjZ3LpsXSj.jpg",
+        "https://image.tmdb.org/t/p/original/1rLzztXHOckbxrsWcOY3z4fVi8n.jpg",
+        "https://image.tmdb.org/t/p/original/AYeHhAzNy4YXJZKd4kblvg8NvF.jpg",
+        "https://image.tmdb.org/t/p/original/mv97NlttMeWk2q3naiTnzHZZ7wx.jpg",
+        "https://www.themoviedb.org/movie/408542/images/backdrops",
+        "https://image.tmdb.org/t/p/original/l2r4MIWwrYOmD4vUHVrhvyRzumJ.jpg",
+        "https://image.tmdb.org/t/p/original/9idm8gUOMQBlJNLzzXjdJUHaQVx.jpg",
+        "https://image.tmdb.org/t/p/original/dwg1SM52ZcX9TFSknjmblsk8lyP.jpg",
+        "https://image.tmdb.org/t/p/original/k2zhiqN0RVfJjVB6LT7xGHSnICG.jpg",
+        "https://www.themoviedb.org/movie/975335/images/backdrops",
+        "https://image.tmdb.org/t/p/original/8nv5MUtEBMX4DDkrFkDhkppRxuD.jpg",
+        "https://image.tmdb.org/t/p/original/AiqZxSQEWbA8LQGiESwUXmo2HWV.jpg",
+        "https://image.tmdb.org/t/p/original/j3ZvqYDmlSExJVTU41Lb7cKuEiT.jpg",
+        "https://image.tmdb.org/t/p/original/boaujR3sA5SkY5LGPmBkbPB7ZZb.jpg"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/071_LavDiaz_拉夫·迪亚兹/assets/references/reference_sources.md",
+      "sha256": "85d9ebee2e7ed0da5bb7314465b69fd27751855e3ae92a01e803874e271d3082",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/163957/images/backdrops",
+        "https://image.tmdb.org/t/p/original/daYYyhugFo1skbvXRakSgaluulp.jpg",
+        "https://image.tmdb.org/t/p/original/nWkihEjs2WepoVDw0BbxxVZJfMP.jpg",
+        "https://image.tmdb.org/t/p/original/Au9ippQUt3Zgd1fF6p0lVo3w01H.jpg",
+        "https://image.tmdb.org/t/p/original/2V1JVhXHa3sgMlwD1nZZl3agSW8.jpg",
+        "https://www.themoviedb.org/movie/186975/images/backdrops",
+        "https://image.tmdb.org/t/p/original/mkLPEV7raBVlpKZTlJjZ3LpsXSj.jpg",
+        "https://image.tmdb.org/t/p/original/1rLzztXHOckbxrsWcOY3z4fVi8n.jpg",
+        "https://image.tmdb.org/t/p/original/AYeHhAzNy4YXJZKd4kblvg8NvF.jpg",
+        "https://image.tmdb.org/t/p/original/mv97NlttMeWk2q3naiTnzHZZ7wx.jpg",
+        "https://www.themoviedb.org/movie/408542/images/backdrops",
+        "https://image.tmdb.org/t/p/original/l2r4MIWwrYOmD4vUHVrhvyRzumJ.jpg",
+        "https://image.tmdb.org/t/p/original/9idm8gUOMQBlJNLzzXjdJUHaQVx.jpg",
+        "https://image.tmdb.org/t/p/original/dwg1SM52ZcX9TFSknjmblsk8lyP.jpg",
+        "https://image.tmdb.org/t/p/original/k2zhiqN0RVfJjVB6LT7xGHSnICG.jpg",
+        "https://www.themoviedb.org/movie/975335/images/backdrops",
+        "https://image.tmdb.org/t/p/original/8nv5MUtEBMX4DDkrFkDhkppRxuD.jpg",
+        "https://image.tmdb.org/t/p/original/AiqZxSQEWbA8LQGiESwUXmo2HWV.jpg",
+        "https://image.tmdb.org/t/p/original/j3ZvqYDmlSExJVTU41Lb7cKuEiT.jpg",
+        "https://image.tmdb.org/t/p/original/boaujR3sA5SkY5LGPmBkbPB7ZZb.jpg"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

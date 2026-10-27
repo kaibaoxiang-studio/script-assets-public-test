@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "021",
+  "films": [
+    {
+      "title_zh": "The Duellists",
+      "title_en": "The Duellists",
+      "year": 1977,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#6782A5",
+          "source_ratio": 13.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.136,
+          "source_luminance": 0.2157,
+          "source_saturation": 0.3758
+        },
+        {
+          "hex": "#4B382D",
+          "source_ratio": 13.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.131,
+          "source_luminance": 0.0451,
+          "source_saturation": 0.4
+        },
+        {
+          "hex": "#665147",
+          "source_ratio": 12.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.127,
+          "source_luminance": 0.0916,
+          "source_saturation": 0.3039
+        },
+        {
+          "hex": "#271B14",
+          "source_ratio": 12.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.126,
+          "source_luminance": 0.0127,
+          "source_saturation": 0.4872
+        },
+        {
+          "hex": "#262B3A",
+          "source_ratio": 12.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.126,
+          "source_luminance": 0.0245,
+          "source_saturation": 0.3448
+        },
+        {
+          "hex": "#C3C7CB",
+          "source_ratio": 12.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.121,
+          "source_luminance": 0.5676,
+          "source_saturation": 0.0394
+        },
+        {
+          "hex": "#4B4A43",
+          "source_ratio": 12,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12,
+          "source_luminance": 0.068,
+          "source_saturation": 0.1067
+        },
+        {
+          "hex": "#030100",
+          "source_ratio": 11.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.113,
+          "source_luminance": 0.0004,
+          "source_saturation": 1
+        }
+      ],
+      "source_ratio_sum": 99.99999999999999,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2023/11/20/the-duellists/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/021_RidleyScott_雷德利·斯科特/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Duellists_01.jpg?bwg=1699896092",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/021_RidleyScott_雷德利·斯科特/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Duellists_22.jpg?bwg=1699896091",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/021_RidleyScott_雷德利·斯科特/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Duellists_42.jpg?bwg=1699896091",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/021_RidleyScott_雷德利·斯科特/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Duellists_63.jpg?bwg=1699896091",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/021_RidleyScott_雷德利·斯科特/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Gladiator",
+      "title_en": "Gladiator",
+      "year": 2000,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#B0756C",
+          "source_ratio": 16.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.16899999999999998,
+          "source_luminance": 0.2304,
+          "source_saturation": 0.3864
+        },
+        {
+          "hex": "#544023",
+          "source_ratio": 12.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.128,
+          "source_luminance": 0.0567,
+          "source_saturation": 0.5833
+        },
+        {
+          "hex": "#677989",
+          "source_ratio": 12.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.124,
+          "source_luminance": 0.1836,
+          "source_saturation": 0.2482
+        },
+        {
+          "hex": "#0F0F10",
+          "source_ratio": 12.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12300000000000001,
+          "source_luminance": 0.0048,
+          "source_saturation": 0.0625
+        },
+        {
+          "hex": "#6B5636",
+          "source_ratio": 12,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12,
+          "source_luminance": 0.1005,
+          "source_saturation": 0.4953
+        },
+        {
+          "hex": "#7E8C96",
+          "source_ratio": 11.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.114,
+          "source_luminance": 0.2539,
+          "source_saturation": 0.16
+        },
+        {
+          "hex": "#443324",
+          "source_ratio": 11.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11199999999999999,
+          "source_luminance": 0.0372,
+          "source_saturation": 0.4706
+        },
+        {
+          "hex": "#20140D",
+          "source_ratio": 11,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11,
+          "source_luminance": 0.0084,
+          "source_saturation": 0.5938
+        }
+      ],
+      "source_ratio_sum": 100.00000000000001,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2017/09/13/gladiator/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/021_RidleyScott_雷德利·斯科特/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/gladiator001.jpg?bwg=1546965620",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/021_RidleyScott_雷德利·斯科特/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/gladiator022.jpg?bwg=1546965619",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/021_RidleyScott_雷德利·斯科特/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/gladiator044.jpg?bwg=1546965619",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/021_RidleyScott_雷德利·斯科特/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/gladiator065.jpg?bwg=1546965619",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/021_RidleyScott_雷德利·斯科特/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Prometheus",
+      "title_en": "Prometheus",
+      "year": 2012,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#0E100E",
+          "source_ratio": 15.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.159,
+          "source_luminance": 0.005,
+          "source_saturation": 0.125
+        },
+        {
+          "hex": "#213851",
+          "source_ratio": 15.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.151,
+          "source_luminance": 0.0375,
+          "source_saturation": 0.5926
+        },
+        {
+          "hex": "#4B697F",
+          "source_ratio": 13.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.132,
+          "source_luminance": 0.1313,
+          "source_saturation": 0.4094
+        },
+        {
+          "hex": "#132430",
+          "source_ratio": 13.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.131,
+          "source_luminance": 0.0161,
+          "source_saturation": 0.6042
+        },
+        {
+          "hex": "#3F5875",
+          "source_ratio": 12.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.124,
+          "source_luminance": 0.0932,
+          "source_saturation": 0.4615
+        },
+        {
+          "hex": "#2E496B",
+          "source_ratio": 11.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11199999999999999,
+          "source_luminance": 0.0641,
+          "source_saturation": 0.5701
+        },
+        {
+          "hex": "#829CA4",
+          "source_ratio": 10.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10300000000000001,
+          "source_luminance": 0.312,
+          "source_saturation": 0.2073
+        },
+        {
+          "hex": "#2C322F",
+          "source_ratio": 8.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.08800000000000001,
+          "source_luminance": 0.0302,
+          "source_saturation": 0.12
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/09/12/prometheus/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/021_RidleyScott_雷德利·斯科特/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (826).jpg?bwg=1547297004",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/021_RidleyScott_雷德利·斯科特/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (843).jpg?bwg=1547297004",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/021_RidleyScott_雷德利·斯科特/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (829).jpg?bwg=1547297003",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/021_RidleyScott_雷德利·斯科特/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (567).jpg?bwg=1547297003",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/021_RidleyScott_雷德利·斯科特/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Napoleon (2023)",
+      "title_en": "Napoleon (2023)",
+      "year": 2023,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#DCC58E",
+          "source_ratio": 15.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.154,
+          "source_luminance": 0.571,
+          "source_saturation": 0.3545
+        },
+        {
+          "hex": "#263131",
+          "source_ratio": 13.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.135,
+          "source_luminance": 0.0283,
+          "source_saturation": 0.2245
+        },
+        {
+          "hex": "#8DBAD7",
+          "source_ratio": 13.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.134,
+          "source_luminance": 0.4569,
+          "source_saturation": 0.3442
+        },
+        {
+          "hex": "#75888C",
+          "source_ratio": 12.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.129,
+          "source_luminance": 0.2328,
+          "source_saturation": 0.1643
+        },
+        {
+          "hex": "#33484C",
+          "source_ratio": 12.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.125,
+          "source_luminance": 0.0586,
+          "source_saturation": 0.3289
+        },
+        {
+          "hex": "#141D1D",
+          "source_ratio": 11.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.113,
+          "source_luminance": 0.0112,
+          "source_saturation": 0.3103
+        },
+        {
+          "hex": "#3E5A62",
+          "source_ratio": 10.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.107,
+          "source_luminance": 0.0922,
+          "source_saturation": 0.3673
+        },
+        {
+          "hex": "#C79F63",
+          "source_ratio": 10.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10300000000000001,
+          "source_luminance": 0.3784,
+          "source_saturation": 0.5025
+        }
+      ],
+      "source_ratio_sum": 99.99999999999999,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2024/08/06/napoleon-2023/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/021_RidleyScott_雷德利·斯科特/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Napoleon_2023_01.jpg?bwg=1710709928",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/021_RidleyScott_雷德利·斯科特/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Napoleon_2023_22.jpg?bwg=1710709926",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/021_RidleyScott_雷德利·斯科特/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Napoleon_2023_44.jpg?bwg=1710709926",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/021_RidleyScott_雷德利·斯科特/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Napoleon_2023_65.jpg?bwg=1710709926",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/021_RidleyScott_雷德利·斯科特/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/021_RidleyScott_雷德利·斯科特/assets/references/reference_director_manifest.json",
+      "sha256": "1a3131909ed71c70f0bb2533eb0e849c6bf1219638cfa23329fb6bc60361209f",
+      "declared_urls": [
+        "https://film-grab.com/2023/11/20/the-duellists/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Duellists_01.jpg?bwg=1699896092",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Duellists_22.jpg?bwg=1699896091",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Duellists_42.jpg?bwg=1699896091",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Duellists_63.jpg?bwg=1699896091",
+        "https://film-grab.com/2017/09/13/gladiator/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/gladiator001.jpg?bwg=1546965620",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/gladiator022.jpg?bwg=1546965619",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/gladiator044.jpg?bwg=1546965619",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/gladiator065.jpg?bwg=1546965619",
+        "https://film-grab.com/2014/09/12/prometheus/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (826).jpg?bwg=1547297004",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (843).jpg?bwg=1547297004",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (829).jpg?bwg=1547297003",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (567).jpg?bwg=1547297003",
+        "https://film-grab.com/2024/08/06/napoleon-2023/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Napoleon_2023_01.jpg?bwg=1710709928",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Napoleon_2023_22.jpg?bwg=1710709926",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Napoleon_2023_44.jpg?bwg=1710709926",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Napoleon_2023_65.jpg?bwg=1710709926"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/021_RidleyScott_雷德利·斯科特/assets/references/reference_sources.md",
+      "sha256": "a3a617a869502e9a965d4bb49804fec00a0c2a251f65b779d4ffe25edee9f2e6",
+      "declared_urls": [
+        "https://film-grab.com/2023/11/20/the-duellists/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Duellists_01.jpg?bwg=1699896092",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Duellists_22.jpg?bwg=1699896091",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Duellists_42.jpg?bwg=1699896091",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Duellists_63.jpg?bwg=1699896091",
+        "https://film-grab.com/2017/09/13/gladiator/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/gladiator001.jpg?bwg=1546965620",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/gladiator022.jpg?bwg=1546965619",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/gladiator044.jpg?bwg=1546965619",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/gladiator065.jpg?bwg=1546965619",
+        "https://film-grab.com/2014/09/12/prometheus/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (826).jpg?bwg=1547297004",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (843).jpg?bwg=1547297004",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (829).jpg?bwg=1547297003",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (567).jpg?bwg=1547297003",
+        "https://film-grab.com/2024/08/06/napoleon-2023/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Napoleon_2023_01.jpg?bwg=1710709928",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Napoleon_2023_22.jpg?bwg=1710709926",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Napoleon_2023_44.jpg?bwg=1710709926",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Napoleon_2023_65.jpg?bwg=1710709926"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

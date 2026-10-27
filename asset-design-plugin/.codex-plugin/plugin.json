@@ -1,0 +1,15 @@
+{
+  "name": "asset-design",
+  "version": "0.1.0",
+  "description": "基于全文理解统筹角色、场景、道具设计，内置锁版子插件与可追溯项目台账",
+  "author": {
+    "name": "开宝箱工作室"
+  },
+  "skills": "./skills/",
+  "requires_local_executor": true,
+  "interface": {
+    "displayName": "资产设计插件",
+    "shortDescription": "全文理解与角色、场景、道具统一设计",
+    "defaultPrompt": "请使用 $asset-design，根据我的剧本与资产表统筹角色、场景和道具设计。"
+  }
+}

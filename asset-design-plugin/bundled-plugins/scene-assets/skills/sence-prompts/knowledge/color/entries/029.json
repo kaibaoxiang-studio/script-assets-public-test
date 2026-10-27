@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0.0",
+  "id": "029",
+  "label": {
+    "name_zh": "大友克洋",
+    "name_en": "Katsuhiro Otomo",
+    "category": "02_霓虹黑色与赛博未来",
+    "source_volume": "第1期_SKILL_冷调与大地_001-080"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "末日深黑",
+        "name_en": "Apocalypse Deep Black",
+        "hex": "#0D0D0D",
+        "source_ratio": 0.28,
+        "normalized_ratio": 0.28,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "爆炸橙红",
+        "name_en": "Explosion Orange-Red",
+        "hex": "#FF3D00",
+        "source_ratio": 0.2,
+        "normalized_ratio": 0.2,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "废墟灰棕",
+        "name_en": "Ruins Grey-Brown",
+        "hex": "#5D4037",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "新东京红",
+        "name_en": "Neo-Tokyo Red",
+        "hex": "#D32F2F",
+        "source_ratio": 0.12,
+        "normalized_ratio": 0.12,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "烟尘金",
+        "name_en": "Dust Gold",
+        "hex": "#BF8F3C",
+        "source_ratio": 0.13,
+        "normalized_ratio": 0.13,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "能量蓝",
+        "name_en": "Energy Blue",
+        "hex": "#1565C0",
+        "source_ratio": 0.12,
+        "normalized_ratio": 0.12,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "核爆白黄",
+        "name_en": "Nuclear White-Yellow",
+        "hex": "#FFEB3B",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "毁灭性能量、觉醒瞬间、超能力爆发"
+      },
+      {
+        "code": "E02",
+        "name_zh": "鲜血深红",
+        "name_en": "Blood Deep Red",
+        "hex": "#B71C1C",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "暴力、毁灭、少年暴走、社会崩溃"
+      },
+      {
+        "code": "E03",
+        "name_zh": "超能紫",
+        "name_en": "Psychic Purple",
+        "hex": "#6A1B9A",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "超自然力量、意识膨胀、超越肉身"
+      },
+      {
+        "code": "E04",
+        "name_zh": "蒸汽铜",
+        "name_en": "Steam Copper",
+        "hex": "#B87333",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "蒸汽朋克复古、工业革命质感、机械怀旧"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "强烈的顶光/爆炸光源，硬光为主，能量自发光体（爆炸/超能力）作为核心光源",
+      "highlight_description": "爆炸橙红/核爆白黄（爆炸核心/能量释放/火光）",
+      "shadow_description": "冷蓝偏黑（建筑阴影/军事科技暗部/夜晚）",
+      "contrast_description": "极高对比（80-95%），饱和色块碰撞，黑与亮橙红极端对比",
+      "overall_tone": "高饱和末日，60%暖橙红棕 + 40%冷蓝黑"
+    },
+    "color_keywords": [
+      "爆炸橙红",
+      "末日深黑",
+      "废墟棕灰",
+      "新东京血红",
+      "能量蓝光",
+      "烟尘金",
+      "核爆白黄",
+      "高饱和碰撞",
+      "硬光切割",
+      "自发光体"
+    ],
+    "mood_keywords": [
+      "末日预言",
+      "少年暴走",
+      "毁灭美学",
+      "赛博废墟",
+      "社会崩溃",
+      "能量觉醒",
+      "暴力史诗",
+      "反乌托邦",
+      "科技恐惧",
+      "新东京狂热"
+    ],
+    "composition_keywords": [
+      "爆炸中心扩散",
+      "废墟纵深透视",
+      "大规模破坏全景",
+      "速度线爆发",
+      "建筑崩塌碎片",
+      "少年暴走正面",
+      "军事机械对峙",
+      "烟尘弥漫远景",
+      "赛博街道纵深",
+      "能量光流扭曲"
+    ],
+    "style_profile": {
+      "definition": "巨型都市基础设施与失控身体能量以方向明确的高速运动冲撞",
+      "lighting": "夜城硬光、车灯轨迹、实验室白光与爆炸光；肤色保持自然可读，高光和黑位保留材质。",
+      "framing": "低机位广角、摩托道路轴线和巨大建筑尺度",
+      "grading": "城市黑、尾灯红、军绿、实验室白和能量青蓝；局部强调色不污染整幅画面。",
+      "avoid": "统一滤镜替代真实材质、无动机环绕和随机变焦、人物身份与空间轴漂移、肤色污染、死黑和爆白、只模仿颜色不执行镜头语言。"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "029",
+      "relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/029_KatsuhiroOtomo_大友克洋/assets/color_palettes/palette.json",
+      "sha256": "07c7e0400b2f77a92a2ee6d64b4bac2ce36c06b4ca9f5301df045d38fd83e63f"
+    },
+    "source_entry_relative_dir": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/029_KatsuhiroOtomo_大友克洋",
+    "source_records": [
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/029_KatsuhiroOtomo_大友克洋/assets/references/reference_director_manifest.json",
+        "sha256": "4efa3795aa29bffdb68f08c8173a0485bde3b4fee4d752ebca9f9c880bce544c",
+        "declared_url_count": 20,
+        "externally_verified": false
+      },
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/029_KatsuhiroOtomo_大友克洋/assets/references/reference_sources.md",
+        "sha256": "7670746426905a34b7d599c5c2679fcb5af605c1ff98647d0dd764b050d5918d",
+        "declared_url_count": 20,
+        "externally_verified": false
+      }
+    ],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 4,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": "film-references/029.json"
+}

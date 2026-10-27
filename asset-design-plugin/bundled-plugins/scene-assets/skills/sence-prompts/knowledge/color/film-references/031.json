@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "031",
+  "films": [
+    {
+      "title_zh": "The Terminator",
+      "title_en": "The Terminator",
+      "year": 1984,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#4E6670",
+          "source_ratio": 14.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.149,
+          "source_luminance": 0.1229,
+          "source_saturation": 0.3036
+        },
+        {
+          "hex": "#08546B",
+          "source_ratio": 14.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14300000000000002,
+          "source_luminance": 0.0745,
+          "source_saturation": 0.9252
+        },
+        {
+          "hex": "#302A22",
+          "source_ratio": 12.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.129,
+          "source_luminance": 0.024,
+          "source_saturation": 0.2917
+        },
+        {
+          "hex": "#021624",
+          "source_ratio": 12.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.121,
+          "source_luminance": 0.0071,
+          "source_saturation": 0.9444
+        },
+        {
+          "hex": "#8F0005",
+          "source_ratio": 12.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.121,
+          "source_luminance": 0.0585,
+          "source_saturation": 1
+        },
+        {
+          "hex": "#6B99A1",
+          "source_ratio": 11.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.115,
+          "source_luminance": 0.2848,
+          "source_saturation": 0.3354
+        },
+        {
+          "hex": "#B33A42",
+          "source_ratio": 11.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.113,
+          "source_luminance": 0.13,
+          "source_saturation": 0.676
+        },
+        {
+          "hex": "#AE0004",
+          "source_ratio": 10.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.109,
+          "source_luminance": 0.0901,
+          "source_saturation": 1
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2015/05/15/the-terminator/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/031_JamesCameron_詹姆斯·卡梅隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1177).jpg?bwg=1547474226",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/031_JamesCameron_詹姆斯·卡梅隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1200).jpg?bwg=1547474225",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/031_JamesCameron_詹姆斯·卡梅隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1181).jpg?bwg=1547474225",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/031_JamesCameron_詹姆斯·卡梅隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (807).jpg?bwg=1547474225",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/031_JamesCameron_詹姆斯·卡梅隆/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "The Abyss",
+      "title_en": "The Abyss",
+      "year": 1989,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#05366A",
+          "source_ratio": 15.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.152,
+          "source_luminance": 0.0371,
+          "source_saturation": 0.9528
+        },
+        {
+          "hex": "#082736",
+          "source_ratio": 13.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.132,
+          "source_luminance": 0.0177,
+          "source_saturation": 0.8519
+        },
+        {
+          "hex": "#CCC5B2",
+          "source_ratio": 12.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.125,
+          "source_luminance": 0.5598,
+          "source_saturation": 0.1275
+        },
+        {
+          "hex": "#213C45",
+          "source_ratio": 12,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12,
+          "source_luminance": 0.0398,
+          "source_saturation": 0.5217
+        },
+        {
+          "hex": "#485050",
+          "source_ratio": 11.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11900000000000001,
+          "source_luminance": 0.0769,
+          "source_saturation": 0.1
+        },
+        {
+          "hex": "#5F6867",
+          "source_ratio": 11.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11900000000000001,
+          "source_luminance": 0.1331,
+          "source_saturation": 0.0865
+        },
+        {
+          "hex": "#7B7B73",
+          "source_ratio": 11.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11800000000000001,
+          "source_luminance": 0.1961,
+          "source_saturation": 0.065
+        },
+        {
+          "hex": "#615854",
+          "source_ratio": 11.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.115,
+          "source_luminance": 0.1016,
+          "source_saturation": 0.134
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2024/07/11/the-abyss/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/031_JamesCameron_詹姆斯·卡梅隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Abyss_01.jpg?bwg=1703850584",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/031_JamesCameron_詹姆斯·卡梅隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Abyss_22.jpg?bwg=1703850584",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/031_JamesCameron_詹姆斯·卡梅隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Abyss_44.jpg?bwg=1703850582",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/031_JamesCameron_詹姆斯·卡梅隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Abyss_65.jpg?bwg=1703850582",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/031_JamesCameron_詹姆斯·卡梅隆/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Titanic",
+      "title_en": "Titanic",
+      "year": 1997,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#B99A5F",
+          "source_ratio": 14.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.147,
+          "source_luminance": 0.3425,
+          "source_saturation": 0.4865
+        },
+        {
+          "hex": "#2B241A",
+          "source_ratio": 13.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.136,
+          "source_luminance": 0.0185,
+          "source_saturation": 0.3953
+        },
+        {
+          "hex": "#171915",
+          "source_ratio": 13.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.133,
+          "source_luminance": 0.0093,
+          "source_saturation": 0.16
+        },
+        {
+          "hex": "#332901",
+          "source_ratio": 13,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.13,
+          "source_luminance": 0.0229,
+          "source_saturation": 0.9804
+        },
+        {
+          "hex": "#794C2A",
+          "source_ratio": 11.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11699999999999999,
+          "source_luminance": 0.094,
+          "source_saturation": 0.6529
+        },
+        {
+          "hex": "#362F19",
+          "source_ratio": 11.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.114,
+          "source_luminance": 0.0289,
+          "source_saturation": 0.537
+        },
+        {
+          "hex": "#546056",
+          "source_ratio": 11.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.111,
+          "source_luminance": 0.1092,
+          "source_saturation": 0.125
+        },
+        {
+          "hex": "#290202",
+          "source_ratio": 11.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11199999999999999,
+          "source_luminance": 0.0052,
+          "source_saturation": 0.9512
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2026/03/04/titanic/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/031_JamesCameron_詹姆斯·卡梅隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Titanic_01.jpg?bwg=1701349780",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/031_JamesCameron_詹姆斯·卡梅隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Titanic_22.jpg?bwg=1701349778",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/031_JamesCameron_詹姆斯·卡梅隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Titanic_44.jpg?bwg=1701349778",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/031_JamesCameron_詹姆斯·卡梅隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Titanic_65.jpg?bwg=1701349778",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/031_JamesCameron_詹姆斯·卡梅隆/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Avatar: The Way of Water",
+      "title_en": "Avatar: The Way of Water",
+      "year": 2022,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#81741E",
+          "source_ratio": 15.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.156,
+          "source_luminance": 0.1725,
+          "source_saturation": 0.7674
+        },
+        {
+          "hex": "#243333",
+          "source_ratio": 14,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14,
+          "source_luminance": 0.0298,
+          "source_saturation": 0.2941
+        },
+        {
+          "hex": "#062B2E",
+          "source_ratio": 13.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.138,
+          "source_luminance": 0.0196,
+          "source_saturation": 0.8696
+        },
+        {
+          "hex": "#5B757E",
+          "source_ratio": 12.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.124,
+          "source_luminance": 0.1645,
+          "source_saturation": 0.2778
+        },
+        {
+          "hex": "#19261E",
+          "source_ratio": 12,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12,
+          "source_luminance": 0.0169,
+          "source_saturation": 0.3421
+        },
+        {
+          "hex": "#0F4893",
+          "source_ratio": 11.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11599999999999999,
+          "source_luminance": 0.0684,
+          "source_saturation": 0.898
+        },
+        {
+          "hex": "#AAA23D",
+          "source_ratio": 10.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.107,
+          "source_luminance": 0.3472,
+          "source_saturation": 0.6412
+        },
+        {
+          "hex": "#030F35",
+          "source_ratio": 9.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.099,
+          "source_luminance": 0.0062,
+          "source_saturation": 0.9434
+        }
+      ],
+      "source_ratio_sum": 100.00000000000001,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/12/22/avatar-the-way-of-water/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/031_JamesCameron_詹姆斯·卡梅隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Way_of_Water_01.jpg?bwg=1701516726",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/031_JamesCameron_詹姆斯·卡梅隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Way_of_Water_22.jpg?bwg=1701516725",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/031_JamesCameron_詹姆斯·卡梅隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Way_of_Water_44.jpg?bwg=1701516724",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/031_JamesCameron_詹姆斯·卡梅隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Way_of_Water_65.jpg?bwg=1701516724",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/031_JamesCameron_詹姆斯·卡梅隆/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/031_JamesCameron_詹姆斯·卡梅隆/assets/references/reference_director_manifest.json",
+      "sha256": "2b77cff38f1b73fb411002efc7bd2938de79e74e18e0df1f7d8d7c04fc3ca267",
+      "declared_urls": [
+        "https://film-grab.com/2015/05/15/the-terminator/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1177).jpg?bwg=1547474226",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1200).jpg?bwg=1547474225",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1181).jpg?bwg=1547474225",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (807).jpg?bwg=1547474225",
+        "https://film-grab.com/2024/07/11/the-abyss/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Abyss_01.jpg?bwg=1703850584",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Abyss_22.jpg?bwg=1703850584",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Abyss_44.jpg?bwg=1703850582",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Abyss_65.jpg?bwg=1703850582",
+        "https://film-grab.com/2026/03/04/titanic/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Titanic_01.jpg?bwg=1701349780",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Titanic_22.jpg?bwg=1701349778",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Titanic_44.jpg?bwg=1701349778",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Titanic_65.jpg?bwg=1701349778",
+        "https://film-grab.com/2025/12/22/avatar-the-way-of-water/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Way_of_Water_01.jpg?bwg=1701516726",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Way_of_Water_22.jpg?bwg=1701516725",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Way_of_Water_44.jpg?bwg=1701516724",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Way_of_Water_65.jpg?bwg=1701516724"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/031_JamesCameron_詹姆斯·卡梅隆/assets/references/reference_sources.md",
+      "sha256": "56833e3c76ab6c49fa8c77ae85ac22bba2f0b5426caed2326adf026bacdd9c28",
+      "declared_urls": [
+        "https://film-grab.com/2015/05/15/the-terminator/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1177).jpg?bwg=1547474226",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1200).jpg?bwg=1547474225",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1181).jpg?bwg=1547474225",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (807).jpg?bwg=1547474225",
+        "https://film-grab.com/2024/07/11/the-abyss/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Abyss_01.jpg?bwg=1703850584",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Abyss_22.jpg?bwg=1703850584",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Abyss_44.jpg?bwg=1703850582",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Abyss_65.jpg?bwg=1703850582",
+        "https://film-grab.com/2026/03/04/titanic/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Titanic_01.jpg?bwg=1701349780",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Titanic_22.jpg?bwg=1701349778",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Titanic_44.jpg?bwg=1701349778",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Titanic_65.jpg?bwg=1701349778",
+        "https://film-grab.com/2025/12/22/avatar-the-way-of-water/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Way_of_Water_01.jpg?bwg=1701516726",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Way_of_Water_22.jpg?bwg=1701516725",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Way_of_Water_44.jpg?bwg=1701516724",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Way_of_Water_65.jpg?bwg=1701516724"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

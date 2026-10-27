@@ -1,0 +1,6 @@
+interface:
+  display_name: 服饰配色设计
+  short_description: 服饰配色设计：明度、饱和度与群像色块
+  default_prompt: Use $character-costume-color-design to complete the requested task.
+policy:
+  allow_implicit_invocation: false

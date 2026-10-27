@@ -1,0 +1,89 @@
+{
+  "schema_version": "DesignDirectionBriefV1",
+  "asset_domain": "character",
+  "character_id": "CHR-001",
+  "variant_id": "base",
+  "context_sha256": "f1ada932e13bda802c502fc181870076551c2be6d8a5c6c0b40600177e149995",
+  "understanding": {
+    "schema_version": "CharacterUnderstandingV1",
+    "role_in_story": "结合维修、争论与进入机舱的全文行为理解人物",
+    "core_motivation": "结合维修、争论与进入机舱的全文行为理解人物",
+    "central_tension": "结合维修、争论与进入机舱的全文行为理解人物",
+    "world_and_life": "结合维修、争论与进入机舱的全文行为理解人物",
+    "relationships": "结合维修、争论与进入机舱的全文行为理解人物",
+    "arc": "结合维修、争论与进入机舱的全文行为理解人物",
+    "evidence_unit_ids": [
+      "u000001"
+    ]
+  },
+  "design_thesis": "维护实用形象中保留自主与不服从",
+  "visual_strategy": "contrast",
+  "recommended_direction": "发型服从工作需要，眉部旧伤保留原文，普通骨相不作身份美化",
+  "alternatives": [],
+  "delegated_dimensions": [
+    "普通皮肤细节"
+  ],
+  "specialist_plan": {
+    "character-world-appearance-design": {
+      "status": "not_needed",
+      "reason": "当前不额外添加该类特征"
+    },
+    "character-feature-focus": {
+      "status": "not_needed",
+      "reason": "当前不额外添加该类特征"
+    },
+    "character-hair-design": {
+      "status": "inline",
+      "reason": "按阶段深化",
+      "task": {
+        "objective": "让维护习惯成为可见结构",
+        "character_context": "林岚是飞船维修行动者",
+        "constraints": [
+          "保留右眉旧伤原文事实"
+        ],
+        "expected_result": "当前阶段能画出的结构与关系"
+      }
+    },
+    "character-body-design": {
+      "status": "defer",
+      "reason": "按阶段深化"
+    },
+    "character-face-design": {
+      "status": "not_needed",
+      "reason": "当前不额外添加该类特征"
+    },
+    "character-face-signature-design": {
+      "status": "not_needed",
+      "reason": "当前不额外添加该类特征"
+    },
+    "character-skin-design": {
+      "status": "not_needed",
+      "reason": "当前不额外添加该类特征"
+    },
+    "character-costume-style-design": {
+      "status": "not_needed",
+      "reason": "当前不额外添加该类特征"
+    },
+    "character-costume-cut-design": {
+      "status": "not_needed",
+      "reason": "当前不额外添加该类特征"
+    },
+    "character-costume-color-design": {
+      "status": "not_needed",
+      "reason": "当前不额外添加该类特征"
+    },
+    "character-costume-material-design": {
+      "status": "defer",
+      "reason": "按阶段深化"
+    },
+    "character-costume-accessory-design": {
+      "status": "not_needed",
+      "reason": "当前不额外添加该类特征"
+    },
+    "character-face-decoration-design": {
+      "status": "not_needed",
+      "reason": "当前不额外添加该类特征"
+    }
+  },
+  "unresolved": []
+}

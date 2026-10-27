@@ -1,0 +1,324 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "099",
+  "films": [
+    {
+      "title_zh": "风柜来的人",
+      "title_en": "The Boys From Fengkuei",
+      "year": 1983,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2018/09/09/the-boys-from-fengkuei/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/fengkuei001.jpg?bwg=1546980260",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/fengkuei019.jpg?bwg=1546980259",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/fengkuei038.jpg?bwg=1546980259",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/fengkuei056.jpg?bwg=1546980259",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2018/09/09/the-boys-from-fengkuei/",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/099_HouHsiao-hsien_侯孝贤/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/fengkuei001.jpg?bwg=1546980260",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/099_HouHsiao-hsien_侯孝贤/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/fengkuei019.jpg?bwg=1546980259",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/099_HouHsiao-hsien_侯孝贤/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/fengkuei038.jpg?bwg=1546980259",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/099_HouHsiao-hsien_侯孝贤/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/fengkuei056.jpg?bwg=1546980259",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/099_HouHsiao-hsien_侯孝贤/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "童年往事",
+      "title_en": "A Time to Live, A Time to Die",
+      "year": 1985,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2018/09/30/a-time-to-love-and-a-time-to-die/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/timetolive001.jpg?bwg=1546982247",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/timetolive019.jpg?bwg=1546982246",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/timetolive037.jpg?bwg=1546982246",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/timetolive055.jpg?bwg=1546982245",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2018/09/30/a-time-to-love-and-a-time-to-die/",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/099_HouHsiao-hsien_侯孝贤/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/timetolive001.jpg?bwg=1546982247",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/099_HouHsiao-hsien_侯孝贤/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/timetolive019.jpg?bwg=1546982246",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/099_HouHsiao-hsien_侯孝贤/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/timetolive037.jpg?bwg=1546982246",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/099_HouHsiao-hsien_侯孝贤/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/timetolive055.jpg?bwg=1546982245",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/099_HouHsiao-hsien_侯孝贤/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "海上花",
+      "title_en": "Flowers of Shanghai",
+      "year": 1998,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/08/31/flowers-of-shanghai/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Flowers_of_Shanghai_01.jpg?bwg=1715852714",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Flowers_of_Shanghai_09.jpg?bwg=1715852714",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Flowers_of_Shanghai_16.jpg?bwg=1715852714",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Flowers_of_Shanghai_24.jpg?bwg=1715852714",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/08/31/flowers-of-shanghai/",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/099_HouHsiao-hsien_侯孝贤/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Flowers_of_Shanghai_01.jpg?bwg=1715852714",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/099_HouHsiao-hsien_侯孝贤/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Flowers_of_Shanghai_09.jpg?bwg=1715852714",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/099_HouHsiao-hsien_侯孝贤/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Flowers_of_Shanghai_16.jpg?bwg=1715852714",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/099_HouHsiao-hsien_侯孝贤/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Flowers_of_Shanghai_24.jpg?bwg=1715852714",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/099_HouHsiao-hsien_侯孝贤/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "刺客聂隐娘",
+      "title_en": "The Assassin",
+      "year": 2015,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2017/02/24/the-assassin/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/theassassin001.jpg?bwg=1546896481",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/theassassin019.jpg?bwg=1546896479",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/theassassin037.jpg?bwg=1546896479",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/theassassin055.jpg?bwg=1546896479",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2017/02/24/the-assassin/",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/099_HouHsiao-hsien_侯孝贤/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/theassassin001.jpg?bwg=1546896481",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/099_HouHsiao-hsien_侯孝贤/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/theassassin019.jpg?bwg=1546896479",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/099_HouHsiao-hsien_侯孝贤/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/theassassin037.jpg?bwg=1546896479",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/099_HouHsiao-hsien_侯孝贤/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/theassassin055.jpg?bwg=1546896479",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/099_HouHsiao-hsien_侯孝贤/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/099_HouHsiao-hsien_侯孝贤/assets/references/reference_director_manifest.json",
+      "sha256": "4fe758bd9519164d82e44356dcffd900b5a90451a8dc14f24659b38c700b76c7",
+      "declared_urls": [
+        "https://film-grab.com/2018/09/09/the-boys-from-fengkuei/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/fengkuei001.jpg?bwg=1546980260",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/fengkuei019.jpg?bwg=1546980259",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/fengkuei038.jpg?bwg=1546980259",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/fengkuei056.jpg?bwg=1546980259",
+        "https://film-grab.com/2018/09/30/a-time-to-love-and-a-time-to-die/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/timetolive001.jpg?bwg=1546982247",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/timetolive019.jpg?bwg=1546982246",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/timetolive037.jpg?bwg=1546982246",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/timetolive055.jpg?bwg=1546982245",
+        "https://film-grab.com/2025/08/31/flowers-of-shanghai/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Flowers_of_Shanghai_01.jpg?bwg=1715852714",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Flowers_of_Shanghai_09.jpg?bwg=1715852714",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Flowers_of_Shanghai_16.jpg?bwg=1715852714",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Flowers_of_Shanghai_24.jpg?bwg=1715852714",
+        "https://film-grab.com/2017/02/24/the-assassin/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/theassassin001.jpg?bwg=1546896481",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/theassassin019.jpg?bwg=1546896479",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/theassassin037.jpg?bwg=1546896479",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/theassassin055.jpg?bwg=1546896479"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/099_HouHsiao-hsien_侯孝贤/assets/references/reference_sources.md",
+      "sha256": "79a8ff151cacb4636927b944aab16b431b3d2900f16c88ce66efe688a93b4be0",
+      "declared_urls": [
+        "https://film-grab.com/2018/09/09/the-boys-from-fengkuei/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/fengkuei001.jpg?bwg=1546980260",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/fengkuei019.jpg?bwg=1546980259",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/fengkuei038.jpg?bwg=1546980259",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/fengkuei056.jpg?bwg=1546980259",
+        "https://film-grab.com/2018/09/30/a-time-to-love-and-a-time-to-die/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/timetolive001.jpg?bwg=1546982247",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/timetolive019.jpg?bwg=1546982246",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/timetolive037.jpg?bwg=1546982246",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/timetolive055.jpg?bwg=1546982245",
+        "https://film-grab.com/2025/08/31/flowers-of-shanghai/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Flowers_of_Shanghai_01.jpg?bwg=1715852714",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Flowers_of_Shanghai_09.jpg?bwg=1715852714",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Flowers_of_Shanghai_16.jpg?bwg=1715852714",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Flowers_of_Shanghai_24.jpg?bwg=1715852714",
+        "https://film-grab.com/2017/02/24/the-assassin/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/theassassin001.jpg?bwg=1546896481",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/theassassin019.jpg?bwg=1546896479",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/theassassin037.jpg?bwg=1546896479",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/theassassin055.jpg?bwg=1546896479"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

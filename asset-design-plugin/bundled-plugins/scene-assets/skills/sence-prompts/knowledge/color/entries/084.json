@@ -1,0 +1,194 @@
+{
+  "schema_version": "1.0.0",
+  "id": "084",
+  "label": {
+    "name_zh": "贝托鲁奇",
+    "name_en": "BernardoBertolucci",
+    "category": "05_巴洛克华丽与浓墨重彩",
+    "source_volume": "第2期_SKILL_浓彩与梦幻_081-140"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "暗金",
+        "name_en": "Dark Goldenrod",
+        "hex": "#B8860B",
+        "source_ratio": 0.2,
+        "normalized_ratio": 0.2,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "帝国红",
+        "name_en": "Imperial Red",
+        "hex": "#8B0000",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "秘鲁棕",
+        "name_en": "Peru Brown",
+        "hex": "#CD853F",
+        "source_ratio": 0.16,
+        "normalized_ratio": 0.16,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "墨绿",
+        "name_en": "Dark Slate Green",
+        "hex": "#2F4F4F",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "沙橙",
+        "name_en": "Sandy Brown",
+        "hex": "#F4A460",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "深棕木",
+        "name_en": "Deep Wood Brown",
+        "hex": "#3D2B1F",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "",
+        "name_en": "Emotional 1",
+        "hex": "#DAA520",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "权力辉煌"
+      },
+      {
+        "code": "E02",
+        "name_zh": "",
+        "name_en": "Emotional 2",
+        "hex": "#A52A2A",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "情欲热烈"
+      },
+      {
+        "code": "E03",
+        "name_zh": "",
+        "name_en": "Emotional 3",
+        "hex": "#8B7355",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "怀旧忧郁"
+      },
+      {
+        "code": "E04",
+        "name_zh": "",
+        "name_en": "Emotional 4",
+        "hex": "#1C1C1C",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "政治黑暗"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "暖金侧光",
+      "highlight_description": "宫殿烛火",
+      "shadow_description": "黄昏柔光",
+      "contrast_description": "高对比",
+      "overall_tone": "暖调"
+    },
+    "color_keywords": [
+      "红金帝国",
+      "东方宫殿色",
+      "暖金黄昏",
+      "丝绸质感",
+      "油画光",
+      "殖民色彩"
+    ],
+    "mood_keywords": [
+      "政治与情欲",
+      "东方主义",
+      "历史史诗",
+      "青春觉醒",
+      "革命理想",
+      "华丽忧伤"
+    ],
+    "composition_keywords": [
+      "宫殿空间",
+      "政治隐喻",
+      "身体叙事",
+      "长镜头运动",
+      "东西方交融",
+      "历史与个人"
+    ],
+    "style_profile": {
+      "definition": "贝托鲁奇的视觉风格以暖金侧光为主，红金帝国、东方宫殿色、暖金黄昏，营造出政治与情欲的氛围。",
+      "lighting": "暖金侧光，高光偏宫殿烛火，阴影偏黄昏柔光，整体暖调。",
+      "composition": [],
+      "mood": [],
+      "framing": "宫殿空间、政治隐喻、身体叙事，强调视觉层次感。",
+      "grading": "对比度高对比，色调暖调，色彩红金帝国、东方宫殿色、暖金黄昏。",
+      "avoid": "避免平淡无奇、避免低饱和度、避免构图简单"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "084",
+      "relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/084_BernardoBertolucci_贝托鲁奇/assets/color_palettes/palette.json",
+      "sha256": "0cf4ba65c2ae980a8b2777f963e8d17dbcdb9704dc2f5c35f04e6676fb86b0bf"
+    },
+    "source_entry_relative_dir": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/084_BernardoBertolucci_贝托鲁奇",
+    "source_records": [
+      {
+        "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/084_BernardoBertolucci_贝托鲁奇/assets/references/reference_director_manifest.json",
+        "sha256": "b5265540ffec959e3276bffe23260d4daf1d6e51137352c029062180f1701ed2",
+        "declared_url_count": 20,
+        "externally_verified": false
+      },
+      {
+        "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/084_BernardoBertolucci_贝托鲁奇/assets/references/reference_sources.md",
+        "sha256": "ba91bb8fe91fb071005e9baac2b983a0db285d38da19827b6f08e2866a79b86d",
+        "declared_url_count": 20,
+        "externally_verified": false
+      }
+    ],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 0,
+      "source_only": 4
+    }
+  },
+  "film_reference_path": "film-references/084.json"
+}

@@ -1,0 +1,183 @@
+{
+  "version": "0.1.0",
+  "fixture": "tests/fixtures/screenplay.json",
+  "screenplay_sha256": "9c1ba48956bc93806ce61f1916146d835ed4b28b526715a05c08bd14c134448a",
+  "calls": [
+    {
+      "domain": "character",
+      "status": "succeeded",
+      "integration_adopted": true,
+      "seconds_to_receipt": 434.0,
+      "child": {
+        "package": "character-assets",
+        "version": "0.2.6.2",
+        "source_commit": "8b91d1470d7a90af23a08734b6e7a1e089a57cae",
+        "skill": "bundled-plugins/character-assets/skills/character-design/SKILL.md",
+        "skill_sha256": "5408082a476fe132d97d4949d268a622aeed7630cd465464f9cc3d70aca74500",
+        "lock_sha256": "34fce1d68430d78d08282442aee353f838470d882fc64f7eca40546c18cc80bc"
+      },
+      "ephemeral_thread_id": "historical-ephemeral-test-001",
+      "knowledge_receipts": [
+        {
+          "path": "knowledge/index.md",
+          "sha256": "e03822efd424338bdf3b78e4ec08b92561801169cb6278386ab4e06927217f49"
+        },
+        {
+          "path": "references/director-understanding.md",
+          "sha256": "cbe8a3fdb072ac4cb8b103ca274cf8af56552fec9ccedf25684cf846de712e14"
+        },
+        {
+          "path": "references/phased-design.md",
+          "sha256": "43f5521ba71e396d033eed0ee8135a344ff8f4757ef27abb973a2498b00e1fb4"
+        },
+        {
+          "path": "references/design-detail-standard.md",
+          "sha256": "d429ffa72faca6e2296c3745a15382c7f5614fd3576751ca11976c420a7a6c00"
+        },
+        {
+          "path": "references/knowledge/character-face-design/original-face.md",
+          "sha256": "791f79fac516716ee5579829f7311db4ba3ba27894fcc6402eadbd0581f19286"
+        },
+        {
+          "path": "references/knowledge/character-face-design/face.md",
+          "sha256": "62e7f973e7965ce60867af9fa87358df7bdf6e3cb5da293199e47aec2b8dc0c0"
+        },
+        {
+          "path": "references/knowledge/character-hair-design/hair.md",
+          "sha256": "b49e4ee34993f3f7df3a97b33b8354d535c74d3e00a0bd4eff46bb4b4752b57e"
+        },
+        {
+          "path": "references/knowledge/character-skin-design/skin.md",
+          "sha256": "8f6a7719465b3f8444c9ad1e27d6dbab7da8117338adc237797aa5b659641faa"
+        },
+        {
+          "path": "references/knowledge/character-feature-focus/feature-focus.md",
+          "sha256": "a34fa6815f186af72626fd48286edd0ba89de0b4b6a3ed879d17ab136ad0f59c"
+        },
+        {
+          "path": "references/knowledge/character-world-appearance-design/world-appearance.md",
+          "sha256": "6f50a8de6095aa62016fb2a3d8c627faef3ba5b92a6dbdd5ec281831c87292cc"
+        },
+        {
+          "path": "references/knowledge/character-design/anti-stereotype-texture.md",
+          "sha256": "a6cf5e4b1f14520d35dbaf5ed96855e3c7b500c5d6265e40478a669df7c36ada"
+        }
+      ],
+      "files": {
+        "result.json": "13d80341d4bd162ce7dd1566abd3bc211a99d8b020af83b9a03cfdb0c000a035",
+        "transport.json": "12102e58ccc8960f06bba26e86d9e30238e6f24322d3c126a262397d26355b9a",
+        "design.md": "1b91610f0abd57e691cf985d2c4c1e32ad5ef83c96afc554a08aa11ba904107d"
+      },
+      "review": "已核查两场言行反差；原创面部、发型、肤质具象，事实和创作分开；头像首稿可用于整合，实际识别仍待回图。"
+    },
+    {
+      "domain": "scene",
+      "status": "succeeded",
+      "integration_adopted": true,
+      "seconds_to_receipt": 516.0,
+      "child": {
+        "package": "scene-assets",
+        "version": "1.0.0",
+        "source_commit": "8b91d1470d7a90af23a08734b6e7a1e089a57cae",
+        "skill": "bundled-plugins/scene-assets/skills/sence-prompts/SKILL.md",
+        "skill_sha256": "f3b347125a03054776709435bbf1a506bef6d9cbe1f2d70d8ab9f9eab8aacd67",
+        "lock_sha256": "34fce1d68430d78d08282442aee353f838470d882fc64f7eca40546c18cc80bc"
+      },
+      "ephemeral_thread_id": "historical-ephemeral-test-002",
+      "knowledge_receipts": [
+        {
+          "path": "skills/sence-prompts/SKILL.md",
+          "sha256": "f3b347125a03054776709435bbf1a506bef6d9cbe1f2d70d8ab9f9eab8aacd67"
+        },
+        {
+          "path": "skills/sence-prompts/references/asset-input.md",
+          "sha256": "1159b18dec3b951d7e9a8e7bf759f7d99f0222673a5e3e99b9c6de4e24e65529"
+        },
+        {
+          "path": "skills/sence-prompts/references/worldbuilding-systems.md",
+          "sha256": "443717903ca91882b7621e6cb4b67667dc93f63d41f192dbc777be617c34a2da"
+        },
+        {
+          "path": "skills/sence-prompts/references/staging-layout.md",
+          "sha256": "9107183571e936e15cb636421453b9d43fb892749ea00bbe80cdd4a2ccd382aa"
+        },
+        {
+          "path": "skills/sence-prompts/references/art-direction.md",
+          "sha256": "c1a7b54df9dcaac87dca8e178adb7e419d08a9905bbe1e17126b32a456bb27d7"
+        },
+        {
+          "path": "skills/sence-prompts/references/prompt-delivery.md",
+          "sha256": "0ae3d2b82ab6ed605b0fa48a3e8daeb290954d3609e2cd6a876e48b5e35cde94"
+        },
+        {
+          "path": "skills/sence-prompts/references/worldbuilding-design.md",
+          "sha256": "999c11351ab6c92fdd6d6d9805beb8a50097a5d4dc02ace0ca7afcf1a4a51064"
+        },
+        {
+          "path": "skills/sence-prompts/references/material-and-craft.md",
+          "sha256": "68da2e41eff6de405f06cb9e0bb44aeeb7694d034318f8ab5d39770aa448019b"
+        },
+        {
+          "path": "skills/sence-prompts/references/color-light-atmosphere.md",
+          "sha256": "a1598938091d1b857220bbf0bea0d3d05a55de9c2935732da9fbb626d1813bc4"
+        },
+        {
+          "path": "skills/sence-prompts/references/palette-selection.md",
+          "sha256": "2ee28daba46972992b2f0b56f61b34dbcb188d62e7e70cc7b7e8a2afb9d006bc"
+        },
+        {
+          "path": "skills/sence-prompts/knowledge/color/entries/010.json",
+          "sha256": "d03c16afa43337ea6fb9e680d2b737b76b26153d0689f15843f82dc4690d5593"
+        }
+      ],
+      "files": {
+        "result.json": "8fc60f889e5d0e5329416e4cb0cb353d0bfaa6c96d531e9bf69f39625970ad2b",
+        "transport.json": "1fc85f969ba020b87106bc746ec6d7f0a877e27d1b2e1e0af42a4d7c6a915cd4",
+        "design.md": "d68613b1b312930467c7bd9ccb3634ad4f2b151055407e647f998794573f404d"
+      },
+      "review": "已核查黄昏单一时刻、狭长低台空间及工作到出口关系，遵循场景插件准则；未预置当时手持的钥匙，采纳文字与提示词。"
+    },
+    {
+      "domain": "prop",
+      "status": "succeeded",
+      "integration_adopted": true,
+      "seconds_to_receipt": 415.0,
+      "child": {
+        "package": "prop-assets",
+        "version": "0.2.0",
+        "source_commit": "8b91d1470d7a90af23a08734b6e7a1e089a57cae",
+        "skill": "bundled-plugins/prop-assets/skills/prop-concept-design/SKILL.md",
+        "skill_sha256": "9634ca9cbcf2a45bb47dddb8468b4ef7335a0a2e4b52c6a3eccf79803438ed25",
+        "lock_sha256": "34fce1d68430d78d08282442aee353f838470d882fc64f7eca40546c18cc80bc"
+      },
+      "ephemeral_thread_id": "historical-ephemeral-test-003",
+      "knowledge_receipts": [
+        {
+          "path": "skills/prop-concept-design/SKILL.md",
+          "sha256": "9634ca9cbcf2a45bb47dddb8468b4ef7335a0a2e4b52c6a3eccf79803438ed25"
+        },
+        {
+          "path": "skills/prop-concept-design/references/workflow.md",
+          "sha256": "c5ba5eeeeb0096ee8c9e3eee65e1371e1a2a6ad8faa076ecf161607d6a7b84b4"
+        },
+        {
+          "path": "skills/prop-concept-design/references/output-contracts.md",
+          "sha256": "9c4d2bad7ecff00099e369ce8226e493dff220d1a8272e63eea6a073f28e10f8"
+        },
+        {
+          "path": "skills/prop-concept-design/references/era-and-culture-equipment.md",
+          "sha256": "a400b8477914920d266cff94a37b897227db8592a4ff0ed396caac74ee37fc3f"
+        }
+      ],
+      "files": {
+        "result.json": "c92c44de2e7d26a3160659b37c1b789316097d2d7af79166a1cb2804a7799d12",
+        "transport.json": "d0fe7ed2a760b257fd9401eabff3847fa985764e94f4c67fdb2a6198589c9bd0",
+        "design.md": "f05fcfb240a384ba12d2896ffe043360a45b29a65f06c11d190d5f9997424097"
+      },
+      "review": "已核查铜制、握持及擦齿槽动作，三案结构不同；采纳P1-P2交付，不替用户选案或批准。"
+    }
+  ],
+  "persisted_thread_rows_for_test_ids": 0,
+  "scope": "真实文字调用；未生成图片；整合采纳不代表领域用户批准。",
+  "public_export_note": "历史真实调用记录；临时会话 ID 已匿名化，files 校验当前公开记录。未在镜像导出时重新调用模型。"
+}

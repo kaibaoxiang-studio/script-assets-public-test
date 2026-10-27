@@ -1,0 +1,4 @@
+interface:
+  display_name: "道具纹样与符号设计"
+  short_description: "针对道具指定表面，独立设计纹样与识别符号，保留其他造型和已有设计"
+  default_prompt: "使用 $prop-pattern-symbol-design，只设计这件道具指定表面的纹样与符号。"

@@ -1,0 +1,324 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "065",
+  "films": [
+    {
+      "title_zh": "青少年哪吒",
+      "title_en": "Rebels of the Neon God",
+      "year": 1992,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/57564/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/6dpOYVAnPx52J6ibj9f9pVdZnV9.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/8qF4kkqTYzRJqScGEYFGdAncPLo.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/uxZ5xuXMyJnBmrhQj6jGJ67caQU.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/WsnQS5wcEzbsIWcaJm4TqoImT3.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/57564/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/065_TsaiMing-liang_蔡明亮/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/6dpOYVAnPx52J6ibj9f9pVdZnV9.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/065_TsaiMing-liang_蔡明亮/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/8qF4kkqTYzRJqScGEYFGdAncPLo.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/065_TsaiMing-liang_蔡明亮/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/uxZ5xuXMyJnBmrhQj6jGJ67caQU.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/065_TsaiMing-liang_蔡明亮/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/WsnQS5wcEzbsIWcaJm4TqoImT3.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/065_TsaiMing-liang_蔡明亮/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "爱情万岁",
+      "title_en": "Vive L'Amour",
+      "year": 1994,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/11985/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/18jd8NhQ9iGZ85pMYhic2isGRRk.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/8TOsKCNZsewLJJMYts2uwdjbRHg.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/A5bKPxO6Ab24O6YEDd1fg8t8upx.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/fRdkG0Kp3fJdRggA3hBN80mSYw1.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/11985/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/065_TsaiMing-liang_蔡明亮/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/18jd8NhQ9iGZ85pMYhic2isGRRk.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/065_TsaiMing-liang_蔡明亮/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/8TOsKCNZsewLJJMYts2uwdjbRHg.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/065_TsaiMing-liang_蔡明亮/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/A5bKPxO6Ab24O6YEDd1fg8t8upx.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/065_TsaiMing-liang_蔡明亮/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/fRdkG0Kp3fJdRggA3hBN80mSYw1.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/065_TsaiMing-liang_蔡明亮/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "不散",
+      "title_en": "Goodbye, Dragon Inn",
+      "year": 2003,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/56616/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/1gYRuQgzOmncpQzFGAIp3ZYoByZ.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/7nuAUq8FaHnmuyTQCpGs5Umbo6B.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/c2S9zmWXT722CHDmbg7iIRtcQKQ.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/cyvyIVwyx6fwiVfp8U8PebWNtlQ.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/56616/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/065_TsaiMing-liang_蔡明亮/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/1gYRuQgzOmncpQzFGAIp3ZYoByZ.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/065_TsaiMing-liang_蔡明亮/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/7nuAUq8FaHnmuyTQCpGs5Umbo6B.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/065_TsaiMing-liang_蔡明亮/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/c2S9zmWXT722CHDmbg7iIRtcQKQ.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/065_TsaiMing-liang_蔡明亮/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/cyvyIVwyx6fwiVfp8U8PebWNtlQ.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/065_TsaiMing-liang_蔡明亮/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "郊游",
+      "title_en": "Stray Dogs",
+      "year": 2013,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/209840/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/3dQcrjOwuives5wwdHF9LbES1c4.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/fMPqDEFx22SmaxYgr3GugkztFD8.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/l5x7DwzL50mzUH84Rz7kdgVpBRL.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/wY63GAssmaUwFX8futj7E4hpgVc.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/209840/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/065_TsaiMing-liang_蔡明亮/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/3dQcrjOwuives5wwdHF9LbES1c4.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/065_TsaiMing-liang_蔡明亮/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/fMPqDEFx22SmaxYgr3GugkztFD8.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/065_TsaiMing-liang_蔡明亮/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/l5x7DwzL50mzUH84Rz7kdgVpBRL.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/065_TsaiMing-liang_蔡明亮/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/wY63GAssmaUwFX8futj7E4hpgVc.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/065_TsaiMing-liang_蔡明亮/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/065_TsaiMing-liang_蔡明亮/assets/references/reference_director_manifest.json",
+      "sha256": "458452da9265576b570d3e7d861cce8a7ee85768dbd42c5ea3af8343d09d824a",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/57564/images/backdrops",
+        "https://image.tmdb.org/t/p/original/6dpOYVAnPx52J6ibj9f9pVdZnV9.jpg",
+        "https://image.tmdb.org/t/p/original/8qF4kkqTYzRJqScGEYFGdAncPLo.jpg",
+        "https://image.tmdb.org/t/p/original/uxZ5xuXMyJnBmrhQj6jGJ67caQU.jpg",
+        "https://image.tmdb.org/t/p/original/WsnQS5wcEzbsIWcaJm4TqoImT3.jpg",
+        "https://www.themoviedb.org/movie/11985/images/backdrops",
+        "https://image.tmdb.org/t/p/original/18jd8NhQ9iGZ85pMYhic2isGRRk.jpg",
+        "https://image.tmdb.org/t/p/original/8TOsKCNZsewLJJMYts2uwdjbRHg.jpg",
+        "https://image.tmdb.org/t/p/original/A5bKPxO6Ab24O6YEDd1fg8t8upx.jpg",
+        "https://image.tmdb.org/t/p/original/fRdkG0Kp3fJdRggA3hBN80mSYw1.jpg",
+        "https://www.themoviedb.org/movie/56616/images/backdrops",
+        "https://image.tmdb.org/t/p/original/1gYRuQgzOmncpQzFGAIp3ZYoByZ.jpg",
+        "https://image.tmdb.org/t/p/original/7nuAUq8FaHnmuyTQCpGs5Umbo6B.jpg",
+        "https://image.tmdb.org/t/p/original/c2S9zmWXT722CHDmbg7iIRtcQKQ.jpg",
+        "https://image.tmdb.org/t/p/original/cyvyIVwyx6fwiVfp8U8PebWNtlQ.jpg",
+        "https://www.themoviedb.org/movie/209840/images/backdrops",
+        "https://image.tmdb.org/t/p/original/3dQcrjOwuives5wwdHF9LbES1c4.jpg",
+        "https://image.tmdb.org/t/p/original/fMPqDEFx22SmaxYgr3GugkztFD8.jpg",
+        "https://image.tmdb.org/t/p/original/l5x7DwzL50mzUH84Rz7kdgVpBRL.jpg",
+        "https://image.tmdb.org/t/p/original/wY63GAssmaUwFX8futj7E4hpgVc.jpg"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/065_TsaiMing-liang_蔡明亮/assets/references/reference_sources.md",
+      "sha256": "0d8a36adbcc3487e06181da720cca1396b2e9a038d070a471b945f42b6df1927",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/57564/images/backdrops",
+        "https://image.tmdb.org/t/p/original/6dpOYVAnPx52J6ibj9f9pVdZnV9.jpg",
+        "https://image.tmdb.org/t/p/original/8qF4kkqTYzRJqScGEYFGdAncPLo.jpg",
+        "https://image.tmdb.org/t/p/original/uxZ5xuXMyJnBmrhQj6jGJ67caQU.jpg",
+        "https://image.tmdb.org/t/p/original/WsnQS5wcEzbsIWcaJm4TqoImT3.jpg",
+        "https://www.themoviedb.org/movie/11985/images/backdrops",
+        "https://image.tmdb.org/t/p/original/18jd8NhQ9iGZ85pMYhic2isGRRk.jpg",
+        "https://image.tmdb.org/t/p/original/8TOsKCNZsewLJJMYts2uwdjbRHg.jpg",
+        "https://image.tmdb.org/t/p/original/A5bKPxO6Ab24O6YEDd1fg8t8upx.jpg",
+        "https://image.tmdb.org/t/p/original/fRdkG0Kp3fJdRggA3hBN80mSYw1.jpg",
+        "https://www.themoviedb.org/movie/56616/images/backdrops",
+        "https://image.tmdb.org/t/p/original/1gYRuQgzOmncpQzFGAIp3ZYoByZ.jpg",
+        "https://image.tmdb.org/t/p/original/7nuAUq8FaHnmuyTQCpGs5Umbo6B.jpg",
+        "https://image.tmdb.org/t/p/original/c2S9zmWXT722CHDmbg7iIRtcQKQ.jpg",
+        "https://image.tmdb.org/t/p/original/cyvyIVwyx6fwiVfp8U8PebWNtlQ.jpg",
+        "https://www.themoviedb.org/movie/209840/images/backdrops",
+        "https://image.tmdb.org/t/p/original/3dQcrjOwuives5wwdHF9LbES1c4.jpg",
+        "https://image.tmdb.org/t/p/original/fMPqDEFx22SmaxYgr3GugkztFD8.jpg",
+        "https://image.tmdb.org/t/p/original/l5x7DwzL50mzUH84Rz7kdgVpBRL.jpg",
+        "https://image.tmdb.org/t/p/original/wY63GAssmaUwFX8futj7E4hpgVc.jpg"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

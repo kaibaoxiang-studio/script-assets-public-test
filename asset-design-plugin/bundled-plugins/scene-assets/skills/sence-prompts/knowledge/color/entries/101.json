@@ -1,0 +1,192 @@
+{
+  "schema_version": "1.0.0",
+  "id": "101",
+  "label": {
+    "name_zh": "库布里克",
+    "name_en": "StanleyKubrick",
+    "category": "06_超现实梦幻与心理畸变",
+    "source_volume": "第2期_SKILL_浓彩与梦幻_081-140"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "深空蓝",
+        "name_en": "Deep Space Blue",
+        "hex": "#1A237E",
+        "source_ratio": 0.2,
+        "normalized_ratio": 0.2,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "血红",
+        "name_en": "Blood Red",
+        "hex": "#B71C1C",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "炭黑",
+        "name_en": "Charcoal Black",
+        "hex": "#212121",
+        "source_ratio": 0.16,
+        "normalized_ratio": 0.16,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "暖金",
+        "name_en": "Warm Gold",
+        "hex": "#FFD54F",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "暗青",
+        "name_en": "Dark Cyan",
+        "hex": "#006064",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "纯白",
+        "name_en": "Pure White",
+        "hex": "#FFFFFF",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "理性冷酷",
+        "name_en": "理性冷酷",
+        "hex": "#1A237E",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "理性冷酷"
+      },
+      {
+        "code": "E02",
+        "name_zh": "暴力恐惧",
+        "name_en": "暴力恐惧",
+        "hex": "#B71C1C",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "暴力恐惧"
+      },
+      {
+        "code": "E03",
+        "name_zh": "神性启示",
+        "name_en": "神性启示",
+        "hex": "#FFD54F",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "神性启示"
+      },
+      {
+        "code": "E04",
+        "name_zh": "虚无深渊",
+        "name_en": "虚无深渊",
+        "hex": "#212121",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "虚无深渊"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "单点透视光",
+      "highlight_description": "对称照明",
+      "shadow_description": "冷色基调",
+      "contrast_description": "高对比",
+      "overall_tone": "暖调"
+    },
+    "color_keywords": [
+      "冷红蓝对比",
+      "对称色光",
+      "高饱和点缀",
+      "黑白交替",
+      "太空冷色",
+      "古典暖色"
+    ],
+    "mood_keywords": [
+      "存在恐惧",
+      "理性癫狂",
+      "凝视深渊",
+      "黑色幽默",
+      "超验体验",
+      "人类渺小"
+    ],
+    "composition_keywords": [
+      "对称强迫",
+      "单点透视",
+      "广角畸变",
+      "慢推镜头",
+      "上帝视角",
+      "凝视长镜"
+    ],
+    "style_profile": {
+      "definition": "库布里克的视觉风格：单点透视光，冷红蓝对比, 对称色光, 高饱和点缀。",
+      "lighting": "单点透视光，对称照明，冷色基调",
+      "framing": "对称强迫、单点透视、广角畸变。",
+      "grading": "整体色调暖调，对比度高对比。",
+      "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "101",
+      "relative_path": "第2期_SKILL_浓彩与梦幻_081-140/06_超现实梦幻与心理畸变/101_StanleyKubrick_库布里克/assets/color_palettes/palette.json",
+      "sha256": "c05231c30d4e568d9ba4bd994413aa9b9a1559e4b7cfc037a4ccd8c6a83c379b"
+    },
+    "source_entry_relative_dir": "第2期_SKILL_浓彩与梦幻_081-140/06_超现实梦幻与心理畸变/101_StanleyKubrick_库布里克",
+    "source_records": [
+      {
+        "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/06_超现实梦幻与心理畸变/101_StanleyKubrick_库布里克/assets/references/director-manifest.json",
+        "sha256": "26c98cd8ee7a1a04d245ba269d0da800ed7657f4eb9aad234ed7f1ac659f3bf1",
+        "declared_url_count": 20,
+        "externally_verified": false
+      },
+      {
+        "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/06_超现实梦幻与心理畸变/101_StanleyKubrick_库布里克/assets/references/sources.md",
+        "sha256": "535a072548a0ac2a3f994dc1a47ea6283fcb733f2b56396a4b0deae1a237744a",
+        "declared_url_count": 20,
+        "externally_verified": false
+      }
+    ],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 0,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": null
+}

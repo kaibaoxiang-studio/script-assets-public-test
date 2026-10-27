@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0.0",
+  "id": "005",
+  "label": {
+    "name_zh": "丹尼斯·维伦纽瓦",
+    "name_en": "Denis Villeneuve",
+    "category": "01_黑色悬疑与冷调惊悚",
+    "source_volume": "第1期_SKILL_冷调与大地_001-080"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "尘土灰褐",
+        "name_en": "Dusty Gray Brown",
+        "hex": "#6B6658",
+        "source_ratio": 0.38,
+        "normalized_ratio": 0.38,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "铁灰蓝黑",
+        "name_en": "Iron Gray Blue Black",
+        "hex": "#2C363F",
+        "source_ratio": 0.2,
+        "normalized_ratio": 0.2,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "尘土橙黄",
+        "name_en": "Dusty Orange Yellow",
+        "hex": "#C89B5A",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "雾霾灰蓝",
+        "name_en": "Haze Gray Blue",
+        "hex": "#8FA0A8",
+        "source_ratio": 0.1,
+        "normalized_ratio": 0.1,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "军绿橄榄",
+        "name_en": "Military Olive Green",
+        "hex": "#4A5240",
+        "source_ratio": 0.09,
+        "normalized_ratio": 0.09,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "沙漠肤",
+        "name_en": "Desert Skin Tone",
+        "hex": "#D9C7A7",
+        "source_ratio": 0.08,
+        "normalized_ratio": 0.08,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "落日橙",
+        "name_en": "Sunset Orange",
+        "hex": "#E67E22",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "启示、临界时刻、新世界的开始"
+      },
+      {
+        "code": "E02",
+        "name_zh": "深渊灰蓝",
+        "name_en": "Abyss Gray Blue",
+        "hex": "#34495E",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "未知、敬畏、人类的渺小"
+      },
+      {
+        "code": "E03",
+        "name_zh": "沙漠金",
+        "name_en": "Desert Gold",
+        "hex": "#D4AC6E",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "神性、超越、时间的永恒"
+      },
+      {
+        "code": "E04",
+        "name_zh": "虚空黑",
+        "name_en": "Void Black",
+        "hex": "#17202A",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "虚无、死亡、宇宙的沉默"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "柔和侧逆光，自然光源为主，尺度感强",
+      "highlight_description": "尘土橙黄（沙漠落日/火星光）",
+      "shadow_description": "铁灰蓝偏冷（雾霾/阴影/宇宙）",
+      "contrast_description": "中高对比（60-75%），柔和过渡",
+      "overall_tone": "冷暖平衡，55%冷灰蓝 + 45%暖橙黄"
+    },
+    "color_keywords": [
+      "雾霾灰橙",
+      "沙漠尘土色调",
+      "冷黄调",
+      "低饱和处理",
+      "大气透视",
+      "剪影光效",
+      "金属冷灰",
+      "橙色落日",
+      "蓝色阴翳",
+      "沙粒质感"
+    ],
+    "mood_keywords": [
+      "存在主义敬畏",
+      "宇宙尺度",
+      "时间的重量",
+      "未知的恐惧",
+      "伦理困境",
+      "宿命感",
+      "孤独",
+      "启示录感",
+      "静默的庄严",
+      "人类的渺小"
+    ],
+    "composition_keywords": [
+      "巨大尺度构图",
+      "对称几何",
+      "低角度仰拍巨物",
+      "广角远景",
+      "剪影轮廓",
+      "雾霾大气透视",
+      "极简构图",
+      "空间压迫",
+      "人物渺小化",
+      "缓慢推轨"
+    ],
+    "style_profile": {
+      "definition": "沙金、巨构灰和深青蓝用单一主色控制宏大科幻世界。",
+      "lighting": "强自然顶光、体积雾、建筑反射光；肤色保持可读，不让环境偏色吞没面部层次。",
+      "framing": "巨构大全景、缓慢推进、中心尺度对比；先交代颜色承载的空间，再进入人物与关键物件。",
+      "grading": "每场单主色，低饱和，高光克制；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+      "avoid": "青橙全局、杂色未来城、快切失去尺度、无动机环绕和随机变焦、用统一滤镜替代色彩比例、光源和材质。"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "005",
+      "relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/005_DenisVilleneuve_丹尼斯·维伦纽瓦/assets/color_palettes/palette.json",
+      "sha256": "0e2e7ddafa72f88954904cf2d69ab695aece2173ae39d11d2f904afa1a65cf91"
+    },
+    "source_entry_relative_dir": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/005_DenisVilleneuve_丹尼斯·维伦纽瓦",
+    "source_records": [
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/005_DenisVilleneuve_丹尼斯·维伦纽瓦/assets/references/reference_director_manifest.json",
+        "sha256": "fde90f80681e1874d9547b8548f7edc0b5e06caf3f77e8c1fb960ea49bf3f0e8",
+        "declared_url_count": 20,
+        "externally_verified": false
+      },
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/005_DenisVilleneuve_丹尼斯·维伦纽瓦/assets/references/reference_sources.md",
+        "sha256": "c108f37e408bd3ed9944f03ffe585ed756d655fcbe44e4336d548261429c39dc",
+        "declared_url_count": 20,
+        "externally_verified": false
+      }
+    ],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 4,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": "film-references/005.json"
+}

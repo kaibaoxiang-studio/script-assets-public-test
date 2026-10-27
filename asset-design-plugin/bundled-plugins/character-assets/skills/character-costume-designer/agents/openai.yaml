@@ -1,0 +1,6 @@
+interface:
+  display_name: 角色服饰设计师
+  short_description: 服饰设计师：从人物弧线与世界规则建立穿衣风格圣经和状态服饰
+  default_prompt: Use $character-costume-designer to complete the requested task.
+policy:
+  allow_implicit_invocation: false

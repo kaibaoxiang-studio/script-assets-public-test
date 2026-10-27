@@ -1,0 +1,20 @@
+{
+  "name": "prop-assets",
+  "version": "0.2.0",
+  "description": "从剧本或道具资产表交付道具设计与完整三视图 Prompt 表，支持独立专项设计和图片回流审核。",
+  "author": {
+    "name": "开宝箱工作室"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "道具资产插件",
+    "shortDescription": "剧本／道具清单 → 道具设计与完整 Prompt 表",
+    "longDescription": "以道具概念设计主技能串联需求、概念、提示词、图片回流和交付；材质、配色、纹样符号、轮廓比例四个专项可独立使用。不自动调用生图 API。",
+    "developerName": "开宝箱工作室",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "使用 $prop-concept-design，根据我提供的剧本或道具资产表制作完整道具 Prompt 表。"
+    ]
+  }
+}

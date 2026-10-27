@@ -1,0 +1,6 @@
+interface:
+  display_name: 五官面部设计
+  short_description: 五官面部设计：原创骨相、比例与非模板面孔
+  default_prompt: Use $character-face-design to complete the requested task.
+policy:
+  allow_implicit_invocation: false

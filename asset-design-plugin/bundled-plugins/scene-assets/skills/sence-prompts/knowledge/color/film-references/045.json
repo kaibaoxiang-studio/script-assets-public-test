@@ -1,0 +1,491 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "045",
+  "films": [
+    {
+      "title_zh": "卧虎藏龙",
+      "title_en": "Crouching Tiger, Hidden Dragon",
+      "year": 2000,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#000000",
+          "source_ratio": 22.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.226,
+          "source_luminance": 0,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#37403D",
+          "source_ratio": 12.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.125,
+          "source_luminance": 0.0482,
+          "source_saturation": 0.1406
+        },
+        {
+          "hex": "#4A6870",
+          "source_ratio": 12.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.122,
+          "source_luminance": 0.1253,
+          "source_saturation": 0.3393
+        },
+        {
+          "hex": "#74899F",
+          "source_ratio": 12,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12,
+          "source_luminance": 0.2411,
+          "source_saturation": 0.2704
+        },
+        {
+          "hex": "#6A7C89",
+          "source_ratio": 11.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.114,
+          "source_luminance": 0.1929,
+          "source_saturation": 0.2263
+        },
+        {
+          "hex": "#212725",
+          "source_ratio": 10.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.105,
+          "source_luminance": 0.0191,
+          "source_saturation": 0.1538
+        },
+        {
+          "hex": "#435252",
+          "source_ratio": 9.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.095,
+          "source_luminance": 0.0784,
+          "source_saturation": 0.1829
+        },
+        {
+          "hex": "#131615",
+          "source_ratio": 9.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.09300000000000001,
+          "source_luminance": 0.0077,
+          "source_saturation": 0.1364
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/1535928/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/045_AngLee_李安/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "FilmGrab电影截图图库",
+          "url": "https://film-grab.com/2016/09/12/crouching-tiger-hidden-dragon/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/045_AngLee_李安/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "FilmGrab真实电影截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/crouchingtiger001.jpg?bwg=1546982125",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/045_AngLee_李安/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "FilmGrab真实电影截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/crouchingtiger022.jpg?bwg=1546982123",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/045_AngLee_李安/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "FilmGrab真实电影截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/crouchingtiger043.jpg?bwg=1546982123",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/045_AngLee_李安/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "FilmGrab真实电影截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/crouchingtiger064.jpg?bwg=1546982123",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/045_AngLee_李安/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "饮食男女",
+      "title_en": "Eat Drink Man Woman",
+      "year": 1994,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#3B281D",
+          "source_ratio": 15.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.159,
+          "source_luminance": 0.0254,
+          "source_saturation": 0.5085
+        },
+        {
+          "hex": "#B46B43",
+          "source_ratio": 13.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.132,
+          "source_luminance": 0.2062,
+          "source_saturation": 0.6278
+        },
+        {
+          "hex": "#2A1913",
+          "source_ratio": 13.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.132,
+          "source_luminance": 0.0123,
+          "source_saturation": 0.5476
+        },
+        {
+          "hex": "#010104",
+          "source_ratio": 12.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.129,
+          "source_luminance": 0.0004,
+          "source_saturation": 0.75
+        },
+        {
+          "hex": "#6A625F",
+          "source_ratio": 11.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11900000000000001,
+          "source_luminance": 0.1263,
+          "source_saturation": 0.1038
+        },
+        {
+          "hex": "#4D332C",
+          "source_ratio": 11.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.114,
+          "source_luminance": 0.0413,
+          "source_saturation": 0.4286
+        },
+        {
+          "hex": "#3A1C16",
+          "source_ratio": 10.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10800000000000001,
+          "source_luminance": 0.0179,
+          "source_saturation": 0.6207
+        },
+        {
+          "hex": "#825E49",
+          "source_ratio": 10.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.107,
+          "source_luminance": 0.1323,
+          "source_saturation": 0.4385
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/10451/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/045_AngLee_李安/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/tllmUjmEQKF0OaH7FgqZYnLBsYB.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/045_AngLee_李安/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/1kZ105Jy8hYi4pXuDG2UimR25QT.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/045_AngLee_李安/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/1VALNbhOX2L5ueDg1ATB8yKeM5.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/045_AngLee_李安/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/iXCV1NZOLK5HWSodU8upXtXaYqC.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/045_AngLee_李安/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "断背山",
+      "title_en": "Brokeback Mountain",
+      "year": 2005,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#575246",
+          "source_ratio": 14.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14800000000000002,
+          "source_luminance": 0.085,
+          "source_saturation": 0.1954
+        },
+        {
+          "hex": "#718491",
+          "source_ratio": 13.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.139,
+          "source_luminance": 0.2206,
+          "source_saturation": 0.2207
+        },
+        {
+          "hex": "#EDF4F7",
+          "source_ratio": 12.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.125,
+          "source_luminance": 0.8942,
+          "source_saturation": 0.0405
+        },
+        {
+          "hex": "#44516B",
+          "source_ratio": 12.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.121,
+          "source_luminance": 0.0818,
+          "source_saturation": 0.3645
+        },
+        {
+          "hex": "#0D2327",
+          "source_ratio": 12,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12,
+          "source_luminance": 0.0143,
+          "source_saturation": 0.6667
+        },
+        {
+          "hex": "#373C43",
+          "source_ratio": 11.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11599999999999999,
+          "source_luminance": 0.0445,
+          "source_saturation": 0.1791
+        },
+        {
+          "hex": "#A59A8C",
+          "source_ratio": 11.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11599999999999999,
+          "source_luminance": 0.33,
+          "source_saturation": 0.1515
+        },
+        {
+          "hex": "#1C1418",
+          "source_ratio": 11.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.115,
+          "source_luminance": 0.0081,
+          "source_saturation": 0.2857
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/142/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/045_AngLee_李安/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/vXzqV2RtJlT9WhNEM4NYWCEC6ZI.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/045_AngLee_李安/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/G9VBy4RYDmKkZ0tdnpSuiazeNr.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/045_AngLee_李安/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/9RCsaEFmLACOA5K5pRGlo0E3oB1.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/045_AngLee_李安/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/sWpBKslghZKJplHiyYxDX8qSktm.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/045_AngLee_李安/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "少年派的奇幻漂流",
+      "title_en": "Life of Pi",
+      "year": 2012,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#0C225A",
+          "source_ratio": 14.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.141,
+          "source_luminance": 0.0196,
+          "source_saturation": 0.8667
+        },
+        {
+          "hex": "#082127",
+          "source_ratio": 13.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.136,
+          "source_luminance": 0.0129,
+          "source_saturation": 0.7949
+        },
+        {
+          "hex": "#84815C",
+          "source_ratio": 12.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.128,
+          "source_luminance": 0.2138,
+          "source_saturation": 0.303
+        },
+        {
+          "hex": "#070E13",
+          "source_ratio": 12.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.128,
+          "source_luminance": 0.0041,
+          "source_saturation": 0.6316
+        },
+        {
+          "hex": "#081038",
+          "source_ratio": 12.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.121,
+          "source_luminance": 0.0071,
+          "source_saturation": 0.8571
+        },
+        {
+          "hex": "#1F4189",
+          "source_ratio": 11.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11900000000000001,
+          "source_luminance": 0.0588,
+          "source_saturation": 0.7737
+        },
+        {
+          "hex": "#7D5D3B",
+          "source_ratio": 11.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11699999999999999,
+          "source_luminance": 0.125,
+          "source_saturation": 0.528
+        },
+        {
+          "hex": "#D0CFB3",
+          "source_ratio": 11,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11,
+          "source_luminance": 0.6129,
+          "source_saturation": 0.1394
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/87827/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/045_AngLee_李安/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/21YsCNMub5455NQCn3jh9SmRFyG.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/045_AngLee_李安/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/ldIM4SqViPPvDyE1n6k9STfRcmS.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/045_AngLee_李安/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/t2vwMZguqaFLbBEYGGlSGz1E53q.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/045_AngLee_李安/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/6rlTDl1i8HUdFBYMIZfK3Ac1uef.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/045_AngLee_李安/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/045_AngLee_李安/assets/references/reference_director_manifest.json",
+      "sha256": "18b30d95d2a5fbd99bcb5492e20d6e013b8549710c81c59bdc59095f76330c01",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/1535928/images/backdrops",
+        "https://film-grab.com/2016/09/12/crouching-tiger-hidden-dragon/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/crouchingtiger001.jpg?bwg=1546982125",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/crouchingtiger022.jpg?bwg=1546982123",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/crouchingtiger043.jpg?bwg=1546982123",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/crouchingtiger064.jpg?bwg=1546982123",
+        "https://www.themoviedb.org/movie/10451/images/backdrops",
+        "https://image.tmdb.org/t/p/original/tllmUjmEQKF0OaH7FgqZYnLBsYB.jpg",
+        "https://image.tmdb.org/t/p/original/1kZ105Jy8hYi4pXuDG2UimR25QT.jpg",
+        "https://image.tmdb.org/t/p/original/1VALNbhOX2L5ueDg1ATB8yKeM5.jpg",
+        "https://image.tmdb.org/t/p/original/iXCV1NZOLK5HWSodU8upXtXaYqC.jpg",
+        "https://www.themoviedb.org/movie/142/images/backdrops",
+        "https://image.tmdb.org/t/p/original/vXzqV2RtJlT9WhNEM4NYWCEC6ZI.jpg",
+        "https://image.tmdb.org/t/p/original/G9VBy4RYDmKkZ0tdnpSuiazeNr.jpg",
+        "https://image.tmdb.org/t/p/original/9RCsaEFmLACOA5K5pRGlo0E3oB1.jpg",
+        "https://image.tmdb.org/t/p/original/sWpBKslghZKJplHiyYxDX8qSktm.jpg",
+        "https://www.themoviedb.org/movie/87827/images/backdrops",
+        "https://image.tmdb.org/t/p/original/21YsCNMub5455NQCn3jh9SmRFyG.jpg",
+        "https://image.tmdb.org/t/p/original/ldIM4SqViPPvDyE1n6k9STfRcmS.jpg",
+        "https://image.tmdb.org/t/p/original/t2vwMZguqaFLbBEYGGlSGz1E53q.jpg",
+        "https://image.tmdb.org/t/p/original/6rlTDl1i8HUdFBYMIZfK3Ac1uef.jpg"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/045_AngLee_李安/assets/references/reference_sources.md",
+      "sha256": "5ae6f3ffc8b566e5d0743c9248d655799cd400dcc5acde9977c3ea8975c33090",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/1535928/images/backdrops",
+        "https://film-grab.com/2016/09/12/crouching-tiger-hidden-dragon/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/crouchingtiger001.jpg?bwg=1546982125",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/crouchingtiger022.jpg?bwg=1546982123",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/crouchingtiger043.jpg?bwg=1546982123",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/crouchingtiger064.jpg?bwg=1546982123",
+        "https://www.themoviedb.org/movie/10451/images/backdrops",
+        "https://image.tmdb.org/t/p/original/tllmUjmEQKF0OaH7FgqZYnLBsYB.jpg",
+        "https://image.tmdb.org/t/p/original/1kZ105Jy8hYi4pXuDG2UimR25QT.jpg",
+        "https://image.tmdb.org/t/p/original/1VALNbhOX2L5ueDg1ATB8yKeM5.jpg",
+        "https://image.tmdb.org/t/p/original/iXCV1NZOLK5HWSodU8upXtXaYqC.jpg",
+        "https://www.themoviedb.org/movie/142/images/backdrops",
+        "https://image.tmdb.org/t/p/original/vXzqV2RtJlT9WhNEM4NYWCEC6ZI.jpg",
+        "https://image.tmdb.org/t/p/original/G9VBy4RYDmKkZ0tdnpSuiazeNr.jpg",
+        "https://image.tmdb.org/t/p/original/9RCsaEFmLACOA5K5pRGlo0E3oB1.jpg",
+        "https://image.tmdb.org/t/p/original/sWpBKslghZKJplHiyYxDX8qSktm.jpg",
+        "https://www.themoviedb.org/movie/87827/images/backdrops",
+        "https://image.tmdb.org/t/p/original/21YsCNMub5455NQCn3jh9SmRFyG.jpg",
+        "https://image.tmdb.org/t/p/original/ldIM4SqViPPvDyE1n6k9STfRcmS.jpg",
+        "https://image.tmdb.org/t/p/original/t2vwMZguqaFLbBEYGGlSGz1E53q.jpg",
+        "https://image.tmdb.org/t/p/original/6rlTDl1i8HUdFBYMIZfK3Ac1uef.jpg"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

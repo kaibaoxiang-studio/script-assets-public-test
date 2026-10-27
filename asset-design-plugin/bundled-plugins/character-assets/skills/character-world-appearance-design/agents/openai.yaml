@@ -1,0 +1,7 @@
+interface:
+  display_name: 环境与技术外貌设计
+  short_description: 环境与技术外貌设计：世界压力、资源与可达技术
+  default_prompt: Use $character-world-appearance-design to complete the requested
+    task.
+policy:
+  allow_implicit_invocation: false

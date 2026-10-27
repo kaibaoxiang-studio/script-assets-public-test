@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0.0",
+  "id": "008",
+  "label": {
+    "name_zh": "大卫·柯南伯格",
+    "name_en": "David Cronenberg",
+    "category": "01_黑色悬疑与冷调惊悚",
+    "source_volume": "第1期_SKILL_冷调与大地_001-080"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "临床灰绿",
+        "name_en": "Clinical Gray Green",
+        "hex": "#2C3639",
+        "source_ratio": 0.38,
+        "normalized_ratio": 0.38,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "冷灰绿",
+        "name_en": "Cold Gray Green",
+        "hex": "#6B7F73",
+        "source_ratio": 0.2,
+        "normalized_ratio": 0.2,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "血肉暗红",
+        "name_en": "Flesh Dark Red",
+        "hex": "#8B3A3A",
+        "source_ratio": 0.13,
+        "normalized_ratio": 0.13,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "肉肤色",
+        "name_en": "Flesh Tone Beige",
+        "hex": "#D4A574",
+        "source_ratio": 0.1,
+        "normalized_ratio": 0.1,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "深菌绿",
+        "name_en": "Deep Fungus Green",
+        "hex": "#3D5A50",
+        "source_ratio": 0.09,
+        "normalized_ratio": 0.09,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "羊皮纸棕",
+        "name_en": "Parchment Brown",
+        "hex": "#B8A082",
+        "source_ratio": 0.1,
+        "normalized_ratio": 0.1,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "血肉粉红",
+        "name_en": "Flesh Pink Red",
+        "hex": "#FF6B6B",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "身体变形、痛苦与快感交织"
+      },
+      {
+        "code": "E02",
+        "name_zh": "病变绿",
+        "name_en": "Pathological Green",
+        "hex": "#6B8E23",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "感染、变异、身体的背叛"
+      },
+      {
+        "code": "E03",
+        "name_zh": "科技蓝",
+        "name_en": "Tech Blue",
+        "hex": "#4682B4",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "科技入侵人体、未来医学的恐惧"
+      },
+      {
+        "code": "E04",
+        "name_zh": "裸肤色",
+        "name_en": "Nude Beige",
+        "hex": "#DEB887",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "脆弱、暴露、存在的赤裸"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "散射柔光为主，局部硬光突出肉体质感",
+      "highlight_description": "冷白偏绿（荧光灯/实验室灯）",
+      "shadow_description": "深灰绿偏褐（暗部/阴影/生物组织）",
+      "contrast_description": "中对比（55-70%），肉体质感细节丰富",
+      "overall_tone": "冷调绿褐，65%冷绿 + 35%暖肉色"
+    },
+    "color_keywords": [
+      "临床冷调",
+      "肉肤色",
+      "病变绿",
+      "血肉暗红",
+      "生物质感",
+      "金属冷灰",
+      "湿滑质感",
+      "裸露皮肤",
+      "有机形态",
+      "医学冷白"
+    ],
+    "mood_keywords": [
+      "肉体恐怖",
+      "身体哲学",
+      "科技焦虑",
+      "性与暴力",
+      "身份消解",
+      "心理畸变",
+      "存在恐惧",
+      "科技与人性",
+      "欲望变形",
+      "禁忌边界"
+    ],
+    "composition_keywords": [
+      "肉体特写",
+      "对称构图",
+      "临床空间",
+      "有机与机械融合",
+      "身体变形镜头",
+      "镜面反射",
+      "解剖式构图",
+      "心理空间外化",
+      "生物质感纹理",
+      "性与暴力重叠"
+    ],
+    "style_profile": {
+      "definition": "肉色、金属灰和病态蓝绿让身体与机器互相污染。",
+      "lighting": "冷医疗光、湿润高光、低调侧光。",
+      "framing": "临床近景、身体细节、冷静观察。",
+      "grading": "突出皮肤纹理、有机湿感和金属表面，综合色不过艳。",
+      "avoid": "干净科幻蓝、塑料血肉、美颜磨皮、全局青橙、无动机环绕和随机变焦"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "008",
+      "relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/color_palettes/palette.json",
+      "sha256": "bd617e298a11507e533c9170fd47d45816f13b3da9d9fde22204c1be96b10ea4"
+    },
+    "source_entry_relative_dir": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格",
+    "source_records": [
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json",
+        "sha256": "6b9d5a076a8498e5632d98e02a9ef0796e9f2d8a59dfd4e25379f586537b9f7b",
+        "declared_url_count": 40,
+        "externally_verified": false
+      },
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_sources.md",
+        "sha256": "b0924539b7fea8f1d5642cedc8544e8faec98bb542c42374031777c1680fe19a",
+        "declared_url_count": 40,
+        "externally_verified": false
+      }
+    ],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 5,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": "film-references/008.json"
+}

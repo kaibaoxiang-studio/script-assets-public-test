@@ -1,0 +1,336 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "089",
+  "films": [
+    {
+      "title_zh": "圣鹿之死",
+      "title_en": "The Killing of a Sacred Deer",
+      "year": 2017,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/399057/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/kJwQXgAk440l2vZOspUJee6inim.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/ntehnWyhRvfJgezt8hx1O6qKE5p.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/4BErdbVUAsGxYxHlKtYsYTCJohN.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/hOFuKcG5Rkg41DVgA574nk1GDCK.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/399057/images/backdrops",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/089_YorgosLanthimos_兰斯莫斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/kJwQXgAk440l2vZOspUJee6inim.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/089_YorgosLanthimos_兰斯莫斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/ntehnWyhRvfJgezt8hx1O6qKE5p.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/089_YorgosLanthimos_兰斯莫斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/4BErdbVUAsGxYxHlKtYsYTCJohN.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/089_YorgosLanthimos_兰斯莫斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/hOFuKcG5Rkg41DVgA574nk1GDCK.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/089_YorgosLanthimos_兰斯莫斯/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "龙虾",
+      "title_en": "The Lobster",
+      "year": 2015,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/460689/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab电影截图图库",
+          "url": "https://film-grab.com/2016/12/09/the-lobster/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab真实电影截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thelobster001.jpg?bwg=1546967689",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab真实电影截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thelobster022.jpg?bwg=1546967687",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab真实电影截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thelobster044.jpg?bwg=1546967687",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab真实电影截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thelobster065.jpg?bwg=1546967687",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/460689/images/backdrops",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/089_YorgosLanthimos_兰斯莫斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "FilmGrab电影截图图库",
+          "url": "https://film-grab.com/2016/12/09/the-lobster/",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/089_YorgosLanthimos_兰斯莫斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "FilmGrab真实电影截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thelobster001.jpg?bwg=1546967689",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/089_YorgosLanthimos_兰斯莫斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "FilmGrab真实电影截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thelobster022.jpg?bwg=1546967687",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/089_YorgosLanthimos_兰斯莫斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "FilmGrab真实电影截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thelobster044.jpg?bwg=1546967687",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/089_YorgosLanthimos_兰斯莫斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "FilmGrab真实电影截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thelobster065.jpg?bwg=1546967687",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/089_YorgosLanthimos_兰斯莫斯/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 6,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "宠儿",
+      "title_en": "The Favourite",
+      "year": 2018,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/375262/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/iSskYDN193CJfTbSpFfscSwZ9Sx.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/y3k6gcX8E104C3GgDpa94cwHR2i.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/hPSN9y7bx2JSrKR2E7bEilT36Fp.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/oM81ZUHP3MNpZz8vrQlVSsUAlxq.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/375262/images/backdrops",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/089_YorgosLanthimos_兰斯莫斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/iSskYDN193CJfTbSpFfscSwZ9Sx.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/089_YorgosLanthimos_兰斯莫斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/y3k6gcX8E104C3GgDpa94cwHR2i.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/089_YorgosLanthimos_兰斯莫斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/hPSN9y7bx2JSrKR2E7bEilT36Fp.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/089_YorgosLanthimos_兰斯莫斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/oM81ZUHP3MNpZz8vrQlVSsUAlxq.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/089_YorgosLanthimos_兰斯莫斯/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "可怜的东西",
+      "title_en": "Poor Things",
+      "year": 2023,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/792307/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/zh6IdheEYinU4TPtorWsjx6qPQE.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/w7sZjH6dBR0xQyyDZLX4qKhAz9q.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/rqU66Ds1jmU43AAOJ0AzMMKmUiD.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/dvm78pXmypJ9bp44t56Wc0X03gT.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/792307/images/backdrops",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/089_YorgosLanthimos_兰斯莫斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/zh6IdheEYinU4TPtorWsjx6qPQE.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/089_YorgosLanthimos_兰斯莫斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/w7sZjH6dBR0xQyyDZLX4qKhAz9q.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/089_YorgosLanthimos_兰斯莫斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/rqU66Ds1jmU43AAOJ0AzMMKmUiD.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/089_YorgosLanthimos_兰斯莫斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/dvm78pXmypJ9bp44t56Wc0X03gT.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/089_YorgosLanthimos_兰斯莫斯/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/089_YorgosLanthimos_兰斯莫斯/assets/references/reference_director_manifest.json",
+      "sha256": "d07eb8f6465a984be1b77322a8ead902db4cd404e6d114b8c155cbfd6d2cca89",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/399057/images/backdrops",
+        "https://image.tmdb.org/t/p/original/kJwQXgAk440l2vZOspUJee6inim.jpg",
+        "https://image.tmdb.org/t/p/original/ntehnWyhRvfJgezt8hx1O6qKE5p.jpg",
+        "https://image.tmdb.org/t/p/original/4BErdbVUAsGxYxHlKtYsYTCJohN.jpg",
+        "https://image.tmdb.org/t/p/original/hOFuKcG5Rkg41DVgA574nk1GDCK.jpg",
+        "https://www.themoviedb.org/movie/460689/images/backdrops",
+        "https://film-grab.com/2016/12/09/the-lobster/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thelobster001.jpg?bwg=1546967689",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thelobster022.jpg?bwg=1546967687",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thelobster044.jpg?bwg=1546967687",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thelobster065.jpg?bwg=1546967687",
+        "https://www.themoviedb.org/movie/375262/images/backdrops",
+        "https://image.tmdb.org/t/p/original/iSskYDN193CJfTbSpFfscSwZ9Sx.jpg",
+        "https://image.tmdb.org/t/p/original/y3k6gcX8E104C3GgDpa94cwHR2i.jpg",
+        "https://image.tmdb.org/t/p/original/hPSN9y7bx2JSrKR2E7bEilT36Fp.jpg",
+        "https://image.tmdb.org/t/p/original/oM81ZUHP3MNpZz8vrQlVSsUAlxq.jpg",
+        "https://www.themoviedb.org/movie/792307/images/backdrops",
+        "https://image.tmdb.org/t/p/original/zh6IdheEYinU4TPtorWsjx6qPQE.jpg",
+        "https://image.tmdb.org/t/p/original/w7sZjH6dBR0xQyyDZLX4qKhAz9q.jpg",
+        "https://image.tmdb.org/t/p/original/rqU66Ds1jmU43AAOJ0AzMMKmUiD.jpg",
+        "https://image.tmdb.org/t/p/original/dvm78pXmypJ9bp44t56Wc0X03gT.jpg"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/089_YorgosLanthimos_兰斯莫斯/assets/references/reference_sources.md",
+      "sha256": "327cf907be658d2035a91e2926ad93a6d57ad44fe82621754810e383c652e181",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/399057/images/backdrops",
+        "https://image.tmdb.org/t/p/original/kJwQXgAk440l2vZOspUJee6inim.jpg",
+        "https://image.tmdb.org/t/p/original/ntehnWyhRvfJgezt8hx1O6qKE5p.jpg",
+        "https://image.tmdb.org/t/p/original/4BErdbVUAsGxYxHlKtYsYTCJohN.jpg",
+        "https://image.tmdb.org/t/p/original/hOFuKcG5Rkg41DVgA574nk1GDCK.jpg",
+        "https://www.themoviedb.org/movie/460689/images/backdrops",
+        "https://film-grab.com/2016/12/09/the-lobster/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thelobster001.jpg?bwg=1546967689",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thelobster022.jpg?bwg=1546967687",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thelobster044.jpg?bwg=1546967687",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thelobster065.jpg?bwg=1546967687",
+        "https://www.themoviedb.org/movie/375262/images/backdrops",
+        "https://image.tmdb.org/t/p/original/iSskYDN193CJfTbSpFfscSwZ9Sx.jpg",
+        "https://image.tmdb.org/t/p/original/y3k6gcX8E104C3GgDpa94cwHR2i.jpg",
+        "https://image.tmdb.org/t/p/original/hPSN9y7bx2JSrKR2E7bEilT36Fp.jpg",
+        "https://image.tmdb.org/t/p/original/oM81ZUHP3MNpZz8vrQlVSsUAlxq.jpg",
+        "https://www.themoviedb.org/movie/792307/images/backdrops",
+        "https://image.tmdb.org/t/p/original/zh6IdheEYinU4TPtorWsjx6qPQE.jpg",
+        "https://image.tmdb.org/t/p/original/w7sZjH6dBR0xQyyDZLX4qKhAz9q.jpg",
+        "https://image.tmdb.org/t/p/original/rqU66Ds1jmU43AAOJ0AzMMKmUiD.jpg",
+        "https://image.tmdb.org/t/p/original/dvm78pXmypJ9bp44t56Wc0X03gT.jpg"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

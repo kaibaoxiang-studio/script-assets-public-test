@@ -1,0 +1,6 @@
+interface:
+  display_name: 群演群像设计师
+  short_description: 群演单图设计师：有台词单人执行图与无台词群像图
+  default_prompt: Use $character-ensemble-designer to complete the requested task.
+policy:
+  allow_implicit_invocation: false

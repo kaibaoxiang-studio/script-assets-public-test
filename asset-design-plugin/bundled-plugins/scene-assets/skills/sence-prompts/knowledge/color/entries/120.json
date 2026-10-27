@@ -1,0 +1,179 @@
+{
+  "schema_version": "1.0.0",
+  "id": "120",
+  "label": {
+    "name_zh": "里芬施塔尔",
+    "name_en": "LeniRiefenstahl",
+    "category": "06_超现实梦幻与心理畸变",
+    "source_volume": "第2期_SKILL_浓彩与梦幻_081-140"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "金铂色",
+        "name_en": "Gold Platinum",
+        "hex": "#D4AF37",
+        "source_ratio": 0.2,
+        "normalized_ratio": 0.2,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "山岳蓝",
+        "name_en": "Mountain Blue",
+        "hex": "#0D47A1",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "雪白",
+        "name_en": "Snow White",
+        "hex": "#FFFFFF",
+        "source_ratio": 0.16,
+        "normalized_ratio": 0.16,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "古铜棕",
+        "name_en": "Bronze Brown",
+        "hex": "#5D4037",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "深渊蓝",
+        "name_en": "Abyss Blue",
+        "hex": "#1A237E",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "深褐",
+        "name_en": "Dark Brown",
+        "hex": "#3E2723",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "壮美崇拜",
+        "name_en": "壮美崇拜",
+        "hex": "#D4AF37",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "壮美崇拜"
+      },
+      {
+        "code": "E02",
+        "name_zh": "山岳崇高",
+        "name_en": "山岳崇高",
+        "hex": "#0D47A1",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "山岳崇高"
+      },
+      {
+        "code": "E03",
+        "name_zh": "纯净理想",
+        "name_en": "纯净理想",
+        "hex": "#FFFFFF",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "纯净理想"
+      },
+      {
+        "code": "E04",
+        "name_zh": "身体雕塑",
+        "name_en": "身体雕塑",
+        "hex": "#5D4037",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "身体雕塑"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "侧光雕刻",
+      "highlight_description": "阳光塑形",
+      "shadow_description": "云雾光束",
+      "contrast_description": "高对比",
+      "overall_tone": "暖调"
+    },
+    "color_keywords": [
+      "壮美金色",
+      "山岳蓝白",
+      "雕塑光感",
+      "史诗色调",
+      "人体古铜色",
+      "云隙光束"
+    ],
+    "mood_keywords": [
+      "壮美美学",
+      "身体崇拜",
+      "山岳精神",
+      "史诗感",
+      "争议美学",
+      "意志胜利"
+    ],
+    "composition_keywords": [
+      "对称壮美",
+      "人体雕塑",
+      "山岳仰拍",
+      "群众场面",
+      "动态剪辑",
+      "光与影"
+    ],
+    "style_profile": {
+      "definition": "里芬施塔尔的视觉风格：侧光雕刻，壮美金色, 山岳蓝白, 雕塑光感。",
+      "lighting": "侧光雕刻，阳光塑形，云雾光束",
+      "framing": "对称壮美、人体雕塑、山岳仰拍。",
+      "grading": "整体色调暖调，对比度高对比。",
+      "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "120",
+      "relative_path": "第2期_SKILL_浓彩与梦幻_081-140/06_超现实梦幻与心理畸变/120_LeniRiefenstahl_里芬施塔尔/assets/color_palettes/palette.json",
+      "sha256": "7c71c0d639b60347c7681c1fa7a111db579d12204101444c963a7787518eea08"
+    },
+    "source_entry_relative_dir": "第2期_SKILL_浓彩与梦幻_081-140/06_超现实梦幻与心理畸变/120_LeniRiefenstahl_里芬施塔尔",
+    "source_records": [],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 0,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": null
+}

@@ -1,0 +1,456 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "046",
+  "films": [
+    {
+      "title_zh": "獅子王：木法沙",
+      "title_en": "Mufasa: The Lion King",
+      "year": 2024,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#D5C6BE",
+          "source_ratio": 14.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14800000000000002,
+          "source_luminance": 0.5825,
+          "source_saturation": 0.108
+        },
+        {
+          "hex": "#FDB408",
+          "source_ratio": 14.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.145,
+          "source_luminance": 0.5354,
+          "source_saturation": 0.9684
+        },
+        {
+          "hex": "#FCB438",
+          "source_ratio": 13,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.13,
+          "source_luminance": 0.5362,
+          "source_saturation": 0.7778
+        },
+        {
+          "hex": "#FDE53A",
+          "source_ratio": 12.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.126,
+          "source_luminance": 0.7723,
+          "source_saturation": 0.7708
+        },
+        {
+          "hex": "#8E2308",
+          "source_ratio": 11.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11900000000000001,
+          "source_luminance": 0.0697,
+          "source_saturation": 0.9437
+        },
+        {
+          "hex": "#FA8807",
+          "source_ratio": 11.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.115,
+          "source_luminance": 0.3795,
+          "source_saturation": 0.972
+        },
+        {
+          "hex": "#B22F08",
+          "source_ratio": 11.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.113,
+          "source_luminance": 0.1152,
+          "source_saturation": 0.9551
+        },
+        {
+          "hex": "#010101",
+          "source_ratio": 10.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10400000000000001,
+          "source_luminance": 0.0003,
+          "source_saturation": 0
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/046_BarryJenkins_巴里·詹金斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/oHPoF0Gzu8xwK4CtdXDaWdcuZxZ.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/046_BarryJenkins_巴里·詹金斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/cVh8Af7a9JMOJl75ML3Dg2QVEuq.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/046_BarryJenkins_巴里·詹金斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/9FENncVpvhIjrQA0WcKZaFUd73Q.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/046_BarryJenkins_巴里·詹金斯/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "月光男孩",
+      "title_en": "Moonlight",
+      "year": 2016,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#74F9F6",
+          "source_ratio": 21.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.21100000000000002,
+          "source_luminance": 0.7812,
+          "source_saturation": 0.5341
+        },
+        {
+          "hex": "#A9CEFB",
+          "source_ratio": 14.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.145,
+          "source_luminance": 0.5954,
+          "source_saturation": 0.3267
+        },
+        {
+          "hex": "#101216",
+          "source_ratio": 11.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.115,
+          "source_luminance": 0.006,
+          "source_saturation": 0.2727
+        },
+        {
+          "hex": "#2F2124",
+          "source_ratio": 11.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11199999999999999,
+          "source_luminance": 0.0182,
+          "source_saturation": 0.2979
+        },
+        {
+          "hex": "#9D7661",
+          "source_ratio": 11,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11,
+          "source_luminance": 0.2099,
+          "source_saturation": 0.3822
+        },
+        {
+          "hex": "#30113A",
+          "source_ratio": 10.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.105,
+          "source_luminance": 0.0133,
+          "source_saturation": 0.7069
+        },
+        {
+          "hex": "#2D4559",
+          "source_ratio": 10.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10300000000000001,
+          "source_luminance": 0.0554,
+          "source_saturation": 0.4944
+        },
+        {
+          "hex": "#729AC0",
+          "source_ratio": 9.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.099,
+          "source_luminance": 0.3049,
+          "source_saturation": 0.4062
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/jm1oD3eB08LImSwL1LrzF9AJQ5b.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/046_BarryJenkins_巴里·詹金斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/A9KPbYTQvWsp51Lgz85ukVkFrKf.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/046_BarryJenkins_巴里·詹金斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/v0qkC1c06zg2XsBmOb1S90JNiLg.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/046_BarryJenkins_巴里·詹金斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/humGWpoFMzYNHnX70iINsM6JUvw.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/046_BarryJenkins_巴里·詹金斯/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "藍色比爾街的沉默",
+      "title_en": "If Beale Street Could Talk",
+      "year": 2018,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#A59F89",
+          "source_ratio": 14,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14,
+          "source_luminance": 0.346,
+          "source_saturation": 0.1697
+        },
+        {
+          "hex": "#6E4323",
+          "source_ratio": 13.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.133,
+          "source_luminance": 0.0745,
+          "source_saturation": 0.6818
+        },
+        {
+          "hex": "#1F100B",
+          "source_ratio": 12.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.128,
+          "source_luminance": 0.0069,
+          "source_saturation": 0.6452
+        },
+        {
+          "hex": "#2E1C0D",
+          "source_ratio": 12.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.126,
+          "source_luminance": 0.0144,
+          "source_saturation": 0.7174
+        },
+        {
+          "hex": "#C9B79D",
+          "source_ratio": 12.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.122,
+          "source_luminance": 0.4872,
+          "source_saturation": 0.2189
+        },
+        {
+          "hex": "#867D6D",
+          "source_ratio": 12,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12,
+          "source_luminance": 0.2084,
+          "source_saturation": 0.1866
+        },
+        {
+          "hex": "#9B5732",
+          "source_ratio": 11.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.115,
+          "source_luminance": 0.1402,
+          "source_saturation": 0.6774
+        },
+        {
+          "hex": "#5A584E",
+          "source_ratio": 11.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11599999999999999,
+          "source_luminance": 0.097,
+          "source_saturation": 0.1333
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/9QKt21sUUrcNmlCkLKDFUaTodCh.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/046_BarryJenkins_巴里·詹金斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/4BeW5EhIUkiiexEpELyzVfWP9la.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/046_BarryJenkins_巴里·詹金斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/ooyvhMsLuwcWBB2HZa4gi4WQF7B.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/046_BarryJenkins_巴里·詹金斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/z6vK4hfh0jKBWbQ9PLgsuahyqWr.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/046_BarryJenkins_巴里·詹金斯/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "憂鬱的解藥",
+      "title_en": "Medicine for Melancholy",
+      "year": 2008,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#000000",
+          "source_ratio": 33.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.335,
+          "source_luminance": 0,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#C6C7C6",
+          "source_ratio": 11.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.115,
+          "source_luminance": 0.5693,
+          "source_saturation": 0.005
+        },
+        {
+          "hex": "#2E2E2A",
+          "source_ratio": 10.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10300000000000001,
+          "source_luminance": 0.027,
+          "source_saturation": 0.087
+        },
+        {
+          "hex": "#E0DCD8",
+          "source_ratio": 9.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.095,
+          "source_luminance": 0.7199,
+          "source_saturation": 0.0357
+        },
+        {
+          "hex": "#1A1A19",
+          "source_ratio": 9.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.094,
+          "source_luminance": 0.0103,
+          "source_saturation": 0.0385
+        },
+        {
+          "hex": "#9DA6A9",
+          "source_ratio": 8.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.08900000000000001,
+          "source_luminance": 0.3731,
+          "source_saturation": 0.071
+        },
+        {
+          "hex": "#59554C",
+          "source_ratio": 8.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.087,
+          "source_luminance": 0.0914,
+          "source_saturation": 0.1461
+        },
+        {
+          "hex": "#716A5E",
+          "source_ratio": 8.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.08199999999999999,
+          "source_luminance": 0.1463,
+          "source_saturation": 0.1681
+        }
+      ],
+      "source_ratio_sum": 100.00000000000001,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/gb8V2O3eya3X0hDS4MfESo0zSgR.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/046_BarryJenkins_巴里·詹金斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/dqND4J8k6EBQ9YPmlyO3rFRb13K.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/046_BarryJenkins_巴里·詹金斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/28pMYfH4Hw0Wn3DTjKk5cFFzUIj.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/046_BarryJenkins_巴里·詹金斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/rXqATabNK1tWIGKwhbYW7yUgW1Q.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/046_BarryJenkins_巴里·詹金斯/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/046_BarryJenkins_巴里·詹金斯/assets/references/reference_director_manifest.json",
+      "sha256": "f10a1b81a0d63214c994dd2880bec2b7f294ee4917663efe71ab8004ede38e7a",
+      "declared_urls": [
+        "https://image.tmdb.org/t/p/original/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
+        "https://image.tmdb.org/t/p/original/oHPoF0Gzu8xwK4CtdXDaWdcuZxZ.jpg",
+        "https://image.tmdb.org/t/p/original/cVh8Af7a9JMOJl75ML3Dg2QVEuq.jpg",
+        "https://image.tmdb.org/t/p/original/9FENncVpvhIjrQA0WcKZaFUd73Q.jpg",
+        "https://image.tmdb.org/t/p/original/jm1oD3eB08LImSwL1LrzF9AJQ5b.jpg",
+        "https://image.tmdb.org/t/p/original/A9KPbYTQvWsp51Lgz85ukVkFrKf.jpg",
+        "https://image.tmdb.org/t/p/original/v0qkC1c06zg2XsBmOb1S90JNiLg.jpg",
+        "https://image.tmdb.org/t/p/original/humGWpoFMzYNHnX70iINsM6JUvw.jpg",
+        "https://image.tmdb.org/t/p/original/9QKt21sUUrcNmlCkLKDFUaTodCh.jpg",
+        "https://image.tmdb.org/t/p/original/4BeW5EhIUkiiexEpELyzVfWP9la.jpg",
+        "https://image.tmdb.org/t/p/original/ooyvhMsLuwcWBB2HZa4gi4WQF7B.jpg",
+        "https://image.tmdb.org/t/p/original/z6vK4hfh0jKBWbQ9PLgsuahyqWr.jpg",
+        "https://image.tmdb.org/t/p/original/gb8V2O3eya3X0hDS4MfESo0zSgR.jpg",
+        "https://image.tmdb.org/t/p/original/dqND4J8k6EBQ9YPmlyO3rFRb13K.jpg",
+        "https://image.tmdb.org/t/p/original/28pMYfH4Hw0Wn3DTjKk5cFFzUIj.jpg",
+        "https://image.tmdb.org/t/p/original/rXqATabNK1tWIGKwhbYW7yUgW1Q.jpg"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/046_BarryJenkins_巴里·詹金斯/assets/references/reference_sources.md",
+      "sha256": "ca8e20049358628fc546e538afd52c9595cce823d201d3805752521edc3ae49c",
+      "declared_urls": [
+        "https://image.tmdb.org/t/p/original/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
+        "https://image.tmdb.org/t/p/original/oHPoF0Gzu8xwK4CtdXDaWdcuZxZ.jpg",
+        "https://image.tmdb.org/t/p/original/cVh8Af7a9JMOJl75ML3Dg2QVEuq.jpg",
+        "https://image.tmdb.org/t/p/original/9FENncVpvhIjrQA0WcKZaFUd73Q.jpg",
+        "https://image.tmdb.org/t/p/original/jm1oD3eB08LImSwL1LrzF9AJQ5b.jpg",
+        "https://image.tmdb.org/t/p/original/A9KPbYTQvWsp51Lgz85ukVkFrKf.jpg",
+        "https://image.tmdb.org/t/p/original/v0qkC1c06zg2XsBmOb1S90JNiLg.jpg",
+        "https://image.tmdb.org/t/p/original/humGWpoFMzYNHnX70iINsM6JUvw.jpg",
+        "https://image.tmdb.org/t/p/original/9QKt21sUUrcNmlCkLKDFUaTodCh.jpg",
+        "https://image.tmdb.org/t/p/original/4BeW5EhIUkiiexEpELyzVfWP9la.jpg",
+        "https://image.tmdb.org/t/p/original/ooyvhMsLuwcWBB2HZa4gi4WQF7B.jpg",
+        "https://image.tmdb.org/t/p/original/z6vK4hfh0jKBWbQ9PLgsuahyqWr.jpg",
+        "https://image.tmdb.org/t/p/original/gb8V2O3eya3X0hDS4MfESo0zSgR.jpg",
+        "https://image.tmdb.org/t/p/original/dqND4J8k6EBQ9YPmlyO3rFRb13K.jpg",
+        "https://image.tmdb.org/t/p/original/28pMYfH4Hw0Wn3DTjKk5cFFzUIj.jpg",
+        "https://image.tmdb.org/t/p/original/rXqATabNK1tWIGKwhbYW7yUgW1Q.jpg"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

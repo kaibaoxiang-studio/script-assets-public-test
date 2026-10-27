@@ -1,0 +1,179 @@
+{
+  "schema_version": "1.0.0",
+  "id": "103",
+  "label": {
+    "name_zh": "让-皮埃尔·热内",
+    "name_en": "Jean-PierreJeunet",
+    "category": "06_超现实梦幻与心理畸变",
+    "source_volume": "第2期_SKILL_浓彩与梦幻_081-140"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "草绿",
+        "name_en": "Grass Green",
+        "hex": "#33691E",
+        "source_ratio": 0.22,
+        "normalized_ratio": 0.22,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "金橙黄",
+        "name_en": "Golden Orange Yellow",
+        "hex": "#FF8F00",
+        "source_ratio": 0.2,
+        "normalized_ratio": 0.2,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "棕褐",
+        "name_en": "Brown Taupe",
+        "hex": "#8D6E63",
+        "source_ratio": 0.16,
+        "normalized_ratio": 0.16,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "深金",
+        "name_en": "Deep Gold",
+        "hex": "#F57F17",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "深绿",
+        "name_en": "Deep Green",
+        "hex": "#1B5E20",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "深棕",
+        "name_en": "Deep Brown",
+        "hex": "#3E2723",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "温暖童话",
+        "name_en": "温暖童话",
+        "hex": "#FF8F00",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "温暖童话"
+      },
+      {
+        "code": "E02",
+        "name_zh": "自然生机",
+        "name_en": "自然生机",
+        "hex": "#33691E",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "自然生机"
+      },
+      {
+        "code": "E03",
+        "name_zh": "怀旧忧伤",
+        "name_en": "怀旧忧伤",
+        "hex": "#8D6E63",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "怀旧忧伤"
+      },
+      {
+        "code": "E04",
+        "name_zh": "幸福微光",
+        "name_en": "幸福微光",
+        "hex": "#F57F17",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "幸福微光"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "暖黄侧光",
+      "highlight_description": "绿色补光",
+      "shadow_description": "柔光散射",
+      "contrast_description": "高对比",
+      "overall_tone": "暖调"
+    },
+    "color_keywords": [
+      "绿黄暖调",
+      "法式童话色",
+      "高饱和",
+      "暖金光线",
+      "绿色环境",
+      "橙色点缀"
+    ],
+    "mood_keywords": [
+      "温暖奇想",
+      "法式幽默",
+      "孤独与爱",
+      "物件迷恋",
+      "命运巧合",
+      "童真爱丽丝"
+    ],
+    "composition_keywords": [
+      "广角奇想",
+      "物件特写",
+      "蒙太奇拼贴",
+      "法式街景",
+      "人物怪诞",
+      "色彩分层"
+    ],
+    "style_profile": {
+      "definition": "让-皮埃尔·热内的视觉风格：暖黄侧光，绿黄暖调, 法式童话色, 高饱和。",
+      "lighting": "暖黄侧光，绿色补光，柔光散射",
+      "framing": "广角奇想、物件特写、蒙太奇拼贴。",
+      "grading": "整体色调暖调，对比度高对比。",
+      "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "103",
+      "relative_path": "第2期_SKILL_浓彩与梦幻_081-140/06_超现实梦幻与心理畸变/103_Jean-PierreJeunet_让-皮埃尔·热内/assets/color_palettes/palette.json",
+      "sha256": "d1acb3d4b1f2072d69890075714093641fbc8606c7634728190d274e2510df1f"
+    },
+    "source_entry_relative_dir": "第2期_SKILL_浓彩与梦幻_081-140/06_超现实梦幻与心理畸变/103_Jean-PierreJeunet_让-皮埃尔·热内",
+    "source_records": [],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 0,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": null
+}

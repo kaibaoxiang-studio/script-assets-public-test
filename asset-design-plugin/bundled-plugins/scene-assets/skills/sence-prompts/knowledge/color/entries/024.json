@@ -1,0 +1,185 @@
+{
+  "schema_version": "1.0.0",
+  "id": "024",
+  "label": {
+    "name_zh": "凯瑟琳·毕格罗",
+    "name_en": "Kathryn Bigelow",
+    "category": "02_霓虹黑色与赛博未来",
+    "source_volume": "第1期_SKILL_冷调与大地_001-080"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "夜视深绿",
+        "name_en": "Green",
+        "hex": "#0F1B0F",
+        "source_ratio": 0.3,
+        "normalized_ratio": 0.3,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "军绿橄榄",
+        "name_en": "Green",
+        "hex": "#4A5D23",
+        "source_ratio": 0.2,
+        "normalized_ratio": 0.2,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "沙漠土黄",
+        "name_en": "Yellow",
+        "hex": "#C4A35A",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "战术冷蓝",
+        "name_en": "Blue",
+        "hex": "#1E3A5F",
+        "source_ratio": 0.12,
+        "normalized_ratio": 0.12,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "暗红血锈",
+        "name_en": "Red",
+        "hex": "#8B0000",
+        "source_ratio": 0.1,
+        "normalized_ratio": 0.1,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "沙尘肤",
+        "name_en": "Color 6",
+        "hex": "#B8A88A",
+        "source_ratio": 0.13,
+        "normalized_ratio": 0.13,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "夜视绿",
+        "name_en": "Green",
+        "hex": "#00FF00",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "战术军事"
+      },
+      {
+        "code": "E02",
+        "name_zh": "爆炸橙",
+        "name_en": "Orange",
+        "hex": "#FF4500",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "战争暴力"
+      },
+      {
+        "code": "E03",
+        "name_zh": "战术灰",
+        "name_en": "Gray",
+        "hex": "#708090",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "纪律压力"
+      },
+      {
+        "code": "E04",
+        "name_zh": "沙漠金",
+        "name_en": "Gold",
+        "hex": "#DAA520",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "酷热生存"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "handheld documentary natural light, harsh desert sun, night vision green",
+      "highlight_description": "desert gold/orange explosion",
+      "shadow_description": "deep olive green-black",
+      "contrast_description": "high 70-85%",
+      "overall_tone": "cool military desaturated 60/40"
+    },
+    "color_keywords": [
+      "military night vision green",
+      "desert sand ochre",
+      "olive drab military",
+      "tactical cold blue",
+      "explosion orange fire",
+      "dust and haze",
+      "desaturated war tone",
+      "documentary grain"
+    ],
+    "mood_keywords": [
+      "war realism",
+      "documentary intensity",
+      "masculine violence",
+      "tactical tension",
+      "moral ambiguity",
+      "desert isolation",
+      "combat stress",
+      "anti-war"
+    ],
+    "composition_keywords": [
+      "handheld documentary camera",
+      "shaky cam immediacy",
+      "night vision POV",
+      "wide desert vistas",
+      "tactical POV",
+      "slow motion tension",
+      "explosion aftermath",
+      "close-up on faces"
+    ],
+    "style_profile": {
+      "definition": "凯瑟琳·毕格罗的视觉风格以handheld documentary natural light, harsh desert sun, night vision green为主，military night vision green、desert sand ochre，营造出war realism的氛围。",
+      "lighting": "handheld documentary natural light, harsh desert sun, night vision green，高光偏desert gold/orange explosion，阴影偏deep olive green-black，整体cool military desaturated 60/40。",
+      "framing": "handheld documentary camera、shaky cam immediacy、night vision POV。",
+      "grading": "对比度high 70-85%，色调cool military desaturated 60/40。",
+      "avoid": "避免平光照明、避免色彩杂乱、避免构图失衡。"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "024",
+      "relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/024_KathrynBigelow_凯瑟琳·毕格罗/assets/color_palettes/palette.json",
+      "sha256": "5d17974bf326b4982d52caa640e4ceae34bb67dba7f4f18546b4b1407ca9bb37"
+    },
+    "source_entry_relative_dir": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/024_KathrynBigelow_凯瑟琳·毕格罗",
+    "source_records": [],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 0,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": null
+}

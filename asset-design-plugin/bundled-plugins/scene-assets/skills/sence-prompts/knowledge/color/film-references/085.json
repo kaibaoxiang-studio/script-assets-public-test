@@ -1,0 +1,324 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "085",
+  "films": [
+    {
+      "title_zh": "The Rain People",
+      "title_en": "The Rain People",
+      "year": 1969,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2023/04/11/the-rain-people/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Rain_People_01.jpg?bwg=1680017276",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Rain_People_21.jpg?bwg=1680017275",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Rain_People_42.jpg?bwg=1680017275",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Rain_People_62.jpg?bwg=1680017275",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2023/04/11/the-rain-people/",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/085_FrancisFordCoppola_科波拉/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Rain_People_01.jpg?bwg=1680017276",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/085_FrancisFordCoppola_科波拉/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Rain_People_21.jpg?bwg=1680017275",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/085_FrancisFordCoppola_科波拉/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Rain_People_42.jpg?bwg=1680017275",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/085_FrancisFordCoppola_科波拉/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Rain_People_62.jpg?bwg=1680017275",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/085_FrancisFordCoppola_科波拉/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Apocalypse Now",
+      "title_en": "Apocalypse Now",
+      "year": 1979,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2012/11/10/apocalypse-now/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (90).jpg?bwg=1547146677",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (92).jpg?bwg=1547146677",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/43 (91).jpg?bwg=1547146676",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/64 (65).jpg?bwg=1547146676",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2012/11/10/apocalypse-now/",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/085_FrancisFordCoppola_科波拉/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (90).jpg?bwg=1547146677",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/085_FrancisFordCoppola_科波拉/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (92).jpg?bwg=1547146677",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/085_FrancisFordCoppola_科波拉/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/43 (91).jpg?bwg=1547146676",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/085_FrancisFordCoppola_科波拉/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/64 (65).jpg?bwg=1547146676",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/085_FrancisFordCoppola_科波拉/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "The Cotton Club",
+      "title_en": "The Cotton Club",
+      "year": 1984,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/03/22/the-cotton-club/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1023).jpg?bwg=1547463123",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1045).jpg?bwg=1547463121",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/43 (1028).jpg?bwg=1547463121",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/64 (772).jpg?bwg=1547463121",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/03/22/the-cotton-club/",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/085_FrancisFordCoppola_科波拉/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1023).jpg?bwg=1547463123",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/085_FrancisFordCoppola_科波拉/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1045).jpg?bwg=1547463121",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/085_FrancisFordCoppola_科波拉/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/43 (1028).jpg?bwg=1547463121",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/085_FrancisFordCoppola_科波拉/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/64 (772).jpg?bwg=1547463121",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/085_FrancisFordCoppola_科波拉/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Twixt",
+      "title_en": "Twixt",
+      "year": 2011,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/07/09/twixt/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Twixt_01.jpg?bwg=1710765359",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Twixt_22.jpg?bwg=1710765358",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Twixt_44.jpg?bwg=1710765358",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Twixt_65.jpg?bwg=1710765358",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/07/09/twixt/",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/085_FrancisFordCoppola_科波拉/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Twixt_01.jpg?bwg=1710765359",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/085_FrancisFordCoppola_科波拉/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Twixt_22.jpg?bwg=1710765358",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/085_FrancisFordCoppola_科波拉/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Twixt_44.jpg?bwg=1710765358",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/085_FrancisFordCoppola_科波拉/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Twixt_65.jpg?bwg=1710765358",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/085_FrancisFordCoppola_科波拉/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/085_FrancisFordCoppola_科波拉/assets/references/reference_director_manifest.json",
+      "sha256": "bed2ef45760e1d4a834785e5ee9229fb2b302d3ceabce8f0f6ffe20267d20c06",
+      "declared_urls": [
+        "https://film-grab.com/2023/04/11/the-rain-people/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Rain_People_01.jpg?bwg=1680017276",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Rain_People_21.jpg?bwg=1680017275",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Rain_People_42.jpg?bwg=1680017275",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Rain_People_62.jpg?bwg=1680017275",
+        "https://film-grab.com/2012/11/10/apocalypse-now/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (90).jpg?bwg=1547146677",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (92).jpg?bwg=1547146677",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/43 (91).jpg?bwg=1547146676",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/64 (65).jpg?bwg=1547146676",
+        "https://film-grab.com/2014/03/22/the-cotton-club/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1023).jpg?bwg=1547463123",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1045).jpg?bwg=1547463121",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/43 (1028).jpg?bwg=1547463121",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/64 (772).jpg?bwg=1547463121",
+        "https://film-grab.com/2025/07/09/twixt/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Twixt_01.jpg?bwg=1710765359",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Twixt_22.jpg?bwg=1710765358",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Twixt_44.jpg?bwg=1710765358",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Twixt_65.jpg?bwg=1710765358"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/085_FrancisFordCoppola_科波拉/assets/references/reference_sources.md",
+      "sha256": "a0e08694fa3380bb3e645608281fa8cd1edb21af53609465404adfd6806b0b9c",
+      "declared_urls": [
+        "https://film-grab.com/2023/04/11/the-rain-people/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Rain_People_01.jpg?bwg=1680017276",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Rain_People_21.jpg?bwg=1680017275",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Rain_People_42.jpg?bwg=1680017275",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Rain_People_62.jpg?bwg=1680017275",
+        "https://film-grab.com/2012/11/10/apocalypse-now/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (90).jpg?bwg=1547146677",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (92).jpg?bwg=1547146677",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/43 (91).jpg?bwg=1547146676",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/64 (65).jpg?bwg=1547146676",
+        "https://film-grab.com/2014/03/22/the-cotton-club/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1023).jpg?bwg=1547463123",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1045).jpg?bwg=1547463121",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/43 (1028).jpg?bwg=1547463121",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/64 (772).jpg?bwg=1547463121",
+        "https://film-grab.com/2025/07/09/twixt/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Twixt_01.jpg?bwg=1710765359",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Twixt_22.jpg?bwg=1710765358",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Twixt_44.jpg?bwg=1710765358",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Twixt_65.jpg?bwg=1710765358"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

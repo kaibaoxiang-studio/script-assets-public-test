@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "003",
+  "films": [
+    {
+      "title_zh": "The Seventh Continent",
+      "title_en": "The Seventh Continent",
+      "year": 1989,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#000000",
+          "source_ratio": 19,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.19,
+          "source_luminance": 0,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#2D3336",
+          "source_ratio": 14.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14400000000000002,
+          "source_luminance": 0.0319,
+          "source_saturation": 0.1667
+        },
+        {
+          "hex": "#19201B",
+          "source_ratio": 13.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.131,
+          "source_luminance": 0.0132,
+          "source_saturation": 0.2188
+        },
+        {
+          "hex": "#4E5E77",
+          "source_ratio": 11.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11900000000000001,
+          "source_luminance": 0.1096,
+          "source_saturation": 0.3445
+        },
+        {
+          "hex": "#6F7A8A",
+          "source_ratio": 10.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.109,
+          "source_luminance": 0.1913,
+          "source_saturation": 0.1957
+        },
+        {
+          "hex": "#2F3A47",
+          "source_ratio": 10.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.107,
+          "source_luminance": 0.0409,
+          "source_saturation": 0.338
+        },
+        {
+          "hex": "#B5BECE",
+          "source_ratio": 10.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.106,
+          "source_luminance": 0.5111,
+          "source_saturation": 0.1214
+        },
+        {
+          "hex": "#9FA4B0",
+          "source_ratio": 9.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.094,
+          "source_luminance": 0.3706,
+          "source_saturation": 0.0966
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2016/02/11/the-seventh-continent/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/003_MichaelHaneke_迈克尔·哈内克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1164).jpg?bwg=1547470709",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/003_MichaelHaneke_迈克尔·哈内克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1187).jpg?bwg=1547470708",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/003_MichaelHaneke_迈克尔·哈内克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1168).jpg?bwg=1547470707",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/003_MichaelHaneke_迈克尔·哈内克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (800).jpg?bwg=1547470707",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/003_MichaelHaneke_迈克尔·哈内克/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "The Castle",
+      "title_en": "The Castle",
+      "year": 1997,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#000000",
+          "source_ratio": 19.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.191,
+          "source_luminance": 0,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#99A3A4",
+          "source_ratio": 13.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.134,
+          "source_luminance": 0.3565,
+          "source_saturation": 0.0671
+        },
+        {
+          "hex": "#3B3A34",
+          "source_ratio": 13.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.133,
+          "source_luminance": 0.042,
+          "source_saturation": 0.1186
+        },
+        {
+          "hex": "#5E5751",
+          "source_ratio": 12,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12,
+          "source_luminance": 0.0979,
+          "source_saturation": 0.1383
+        },
+        {
+          "hex": "#636771",
+          "source_ratio": 11.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.115,
+          "source_luminance": 0.1355,
+          "source_saturation": 0.1239
+        },
+        {
+          "hex": "#2B2A25",
+          "source_ratio": 10.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.109,
+          "source_luminance": 0.023,
+          "source_saturation": 0.1395
+        },
+        {
+          "hex": "#4A4C4F",
+          "source_ratio": 10.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.107,
+          "source_luminance": 0.0719,
+          "source_saturation": 0.0633
+        },
+        {
+          "hex": "#4F5662",
+          "source_ratio": 9.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.091,
+          "source_luminance": 0.092,
+          "source_saturation": 0.1939
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2026/06/07/the-castle/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/003_MichaelHaneke_迈克尔·哈内克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/0112 (1).jpg?bwg=1547134361",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/003_MichaelHaneke_迈克尔·哈内克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/1713 (1).jpg?bwg=1547134361",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/003_MichaelHaneke_迈克尔·哈内克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/3413 (1).jpg?bwg=1547134361",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/003_MichaelHaneke_迈克尔·哈内克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/5013.jpg?bwg=1547134361",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/003_MichaelHaneke_迈克尔·哈内克/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Caché (Hidden)",
+      "title_en": "Caché (Hidden)",
+      "year": 2005,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#545047",
+          "source_ratio": 15.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.157,
+          "source_luminance": 0.0808,
+          "source_saturation": 0.1548
+        },
+        {
+          "hex": "#2D2A20",
+          "source_ratio": 13,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.13,
+          "source_luminance": 0.0232,
+          "source_saturation": 0.2889
+        },
+        {
+          "hex": "#646760",
+          "source_ratio": 12.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.126,
+          "source_luminance": 0.1325,
+          "source_saturation": 0.068
+        },
+        {
+          "hex": "#CAC9C4",
+          "source_ratio": 12.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.126,
+          "source_luminance": 0.5832,
+          "source_saturation": 0.0297
+        },
+        {
+          "hex": "#BDB09F",
+          "source_ratio": 12,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12,
+          "source_luminance": 0.4437,
+          "source_saturation": 0.1587
+        },
+        {
+          "hex": "#7A7C7A",
+          "source_ratio": 11.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11800000000000001,
+          "source_luminance": 0.1996,
+          "source_saturation": 0.0161
+        },
+        {
+          "hex": "#A3A49D",
+          "source_ratio": 11.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.114,
+          "source_luminance": 0.3677,
+          "source_saturation": 0.0427
+        },
+        {
+          "hex": "#F2F1E7",
+          "source_ratio": 10.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.109,
+          "source_luminance": 0.8756,
+          "source_saturation": 0.0455
+        }
+      ],
+      "source_ratio_sum": 100.00000000000001,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2010/06/20/cache-hidden/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/003_MichaelHaneke_迈克尔·哈内克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (457).jpg?bwg=1547220529",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/003_MichaelHaneke_迈克尔·哈内克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/20 (466).jpg?bwg=1547220528",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/003_MichaelHaneke_迈克尔·哈内克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/39 (463).jpg?bwg=1547220528",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/003_MichaelHaneke_迈克尔·哈内克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/58 (415).jpg?bwg=1547220528",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/003_MichaelHaneke_迈克尔·哈内克/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Happy End",
+      "title_en": "Happy End",
+      "year": 2017,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#000000",
+          "source_ratio": 56.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.568,
+          "source_luminance": 0,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#524C3E",
+          "source_ratio": 8.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.08199999999999999,
+          "source_luminance": 0.0731,
+          "source_saturation": 0.2439
+        },
+        {
+          "hex": "#3E2D27",
+          "source_ratio": 7.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.071,
+          "source_luminance": 0.0305,
+          "source_saturation": 0.371
+        },
+        {
+          "hex": "#312B1C",
+          "source_ratio": 6.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.063,
+          "source_luminance": 0.0246,
+          "source_saturation": 0.4286
+        },
+        {
+          "hex": "#68838A",
+          "source_ratio": 6.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.062,
+          "source_luminance": 0.2101,
+          "source_saturation": 0.2464
+        },
+        {
+          "hex": "#6E6B63",
+          "source_ratio": 5.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.057,
+          "source_luminance": 0.1473,
+          "source_saturation": 0.1
+        },
+        {
+          "hex": "#231F1B",
+          "source_ratio": 5.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.053,
+          "source_luminance": 0.0142,
+          "source_saturation": 0.2286
+        },
+        {
+          "hex": "#483C32",
+          "source_ratio": 4.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.044000000000000004,
+          "source_luminance": 0.0484,
+          "source_saturation": 0.3056
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2021/08/10/happy-end/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/003_MichaelHaneke_迈克尔·哈内克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Happy_End_001.jpg?bwg=1618570613",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/003_MichaelHaneke_迈克尔·哈内克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Happy_End_010.jpg?bwg=1618570613",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/003_MichaelHaneke_迈克尔·哈内克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Happy_End_019.jpg?bwg=1618570613",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/003_MichaelHaneke_迈克尔·哈内克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Happy_End_028.jpg?bwg=1618570613",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/003_MichaelHaneke_迈克尔·哈内克/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/003_MichaelHaneke_迈克尔·哈内克/assets/references/reference_director_manifest.json",
+      "sha256": "346861f9aadb36a060640cb0a78ddc4fd7b6bddb692e72572d98069de3016d9e",
+      "declared_urls": [
+        "https://film-grab.com/2016/02/11/the-seventh-continent/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1164).jpg?bwg=1547470709",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1187).jpg?bwg=1547470708",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1168).jpg?bwg=1547470707",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (800).jpg?bwg=1547470707",
+        "https://film-grab.com/2026/06/07/the-castle/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/0112 (1).jpg?bwg=1547134361",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/1713 (1).jpg?bwg=1547134361",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/3413 (1).jpg?bwg=1547134361",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/5013.jpg?bwg=1547134361",
+        "https://film-grab.com/2010/06/20/cache-hidden/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (457).jpg?bwg=1547220529",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/20 (466).jpg?bwg=1547220528",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/39 (463).jpg?bwg=1547220528",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/58 (415).jpg?bwg=1547220528",
+        "https://film-grab.com/2021/08/10/happy-end/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Happy_End_001.jpg?bwg=1618570613",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Happy_End_010.jpg?bwg=1618570613",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Happy_End_019.jpg?bwg=1618570613",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Happy_End_028.jpg?bwg=1618570613"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/003_MichaelHaneke_迈克尔·哈内克/assets/references/reference_sources.md",
+      "sha256": "ef7aa1ac1def0e0ce167ee01c122f3f38f0f1d5f1976769aac790c8cdd73332b",
+      "declared_urls": [
+        "https://film-grab.com/2016/02/11/the-seventh-continent/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1164).jpg?bwg=1547470709",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1187).jpg?bwg=1547470708",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1168).jpg?bwg=1547470707",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (800).jpg?bwg=1547470707",
+        "https://film-grab.com/2026/06/07/the-castle/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/0112 (1).jpg?bwg=1547134361",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/1713 (1).jpg?bwg=1547134361",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/3413 (1).jpg?bwg=1547134361",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/5013.jpg?bwg=1547134361",
+        "https://film-grab.com/2010/06/20/cache-hidden/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (457).jpg?bwg=1547220529",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/20 (466).jpg?bwg=1547220528",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/39 (463).jpg?bwg=1547220528",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/58 (415).jpg?bwg=1547220528",
+        "https://film-grab.com/2021/08/10/happy-end/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Happy_End_001.jpg?bwg=1618570613",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Happy_End_010.jpg?bwg=1618570613",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Happy_End_019.jpg?bwg=1618570613",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Happy_End_028.jpg?bwg=1618570613"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

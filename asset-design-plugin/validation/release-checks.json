@@ -1,0 +1,19 @@
+{
+  "version": "0.1.0",
+  "date": "2026-10-23",
+  "standalone_zip_extracted_validation": "passed",
+  "installed_plugin_id": "asset-design@asset-design-local",
+  "installed_version": "0.1.0",
+  "installed_enabled": true,
+  "installed_copy_doctor": "passed",
+  "installed_copy_regression_tests": {"passed": 32, "failed": 0},
+  "source_repository": "kaibaoxiang-studio/ZiChan",
+  "source_commit_before_and_after": "8b91d1470d7a90af23a08734b6e7a1e089a57cae",
+  "source_worktree_before_and_after": "clean",
+  "source_snapshot_files_verified": 432,
+  "release_repository": "kaibaoxiang-studio/asset-design-plugin",
+  "release_repository_visibility": "private",
+  "image_generation_test": "not_run_by_design",
+  "full_user_project_production_test": "reserved_for_user_release_testing",
+  "archive_checksum": "Published alongside the ZIP to avoid a self-referential archive hash."
+}

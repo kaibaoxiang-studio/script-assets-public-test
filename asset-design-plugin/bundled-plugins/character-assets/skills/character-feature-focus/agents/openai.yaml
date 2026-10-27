@@ -1,0 +1,6 @@
+interface:
+  display_name: 特征聚焦
+  short_description: 特征聚焦：主锚点、安静区与自然不对称
+  default_prompt: Use $character-feature-focus to complete the requested task.
+policy:
+  allow_implicit_invocation: false

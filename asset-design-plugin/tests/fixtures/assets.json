@@ -1,0 +1,78 @@
+{
+  "schema_version": "ScreenplayAssetsV1",
+  "source": {
+    "path": "screenplay.json",
+    "sha256": "9c1ba48956bc93806ce61f1916146d835ed4b28b526715a05c08bd14c134448a"
+  },
+  "characters": [
+    {
+      "id": "CHR-001",
+      "name": "林禾",
+      "tier": "主角",
+      "script_facts": [
+        "年轻修理工，承担送钥匙任务"
+      ],
+      "states": [
+        {
+          "id": "S01",
+          "name": "雨夜",
+          "script_facts": [
+            "把防水披肩留给孩子"
+          ]
+        }
+      ],
+      "source_refs": [
+        "1-1",
+        "1-2"
+      ]
+    },
+    {
+      "id": "CHR-002",
+      "name": "邵叔",
+      "tier": "配角",
+      "states": [
+        {
+          "id": "S01",
+          "name": "常态"
+        }
+      ],
+      "source_refs": [
+        "1-1"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "id": "SCN-001",
+      "name": "潮门修理铺",
+      "script_facts": [
+        "海堤旁狭长修理铺",
+        "低矮工作台"
+      ],
+      "source_refs": [
+        "1-1",
+        "1-2"
+      ]
+    }
+  ],
+  "props": [
+    {
+      "id": "PRP-001",
+      "name": "铜闸钥匙",
+      "script_facts": [
+        "铜制，齿槽需擦干"
+      ],
+      "owner": "林禾",
+      "source_refs": [
+        "1-1",
+        "1-2"
+      ],
+      "states": [
+        {
+          "id": "S01",
+          "name": "雨夜携带"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "096",
+  "films": [
+    {
+      "title_zh": "黄土地",
+      "title_en": "Yellow Earth",
+      "year": 1984,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/92990/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/38zIq2YfTkNZ8BFCCsIPobxXkwV.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/9a8rTHiVxVphC02qqz7lTpjvT4s.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/hbltqIBcoMmOBdYAcCeJB2TDPI4.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/tq4D8eICdEXdJtre2bHnjl9K1Yy.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/92990/images/backdrops",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/096_ChenKaige_陈凯歌/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/38zIq2YfTkNZ8BFCCsIPobxXkwV.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/096_ChenKaige_陈凯歌/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/9a8rTHiVxVphC02qqz7lTpjvT4s.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/096_ChenKaige_陈凯歌/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/hbltqIBcoMmOBdYAcCeJB2TDPI4.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/096_ChenKaige_陈凯歌/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/tq4D8eICdEXdJtre2bHnjl9K1Yy.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/096_ChenKaige_陈凯歌/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "霸王别姬",
+      "title_en": "Farewell My Concubine",
+      "year": 1993,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/10997/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/9iBkK8jEmSRyimc4A9dAM9zeVhu.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/dGT485hwTEVeQYa1Cj1luZKjk4C.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/lsxfxygPbT5kCM7fgFu7e1eM214.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/o8W8thcjurUvD2rVhak2KqbWwOL.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/10997/images/backdrops",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/096_ChenKaige_陈凯歌/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/9iBkK8jEmSRyimc4A9dAM9zeVhu.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/096_ChenKaige_陈凯歌/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/dGT485hwTEVeQYa1Cj1luZKjk4C.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/096_ChenKaige_陈凯歌/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/lsxfxygPbT5kCM7fgFu7e1eM214.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/096_ChenKaige_陈凯歌/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/o8W8thcjurUvD2rVhak2KqbWwOL.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/096_ChenKaige_陈凯歌/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "风月",
+      "title_en": "Temptress Moon",
+      "year": 1996,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/47694/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/3lffczLphk8UMF4GydD2i6O1wri.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/7NTyplHpKITKd6LGaMwvfouJK6h.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/qzz8VqnKk41AWm28KWgd2ujlTo4.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/sBtcMCdVMdE8kgytlJsLyABQjLk.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/47694/images/backdrops",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/096_ChenKaige_陈凯歌/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/3lffczLphk8UMF4GydD2i6O1wri.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/096_ChenKaige_陈凯歌/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/7NTyplHpKITKd6LGaMwvfouJK6h.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/096_ChenKaige_陈凯歌/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/qzz8VqnKk41AWm28KWgd2ujlTo4.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/096_ChenKaige_陈凯歌/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/sBtcMCdVMdE8kgytlJsLyABQjLk.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/096_ChenKaige_陈凯歌/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "荆轲刺秦王",
+      "title_en": "The Emperor and the Assassin",
+      "year": 1998,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/10387/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/AuFT4H6W90auDlD2dYSKSRM2D9T.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/dHqeT5bqd70k2fab4HmVq8nRsDd.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/kK1QI1XEqBGIgVN2EwsI22rTwsC.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/rqwbQAdA9XG5nZTEhE2E8hUPsO5.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/10387/images/backdrops",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/096_ChenKaige_陈凯歌/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/AuFT4H6W90auDlD2dYSKSRM2D9T.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/096_ChenKaige_陈凯歌/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/dHqeT5bqd70k2fab4HmVq8nRsDd.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/096_ChenKaige_陈凯歌/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/kK1QI1XEqBGIgVN2EwsI22rTwsC.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/096_ChenKaige_陈凯歌/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/rqwbQAdA9XG5nZTEhE2E8hUPsO5.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/096_ChenKaige_陈凯歌/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/096_ChenKaige_陈凯歌/assets/references/reference_director_manifest.json",
+      "sha256": "73d079e4bab0128e285b23bb13355d643d4995b406eec0c3214de409ce1dea44",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/92990/images/backdrops",
+        "https://image.tmdb.org/t/p/original/38zIq2YfTkNZ8BFCCsIPobxXkwV.jpg",
+        "https://image.tmdb.org/t/p/original/9a8rTHiVxVphC02qqz7lTpjvT4s.jpg",
+        "https://image.tmdb.org/t/p/original/hbltqIBcoMmOBdYAcCeJB2TDPI4.jpg",
+        "https://image.tmdb.org/t/p/original/tq4D8eICdEXdJtre2bHnjl9K1Yy.jpg",
+        "https://www.themoviedb.org/movie/10997/images/backdrops",
+        "https://image.tmdb.org/t/p/original/9iBkK8jEmSRyimc4A9dAM9zeVhu.jpg",
+        "https://image.tmdb.org/t/p/original/dGT485hwTEVeQYa1Cj1luZKjk4C.jpg",
+        "https://image.tmdb.org/t/p/original/lsxfxygPbT5kCM7fgFu7e1eM214.jpg",
+        "https://image.tmdb.org/t/p/original/o8W8thcjurUvD2rVhak2KqbWwOL.jpg",
+        "https://www.themoviedb.org/movie/47694/images/backdrops",
+        "https://image.tmdb.org/t/p/original/3lffczLphk8UMF4GydD2i6O1wri.jpg",
+        "https://image.tmdb.org/t/p/original/7NTyplHpKITKd6LGaMwvfouJK6h.jpg",
+        "https://image.tmdb.org/t/p/original/qzz8VqnKk41AWm28KWgd2ujlTo4.jpg",
+        "https://image.tmdb.org/t/p/original/sBtcMCdVMdE8kgytlJsLyABQjLk.jpg",
+        "https://www.themoviedb.org/movie/10387/images/backdrops",
+        "https://image.tmdb.org/t/p/original/AuFT4H6W90auDlD2dYSKSRM2D9T.jpg",
+        "https://image.tmdb.org/t/p/original/dHqeT5bqd70k2fab4HmVq8nRsDd.jpg",
+        "https://image.tmdb.org/t/p/original/kK1QI1XEqBGIgVN2EwsI22rTwsC.jpg",
+        "https://image.tmdb.org/t/p/original/rqwbQAdA9XG5nZTEhE2E8hUPsO5.jpg"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/096_ChenKaige_陈凯歌/assets/references/reference_sources.md",
+      "sha256": "2cb3975f883c1a54985a4431aebe74857b0b971eb2950cf1b05073642e985e25",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/92990/images/backdrops",
+        "https://image.tmdb.org/t/p/original/38zIq2YfTkNZ8BFCCsIPobxXkwV.jpg",
+        "https://image.tmdb.org/t/p/original/9a8rTHiVxVphC02qqz7lTpjvT4s.jpg",
+        "https://image.tmdb.org/t/p/original/hbltqIBcoMmOBdYAcCeJB2TDPI4.jpg",
+        "https://image.tmdb.org/t/p/original/tq4D8eICdEXdJtre2bHnjl9K1Yy.jpg",
+        "https://www.themoviedb.org/movie/10997/images/backdrops",
+        "https://image.tmdb.org/t/p/original/9iBkK8jEmSRyimc4A9dAM9zeVhu.jpg",
+        "https://image.tmdb.org/t/p/original/dGT485hwTEVeQYa1Cj1luZKjk4C.jpg",
+        "https://image.tmdb.org/t/p/original/lsxfxygPbT5kCM7fgFu7e1eM214.jpg",
+        "https://image.tmdb.org/t/p/original/o8W8thcjurUvD2rVhak2KqbWwOL.jpg",
+        "https://www.themoviedb.org/movie/47694/images/backdrops",
+        "https://image.tmdb.org/t/p/original/3lffczLphk8UMF4GydD2i6O1wri.jpg",
+        "https://image.tmdb.org/t/p/original/7NTyplHpKITKd6LGaMwvfouJK6h.jpg",
+        "https://image.tmdb.org/t/p/original/qzz8VqnKk41AWm28KWgd2ujlTo4.jpg",
+        "https://image.tmdb.org/t/p/original/sBtcMCdVMdE8kgytlJsLyABQjLk.jpg",
+        "https://www.themoviedb.org/movie/10387/images/backdrops",
+        "https://image.tmdb.org/t/p/original/AuFT4H6W90auDlD2dYSKSRM2D9T.jpg",
+        "https://image.tmdb.org/t/p/original/dHqeT5bqd70k2fab4HmVq8nRsDd.jpg",
+        "https://image.tmdb.org/t/p/original/kK1QI1XEqBGIgVN2EwsI22rTwsC.jpg",
+        "https://image.tmdb.org/t/p/original/rqwbQAdA9XG5nZTEhE2E8hUPsO5.jpg"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

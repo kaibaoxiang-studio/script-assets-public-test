@@ -1,0 +1,194 @@
+{
+  "schema_version": "1.0.0",
+  "id": "075",
+  "label": {
+    "name_zh": "拉斯·冯·提尔",
+    "name_en": "LarsvonTrier",
+    "category": "04_极简冷构与静观长镜",
+    "source_volume": "第1期_SKILL_冷调与大地_001-080"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "北欧冷绿",
+        "name_en": "Nordic Cold Green",
+        "hex": "#5A7A6A",
+        "source_ratio": 0.22,
+        "normalized_ratio": 0.22,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "苔绿灰",
+        "name_en": "Moss Green Gray",
+        "hex": "#7A8A7A",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "旧木棕",
+        "name_en": "Old Wood Brown",
+        "hex": "#8B7B6B",
+        "source_ratio": 0.16,
+        "normalized_ratio": 0.16,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "深冷绿",
+        "name_en": "Deep Cold Green",
+        "hex": "#3A5A4A",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "枯米灰",
+        "name_en": "Withered Beige Gray",
+        "hex": "#A09A8A",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "暗绿黑",
+        "name_en": "Dark Green Black",
+        "hex": "#2A4A3A",
+        "source_ratio": 0.16,
+        "normalized_ratio": 0.16,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "",
+        "name_en": "Emotional 1",
+        "hex": "#6A8A7A",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "苦难圣洁"
+      },
+      {
+        "code": "E02",
+        "name_zh": "",
+        "name_en": "Emotional 2",
+        "hex": "#4A6A5A",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "心理折磨"
+      },
+      {
+        "code": "E03",
+        "name_zh": "",
+        "name_en": "Emotional 3",
+        "hex": "#8A7A6A",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "人性复杂"
+      },
+      {
+        "code": "E04",
+        "name_zh": "",
+        "name_en": "Emotional 4",
+        "hex": "#1A3A2A",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "存在深渊"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "自然光为主",
+      "highlight_description": "手持跟拍",
+      "shadow_description": "室内弱光",
+      "contrast_description": "中高对比",
+      "overall_tone": "冷调"
+    },
+    "color_keywords": [
+      "北欧冷绿",
+      "Dogme95色",
+      "去装饰",
+      "手持颗粒",
+      "高饱和段落",
+      "黑白交替"
+    ],
+    "mood_keywords": [
+      "女性苦难",
+      "心理惊悚",
+      "存在主义",
+      "挑衅观众",
+      "宗教主题",
+      "实验精神"
+    ],
+    "composition_keywords": [
+      "手持摄影",
+      "Dogme美学",
+      "女性主角",
+      "心理空间",
+      "舞台感",
+      "章节结构"
+    ],
+    "style_profile": {
+      "definition": "拉斯·冯·提尔的视觉风格以自然光为主为主，北欧冷绿、Dogme95色、去装饰，营造出女性苦难的氛围。",
+      "lighting": "自然光为主，高光偏手持跟拍，阴影偏室内弱光，整体冷调。",
+      "composition": [],
+      "mood": [],
+      "framing": "手持摄影、Dogme美学、女性主角，强调视觉层次感。",
+      "grading": "对比度中高对比，色调冷调，色彩北欧冷绿、Dogme95色、去装饰。",
+      "avoid": "避免快速剪辑、避免强烈明暗对比、避免色彩杂乱"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "075",
+      "relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/075_LarsvonTrier_拉斯·冯·提尔/assets/color_palettes/palette.json",
+      "sha256": "517dfdb45b6e90c5d45785f5476c760f958a04e17fe362473a782349eb546862"
+    },
+    "source_entry_relative_dir": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/075_LarsvonTrier_拉斯·冯·提尔",
+    "source_records": [
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/075_LarsvonTrier_拉斯·冯·提尔/assets/references/reference_director_manifest.json",
+        "sha256": "d4d2a2ed4bc5c8b44b8857cc878dc0a190782e5f883a5820f9d12a983151bc90",
+        "declared_url_count": 20,
+        "externally_verified": false
+      },
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/075_LarsvonTrier_拉斯·冯·提尔/assets/references/reference_sources.md",
+        "sha256": "930f67d126c5ffb2cd983bd7d1882ffacdd091133aa58fbec50b8e0d618a81fb",
+        "declared_url_count": 20,
+        "externally_verified": false
+      }
+    ],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 0,
+      "source_only": 4
+    }
+  },
+  "film_reference_path": "film-references/075.json"
+}

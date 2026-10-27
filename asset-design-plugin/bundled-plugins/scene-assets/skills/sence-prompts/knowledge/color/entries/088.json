@@ -1,0 +1,194 @@
+{
+  "schema_version": "1.0.0",
+  "id": "088",
+  "label": {
+    "name_zh": "阿莫多瓦",
+    "name_en": "PedroAlmodovar",
+    "category": "05_巴洛克华丽与浓墨重彩",
+    "source_volume": "第2期_SKILL_浓彩与梦幻_081-140"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "阿莫多瓦红",
+        "name_en": "Almodóvar Red",
+        "hex": "#E30613",
+        "source_ratio": 0.22,
+        "normalized_ratio": 0.22,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "橙黄",
+        "name_en": "Orange Yellow",
+        "hex": "#FFB347",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "皇家蓝",
+        "name_en": "Royal Blue",
+        "hex": "#4169E1",
+        "source_ratio": 0.16,
+        "normalized_ratio": 0.16,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "酸橙绿",
+        "name_en": "Lime Green",
+        "hex": "#32CD32",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "热粉",
+        "name_en": "Hot Pink",
+        "hex": "#FF69B4",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "木棕",
+        "name_en": "Wood Brown",
+        "hex": "#8B4513",
+        "source_ratio": 0.16,
+        "normalized_ratio": 0.16,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "",
+        "name_en": "Emotional 1",
+        "hex": "#E30613",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "热情欲望"
+      },
+      {
+        "code": "E02",
+        "name_zh": "",
+        "name_en": "Emotional 2",
+        "hex": "#FFB347",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "温暖亲情"
+      },
+      {
+        "code": "E03",
+        "name_zh": "",
+        "name_en": "Emotional 3",
+        "hex": "#4169E1",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "忧郁秘密"
+      },
+      {
+        "code": "E04",
+        "name_zh": "",
+        "name_en": "Emotional 4",
+        "hex": "#FF69B4",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "女性力量"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "饱和色光",
+      "highlight_description": "室内暖光",
+      "shadow_description": "色彩分层",
+      "contrast_description": "高对比",
+      "overall_tone": "暖调"
+    },
+    "color_keywords": [
+      "阿莫多瓦红",
+      "高饱和室内",
+      "西班牙色彩",
+      "女性视角色",
+      "撞色美学",
+      "装饰艺术"
+    ],
+    "mood_keywords": [
+      "女性力量",
+      "家庭秘密",
+      "欲望与爱",
+      "身份认同",
+      "黑色幽默",
+      "生命热情"
+    ],
+    "composition_keywords": [
+      "女性群像",
+      "室内空间",
+      "色彩构图",
+      "家庭戏剧",
+      "身份认同",
+      "黑色幽默"
+    ],
+    "style_profile": {
+      "definition": "阿莫多瓦的视觉风格以饱和色光为主，阿莫多瓦红、高饱和室内、西班牙色彩，营造出女性力量的氛围。",
+      "lighting": "饱和色光，高光偏室内暖光，阴影偏色彩分层，整体暖调。",
+      "composition": [],
+      "mood": [],
+      "framing": "女性群像、室内空间、色彩构图，强调视觉层次感。",
+      "grading": "对比度高对比，色调暖调，色彩阿莫多瓦红、高饱和室内、西班牙色彩。",
+      "avoid": "避免平淡无奇、避免低饱和度、避免构图简单"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "088",
+      "relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/088_PedroAlmodovar_阿莫多瓦/assets/color_palettes/palette.json",
+      "sha256": "16b7cb81ccf27eaa264625db608e410d3d34ee07b2a6fbe4508fcce3a9dd5e84"
+    },
+    "source_entry_relative_dir": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/088_PedroAlmodovar_阿莫多瓦",
+    "source_records": [
+      {
+        "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/088_PedroAlmodovar_阿莫多瓦/assets/references/reference_director_manifest.json",
+        "sha256": "cb45436cdaa93480b6120e2248b08248c7023ee42a4cff01c6f1f62828108127",
+        "declared_url_count": 20,
+        "externally_verified": false
+      },
+      {
+        "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/088_PedroAlmodovar_阿莫多瓦/assets/references/reference_sources.md",
+        "sha256": "acc98ee9febb1902ea0dbed873d814003417683dd2d760078ffa544b1122bc6e",
+        "declared_url_count": 20,
+        "externally_verified": false
+      }
+    ],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 0,
+      "source_only": 4
+    }
+  },
+  "film_reference_path": "film-references/088.json"
+}

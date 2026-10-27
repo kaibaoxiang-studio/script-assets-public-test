@@ -1,0 +1,324 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "067",
+  "films": [
+    {
+      "title_zh": "天堂陰影",
+      "title_en": "Shadows in Paradise",
+      "year": 1986,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/3/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/l94l89eMmFKh7na2a1u5q67VgNx.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/xUFwrv1ch9n2VvbMxyF3yCpn0Vz.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/q895aGxJCPq81UTN0gyM1gWkfsa.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/jMmHFm0TcjiN9QDICXY2tJcQsDl.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/3/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/067_AkiKaurismaki_考里斯马基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/l94l89eMmFKh7na2a1u5q67VgNx.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/067_AkiKaurismaki_考里斯马基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/xUFwrv1ch9n2VvbMxyF3yCpn0Vz.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/067_AkiKaurismaki_考里斯马基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/q895aGxJCPq81UTN0gyM1gWkfsa.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/067_AkiKaurismaki_考里斯马基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/jMmHFm0TcjiN9QDICXY2tJcQsDl.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/067_AkiKaurismaki_考里斯马基/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "波希米亚生活",
+      "title_en": "The Bohemian Life",
+      "year": 1992,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/28212/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/F9yotopY4t5P9DBvY28iTIO6hl.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/rmobfiGBNp9sZVoWaXHbVWG4Cxb.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/jLvaGQI1alMYTlhbTrMg72XRSJ3.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/hOcayYVmUJB8Qd6DSzR8IYh9vQY.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/28212/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/067_AkiKaurismaki_考里斯马基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/F9yotopY4t5P9DBvY28iTIO6hl.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/067_AkiKaurismaki_考里斯马基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/rmobfiGBNp9sZVoWaXHbVWG4Cxb.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/067_AkiKaurismaki_考里斯马基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/jLvaGQI1alMYTlhbTrMg72XRSJ3.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/067_AkiKaurismaki_考里斯马基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/hOcayYVmUJB8Qd6DSzR8IYh9vQY.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/067_AkiKaurismaki_考里斯马基/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "薄暮之光",
+      "title_en": "Lights in the Dusk",
+      "year": 2006,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/1379/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/7sDOQT5EgZ08xmyInwAYaFYoCto.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/6xB518f4K1uxOIPCENvVuiFj7CX.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/z8rWQuTHphOJS97pgRBHjigWQHl.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/1jVQIogSsgz2qeM2RzQoH3WfRd.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/1379/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/067_AkiKaurismaki_考里斯马基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/7sDOQT5EgZ08xmyInwAYaFYoCto.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/067_AkiKaurismaki_考里斯马基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/6xB518f4K1uxOIPCENvVuiFj7CX.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/067_AkiKaurismaki_考里斯马基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/z8rWQuTHphOJS97pgRBHjigWQHl.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/067_AkiKaurismaki_考里斯马基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/1jVQIogSsgz2qeM2RzQoH3WfRd.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/067_AkiKaurismaki_考里斯马基/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "枯葉",
+      "title_en": "Fallen Leaves",
+      "year": 2023,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/986280/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/cru4rjGcdHGhnPyjNXvW82jOrif.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/dBJITSBYABzpWfKIGYRfaJgsTWJ.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/75htFXzkck888ExE1h625U9nOxG.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/oQMcTqUkz1LIQceyjyiA4UO9UgM.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/986280/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/067_AkiKaurismaki_考里斯马基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/cru4rjGcdHGhnPyjNXvW82jOrif.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/067_AkiKaurismaki_考里斯马基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/dBJITSBYABzpWfKIGYRfaJgsTWJ.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/067_AkiKaurismaki_考里斯马基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/75htFXzkck888ExE1h625U9nOxG.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/067_AkiKaurismaki_考里斯马基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/oQMcTqUkz1LIQceyjyiA4UO9UgM.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/067_AkiKaurismaki_考里斯马基/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/067_AkiKaurismaki_考里斯马基/assets/references/reference_director_manifest.json",
+      "sha256": "ad591e6801b013b93e4217a4fed66b0314735a02dff83ca484e20dc51df612c2",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/3/images/backdrops",
+        "https://image.tmdb.org/t/p/original/l94l89eMmFKh7na2a1u5q67VgNx.jpg",
+        "https://image.tmdb.org/t/p/original/xUFwrv1ch9n2VvbMxyF3yCpn0Vz.jpg",
+        "https://image.tmdb.org/t/p/original/q895aGxJCPq81UTN0gyM1gWkfsa.jpg",
+        "https://image.tmdb.org/t/p/original/jMmHFm0TcjiN9QDICXY2tJcQsDl.jpg",
+        "https://www.themoviedb.org/movie/28212/images/backdrops",
+        "https://image.tmdb.org/t/p/original/F9yotopY4t5P9DBvY28iTIO6hl.jpg",
+        "https://image.tmdb.org/t/p/original/rmobfiGBNp9sZVoWaXHbVWG4Cxb.jpg",
+        "https://image.tmdb.org/t/p/original/jLvaGQI1alMYTlhbTrMg72XRSJ3.jpg",
+        "https://image.tmdb.org/t/p/original/hOcayYVmUJB8Qd6DSzR8IYh9vQY.jpg",
+        "https://www.themoviedb.org/movie/1379/images/backdrops",
+        "https://image.tmdb.org/t/p/original/7sDOQT5EgZ08xmyInwAYaFYoCto.jpg",
+        "https://image.tmdb.org/t/p/original/6xB518f4K1uxOIPCENvVuiFj7CX.jpg",
+        "https://image.tmdb.org/t/p/original/z8rWQuTHphOJS97pgRBHjigWQHl.jpg",
+        "https://image.tmdb.org/t/p/original/1jVQIogSsgz2qeM2RzQoH3WfRd.jpg",
+        "https://www.themoviedb.org/movie/986280/images/backdrops",
+        "https://image.tmdb.org/t/p/original/cru4rjGcdHGhnPyjNXvW82jOrif.jpg",
+        "https://image.tmdb.org/t/p/original/dBJITSBYABzpWfKIGYRfaJgsTWJ.jpg",
+        "https://image.tmdb.org/t/p/original/75htFXzkck888ExE1h625U9nOxG.jpg",
+        "https://image.tmdb.org/t/p/original/oQMcTqUkz1LIQceyjyiA4UO9UgM.jpg"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/067_AkiKaurismaki_考里斯马基/assets/references/reference_sources.md",
+      "sha256": "aaf00ca66efef823e9bdffca3b69662f9cd8913e7f3a98d2bdefb03f5384d042",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/3/images/backdrops",
+        "https://image.tmdb.org/t/p/original/l94l89eMmFKh7na2a1u5q67VgNx.jpg",
+        "https://image.tmdb.org/t/p/original/xUFwrv1ch9n2VvbMxyF3yCpn0Vz.jpg",
+        "https://image.tmdb.org/t/p/original/q895aGxJCPq81UTN0gyM1gWkfsa.jpg",
+        "https://image.tmdb.org/t/p/original/jMmHFm0TcjiN9QDICXY2tJcQsDl.jpg",
+        "https://www.themoviedb.org/movie/28212/images/backdrops",
+        "https://image.tmdb.org/t/p/original/F9yotopY4t5P9DBvY28iTIO6hl.jpg",
+        "https://image.tmdb.org/t/p/original/rmobfiGBNp9sZVoWaXHbVWG4Cxb.jpg",
+        "https://image.tmdb.org/t/p/original/jLvaGQI1alMYTlhbTrMg72XRSJ3.jpg",
+        "https://image.tmdb.org/t/p/original/hOcayYVmUJB8Qd6DSzR8IYh9vQY.jpg",
+        "https://www.themoviedb.org/movie/1379/images/backdrops",
+        "https://image.tmdb.org/t/p/original/7sDOQT5EgZ08xmyInwAYaFYoCto.jpg",
+        "https://image.tmdb.org/t/p/original/6xB518f4K1uxOIPCENvVuiFj7CX.jpg",
+        "https://image.tmdb.org/t/p/original/z8rWQuTHphOJS97pgRBHjigWQHl.jpg",
+        "https://image.tmdb.org/t/p/original/1jVQIogSsgz2qeM2RzQoH3WfRd.jpg",
+        "https://www.themoviedb.org/movie/986280/images/backdrops",
+        "https://image.tmdb.org/t/p/original/cru4rjGcdHGhnPyjNXvW82jOrif.jpg",
+        "https://image.tmdb.org/t/p/original/dBJITSBYABzpWfKIGYRfaJgsTWJ.jpg",
+        "https://image.tmdb.org/t/p/original/75htFXzkck888ExE1h625U9nOxG.jpg",
+        "https://image.tmdb.org/t/p/original/oQMcTqUkz1LIQceyjyiA4UO9UgM.jpg"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

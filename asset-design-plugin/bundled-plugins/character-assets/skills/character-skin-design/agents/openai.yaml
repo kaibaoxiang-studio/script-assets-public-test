@@ -1,0 +1,6 @@
+interface:
+  display_name: 皮肤肌理设计
+  short_description: 皮肤肌理设计：年龄、环境与真实表面
+  default_prompt: Use $character-skin-design to complete the requested task.
+policy:
+  allow_implicit_invocation: false

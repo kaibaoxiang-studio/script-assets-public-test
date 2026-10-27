@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0.0",
+  "id": "002",
+  "label": {
+    "name_zh": "大卫·芬奇",
+    "name_en": "David Fincher",
+    "category": "01_黑色悬疑与冷调惊悚",
+    "source_volume": "第1期_SKILL_冷调与大地_001-080"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "沼泽暗绿",
+        "name_en": "Swamp Dark Green",
+        "hex": "#1A2E2A",
+        "source_ratio": 0.38,
+        "normalized_ratio": 0.38,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "病灰绿",
+        "name_en": "Sickly Gray Green",
+        "hex": "#3D4F4F",
+        "source_ratio": 0.2,
+        "normalized_ratio": 0.2,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "腐黄琥珀",
+        "name_en": "Decay Yellow Amber",
+        "hex": "#A89C3E",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "冷钢灰蓝",
+        "name_en": "Cold Steel Gray Blue",
+        "hex": "#6B7B8A",
+        "source_ratio": 0.1,
+        "normalized_ratio": 0.1,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "暗血暗红",
+        "name_en": "Dark Blood Red",
+        "hex": "#8B1A1A",
+        "source_ratio": 0.09,
+        "normalized_ratio": 0.09,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "脏米肤",
+        "name_en": "Dirty Beige Skin",
+        "hex": "#C9C0A5",
+        "source_ratio": 0.08,
+        "normalized_ratio": 0.08,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "病态绿",
+        "name_en": "Morbid Green",
+        "hex": "#4A6B5C",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "扭曲、强迫症、精神异化"
+      },
+      {
+        "code": "E02",
+        "name_zh": "腐朽黄",
+        "name_en": "Rotten Yellow",
+        "hex": "#D4C64A",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "堕落、腐败、道德崩溃"
+      },
+      {
+        "code": "E03",
+        "name_zh": "深渊蓝灰",
+        "name_en": "Abyss Blue Gray",
+        "hex": "#2C3E50",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "孤立、疏离、存在虚无"
+      },
+      {
+        "code": "E04",
+        "name_zh": "凝结血",
+        "name_en": "Coagulated Blood",
+        "hex": "#7B241C",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "暴力后果、死亡的重量"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "侧逆光，冷调为主，暖黄点缀",
+      "highlight_description": "病态黄绿色（荧光灯/街灯）",
+      "shadow_description": "深绿偏黑（雨夜/阴影）",
+      "contrast_description": "中高对比（65-80%），阴影细节保留",
+      "overall_tone": "冷调脏绿，75%冷色 + 25%暖黄点缀"
+    },
+    "color_keywords": [
+      "暗绿黄色调",
+      "脏冷质感",
+      "低调照明",
+      "荧光灯绿色",
+      "钨丝灯黄",
+      "雨湿反光",
+      "阴影浓重",
+      "肤色偏黄病态",
+      "青黑色阴影",
+      "去饱和处理"
+    ],
+    "mood_keywords": [
+      "心理悬疑",
+      "病态扭曲",
+      "存在主义焦虑",
+      "都市异化",
+      "强迫症美学",
+      "黑暗反讽",
+      "男性危机",
+      "身份迷失",
+      "暴力的日常化",
+      "精密的混乱"
+    ],
+    "composition_keywords": [
+      "精确对称构图",
+      "低角度仰拍",
+      "固定镜头",
+      "缓慢推轨",
+      "暗角构图",
+      "百叶窗阴影",
+      "镜面反射",
+      "玻璃取景",
+      "手持跟拍",
+      "长镜头"
+    ],
+    "style_profile": {
+      "definition": "黄绿阴影、冷灰建筑和压抑钨光构成精密的犯罪病理。",
+      "lighting": "低照度实景灯、顶光、雨反射；肤色保持可读，不让环境偏色吞没面部层次。",
+      "framing": "精确构图、稳定跟随、信息特写；先交代颜色承载的空间，再进入人物与关键物件。",
+      "grading": "压低饱和，阴影黄绿，高光不过曝；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+      "avoid": "全黑看不清、过度青橙、随机手持、无动机环绕和随机变焦、用统一滤镜替代色彩比例、光源和材质。"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "002",
+      "relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/002_DavidFincher_大卫·芬奇/assets/color_palettes/palette.json",
+      "sha256": "25f371f20ffe894497962dc2e4190d5614d690bb4a2d4a9aa1634ede0cbd1b1a"
+    },
+    "source_entry_relative_dir": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/002_DavidFincher_大卫·芬奇",
+    "source_records": [
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/002_DavidFincher_大卫·芬奇/assets/references/reference_director_manifest.json",
+        "sha256": "03d921edf9a167ddcd36f43285c2be07d875e01bcb0bd463fdf1b68d8ac9d4cd",
+        "declared_url_count": 20,
+        "externally_verified": false
+      },
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/002_DavidFincher_大卫·芬奇/assets/references/reference_sources.md",
+        "sha256": "e9fb4aecf30015a05fb6acbd7652a5cb7fe6c628c5f1575418b9d2a165924801",
+        "declared_url_count": 20,
+        "externally_verified": false
+      }
+    ],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 4,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": "film-references/002.json"
+}

@@ -1,0 +1,6 @@
+interface:
+  display_name: 角色资产主控
+  short_description: 角色资产主控：从剧本依据到可复用角色资产包
+  default_prompt: Use $character-assets to complete the requested task.
+policy:
+  allow_implicit_invocation: false

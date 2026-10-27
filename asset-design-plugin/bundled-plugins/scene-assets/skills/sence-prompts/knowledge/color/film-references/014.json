@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "014",
+  "films": [
+    {
+      "title_zh": "利益区域",
+      "title_en": "The Zone of Interest",
+      "year": 2023,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#495C3F",
+          "source_ratio": 15.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.152,
+          "source_luminance": 0.0943,
+          "source_saturation": 0.3152
+        },
+        {
+          "hex": "#3D4A53",
+          "source_ratio": 14.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.147,
+          "source_luminance": 0.0651,
+          "source_saturation": 0.2651
+        },
+        {
+          "hex": "#2E221C",
+          "source_ratio": 12.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.122,
+          "source_luminance": 0.0181,
+          "source_saturation": 0.3913
+        },
+        {
+          "hex": "#2D3F2B",
+          "source_ratio": 12,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12,
+          "source_luminance": 0.0429,
+          "source_saturation": 0.3175
+        },
+        {
+          "hex": "#C5D1DD",
+          "source_ratio": 12,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12,
+          "source_luminance": 0.6269,
+          "source_saturation": 0.1086
+        },
+        {
+          "hex": "#495B65",
+          "source_ratio": 11.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11599999999999999,
+          "source_luminance": 0.0984,
+          "source_saturation": 0.2772
+        },
+        {
+          "hex": "#7E95A6",
+          "source_ratio": 11.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.113,
+          "source_luminance": 0.2868,
+          "source_saturation": 0.241
+        },
+        {
+          "hex": "#34383A",
+          "source_ratio": 11,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11,
+          "source_luminance": 0.0386,
+          "source_saturation": 0.1034
+        }
+      ],
+      "source_ratio_sum": 99.99999999999999,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/467244/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/014_JonathanGlazer_乔纳森·格雷泽/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/pnTSOKcYnvdpQNQElAtJM1rWOxH.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/014_JonathanGlazer_乔纳森·格雷泽/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/xB9PgEYv6YT3LgtG4waznOAxwYy.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/014_JonathanGlazer_乔纳森·格雷泽/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/rNT5QJu0Bg09urqMGdTVA1DxgPe.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/014_JonathanGlazer_乔纳森·格雷泽/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/6Dy6xcjtBkECj88ZcwMsXgDJ6DI.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/014_JonathanGlazer_乔纳森·格雷泽/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "皮囊之下",
+      "title_en": "Under the Skin",
+      "year": 2013,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#000000",
+          "source_ratio": 46.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.469,
+          "source_luminance": 0,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#CACBCF",
+          "source_ratio": 8.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.084,
+          "source_luminance": 0.5977,
+          "source_saturation": 0.0242
+        },
+        {
+          "hex": "#957E85",
+          "source_ratio": 8.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.084,
+          "source_luminance": 0.23,
+          "source_saturation": 0.1544
+        },
+        {
+          "hex": "#524B4A",
+          "source_ratio": 8.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.083,
+          "source_luminance": 0.0732,
+          "source_saturation": 0.0976
+        },
+        {
+          "hex": "#696A6F",
+          "source_ratio": 8.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.08199999999999999,
+          "source_luminance": 0.1446,
+          "source_saturation": 0.0541
+        },
+        {
+          "hex": "#2D1D15",
+          "source_ratio": 7.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.077,
+          "source_luminance": 0.0149,
+          "source_saturation": 0.5333
+        },
+        {
+          "hex": "#3F3729",
+          "source_ratio": 6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.06,
+          "source_luminance": 0.0395,
+          "source_saturation": 0.3492
+        },
+        {
+          "hex": "#AC9FAB",
+          "source_ratio": 6.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.061,
+          "source_luminance": 0.3651,
+          "source_saturation": 0.0756
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/97370/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/014_JonathanGlazer_乔纳森·格雷泽/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/eS5OdKN3kRZXQbWRSSCJ4Gh0z26.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/014_JonathanGlazer_乔纳森·格雷泽/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/rMFrF8TL9vrEV61teIokDsVX7HS.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/014_JonathanGlazer_乔纳森·格雷泽/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/6Xs8jbTYwYE0AHTbBWMzc0jyOei.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/014_JonathanGlazer_乔纳森·格雷泽/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/vyPUb3rykFqD42RhnAru4t9R2Bv.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/014_JonathanGlazer_乔纳森·格雷泽/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "性感野兽",
+      "title_en": "Sexy Beast",
+      "year": 2000,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#C9C9CA",
+          "source_ratio": 17.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.175,
+          "source_luminance": 0.5846,
+          "source_saturation": 0.005
+        },
+        {
+          "hex": "#EAE9E9",
+          "source_ratio": 13.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.131,
+          "source_luminance": 0.8165,
+          "source_saturation": 0.0043
+        },
+        {
+          "hex": "#84707A",
+          "source_ratio": 13,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.13,
+          "source_luminance": 0.179,
+          "source_saturation": 0.1515
+        },
+        {
+          "hex": "#697488",
+          "source_ratio": 12,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12,
+          "source_luminance": 0.1727,
+          "source_saturation": 0.2279
+        },
+        {
+          "hex": "#B46D65",
+          "source_ratio": 12,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12,
+          "source_luminance": 0.2158,
+          "source_saturation": 0.4389
+        },
+        {
+          "hex": "#503434",
+          "source_ratio": 11.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.113,
+          "source_luminance": 0.0441,
+          "source_saturation": 0.35
+        },
+        {
+          "hex": "#5CAAC4",
+          "source_ratio": 10.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10800000000000001,
+          "source_luminance": 0.3501,
+          "source_saturation": 0.5306
+        },
+        {
+          "hex": "#332021",
+          "source_ratio": 10.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10300000000000001,
+          "source_luminance": 0.0185,
+          "source_saturation": 0.3725
+        }
+      ],
+      "source_ratio_sum": 99.99999999999999,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/11826/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/014_JonathanGlazer_乔纳森·格雷泽/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/yYUGy4MDM6jbJoamlfo3HT6Guhy.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/014_JonathanGlazer_乔纳森·格雷泽/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/h6g3bziXf9D9ieZlik0bwB56sjk.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/014_JonathanGlazer_乔纳森·格雷泽/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/6p9bQXEmDjz96dVHZ5iuhf5GYLD.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/014_JonathanGlazer_乔纳森·格雷泽/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/f4OHHgC83rwNYBpPbA3oov5PkpZ.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/014_JonathanGlazer_乔纳森·格雷泽/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "重生",
+      "title_en": "Birth",
+      "year": 2004,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#000000",
+          "source_ratio": 17.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.17800000000000002,
+          "source_luminance": 0,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#8E775C",
+          "source_ratio": 17.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.172,
+          "source_luminance": 0.1972,
+          "source_saturation": 0.3521
+        },
+        {
+          "hex": "#CDD2E4",
+          "source_ratio": 14.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.142,
+          "source_luminance": 0.6467,
+          "source_saturation": 0.1009
+        },
+        {
+          "hex": "#B29E83",
+          "source_ratio": 11,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11,
+          "source_luminance": 0.3556,
+          "source_saturation": 0.264
+        },
+        {
+          "hex": "#2D1C15",
+          "source_ratio": 10.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.105,
+          "source_luminance": 0.0144,
+          "source_saturation": 0.5333
+        },
+        {
+          "hex": "#7C5638",
+          "source_ratio": 10.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.102,
+          "source_luminance": 0.1123,
+          "source_saturation": 0.5484
+        },
+        {
+          "hex": "#1E1511",
+          "source_ratio": 9.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.09699999999999999,
+          "source_luminance": 0.0085,
+          "source_saturation": 0.4333
+        },
+        {
+          "hex": "#A28D68",
+          "source_ratio": 9.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.094,
+          "source_luminance": 0.2773,
+          "source_saturation": 0.358
+        }
+      ],
+      "source_ratio_sum": 100.00000000000001,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/10740/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/014_JonathanGlazer_乔纳森·格雷泽/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/ueXO7FqIECtcPbpPSw87hiFlrSA.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/014_JonathanGlazer_乔纳森·格雷泽/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/mcokCUHXBIyvVwAnnyn6RIkY2Ef.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/014_JonathanGlazer_乔纳森·格雷泽/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/8iqEoJ71BqKfsRXN1EY9jywemL3.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/014_JonathanGlazer_乔纳森·格雷泽/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/xsbFBAflSMfluETG3HRD66sRQwG.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/014_JonathanGlazer_乔纳森·格雷泽/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/014_JonathanGlazer_乔纳森·格雷泽/assets/references/reference_director_manifest.json",
+      "sha256": "e297a2f841d04d524603a8e88c91684fe4649fcfb8ed73ae6ffca4c8110f7834",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/467244/images/backdrops",
+        "https://image.tmdb.org/t/p/original/pnTSOKcYnvdpQNQElAtJM1rWOxH.jpg",
+        "https://image.tmdb.org/t/p/original/xB9PgEYv6YT3LgtG4waznOAxwYy.jpg",
+        "https://image.tmdb.org/t/p/original/rNT5QJu0Bg09urqMGdTVA1DxgPe.jpg",
+        "https://image.tmdb.org/t/p/original/6Dy6xcjtBkECj88ZcwMsXgDJ6DI.jpg",
+        "https://www.themoviedb.org/movie/97370/images/backdrops",
+        "https://image.tmdb.org/t/p/original/eS5OdKN3kRZXQbWRSSCJ4Gh0z26.jpg",
+        "https://image.tmdb.org/t/p/original/rMFrF8TL9vrEV61teIokDsVX7HS.jpg",
+        "https://image.tmdb.org/t/p/original/6Xs8jbTYwYE0AHTbBWMzc0jyOei.jpg",
+        "https://image.tmdb.org/t/p/original/vyPUb3rykFqD42RhnAru4t9R2Bv.jpg",
+        "https://www.themoviedb.org/movie/11826/images/backdrops",
+        "https://image.tmdb.org/t/p/original/yYUGy4MDM6jbJoamlfo3HT6Guhy.jpg",
+        "https://image.tmdb.org/t/p/original/h6g3bziXf9D9ieZlik0bwB56sjk.jpg",
+        "https://image.tmdb.org/t/p/original/6p9bQXEmDjz96dVHZ5iuhf5GYLD.jpg",
+        "https://image.tmdb.org/t/p/original/f4OHHgC83rwNYBpPbA3oov5PkpZ.jpg",
+        "https://www.themoviedb.org/movie/10740/images/backdrops",
+        "https://image.tmdb.org/t/p/original/ueXO7FqIECtcPbpPSw87hiFlrSA.jpg",
+        "https://image.tmdb.org/t/p/original/mcokCUHXBIyvVwAnnyn6RIkY2Ef.jpg",
+        "https://image.tmdb.org/t/p/original/8iqEoJ71BqKfsRXN1EY9jywemL3.jpg",
+        "https://image.tmdb.org/t/p/original/xsbFBAflSMfluETG3HRD66sRQwG.jpg"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/014_JonathanGlazer_乔纳森·格雷泽/assets/references/reference_sources.md",
+      "sha256": "c76ab6b6c7f0a2ed66472a2a684e1eb15d30de7f15b56837bd47208bc877c1da",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/467244/images/backdrops",
+        "https://image.tmdb.org/t/p/original/pnTSOKcYnvdpQNQElAtJM1rWOxH.jpg",
+        "https://image.tmdb.org/t/p/original/xB9PgEYv6YT3LgtG4waznOAxwYy.jpg",
+        "https://image.tmdb.org/t/p/original/rNT5QJu0Bg09urqMGdTVA1DxgPe.jpg",
+        "https://image.tmdb.org/t/p/original/6Dy6xcjtBkECj88ZcwMsXgDJ6DI.jpg",
+        "https://www.themoviedb.org/movie/97370/images/backdrops",
+        "https://image.tmdb.org/t/p/original/eS5OdKN3kRZXQbWRSSCJ4Gh0z26.jpg",
+        "https://image.tmdb.org/t/p/original/rMFrF8TL9vrEV61teIokDsVX7HS.jpg",
+        "https://image.tmdb.org/t/p/original/6Xs8jbTYwYE0AHTbBWMzc0jyOei.jpg",
+        "https://image.tmdb.org/t/p/original/vyPUb3rykFqD42RhnAru4t9R2Bv.jpg",
+        "https://www.themoviedb.org/movie/11826/images/backdrops",
+        "https://image.tmdb.org/t/p/original/yYUGy4MDM6jbJoamlfo3HT6Guhy.jpg",
+        "https://image.tmdb.org/t/p/original/h6g3bziXf9D9ieZlik0bwB56sjk.jpg",
+        "https://image.tmdb.org/t/p/original/6p9bQXEmDjz96dVHZ5iuhf5GYLD.jpg",
+        "https://image.tmdb.org/t/p/original/f4OHHgC83rwNYBpPbA3oov5PkpZ.jpg",
+        "https://www.themoviedb.org/movie/10740/images/backdrops",
+        "https://image.tmdb.org/t/p/original/ueXO7FqIECtcPbpPSw87hiFlrSA.jpg",
+        "https://image.tmdb.org/t/p/original/mcokCUHXBIyvVwAnnyn6RIkY2Ef.jpg",
+        "https://image.tmdb.org/t/p/original/8iqEoJ71BqKfsRXN1EY9jywemL3.jpg",
+        "https://image.tmdb.org/t/p/original/xsbFBAflSMfluETG3HRD66sRQwG.jpg"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

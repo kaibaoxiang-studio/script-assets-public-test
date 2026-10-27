@@ -1,0 +1,4 @@
+interface:
+  display_name: "道具概念设计"
+  short_description: "从剧本或道具清单交付完整三视图提示词表，支持设计与图片回流"
+  default_prompt: "使用 $prop-concept-design，根据我提供的剧本或道具资产表制作完整道具 Prompt 表。"

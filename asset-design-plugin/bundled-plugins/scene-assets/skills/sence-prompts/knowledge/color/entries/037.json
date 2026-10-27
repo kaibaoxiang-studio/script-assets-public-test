@@ -1,0 +1,191 @@
+{
+  "schema_version": "1.0.0",
+  "id": "037",
+  "label": {
+    "name_zh": "尼尔·布洛姆坎普",
+    "name_en": "Neill Blomkamp",
+    "category": "02_霓虹黑色与赛博未来",
+    "source_volume": "第1期_SKILL_冷调与大地_001-080"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "铁锈棕",
+        "name_en": "Rust Brown",
+        "hex": "#6B4A32",
+        "source_ratio": 0.28,
+        "normalized_ratio": 0.28,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "脏橙贫民",
+        "name_en": "Dirty Slum Orange",
+        "hex": "#C4722E",
+        "source_ratio": 0.22,
+        "normalized_ratio": 0.22,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "外星油绿灰",
+        "name_en": "Alien Grease Green-Gray",
+        "hex": "#5A6B55",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "混凝土灰",
+        "name_en": "Concrete Dust Gray",
+        "hex": "#8A8078",
+        "source_ratio": 0.13,
+        "normalized_ratio": 0.13,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "沙尘米黄",
+        "name_en": "Sand Dust Beige",
+        "hex": "#C2A06A",
+        "source_ratio": 0.12,
+        "normalized_ratio": 0.12,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "军警蓝灰",
+        "name_en": "Military Police Blue-Gray",
+        "hex": "#2A3A48",
+        "source_ratio": 0.1,
+        "normalized_ratio": 0.1,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "暴力警红",
+        "name_en": "Violence Police Red",
+        "hex": "#C83020",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "暴力、警灯、血腥、枪战、军事压迫"
+      },
+      {
+        "code": "E02",
+        "name_zh": "霓虹警蓝",
+        "name_en": "Neon Police Blue",
+        "hex": "#3A6A9A",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "警灯蓝、外星科技、未来警用、电子冷光"
+      },
+      {
+        "code": "E03",
+        "name_zh": "爆炸火橙",
+        "name_en": "Explosion Fire Orange",
+        "hex": "#D89030",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "爆炸、枪口焰、火焰、武器发射、破坏"
+      },
+      {
+        "code": "E04",
+        "name_zh": "外星银",
+        "name_en": "Alien Tech Silver",
+        "hex": "#708888",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "外星武器、虾人科技、生物技术、异质文明"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "自然硬光（非洲烈日）+手持纪实光，夜间警灯红蓝闪烁",
+      "highlight_description": "脏橙/暖黄（非洲阳光、火光、爆炸）",
+      "shadow_description": "铁锈棕绿偏灰（铁皮阴影、油污暗部、建筑阴影）",
+      "contrast_description": "高对比（70-85%），烈日下硬阴影，夜间强明暗",
+      "overall_tone": "脏调纪实科幻，70%暖橙棕铁锈 + 30%冷蓝绿外星/军警"
+    },
+    "color_keywords": [
+      "脏橙铁锈",
+      "尘土米黄",
+      "外星流体绿",
+      "军警蓝灰",
+      "警灯红蓝",
+      "爆炸火橙",
+      "硬光烈日",
+      "油污质感",
+      "垃圾美学",
+      "外星银金属"
+    ],
+    "mood_keywords": [
+      "社会寓言",
+      "种族隔离隐喻",
+      "贫富悬殊",
+      "纪实科幻",
+      "暴力真实",
+      "人性灰度",
+      "企业邪恶",
+      "草根反抗",
+      "外星难民",
+      "非洲粗粝"
+    ],
+    "composition_keywords": [
+      "手持纪实晃动",
+      "伪纪录片采访",
+      "监控新闻画面",
+      "低角度仰拍机甲",
+      "尘土飞扬纵深",
+      "贫富对比构图",
+      "特写血迹/伤口",
+      "跟拍奔跑",
+      "新闻字幕叠加",
+      "军事POV"
+    ],
+    "style_profile": {
+      "definition": "尼尔·布洛姆坎普的视觉风格以自然硬光（非洲烈日）+手持纪实光，夜间警灯红蓝闪烁为主，脏橙铁锈、尘土米黄，营造出社会寓言的氛围。",
+      "lighting": "自然硬光（非洲烈日）+手持纪实光，夜间警灯红蓝闪烁，高光偏脏橙/暖黄（非洲阳光、火光、爆炸），阴影偏铁锈棕绿偏灰（铁皮阴影、油污暗部、建筑阴影），整体脏调纪实科幻，70%暖橙棕铁锈 + 30%冷蓝绿外星/军警。",
+      "framing": "手持纪实晃动、伪纪录片采访、监控新闻画面。",
+      "grading": "对比度高对比（70-85%），烈日下硬阴影，夜间强明暗，色调脏调纪实科幻，70%暖橙棕铁锈 + 30%冷蓝绿外星/军警。",
+      "avoid": "避免平光照明、避免色彩杂乱、避免构图失衡。"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "037",
+      "relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/037_NeillBlomkamp_尼尔·布洛姆坎普/assets/color_palettes/palette.json",
+      "sha256": "40fd8c6528c80ede3c0b24ac2f8cc6a6baf98bc94c7ee21cdbf57a8417fb103e"
+    },
+    "source_entry_relative_dir": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/037_NeillBlomkamp_尼尔·布洛姆坎普",
+    "source_records": [],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 0,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": null
+}

@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "041",
+  "films": [
+    {
+      "title_zh": "隐秘的生活",
+      "title_en": "A Hidden Life",
+      "year": 2019,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#20201F",
+          "source_ratio": 17,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.17,
+          "source_luminance": 0.0144,
+          "source_saturation": 0.0312
+        },
+        {
+          "hex": "#697268",
+          "source_ratio": 12.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.128,
+          "source_luminance": 0.1604,
+          "source_saturation": 0.0877
+        },
+        {
+          "hex": "#3C3B39",
+          "source_ratio": 12.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.127,
+          "source_luminance": 0.0438,
+          "source_saturation": 0.05
+        },
+        {
+          "hex": "#BDBDC1",
+          "source_ratio": 12.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.125,
+          "source_luminance": 0.5106,
+          "source_saturation": 0.0207
+        },
+        {
+          "hex": "#959996",
+          "source_ratio": 11.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11800000000000001,
+          "source_luminance": 0.3137,
+          "source_saturation": 0.0261
+        },
+        {
+          "hex": "#80817F",
+          "source_ratio": 11.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.114,
+          "source_luminance": 0.2182,
+          "source_saturation": 0.0155
+        },
+        {
+          "hex": "#A8AEAC",
+          "source_ratio": 11,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11,
+          "source_luminance": 0.4158,
+          "source_saturation": 0.0345
+        },
+        {
+          "hex": "#505651",
+          "source_ratio": 10.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10800000000000001,
+          "source_luminance": 0.0896,
+          "source_saturation": 0.0698
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2020/09/07/a-hidden-life/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/041_TerrenceMalick_泰伦斯·马力克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/A_Hidden_Life_001.jpg?bwg=1598512351",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/041_TerrenceMalick_泰伦斯·马力克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/A_Hidden_Life_022.jpg?bwg=1598512350",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/041_TerrenceMalick_泰伦斯·马力克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/A_Hidden_Life_044.jpg?bwg=1598512350",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/041_TerrenceMalick_泰伦斯·马力克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/A_Hidden_Life_065.jpg?bwg=1598512350",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/041_TerrenceMalick_泰伦斯·马力克/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "天堂之日",
+      "title_en": "Days Of Heaven",
+      "year": 1978,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#69645F",
+          "source_ratio": 15.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.158,
+          "source_luminance": 0.1294,
+          "source_saturation": 0.0952
+        },
+        {
+          "hex": "#C6BFC9",
+          "source_ratio": 14.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.145,
+          "source_luminance": 0.5348,
+          "source_saturation": 0.0498
+        },
+        {
+          "hex": "#674433",
+          "source_ratio": 13.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.139,
+          "source_luminance": 0.0726,
+          "source_saturation": 0.5049
+        },
+        {
+          "hex": "#644E41",
+          "source_ratio": 12.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.121,
+          "source_luminance": 0.0854,
+          "source_saturation": 0.35
+        },
+        {
+          "hex": "#49372C",
+          "source_ratio": 11.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11599999999999999,
+          "source_luminance": 0.0433,
+          "source_saturation": 0.3973
+        },
+        {
+          "hex": "#281810",
+          "source_ratio": 10.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.109,
+          "source_luminance": 0.0114,
+          "source_saturation": 0.6
+        },
+        {
+          "hex": "#040303",
+          "source_ratio": 10.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.107,
+          "source_luminance": 0.001,
+          "source_saturation": 0.25
+        },
+        {
+          "hex": "#4E2F21",
+          "source_ratio": 10.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.105,
+          "source_luminance": 0.0376,
+          "source_saturation": 0.5769
+        }
+      ],
+      "source_ratio_sum": 100.00000000000001,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2010/07/21/days-of-heaven/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/041_TerrenceMalick_泰伦斯·马力克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (295).jpg?bwg=1547209754",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/041_TerrenceMalick_泰伦斯·马力克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/21 (300).jpg?bwg=1547209754",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/041_TerrenceMalick_泰伦斯·马力克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/42 (296).jpg?bwg=1547209754",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/041_TerrenceMalick_泰伦斯·马力克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/62 (240).jpg?bwg=1547209754",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/041_TerrenceMalick_泰伦斯·马力克/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "生命之树",
+      "title_en": "The Tree Of Life",
+      "year": 2011,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#000000",
+          "source_ratio": 59.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.593,
+          "source_luminance": 0,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#8C7259",
+          "source_ratio": 8.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.086,
+          "source_luminance": 0.1833,
+          "source_saturation": 0.3643
+        },
+        {
+          "hex": "#4C3C2E",
+          "source_ratio": 6.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.061,
+          "source_luminance": 0.0497,
+          "source_saturation": 0.3947
+        },
+        {
+          "hex": "#3A2D20",
+          "source_ratio": 5.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.059000000000000004,
+          "source_luminance": 0.0288,
+          "source_saturation": 0.4483
+        },
+        {
+          "hex": "#351F0E",
+          "source_ratio": 5.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.051,
+          "source_luminance": 0.0177,
+          "source_saturation": 0.7358
+        },
+        {
+          "hex": "#775D47",
+          "source_ratio": 5.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.051,
+          "source_luminance": 0.1221,
+          "source_saturation": 0.4034
+        },
+        {
+          "hex": "#22393F",
+          "source_ratio": 5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.05,
+          "source_luminance": 0.0363,
+          "source_saturation": 0.4603
+        },
+        {
+          "hex": "#221304",
+          "source_ratio": 4.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.049,
+          "source_luminance": 0.0081,
+          "source_saturation": 0.8824
+        }
+      ],
+      "source_ratio_sum": 99.99999999999999,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2012/12/17/the-tree-of-life/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/041_TerrenceMalick_泰伦斯·马力克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1242).jpg?bwg=1547477602",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/041_TerrenceMalick_泰伦斯·马力克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1266).jpg?bwg=1547477602",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/041_TerrenceMalick_泰伦斯·马力克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1247).jpg?bwg=1547477600",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/041_TerrenceMalick_泰伦斯·马力克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (859).jpg?bwg=1547477600",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/041_TerrenceMalick_泰伦斯·马力克/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "歌声不绝",
+      "title_en": "Song to Song",
+      "year": 2017,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#919BA0",
+          "source_ratio": 15.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.154,
+          "source_luminance": 0.32,
+          "source_saturation": 0.0938
+        },
+        {
+          "hex": "#2A201B",
+          "source_ratio": 14,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14,
+          "source_luminance": 0.016,
+          "source_saturation": 0.3571
+        },
+        {
+          "hex": "#0F151C",
+          "source_ratio": 13.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.132,
+          "source_luminance": 0.0072,
+          "source_saturation": 0.4643
+        },
+        {
+          "hex": "#5E514C",
+          "source_ratio": 12.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.121,
+          "source_luminance": 0.0879,
+          "source_saturation": 0.1915
+        },
+        {
+          "hex": "#D4D3D6",
+          "source_ratio": 11.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11699999999999999,
+          "source_luminance": 0.6544,
+          "source_saturation": 0.014
+        },
+        {
+          "hex": "#160F0E",
+          "source_ratio": 11.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.113,
+          "source_luminance": 0.0054,
+          "source_saturation": 0.3636
+        },
+        {
+          "hex": "#C5B2AE",
+          "source_ratio": 11.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.113,
+          "source_luminance": 0.4677,
+          "source_saturation": 0.1168
+        },
+        {
+          "hex": "#3A362F",
+          "source_ratio": 11,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11,
+          "source_luminance": 0.0374,
+          "source_saturation": 0.1897
+        }
+      ],
+      "source_ratio_sum": 99.99999999999999,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2019/05/17/song-to-song/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/041_TerrenceMalick_泰伦斯·马力克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/songto001.jpg?bwg=1551288939",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/041_TerrenceMalick_泰伦斯·马力克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/songto022.jpg?bwg=1551288938",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/041_TerrenceMalick_泰伦斯·马力克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/songto044.jpg?bwg=1551288938",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/041_TerrenceMalick_泰伦斯·马力克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/songto065.jpg?bwg=1551288938",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/041_TerrenceMalick_泰伦斯·马力克/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/041_TerrenceMalick_泰伦斯·马力克/assets/references/reference_director_manifest.json",
+      "sha256": "9ec6bffceb41d0a17a6bb79b3309c87e195baae4824a079dc9776a553c04ae1e",
+      "declared_urls": [
+        "https://film-grab.com/2020/09/07/a-hidden-life/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/A_Hidden_Life_001.jpg?bwg=1598512351",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/A_Hidden_Life_022.jpg?bwg=1598512350",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/A_Hidden_Life_044.jpg?bwg=1598512350",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/A_Hidden_Life_065.jpg?bwg=1598512350",
+        "https://film-grab.com/2010/07/21/days-of-heaven/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (295).jpg?bwg=1547209754",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/21 (300).jpg?bwg=1547209754",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/42 (296).jpg?bwg=1547209754",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/62 (240).jpg?bwg=1547209754",
+        "https://film-grab.com/2012/12/17/the-tree-of-life/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1242).jpg?bwg=1547477602",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1266).jpg?bwg=1547477602",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1247).jpg?bwg=1547477600",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (859).jpg?bwg=1547477600",
+        "https://film-grab.com/2019/05/17/song-to-song/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/songto001.jpg?bwg=1551288939",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/songto022.jpg?bwg=1551288938",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/songto044.jpg?bwg=1551288938",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/songto065.jpg?bwg=1551288938"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/041_TerrenceMalick_泰伦斯·马力克/assets/references/reference_sources.md",
+      "sha256": "dcf53695e4ee5620bd1618880322cc08c094f6258c7f51f416e83278e7600f15",
+      "declared_urls": [
+        "https://film-grab.com/2020/09/07/a-hidden-life/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/A_Hidden_Life_001.jpg?bwg=1598512351",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/A_Hidden_Life_022.jpg?bwg=1598512350",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/A_Hidden_Life_044.jpg?bwg=1598512350",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/A_Hidden_Life_065.jpg?bwg=1598512350",
+        "https://film-grab.com/2010/07/21/days-of-heaven/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (295).jpg?bwg=1547209754",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/21 (300).jpg?bwg=1547209754",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/42 (296).jpg?bwg=1547209754",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/62 (240).jpg?bwg=1547209754",
+        "https://film-grab.com/2012/12/17/the-tree-of-life/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1242).jpg?bwg=1547477602",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1266).jpg?bwg=1547477602",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1247).jpg?bwg=1547477600",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (859).jpg?bwg=1547477600",
+        "https://film-grab.com/2019/05/17/song-to-song/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/songto001.jpg?bwg=1551288939",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/songto022.jpg?bwg=1551288938",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/songto044.jpg?bwg=1551288938",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/songto065.jpg?bwg=1551288938"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

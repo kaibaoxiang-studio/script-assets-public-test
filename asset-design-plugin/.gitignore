@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+.pytest_cache/
+.cache/
+dist/
+reports/
+outputs/
+.runtime/
+.runs/
+.test-runs/
+*.log

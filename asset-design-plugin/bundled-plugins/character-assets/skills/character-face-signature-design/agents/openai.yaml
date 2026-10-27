@@ -1,0 +1,6 @@
+interface:
+  display_name: 面部记忆点与锁骨以上饰品设计
+  short_description: 面部记忆点与锁骨以上饰品设计
+  default_prompt: Use $character-face-signature-design to complete the requested task.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,198 @@
+{
+  "schema_version": "1.0.0",
+  "id": "052",
+  "label": {
+    "name_zh": "沃尔特·塞勒斯",
+    "name_en": "Walter Salles",
+    "category": "03_大地暖调与自然光诗意",
+    "source_volume": "第1期_SKILL_冷调与大地_001-080"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "南美赭黄",
+        "name_en": "Yellow",
+        "hex": "#C48A3A",
+        "source_ratio": 0.22,
+        "normalized_ratio": 0.22,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "红土褐",
+        "name_en": "Red",
+        "hex": "#8B5A2B",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "公路金黄",
+        "name_en": "Yellow",
+        "hex": "#D4A855",
+        "source_ratio": 0.16,
+        "normalized_ratio": 0.16,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "塞拉多绿",
+        "name_en": "Green",
+        "hex": "#5A6B3A",
+        "source_ratio": 0.12,
+        "normalized_ratio": 0.12,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "焦糖肤",
+        "name_en": "Color 5",
+        "hex": "#E8C68A",
+        "source_ratio": 0.16,
+        "normalized_ratio": 0.16,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "旧皮褐",
+        "name_en": "Ochre",
+        "hex": "#6B4A3A",
+        "source_ratio": 0.16,
+        "normalized_ratio": 0.16,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "金穗黄",
+        "name_en": "Yellow",
+        "hex": "#F2D299",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "希望启程"
+      },
+      {
+        "code": "E02",
+        "name_zh": "深棕褐",
+        "name_en": "Brown",
+        "hex": "#4A3728",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "乡愁沉淀"
+      },
+      {
+        "code": "E03",
+        "name_zh": "落日橙",
+        "name_en": "Orange",
+        "hex": "#D97B3A",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "旅途炽热"
+      },
+      {
+        "code": "E04",
+        "name_zh": "草原青",
+        "name_en": "Cyan",
+        "hex": "#7A8C6B",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "自由宽广"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "warm tropical sunlight, golden hour side light, dust motes in sun",
+      "highlight_description": "golden amber / warm yellow",
+      "shadow_description": "deep umber / red-brown earth",
+      "contrast_description": "medium-high 60-75%, warm sun contrast",
+      "overall_tone": "warm earthy golden, 80% warm + 20% cool"
+    },
+    "color_keywords": [
+      "brazilian savanna ochre",
+      "andean mountain brown",
+      "highway golden dust",
+      "tropical sunset orange",
+      "caramel skin tone",
+      "cerrado green foliage",
+      "vintage leather brown",
+      "dusty bus window"
+    ],
+    "mood_keywords": [
+      "latin american journey",
+      "coming of age on road",
+      "discovery of self and continent",
+      "paternal-mentor bond",
+      "working class warmth",
+      "political awakening",
+      "nostalgia for home",
+      "expansive freedom"
+    ],
+    "composition_keywords": [
+      "road movie traveling shots",
+      "south american landscape",
+      "golden hour natural light",
+      "moving vehicle perspective",
+      "handheld intimacy",
+      "wide horizon lines",
+      "dust and heat haze",
+      "historical road trip"
+    ],
+    "style_profile": {
+      "definition": "公路、家庭与拉丁美洲地景以人文写实连接私人历史",
+      "lighting": "自然日光、车窗光与黄金时刻，避免过分唯美",
+      "framing": "流动跟拍、车内关系和宽阔地景，运动有旅程方向",
+      "grading": "尘土黄、植物绿、天蓝与暖肤色，胶片式柔和对比",
+      "avoid": "避免人工光感、避免冷色调主导、避免过度饱和"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "052",
+      "relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/052_WalterSalles_沃尔特·塞勒斯/assets/color_palettes/palette.json",
+      "sha256": "8c143e162e71a72efa3a579cb4910e1a656fa016204315610c934c809edde484"
+    },
+    "source_entry_relative_dir": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/052_WalterSalles_沃尔特·塞勒斯",
+    "source_records": [
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/052_WalterSalles_沃尔特·塞勒斯/assets/references/reference_director_manifest.json",
+        "sha256": "76bc3d36048b85cadcc1a1ee31b1cdcd969638cf01eaeb444ab84b0c0ac7e8c9",
+        "declared_url_count": 20,
+        "externally_verified": false
+      },
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/052_WalterSalles_沃尔特·塞勒斯/assets/references/reference_sources.md",
+        "sha256": "53f6b2819eb95d4cad59b4ea6ed394ffabdeddd49ea86fc99b537faca5acd4d6",
+        "declared_url_count": 20,
+        "externally_verified": false
+      }
+    ],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 4,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": "film-references/052.json"
+}

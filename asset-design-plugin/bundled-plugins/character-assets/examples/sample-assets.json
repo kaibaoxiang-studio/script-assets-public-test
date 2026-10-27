@@ -1,0 +1,14 @@
+{
+  "schema_version": "screenplay_assets_v1",
+  "characters": [
+    {"id": "CHR-001", "name": "林岚", "tier": "主角",
+     "script_facts": ["右眉旧伤", "穿深蓝工作服"],
+     "evidence": [{"source_refs": ["sample-screenplay.json:EP-01-S01"]}],
+     "states": [{"id": "S01", "name": "工作服"}, {"id": "S02", "name": "防护服", "source_refs": ["sample-screenplay.json:EP-01-S02"]}]},
+    {"id": "CHR-002", "name": "陆遥", "tier": "重要角色",
+     "script_facts": ["白色礼服"], "states": [{"id": "S01", "name": "白色礼服"}]},
+    {"id": "CHR-003", "name": "灰爪", "tier": "重要角色",
+     "script_facts": ["四足机器犬", "警戒光"],
+     "states": [{"id": "S01", "name": "常态"}]}
+  ]
+}

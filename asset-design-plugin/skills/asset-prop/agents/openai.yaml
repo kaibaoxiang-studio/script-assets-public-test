@@ -1,0 +1,6 @@
+interface:
+  display_name: 道具资产
+  short_description: 道具设计、Prompt 表与回流审查
+  default_prompt: 请使用 $asset-prop 完成本次已指定范围的资产设计任务。
+policy:
+  allow_implicit_invocation: false

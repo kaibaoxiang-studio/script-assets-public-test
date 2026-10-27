@@ -1,0 +1,108 @@
+{
+  "schema_version": "PublicMirrorValidationV1",
+  "snapshot_tag": "public-test-2026-10-27",
+  "date": "2026-10-27",
+  "valid": true,
+  "source_files_checked": 782,
+  "documentation_and_provenance_overlays": 28,
+  "python_files_parsed": 141,
+  "components": [
+    {
+      "name": "screenplay-standardizer",
+      "version": "0.1.2",
+      "path": "script-plugins/level-1/screenplay-standardization/screenplay-standardizer"
+    },
+    {
+      "name": "scene-log-extractor",
+      "version": "0.1.0",
+      "path": "script-plugins/level-2/scene-log-extraction/scene-log-extractor"
+    },
+    {
+      "name": "screenplay-asset-extractor",
+      "version": "0.1.0",
+      "path": "script-plugins/level-2/asset-extraction/screenplay-asset-extractor"
+    },
+    {
+      "name": "asset-design",
+      "version": "0.1.0",
+      "path": "asset-design-plugin"
+    }
+  ],
+  "component_checks": [
+    {
+      "component": "screenplay-standardizer",
+      "validation": {
+        "valid": true,
+        "errors": [],
+        "capabilities": 2,
+        "skills": 3
+      }
+    },
+    {
+      "component": "scene-log-extractor",
+      "validation": {
+        "valid": true,
+        "errors": [],
+        "capabilities": 6,
+        "skills": 14
+      }
+    },
+    {
+      "component": "screenplay-asset-extractor",
+      "validation": {
+        "valid": true,
+        "errors": [],
+        "capabilities": 1,
+        "skills": 3
+      }
+    },
+    {
+      "component": "asset-design",
+      "validation": {
+        "valid": true,
+        "checked_bundle_files": 432,
+        "source_commit": "8b91d1470d7a90af23a08734b6e7a1e089a57cae",
+        "public_skills": [
+          "asset-design",
+          "asset-character",
+          "asset-scene",
+          "asset-prop"
+        ],
+        "errors": []
+      }
+    }
+  ],
+  "asset_regressions": {
+    "schema_version": "PublicExportChecksV1",
+    "date": "2026-10-27",
+    "scope": "Local checks of public documentation/provenance export. No model API or image calls; upstream historical real-call validation preserved separately.",
+    "plugin_version": "0.1.0",
+    "package_validation": {
+      "valid": true,
+      "checked_bundle_files": 432
+    },
+    "mother_regressions": {
+      "passed": 32,
+      "failed": 0,
+      "python": "3.12 with locked dependency cache"
+    },
+    "scene_library": {
+      "passed": true,
+      "checks": 129
+    },
+    "scene_project_regression": {
+      "passed": true,
+      "checks": 31
+    },
+    "personal_source_location_scan": {
+      "matches": 0
+    },
+    "source_changes": "none",
+    "runtime_and_skill_rule_changes": "none; scene regression fixture path updated to anonymous provenance path",
+    "upstream_bundle_lock_sha256": "34fce1d68430d78d08282442aee353f838470d882fc64f7eca40546c18cc80bc"
+  },
+  "credential_or_personal_source_locator_matches": 0,
+  "business_code_changes": false,
+  "new_model_or_image_calls": false,
+  "scope": "Public export integrity, syntax, component Skill/reference validation, and documented local regression results; user business and visual testing remain the purpose of this release."
+}

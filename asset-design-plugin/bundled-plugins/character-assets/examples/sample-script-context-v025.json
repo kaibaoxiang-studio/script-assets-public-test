@@ -1,0 +1,47 @@
+{
+  "schema_version": "ScriptContextV1",
+  "source_sha256": "d18e7e5f57df2a0d016597fb26abcbfdf9368962921557dae8e28173761f68c9",
+  "source_kind": "screenplay",
+  "read_units": [
+    {
+      "unit_id": "u000001",
+      "sha256": "9585d6bb84cd78d8e76e9d86198cd63177df27c298fe0feb7ec1ae24432d68db"
+    }
+  ],
+  "synopsis": "维修者与礼服来客发生争论，随后进入危险机舱。",
+  "world_summary": "可维修的飞船技术与分工环境。",
+  "narrative_structure": "从身份冲突进入机舱危险。",
+  "character_index": [
+    {
+      "character_id": "CHR-001",
+      "name": "林岚",
+      "role_in_story": "维修行动、争论或警戒中的参与者",
+      "arc_summary": "从争论进入机舱事件",
+      "relationships": "林岚与陆遥争执，灰爪警戒",
+      "evidence_unit_ids": [
+        "u000001"
+      ]
+    },
+    {
+      "character_id": "CHR-002",
+      "name": "陆遥",
+      "role_in_story": "维修行动、争论或警戒中的参与者",
+      "arc_summary": "从争论进入机舱事件",
+      "relationships": "林岚与陆遥争执，灰爪警戒",
+      "evidence_unit_ids": [
+        "u000001"
+      ]
+    },
+    {
+      "character_id": "CHR-003",
+      "name": "灰爪",
+      "role_in_story": "维修行动、争论或警戒中的参与者",
+      "arc_summary": "从争论进入机舱事件",
+      "relationships": "林岚与陆遥争执，灰爪警戒",
+      "evidence_unit_ids": [
+        "u000001"
+      ]
+    }
+  ],
+  "unresolved": []
+}

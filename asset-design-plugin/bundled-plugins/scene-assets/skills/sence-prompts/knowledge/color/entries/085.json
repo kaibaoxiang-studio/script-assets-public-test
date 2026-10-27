@@ -1,0 +1,194 @@
+{
+  "schema_version": "1.0.0",
+  "id": "085",
+  "label": {
+    "name_zh": "科波拉",
+    "name_en": "FrancisFordCoppola",
+    "category": "05_巴洛克华丽与浓墨重彩",
+    "source_volume": "第2期_SKILL_浓彩与梦幻_081-140"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "马鞍棕",
+        "name_en": "Saddle Brown",
+        "hex": "#8B4513",
+        "source_ratio": 0.2,
+        "normalized_ratio": 0.2,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "金菊黄",
+        "name_en": "Goldenrod",
+        "hex": "#DAA520",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "暗炭灰",
+        "name_en": "Dark Charcoal",
+        "hex": "#2F2F2F",
+        "source_ratio": 0.16,
+        "normalized_ratio": 0.16,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "栗色红",
+        "name_en": "Maroon Red",
+        "hex": "#800000",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "暗橄榄",
+        "name_en": "Dark Olive",
+        "hex": "#556B2F",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "深黑",
+        "name_en": "Deep Black",
+        "hex": "#1C1C1C",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "",
+        "name_en": "Emotional 1",
+        "hex": "#D4AF37",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "权力与荣耀"
+      },
+      {
+        "code": "E02",
+        "name_zh": "",
+        "name_en": "Emotional 2",
+        "hex": "#8B0000",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "暴力与死亡"
+      },
+      {
+        "code": "E03",
+        "name_zh": "",
+        "name_en": "Emotional 3",
+        "hex": "#CD853F",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "家族温暖"
+      },
+      {
+        "code": "E04",
+        "name_zh": "",
+        "name_en": "Emotional 4",
+        "hex": "#0F0F0F",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "黑暗阴谋"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "暗调侧光",
+      "highlight_description": "烛火暖金",
+      "shadow_description": "烟雾光束",
+      "contrast_description": "高对比",
+      "overall_tone": "暖调"
+    },
+    "color_keywords": [
+      "暗金烛光",
+      "棕木色调",
+      "烟雾阴影",
+      "教父调色",
+      "暖调室内",
+      "暗色史诗"
+    ],
+    "mood_keywords": [
+      "家族荣耀",
+      "美国梦碎",
+      "暴力循环",
+      "史诗感",
+      "新好莱坞",
+      "父权与继承"
+    ],
+    "composition_keywords": [
+      "教父式构图",
+      "家族群像",
+      "烟雾光影",
+      "历史史诗",
+      "门与框景",
+      "明暗对比"
+    ],
+    "style_profile": {
+      "definition": "科波拉的视觉风格以暗调侧光为主，暗金烛光、棕木色调、烟雾阴影，营造出家族荣耀的氛围。",
+      "lighting": "暗调侧光，高光偏烛火暖金，阴影偏烟雾光束，整体暖调。",
+      "composition": [],
+      "mood": [],
+      "framing": "教父式构图、家族群像、烟雾光影，强调视觉层次感。",
+      "grading": "对比度高对比，色调暖调，色彩暗金烛光、棕木色调、烟雾阴影。",
+      "avoid": "避免平淡无奇、避免低饱和度、避免构图简单"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "085",
+      "relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/085_FrancisFordCoppola_科波拉/assets/color_palettes/palette.json",
+      "sha256": "09c5587e3a88c446d01aedadd65d23ac41023cde9cebd9c7c982fdf6588bdd09"
+    },
+    "source_entry_relative_dir": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/085_FrancisFordCoppola_科波拉",
+    "source_records": [
+      {
+        "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/085_FrancisFordCoppola_科波拉/assets/references/reference_director_manifest.json",
+        "sha256": "bed2ef45760e1d4a834785e5ee9229fb2b302d3ceabce8f0f6ffe20267d20c06",
+        "declared_url_count": 20,
+        "externally_verified": false
+      },
+      {
+        "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/085_FrancisFordCoppola_科波拉/assets/references/reference_sources.md",
+        "sha256": "a0e08694fa3380bb3e645608281fa8cd1edb21af53609465404adfd6806b0b9c",
+        "declared_url_count": 20,
+        "externally_verified": false
+      }
+    ],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 0,
+      "source_only": 4
+    }
+  },
+  "film_reference_path": "film-references/085.json"
+}

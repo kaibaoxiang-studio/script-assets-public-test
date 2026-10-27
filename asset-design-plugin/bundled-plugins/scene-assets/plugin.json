@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "scene-assets",
+  "version": "1.0.0",
+  "description": "场景设计、光影氛围及反打角度的中文静态场景提示词",
+  "author": {
+    "name": "开宝箱工作室"
+  },
+  "extensions": {
+    "com.openai": {
+      "requires_local_executor": true,
+      "interface": {
+        "displayName": "场景资产插件",
+        "shortDescription": "场景设计、打光与反打提示词",
+        "longDescription": "依据资产表与剧本设计静态场景提示词，支持光影色卡、反打角度和局部修改，不自动生成场景图。",
+        "developerName": "开宝箱工作室",
+        "category": "Productivity",
+        "defaultPrompt": "请使用 $sence-prompts，根据资产表及剧本设计中文静态场景提示词。"
+      }
+    }
+  }
+}

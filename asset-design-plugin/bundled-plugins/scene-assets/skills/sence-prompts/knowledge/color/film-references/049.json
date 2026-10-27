@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "049",
+  "films": [
+    {
+      "title_zh": "无依之地",
+      "title_en": "Nomadland",
+      "year": 2020,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#98B6D4",
+          "source_ratio": 14.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.141,
+          "source_luminance": 0.4488,
+          "source_saturation": 0.283
+        },
+        {
+          "hex": "#4B463F",
+          "source_ratio": 14.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.141,
+          "source_luminance": 0.0624,
+          "source_saturation": 0.16
+        },
+        {
+          "hex": "#BDD3EB",
+          "source_ratio": 14,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14,
+          "source_luminance": 0.6341,
+          "source_saturation": 0.1957
+        },
+        {
+          "hex": "#C0A191",
+          "source_ratio": 12,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12,
+          "source_luminance": 0.3874,
+          "source_saturation": 0.2448
+        },
+        {
+          "hex": "#4A576A",
+          "source_ratio": 11.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11900000000000001,
+          "source_luminance": 0.0931,
+          "source_saturation": 0.3019
+        },
+        {
+          "hex": "#6F6455",
+          "source_ratio": 11.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11800000000000001,
+          "source_luminance": 0.1315,
+          "source_saturation": 0.2342
+        },
+        {
+          "hex": "#DBE8FA",
+          "source_ratio": 11.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.114,
+          "source_luminance": 0.7968,
+          "source_saturation": 0.124
+        },
+        {
+          "hex": "#77889E",
+          "source_ratio": 10.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.107,
+          "source_luminance": 0.24,
+          "source_saturation": 0.2468
+        }
+      ],
+      "source_ratio_sum": 100.00000000000001,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/581734/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/049_ChloeZhao_赵婷/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/563sRDK3rZS31TXCdTY4lfcwrNK.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/049_ChloeZhao_赵婷/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/SrgHZSNBRmVK0ZmPK6XYM5ZkA.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/049_ChloeZhao_赵婷/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/9fRr3J6CEhciSEY9DOhLy6bckha.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/049_ChloeZhao_赵婷/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/22wivEQ7qBxiYCgsWCPAUpRwPQF.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/049_ChloeZhao_赵婷/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "骑士",
+      "title_en": "The Rider",
+      "year": 2017,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#1D374A",
+          "source_ratio": 13.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.138,
+          "source_luminance": 0.0349,
+          "source_saturation": 0.6081
+        },
+        {
+          "hex": "#B9C8D2",
+          "source_ratio": 13.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.135,
+          "source_luminance": 0.5628,
+          "source_saturation": 0.119
+        },
+        {
+          "hex": "#ACB4BD",
+          "source_ratio": 13.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.132,
+          "source_luminance": 0.4509,
+          "source_saturation": 0.0899
+        },
+        {
+          "hex": "#63737D",
+          "source_ratio": 12.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.122,
+          "source_luminance": 0.1639,
+          "source_saturation": 0.208
+        },
+        {
+          "hex": "#2A3137",
+          "source_ratio": 12.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.121,
+          "source_luminance": 0.0296,
+          "source_saturation": 0.2364
+        },
+        {
+          "hex": "#5D5A57",
+          "source_ratio": 12,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12,
+          "source_luminance": 0.1033,
+          "source_saturation": 0.0645
+        },
+        {
+          "hex": "#0E0D11",
+          "source_ratio": 11.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11699999999999999,
+          "source_luminance": 0.0042,
+          "source_saturation": 0.2353
+        },
+        {
+          "hex": "#E4EAEF",
+          "source_ratio": 11.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.115,
+          "source_luminance": 0.8157,
+          "source_saturation": 0.046
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/453278/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/049_ChloeZhao_赵婷/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/oaAyNmnqbB8Ad3O2t9iymZ2gEJa.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/049_ChloeZhao_赵婷/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/rhUXXPcVAG4hBNS7aNVCEZrx0Yy.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/049_ChloeZhao_赵婷/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/giV5WyCAEExo0GMUtUXzUZafUjs.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/049_ChloeZhao_赵婷/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/rMQjbYkdelSppmt76PhykpKAMoB.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/049_ChloeZhao_赵婷/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "哥哥教我的歌",
+      "title_en": "Songs My Brothers Taught Me",
+      "year": 2015,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#998876",
+          "source_ratio": 16.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.16399999999999998,
+          "source_luminance": 0.2569,
+          "source_saturation": 0.2288
+        },
+        {
+          "hex": "#A7B8DB",
+          "source_ratio": 14.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.147,
+          "source_luminance": 0.4761,
+          "source_saturation": 0.2374
+        },
+        {
+          "hex": "#697582",
+          "source_ratio": 14.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14400000000000002,
+          "source_luminance": 0.1734,
+          "source_saturation": 0.1923
+        },
+        {
+          "hex": "#525F6C",
+          "source_ratio": 12.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.127,
+          "source_luminance": 0.1106,
+          "source_saturation": 0.2407
+        },
+        {
+          "hex": "#2F2E31",
+          "source_ratio": 11.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11699999999999999,
+          "source_luminance": 0.0278,
+          "source_saturation": 0.0612
+        },
+        {
+          "hex": "#6B5241",
+          "source_ratio": 10.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10400000000000001,
+          "source_luminance": 0.0954,
+          "source_saturation": 0.3925
+        },
+        {
+          "hex": "#364358",
+          "source_ratio": 10,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.1,
+          "source_luminance": 0.055,
+          "source_saturation": 0.3864
+        },
+        {
+          "hex": "#403F3D",
+          "source_ratio": 9.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.09699999999999999,
+          "source_luminance": 0.0498,
+          "source_saturation": 0.0469
+        }
+      ],
+      "source_ratio_sum": 100.00000000000001,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/308640/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/049_ChloeZhao_赵婷/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/cSVIQcChsIqaP7frfaiXTTH3vOM.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/049_ChloeZhao_赵婷/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/cIoxYiNS3jMQ8JCSB5PipK3FUEH.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/049_ChloeZhao_赵婷/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/pTlbVMl5VGJ6M4K850HwrTucN7.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/049_ChloeZhao_赵婷/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/eSAGDzuciAQ0r4nOhjhIESgnbCa.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/049_ChloeZhao_赵婷/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "永恒族",
+      "title_en": "Eternals",
+      "year": 2021,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#432E21",
+          "source_ratio": 15.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.159,
+          "source_luminance": 0.0326,
+          "source_saturation": 0.5075
+        },
+        {
+          "hex": "#070906",
+          "source_ratio": 14.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.145,
+          "source_luminance": 0.0025,
+          "source_saturation": 0.3333
+        },
+        {
+          "hex": "#BDAA85",
+          "source_ratio": 13.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.136,
+          "source_luminance": 0.4126,
+          "source_saturation": 0.2963
+        },
+        {
+          "hex": "#251E18",
+          "source_ratio": 12.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.122,
+          "source_luminance": 0.0139,
+          "source_saturation": 0.3514
+        },
+        {
+          "hex": "#7F7564",
+          "source_ratio": 11.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11800000000000001,
+          "source_luminance": 0.1815,
+          "source_saturation": 0.2126
+        },
+        {
+          "hex": "#5D2E1D",
+          "source_ratio": 11.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11199999999999999,
+          "source_luminance": 0.0437,
+          "source_saturation": 0.6882
+        },
+        {
+          "hex": "#1E262A",
+          "source_ratio": 10.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.107,
+          "source_luminance": 0.0183,
+          "source_saturation": 0.2857
+        },
+        {
+          "hex": "#554538",
+          "source_ratio": 10.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10099999999999999,
+          "source_luminance": 0.0647,
+          "source_saturation": 0.3412
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/524434/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/049_ChloeZhao_赵婷/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/049_ChloeZhao_赵婷/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/AtvhfE2PRU93Q52o7VFTeIFYcYY.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/049_ChloeZhao_赵婷/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/iFr6unLUKEd2fQygCEz7HwMvN32.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/049_ChloeZhao_赵婷/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/hH7zotEkzL1vOri2l2Eln5VJt81.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/049_ChloeZhao_赵婷/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/049_ChloeZhao_赵婷/assets/references/reference_director_manifest.json",
+      "sha256": "4b7f77e6847dfd768fe13a366873657879d51d7ae5ac01bab60c4f7eef743e32",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/581734/images/backdrops",
+        "https://image.tmdb.org/t/p/original/563sRDK3rZS31TXCdTY4lfcwrNK.jpg",
+        "https://image.tmdb.org/t/p/original/SrgHZSNBRmVK0ZmPK6XYM5ZkA.jpg",
+        "https://image.tmdb.org/t/p/original/9fRr3J6CEhciSEY9DOhLy6bckha.jpg",
+        "https://image.tmdb.org/t/p/original/22wivEQ7qBxiYCgsWCPAUpRwPQF.jpg",
+        "https://www.themoviedb.org/movie/453278/images/backdrops",
+        "https://image.tmdb.org/t/p/original/oaAyNmnqbB8Ad3O2t9iymZ2gEJa.jpg",
+        "https://image.tmdb.org/t/p/original/rhUXXPcVAG4hBNS7aNVCEZrx0Yy.jpg",
+        "https://image.tmdb.org/t/p/original/giV5WyCAEExo0GMUtUXzUZafUjs.jpg",
+        "https://image.tmdb.org/t/p/original/rMQjbYkdelSppmt76PhykpKAMoB.jpg",
+        "https://www.themoviedb.org/movie/308640/images/backdrops",
+        "https://image.tmdb.org/t/p/original/cSVIQcChsIqaP7frfaiXTTH3vOM.jpg",
+        "https://image.tmdb.org/t/p/original/cIoxYiNS3jMQ8JCSB5PipK3FUEH.jpg",
+        "https://image.tmdb.org/t/p/original/pTlbVMl5VGJ6M4K850HwrTucN7.jpg",
+        "https://image.tmdb.org/t/p/original/eSAGDzuciAQ0r4nOhjhIESgnbCa.jpg",
+        "https://www.themoviedb.org/movie/524434/images/backdrops",
+        "https://image.tmdb.org/t/p/original/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg",
+        "https://image.tmdb.org/t/p/original/AtvhfE2PRU93Q52o7VFTeIFYcYY.jpg",
+        "https://image.tmdb.org/t/p/original/iFr6unLUKEd2fQygCEz7HwMvN32.jpg",
+        "https://image.tmdb.org/t/p/original/hH7zotEkzL1vOri2l2Eln5VJt81.jpg"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/049_ChloeZhao_赵婷/assets/references/reference_sources.md",
+      "sha256": "20039d4e93f4d47fc322d2bf2774569db491c9bb12b051377e12b75e249bcee0",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/581734/images/backdrops",
+        "https://image.tmdb.org/t/p/original/563sRDK3rZS31TXCdTY4lfcwrNK.jpg",
+        "https://image.tmdb.org/t/p/original/SrgHZSNBRmVK0ZmPK6XYM5ZkA.jpg",
+        "https://image.tmdb.org/t/p/original/9fRr3J6CEhciSEY9DOhLy6bckha.jpg",
+        "https://image.tmdb.org/t/p/original/22wivEQ7qBxiYCgsWCPAUpRwPQF.jpg",
+        "https://www.themoviedb.org/movie/453278/images/backdrops",
+        "https://image.tmdb.org/t/p/original/oaAyNmnqbB8Ad3O2t9iymZ2gEJa.jpg",
+        "https://image.tmdb.org/t/p/original/rhUXXPcVAG4hBNS7aNVCEZrx0Yy.jpg",
+        "https://image.tmdb.org/t/p/original/giV5WyCAEExo0GMUtUXzUZafUjs.jpg",
+        "https://image.tmdb.org/t/p/original/rMQjbYkdelSppmt76PhykpKAMoB.jpg",
+        "https://www.themoviedb.org/movie/308640/images/backdrops",
+        "https://image.tmdb.org/t/p/original/cSVIQcChsIqaP7frfaiXTTH3vOM.jpg",
+        "https://image.tmdb.org/t/p/original/cIoxYiNS3jMQ8JCSB5PipK3FUEH.jpg",
+        "https://image.tmdb.org/t/p/original/pTlbVMl5VGJ6M4K850HwrTucN7.jpg",
+        "https://image.tmdb.org/t/p/original/eSAGDzuciAQ0r4nOhjhIESgnbCa.jpg",
+        "https://www.themoviedb.org/movie/524434/images/backdrops",
+        "https://image.tmdb.org/t/p/original/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg",
+        "https://image.tmdb.org/t/p/original/AtvhfE2PRU93Q52o7VFTeIFYcYY.jpg",
+        "https://image.tmdb.org/t/p/original/iFr6unLUKEd2fQygCEz7HwMvN32.jpg",
+        "https://image.tmdb.org/t/p/original/hH7zotEkzL1vOri2l2Eln5VJt81.jpg"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

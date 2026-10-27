@@ -1,0 +1,191 @@
+{
+  "schema_version": "1.0.0",
+  "id": "034",
+  "label": {
+    "name_zh": "扎克·施奈德",
+    "name_en": "Zack Snyder",
+    "category": "02_霓虹黑色与赛博未来",
+    "source_volume": "第1期_SKILL_冷调与大地_001-080"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "深黑墨影",
+        "name_en": "Deep Ink Black",
+        "hex": "#0A0A0A",
+        "source_ratio": 0.25,
+        "normalized_ratio": 0.25,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "暗金铜锈",
+        "name_en": "Dark Gold Bronze",
+        "hex": "#8B6914",
+        "source_ratio": 0.22,
+        "normalized_ratio": 0.22,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "血锈红",
+        "name_en": "Blood Rust Red",
+        "hex": "#8B0000",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "冷钢灰",
+        "name_en": "Cold Steel Grey",
+        "hex": "#4A5568",
+        "source_ratio": 0.12,
+        "normalized_ratio": 0.12,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "尘褐sepia",
+        "name_en": "Dust Sepia Brown",
+        "hex": "#6B4226",
+        "source_ratio": 0.13,
+        "normalized_ratio": 0.13,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "霓虹玫红",
+        "name_en": "Neon Rose",
+        "hex": "#E91E63",
+        "source_ratio": 0.13,
+        "normalized_ratio": 0.13,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "闪电白",
+        "name_en": "Lightning White",
+        "hex": "#E0E0E0",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "速度力、闪电侠、慢镜高光、神圣光芒"
+      },
+      {
+        "code": "E02",
+        "name_zh": "曼哈顿蓝",
+        "name_en": "Manhattan Blue",
+        "hex": "#1565C0",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "曼哈顿博士、超能力蓝光、神之存在"
+      },
+      {
+        "code": "E03",
+        "name_zh": "烈焰橙",
+        "name_en": "Blaze Orange",
+        "hex": "#FF5722",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "爆炸火焰、战争火光、毁灭"
+      },
+      {
+        "code": "E04",
+        "name_zh": "荒漠金",
+        "name_en": "Desert Gold",
+        "hex": "#D4A017",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "史诗沙漠、神话金光、英雄光环"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "极端侧光/逆光为主，硬光切割，暗部几乎纯黑，高光处爆发闪电白",
+      "highlight_description": "闪电白/暗金（速度力高光/古铜金光/神圣光芒）",
+      "shadow_description": "深黑墨影（暗部几乎无细节，纯黑阴影，Snyder标志性暗场）",
+      "contrast_description": "极高对比（85-98%），油画质感暗调，高光刺眼，暗部深邃",
+      "overall_tone": "暗调油画，60%暗金褐黑 + 40%血锈红/冷钢灰/霓虹玫红"
+    },
+    "color_keywords": [
+      "暗金铜锈",
+      "深黑墨影",
+      "血锈红",
+      "冷钢灰",
+      "闪电白",
+      "高反差暗调",
+      "油画质感",
+      "sepia尘褐",
+      "霓虹玫红",
+      "烈焰橙"
+    ],
+    "mood_keywords": [
+      "暗黑神话",
+      "漫画史诗",
+      "英雄悲壮",
+      "暴力美学",
+      "男性荷尔蒙",
+      "神与人",
+      "慢镜仪式",
+      "宿命感",
+      "黑暗骑士",
+      "僵尸末日"
+    ],
+    "composition_keywords": [
+      "慢镜飞溅",
+      "速度力推进",
+      "漫画分镜构图",
+      "低角度英雄",
+      "油画质感画面",
+      "对称史诗",
+      "速度线爆发",
+      "剪影英雄",
+      "雨滴慢镜",
+      "上帝视角俯拍"
+    ],
+    "style_profile": {
+      "definition": "扎克·施奈德的视觉风格以极端侧光/逆光为主，硬光切割，暗部几乎纯黑，高光处爆发闪电白为主，暗金铜锈、深黑墨影，营造出暗黑神话的氛围。",
+      "lighting": "极端侧光/逆光为主，硬光切割，暗部几乎纯黑，高光处爆发闪电白，高光偏闪电白/暗金（速度力高光/古铜金光/神圣光芒），阴影偏深黑墨影（暗部几乎无细节，纯黑阴影，Snyder标志性暗场），整体暗调油画，60%暗金褐黑 + 40%血锈红/冷钢灰/霓虹玫红。",
+      "framing": "慢镜飞溅、速度力推进、漫画分镜构图。",
+      "grading": "对比度极高对比（85-98%），油画质感暗调，高光刺眼，暗部深邃，色调暗调油画，60%暗金褐黑 + 40%血锈红/冷钢灰/霓虹玫红。",
+      "avoid": "避免平光照明、避免色彩杂乱、避免构图失衡。"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "034",
+      "relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/034_ZackSnyder_扎克·施奈德/assets/color_palettes/palette.json",
+      "sha256": "24231715c3ed5f17e5f2271a4c507edc929021732984b3b28df2c11220a18678"
+    },
+    "source_entry_relative_dir": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/034_ZackSnyder_扎克·施奈德",
+    "source_records": [],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 0,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": null
+}

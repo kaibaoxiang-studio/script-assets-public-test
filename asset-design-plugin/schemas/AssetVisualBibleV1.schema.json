@@ -1,0 +1,97 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "AssetVisualBibleV1.schema.json",
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "const": "AssetVisualBibleV1"
+    },
+    "context_revision": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "style_intent": {
+      "type": "string",
+      "minLength": 1
+    },
+    "world_rules": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "material_logic": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "color_light": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "symbol_language": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "domain_constraints": {
+      "type": "object",
+      "properties": {
+        "character": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "scene": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "prop": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      },
+      "required": [
+        "character",
+        "scene",
+        "prop"
+      ],
+      "additionalProperties": false
+    },
+    "open_questions": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    }
+  },
+  "required": [
+    "schema_version",
+    "context_revision",
+    "style_intent",
+    "world_rules",
+    "material_logic",
+    "color_light",
+    "symbol_language",
+    "domain_constraints",
+    "open_questions"
+  ],
+  "additionalProperties": false
+}

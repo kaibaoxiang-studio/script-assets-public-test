@@ -1,0 +1,4 @@
+interface:
+  display_name: "道具材质设计"
+  short_description: "保留道具已有造型，独立设计材质分区、表面处理与局部材质调整方案"
+  default_prompt: "使用 $prop-material-design，为这件道具设计材质方案，保持造型和已确认配色。"

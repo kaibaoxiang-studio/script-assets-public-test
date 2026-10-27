@@ -1,0 +1,191 @@
+{
+  "schema_version": "1.0.0",
+  "id": "010",
+  "label": {
+    "name_zh": "克劳德·夏布洛尔",
+    "name_en": "Claude Chabrol",
+    "category": "01_黑色悬疑与冷调惊悚",
+    "source_volume": "第1期_SKILL_冷调与大地_001-080"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "冷灰蓝绿",
+        "name_en": "Cool Gray Blue Green",
+        "hex": "#3A4A52",
+        "source_ratio": 0.35,
+        "normalized_ratio": 0.35,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "哑灰棕",
+        "name_en": "Muted Gray Brown",
+        "hex": "#8B8378",
+        "source_ratio": 0.22,
+        "normalized_ratio": 0.22,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "深棕木色",
+        "name_en": "Deep Wood Brown",
+        "hex": "#654321",
+        "source_ratio": 0.13,
+        "normalized_ratio": 0.13,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "驼色棕",
+        "name_en": "Camel Brown",
+        "hex": "#A0785A",
+        "source_ratio": 0.1,
+        "normalized_ratio": 0.1,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "暗苔绿",
+        "name_en": "Dark Moss Green",
+        "hex": "#4A6741",
+        "source_ratio": 0.1,
+        "normalized_ratio": 0.1,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "奶白肤",
+        "name_en": "Cream White Skin",
+        "hex": "#E8DCC8",
+        "source_ratio": 0.1,
+        "normalized_ratio": 0.1,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "暗砖红",
+        "name_en": "Dark Brick Red",
+        "hex": "#B22222",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "隐藏的暴力、被压抑的愤怒、秘密激情"
+      },
+      {
+        "code": "E02",
+        "name_zh": "石板灰",
+        "name_en": "Slate Gray",
+        "hex": "#708090",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "日常的压抑、中产的空虚、道德冷漠"
+      },
+      {
+        "code": "E03",
+        "name_zh": "柔米金",
+        "name_en": "Soft Burly Wood Gold",
+        "hex": "#DEB887",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "优雅的表面、虚伪的文明、家庭的假象"
+      },
+      {
+        "code": "E04",
+        "name_zh": "深青灰",
+        "name_en": "Dark Slate Gray",
+        "hex": "#2F4F4F",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "秘密的阴影、不安的预感、罪恶的潜藏"
+      }
+    ],
+    "source_ratio_sum": 0.9999999999999999
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "柔光为主，自然光效，低调含蓄",
+      "highlight_description": "奶白偏暖（窗光/室内灯）",
+      "shadow_description": "灰蓝偏绿（阴影/暗部）",
+      "contrast_description": "中低对比（45-60%），柔和过渡",
+      "overall_tone": "冷调柔和，60%冷色 + 40%暖木色"
+    },
+    "color_keywords": [
+      "法式冷调",
+      "低饱和处理",
+      "灰棕色系",
+      "苔绿点缀",
+      "砖红暗点",
+      "奶白肤色",
+      "木质暖调",
+      "石墙灰调",
+      "花园绿",
+      "秋天金"
+    ],
+    "mood_keywords": [
+      "日常恐惧",
+      "中产阶级虚伪",
+      "秘密与谎言",
+      "心理暗流",
+      "道德模糊",
+      "女性主义视角",
+      "讽刺社会",
+      "家庭秘密",
+      "优雅的恶意",
+      "平静下的风暴"
+    ],
+    "composition_keywords": [
+      "中产阶级空间构图",
+      "窗框门框取景",
+      "餐桌构图",
+      "楼梯转折",
+      "花园取景",
+      "镜面反射",
+      "长镜头静观",
+      "人物背景化",
+      "日常构图中的不安",
+      "对称失衡"
+    ],
+    "style_profile": {
+      "definition": "克劳德·夏布洛尔的视觉风格以柔光为主，自然光效，低调含蓄为主，法式冷调、低饱和处理，营造出日常恐惧的氛围。",
+      "lighting": "柔光为主，自然光效，低调含蓄，高光偏奶白偏暖（窗光/室内灯），阴影偏灰蓝偏绿（阴影/暗部），整体冷调柔和，60%冷色 + 40%暖木色。",
+      "framing": "中产阶级空间构图、窗框门框取景、餐桌构图。",
+      "grading": "对比度中低对比（45-60%），柔和过渡，色调冷调柔和，60%冷色 + 40%暖木色。",
+      "avoid": "避免平光照明、避免色彩杂乱、避免构图失衡。"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "010",
+      "relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/010_ClaudeChabrol_克劳德·夏布洛尔/assets/color_palettes/palette.json",
+      "sha256": "459b94e18d260a8de4dec86cdf2459ec84d61f5628755d8fde6be420a04390ab"
+    },
+    "source_entry_relative_dir": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/010_ClaudeChabrol_克劳德·夏布洛尔",
+    "source_records": [],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 0,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": null
+}

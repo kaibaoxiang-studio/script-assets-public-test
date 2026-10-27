@@ -1,0 +1,437 @@
+{
+  "schema_version": "CapabilityCatalogV1",
+  "capabilities": [
+    {
+      "id": "asset-design",
+      "skill_name": "asset-design",
+      "description": "跨角色、场景、道具的全文理解、统一设计与交付",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "request": {
+            "type": "string",
+            "minLength": 1
+          },
+          "project_root": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "asset_ids": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "state_ids": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "stage": {
+            "type": "string",
+            "minLength": 1
+          },
+          "context_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "baseline_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "task_path": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "request"
+        ],
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "summary": {
+            "type": "string",
+            "minLength": 1
+          },
+          "design_decisions": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "unresolved": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "knowledge_used": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        "required": [
+          "summary",
+          "design_decisions",
+          "unresolved",
+          "knowledge_used"
+        ],
+        "additionalProperties": false
+      },
+      "execution": {
+        "kind": "agent",
+        "access": "workspace-write",
+        "network": false
+      },
+      "knowledge_refs": [
+        "references/workflow.md",
+        "references/interfaces.md",
+        "references/full-script-understanding.md",
+        "references/domain-handoff.md",
+        "references/approval-and-change.md",
+        "references/package-provenance.md"
+      ],
+      "explicit_only": true
+    },
+    {
+      "id": "asset-character",
+      "skill_name": "asset-character",
+      "description": "人物设计、角色提示词与回图审查",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "request": {
+            "type": "string",
+            "minLength": 1
+          },
+          "project_root": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "asset_ids": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "state_ids": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "stage": {
+            "type": "string",
+            "minLength": 1
+          },
+          "context_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "baseline_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "task_path": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "request"
+        ],
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "summary": {
+            "type": "string",
+            "minLength": 1
+          },
+          "design_decisions": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "unresolved": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "knowledge_used": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        "required": [
+          "summary",
+          "design_decisions",
+          "unresolved",
+          "knowledge_used"
+        ],
+        "additionalProperties": false
+      },
+      "execution": {
+        "kind": "agent",
+        "access": "workspace-write",
+        "network": false
+      },
+      "knowledge_refs": [
+        "references/domain-handoff.md",
+        "references/approval-and-change.md",
+        "bundled-plugins/character-assets/skills/character-assets/SKILL.md"
+      ],
+      "explicit_only": true
+    },
+    {
+      "id": "asset-scene",
+      "skill_name": "asset-scene",
+      "description": "静态场景设计、光影色卡与反打提示词",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "request": {
+            "type": "string",
+            "minLength": 1
+          },
+          "project_root": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "asset_ids": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "state_ids": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "stage": {
+            "type": "string",
+            "minLength": 1
+          },
+          "context_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "baseline_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "task_path": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "request"
+        ],
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "summary": {
+            "type": "string",
+            "minLength": 1
+          },
+          "design_decisions": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "unresolved": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "knowledge_used": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        "required": [
+          "summary",
+          "design_decisions",
+          "unresolved",
+          "knowledge_used"
+        ],
+        "additionalProperties": false
+      },
+      "execution": {
+        "kind": "agent",
+        "access": "workspace-write",
+        "network": false
+      },
+      "knowledge_refs": [
+        "references/domain-handoff.md",
+        "references/approval-and-change.md",
+        "bundled-plugins/scene-assets/skills/sence-prompts/SKILL.md"
+      ],
+      "explicit_only": true
+    },
+    {
+      "id": "asset-prop",
+      "skill_name": "asset-prop",
+      "description": "道具设计、Prompt 表与回流审查",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "request": {
+            "type": "string",
+            "minLength": 1
+          },
+          "project_root": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "asset_ids": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "state_ids": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "stage": {
+            "type": "string",
+            "minLength": 1
+          },
+          "context_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "baseline_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "task_path": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "request"
+        ],
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "summary": {
+            "type": "string",
+            "minLength": 1
+          },
+          "design_decisions": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "unresolved": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "knowledge_used": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        "required": [
+          "summary",
+          "design_decisions",
+          "unresolved",
+          "knowledge_used"
+        ],
+        "additionalProperties": false
+      },
+      "execution": {
+        "kind": "agent",
+        "access": "workspace-write",
+        "network": false
+      },
+      "knowledge_refs": [
+        "references/domain-handoff.md",
+        "references/approval-and-change.md",
+        "bundled-plugins/prop-assets/skills/prop-concept-design/SKILL.md"
+      ],
+      "explicit_only": true
+    }
+  ],
+  "workflows": []
+}

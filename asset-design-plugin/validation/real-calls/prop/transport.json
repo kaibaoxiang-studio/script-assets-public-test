@@ -1,0 +1,31 @@
+{
+  "thread_id": "historical-ephemeral-test-003",
+  "ephemeral": true,
+  "selected_skill": {
+    "package": "prop-assets",
+    "version": "0.2.0",
+    "source_commit": "8b91d1470d7a90af23a08734b6e7a1e089a57cae",
+    "skill": "bundled-plugins/prop-assets/skills/prop-concept-design/SKILL.md",
+    "skill_sha256": "9634ca9cbcf2a45bb47dddb8468b4ef7335a0a2e4b52c6a3eccf79803438ed25",
+    "lock_sha256": "34fce1d68430d78d08282442aee353f838470d882fc64f7eca40546c18cc80bc"
+  },
+  "event_counts": {
+    "remoteControl/status/changed": 1,
+    "thread/started": 1,
+    "mcpServer/startupStatus/updated": 8,
+    "thread/status/changed": 2,
+    "turn/started": 1,
+    "account/updated": 1,
+    "item/started": 29,
+    "item/completed": 29,
+    "error": 5,
+    "warning": 1,
+    "item/agentMessage/delta": 362,
+    "thread/tokenUsage/updated": 9,
+    "account/rateLimits/updated": 9,
+    "turn/diff/updated": 4,
+    "turn/completed": 1
+  },
+  "server_requests": 0,
+  "finished_at": "2026-10-23T09:20:05+00:00"
+}

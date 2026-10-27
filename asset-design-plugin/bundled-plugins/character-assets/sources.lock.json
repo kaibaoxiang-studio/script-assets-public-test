@@ -1,0 +1,233 @@
+{
+  "schema_version": "SourceReceiptsV1",
+  "sources": [
+    {
+      "origin": "local:AI角色概念设计课.docx",
+      "revision": "sha256:04ab20e00dd9983964f18f69e57059bdefef43109e8e3c4f94f955e57b72f363",
+      "adaptation": "独立编写设计方法与身份检查规则"
+    },
+    {
+      "origin": "local:资产概念knowledge.docx",
+      "revision": "sha256:343a42ab44bc8d84c34d62bb7d3b8c8d30b3c53f3ff199bbae3b47674599cdd7",
+      "adaptation": "提炼表情、变体与 2×2 执行参考板"
+    },
+    {
+      "origin": "local:角色概念设计知识库.zip",
+      "revision": "sha256:0f95d6493678ab129047767a80fbfd1c63b207a5e475f26e80424d4d305a277d",
+      "adaptation": "提炼角色设计与一致性检查"
+    },
+    {
+      "origin": "local:服装史与造型风格知识库.zip",
+      "revision": "sha256:ed0034c9e4aa857f898872800d85945f46eec0aa73bb9a432da645fef70f9e85",
+      "adaptation": "作为造型检索线索并要求另行核实"
+    },
+    {
+      "origin": "local:非人角色与极端体型知识库.zip",
+      "revision": "sha256:98464f8f0e6d6744a5b8063be6ff3a40db7ff33c4f790b7223e958f98fc0e929",
+      "adaptation": "独立编写形态适配规则，移除固定人形假设"
+    },
+    {
+      "origin": "https://superiguowai.mfdemo.cn/chaoji/2026/10/20/6ad737b25b707.rar",
+      "revision": "sha256:ef0496aeea3c3c105b23c2de27cb191ed2d8102d47d4e7f6b196ec1c765af18b",
+      "adaptation": "仅研究世界到角色、分轮选择与群像差异的方法；未复制无许可证内容"
+    },
+    {
+      "origin": "https://github.com/higgsfield-ai/skills",
+      "revision": "f83af0bc1d937c8119099a11f8ebbf5e6fb99819",
+      "license": "MIT",
+      "adaptation": "独立编写参考图与局部编辑方法；未复制 CLI"
+    },
+    {
+      "origin": "https://github.com/kaibaoxiang-studio/script-plugins",
+      "revision": "9110d951e882e3ac89a013f2fea42e142fa08b3f",
+      "adaptation": "沿用现有上游 JSON ID/来源契约，不复制业务代码"
+    },
+    {
+      "origin": "https://developers.openai.com/api/docs/guides/image-prompting",
+      "revision": "checked:2026-10-21",
+      "adaptation": "独立编写 GPT Image 2.5 提示词与编辑规则"
+    },
+    {
+      "origin": "local:刺猬星球素材/3d角色质感提示词/2d转3d提示词.txt",
+      "revision": "sha256:6faa60a3f7b37e46d2ae4401d2f83729887deba031c2619bb87d3d3ea210b7fa",
+      "adaptation": "独立编写可选的媒介转换知识快照；保留身份与服装"
+    },
+    {
+      "origin": "local:刺猬星球素材/3d角色质感提示词/替换海报角色提示词.txt",
+      "revision": "sha256:ec94b106196958c3d25332d07547192c9aec5d2eb7a6733aab9cece7ca779a79",
+      "adaptation": "参考图职责分离；换装需要变体批准"
+    },
+    {
+      "origin": "local:刺猬星球素材/动漫PV角色概念设计/SKILL.md",
+      "revision": "sha256:bf266f8942438273ead0e2d6fe1a26b9988e2dfaecd12b5b15eb48417975ae11",
+      "adaptation": "独立提炼风格与角色细节分离以及回图局部诊断"
+    },
+    {
+      "origin": "local:刺猬星球素材/打斗提示词/四视图提示词.txt",
+      "revision": "sha256:b750b10de906df64261ff823baf9f236077711eff4c8798efe68adcd27cef7d2",
+      "adaptation": "对照已有执行参考板合同；只保留差异审查记录"
+    },
+    {
+      "origin": "local:刺猬星球素材/01-通用图片生成/SKILL.md",
+      "revision": "sha256:3e8fdab2d0c0b69d121503a2d2833a067a672afca21b51c5e1ac99a1f30860fb",
+      "license": "Apache-2.0",
+      "adaptation": "改写角色提示词结构与参考图职责；不携带生图 API/CLI"
+    },
+    {
+      "origin": "local:刺猬星球素材/01-通用图片生成/references/prompting.md",
+      "revision": "sha256:d957a45cb24fe2cf1a85858674fc533f15a5f4621355f559a13a93168999c2dd",
+      "license": "Apache-2.0",
+      "adaptation": "改写单项修图与全图复核方法；保留外部出图"
+    },
+    {
+      "origin": "local:AI角色_上传一个故事做出整套角色设计.docx",
+      "revision": "sha256:d42c3893aa8399f81f28c8fd16a95e74cf485960649f4aff15f08c629053dc94",
+      "adaptation": "仅提炼完整群像同画布的编排形式；不继承示例画风、人物设定或固定画幅"
+    },
+    {
+      "origin": "local:发型设计知识库.zip",
+      "revision": "sha256:54c08406b4382ea0f4b7a749055ce9f86743a8257d0f2588254252fff1928abb",
+      "adaptation": "用户课程方法精炼为 character-hair-design 的独立规则；未打包原文，原始成员哈希见 knowledge/archive-manifest.json"
+    },
+    {
+      "origin": "local:形体体态设计知识库.zip",
+      "revision": "sha256:00136fde7b8cf5f68f7a1d431cf15aef73e1d8c2b395882a8091cd40e0c61d30",
+      "adaptation": "用户课程方法精炼为 character-body-design 的独立规则；未打包原文，原始成员哈希见 knowledge/archive-manifest.json"
+    },
+    {
+      "origin": "local:五官与面部差异化设计知识库.zip",
+      "revision": "sha256:2c322d0bdf76ea3b2dbd17115cf63e0f4f1f2b8ba24565a9e7f790a18bf076cb",
+      "adaptation": "用户课程方法精炼为 character-face-design 的独立规则；未打包原文，原始成员哈希见 knowledge/archive-manifest.json"
+    },
+    {
+      "origin": "local:面部记忆点与锁骨以上饰品设计.zip",
+      "revision": "sha256:2cfdb5f9f603f779be99ab0c3536c85a27e276165019d51cfbdfbfae813dbb61",
+      "adaptation": "用户课程方法精炼为 character-face-signature-design 的独立规则；未打包原文，原始成员哈希见 knowledge/archive-manifest.json"
+    },
+    {
+      "origin": "local:皮肤肌理与质感知识库.zip",
+      "revision": "sha256:b473b4760c0d4bcaf9fd71c1bf4402a6b2dbf57c1e8816fdbc5ff221689e9e42",
+      "adaptation": "用户课程方法精炼为 character-skin-design 的独立规则；未打包原文，原始成员哈希见 knowledge/archive-manifest.json"
+    },
+    {
+      "origin": "local:服饰剪裁设计知识库.zip",
+      "revision": "sha256:f2186d5b7292d5e2f4b5bb8a1a947be08500e08c1b091733fda393229472c03f",
+      "adaptation": "用户课程方法精炼为 character-costume-cut-design 的独立规则；未打包原文，原始成员哈希见 knowledge/archive-manifest.json"
+    },
+    {
+      "origin": "local:服饰款式设计知识库.zip",
+      "revision": "sha256:6ee6dd619992bc12808444b1f0fe3d04c3457bbc69c9320815eb78749979a6e2",
+      "adaptation": "用户课程方法精炼为 character-costume-style-design 的独立规则；未打包原文，原始成员哈希见 knowledge/archive-manifest.json"
+    },
+    {
+      "origin": "local:角色群像差异化设计知识库.zip",
+      "revision": "sha256:964fed322d36899f83014a5f70f642ccedbb3efa9bcf23e2bbf82cf1808113dd",
+      "adaptation": "用户课程方法精炼为 character-cast-differentiation 的独立规则；未打包原文，原始成员哈希见 knowledge/archive-manifest.json"
+    },
+    {
+      "origin": "local:服饰配色设计知识库.zip",
+      "revision": "sha256:095795ac91aeffbcef8db5e94e207d61e96f123c3b8d0223ed95f989f5c809cc",
+      "adaptation": "用户课程方法精炼为 character-costume-color-design 的独立规则；未打包原文，原始成员哈希见 knowledge/archive-manifest.json"
+    },
+    {
+      "origin": "local:服饰材质设计知识库.zip",
+      "revision": "sha256:338cb29f9a90ecc4f495a829cd61250850312c136d13d406da0da6cb8e0bbf7e",
+      "adaptation": "用户课程方法精炼为 character-costume-material-design 的独立规则；未打包原文，原始成员哈希见 knowledge/archive-manifest.json"
+    },
+    {
+      "origin": "local:服饰饰品设计知识库.zip",
+      "revision": "sha256:a6cddefd194bedbecd87dd356758facabbd1e6bba6103db3c9869e2092b6e25f",
+      "adaptation": "用户课程方法精炼为 character-costume-accessory-design 的独立规则；未打包原文，原始成员哈希见 knowledge/archive-manifest.json"
+    },
+    {
+      "origin": "local:novel-characters-visual.zip",
+      "revision": "sha256:134a1bb8476d8c99338c6c36bac27746f9a2bd9907dfb2dd919a0ad33f224d6c",
+      "adaptation": "用户课程方法精炼为 character-cast-differentiation 的独立规则；未打包原文，原始成员哈希见 knowledge/archive-manifest.json"
+    },
+    {
+      "origin": "local:拒绝脸谱化人物设计-知识库.zip",
+      "revision": "sha256:c352eca853c498c43c5ea3b363d1e83ff9eeadee9150899d3edcade04dd5bc5f",
+      "adaptation": "用户课程方法精炼为 character-design 的独立规则；未打包原文，原始成员哈希见 knowledge/archive-manifest.json"
+    },
+    {
+      "origin": "local:拒绝脸谱化人物设计-知识库.zip",
+      "revision": "sha256:c352eca853c498c43c5ea3b363d1e83ff9eeadee9150899d3edcade04dd5bc5f",
+      "adaptation": "用户课程方法精炼为 character-cast-differentiation 的独立规则；未打包原文，原始成员哈希见 knowledge/archive-manifest.json"
+    },
+    {
+      "origin": "local:拒绝脸谱化人物设计-知识库.zip",
+      "revision": "sha256:c352eca853c498c43c5ea3b363d1e83ff9eeadee9150899d3edcade04dd5bc5f",
+      "adaptation": "用户课程方法精炼为 character-skin-design 的独立规则；未打包原文，原始成员哈希见 knowledge/archive-manifest.json"
+    },
+    {
+      "origin": "local:拒绝脸谱化人物设计-知识库.zip",
+      "revision": "sha256:c352eca853c498c43c5ea3b363d1e83ff9eeadee9150899d3edcade04dd5bc5f",
+      "adaptation": "用户课程方法精炼为 character-costume-material-design 的独立规则；未打包原文，原始成员哈希见 knowledge/archive-manifest.json"
+    },
+    {
+      "origin": "local:拒绝脸谱化人物设计-知识库.zip",
+      "revision": "sha256:c352eca853c498c43c5ea3b363d1e83ff9eeadee9150899d3edcade04dd5bc5f",
+      "adaptation": "用户课程方法精炼为 character-image-prompt 的独立规则；未打包原文，原始成员哈希见 knowledge/archive-manifest.json"
+    },
+    {
+      "origin": "local:拒绝脸谱化人物设计-知识库.zip",
+      "revision": "sha256:c352eca853c498c43c5ea3b363d1e83ff9eeadee9150899d3edcade04dd5bc5f",
+      "adaptation": "用户课程方法精炼为 character-image-review 的独立规则；未打包原文，原始成员哈希见 knowledge/archive-manifest.json"
+    },
+    {
+      "origin": "local:拒绝脸谱化人物设计-知识库.zip",
+      "revision": "sha256:c352eca853c498c43c5ea3b363d1e83ff9eeadee9150899d3edcade04dd5bc5f",
+      "adaptation": "用户课程方法精炼为 character-image-edit 的独立规则；未打包原文，原始成员哈希见 knowledge/archive-manifest.json"
+    },
+    {
+      "origin": "local:不完美美学与特征聚焦知识库.zip",
+      "revision": "sha256:94ec6e033bbfb5a55674f01b310ace576d5c488f415c1d5efd3b76bd770c06cd",
+      "adaptation": "用户课程方法精炼为 character-feature-focus 的独立规则；未打包原文，原始成员哈希见 knowledge/archive-manifest.json"
+    },
+    {
+      "origin": "local:不完美美学与特征聚焦知识库.zip",
+      "revision": "sha256:94ec6e033bbfb5a55674f01b310ace576d5c488f415c1d5efd3b76bd770c06cd",
+      "adaptation": "用户课程方法精炼为 character-design 的独立规则；未打包原文，原始成员哈希见 knowledge/archive-manifest.json"
+    },
+    {
+      "origin": "local:不完美美学与特征聚焦知识库.zip",
+      "revision": "sha256:94ec6e033bbfb5a55674f01b310ace576d5c488f415c1d5efd3b76bd770c06cd",
+      "adaptation": "用户课程方法精炼为 character-image-prompt 的独立规则；未打包原文，原始成员哈希见 knowledge/archive-manifest.json"
+    },
+    {
+      "origin": "local:不完美美学与特征聚焦知识库.zip",
+      "revision": "sha256:94ec6e033bbfb5a55674f01b310ace576d5c488f415c1d5efd3b76bd770c06cd",
+      "adaptation": "用户课程方法精炼为 character-image-review 的独立规则；未打包原文，原始成员哈希见 knowledge/archive-manifest.json"
+    },
+    {
+      "origin": "local:身体比例与三维形体塑造-知识库 (1).zip",
+      "revision": "sha256:22ce30a52ee7caf1f51e258a8fa6fb0ea5c7e74ce9e95b1e60fb446f18f9bbaf",
+      "adaptation": "用户课程方法精炼为 character-body-design 的独立规则；未打包原文，原始成员哈希见 knowledge/archive-manifest.json"
+    },
+    {
+      "origin": "local:人种环境与科技外貌设计-知识库.zip",
+      "revision": "sha256:10b9f3ca4f0c0208f604e4d96406120a1c11288e9b41d76e16b8ff2710cc4c48",
+      "adaptation": "用户课程方法精炼为 character-world-appearance-design 的独立规则；未打包原文，原始成员哈希见 knowledge/archive-manifest.json"
+    },
+    {
+      "origin": "local:面部装饰与妆容设计知识库.zip",
+      "revision": "sha256:a31967bcbd94e527da59d9201dfc0ed4cdd8ec8710ce2669b91cb585b3279ec2",
+      "adaptation": "用户课程方法精炼为 character-face-decoration-design 的独立规则；未打包原文，原始成员哈希见 knowledge/archive-manifest.json"
+    },
+    {
+      "origin": "local:服饰深层设计知识库.zip",
+      "revision": "sha256:220689dec20a399e873dfba45ee8dca69594391c0d5a188d98dd26d1ebb8d72b",
+      "adaptation": "用户课程方法精炼为 character-costume-designer 的独立规则；未打包原文，原始成员哈希见 knowledge/archive-manifest.json"
+    },
+    {
+      "origin": "local:原创AI角色捏脸_不用参考图_完整教程.docx",
+      "revision": "sha256:f66b749300ee08834ec21f4559563073fd6aa543b2747be473bf0aea383544dd",
+      "adaptation": "用户课程方法精炼为 character-face-design 的独立规则；未打包原文，原始成员哈希见 knowledge/archive-manifest.json"
+    },
+    {
+      "origin": "local:AI角色妆造_提升角色质感_完整教程.docx",
+      "revision": "sha256:484972e5c1e4daa03208aa2df737a76aa4cd223640084cff7484043d5427ee2c",
+      "adaptation": "用户课程方法精炼为 character-costume-designer 的独立规则；未打包原文，原始成员哈希见 knowledge/archive-manifest.json"
+    }
+  ]
+}

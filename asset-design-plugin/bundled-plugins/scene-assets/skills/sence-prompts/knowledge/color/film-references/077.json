@@ -1,0 +1,324 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "077",
+  "films": [
+    {
+      "title_zh": "瑞典爱情故事",
+      "title_en": "A Swedish Love Story",
+      "year": 1970,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/31304/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/hdX3esdD6u0gUdU1oSAaNMFlFQk.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/bnZiXKIkXRB8SxVoBeo7OULUrLs.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/y9U4ZEaFGzPhmpbt7l7kveD2VYN.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/666P96JJCF4Wd91JUzcZYRMl47y.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/31304/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/077_RoyAndersson_罗伊·安德森/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/hdX3esdD6u0gUdU1oSAaNMFlFQk.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/077_RoyAndersson_罗伊·安德森/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/bnZiXKIkXRB8SxVoBeo7OULUrLs.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/077_RoyAndersson_罗伊·安德森/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/y9U4ZEaFGzPhmpbt7l7kveD2VYN.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/077_RoyAndersson_罗伊·安德森/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/666P96JJCF4Wd91JUzcZYRMl47y.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/077_RoyAndersson_罗伊·安德森/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "二樓傳來的歌聲",
+      "title_en": "Songs from the Second Floor",
+      "year": 2000,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/34070/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/tEwzaE6wMbsoTYKbA2CRjFY1HK6.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/y1aEoBFePjJJUSdD6RtoyEvKJo5.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/7YWVwRvreMqxWmhLrgMKi33wIao.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/8cTtgaKagrDgt13eu2DPD8XxXd9.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/34070/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/077_RoyAndersson_罗伊·安德森/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/tEwzaE6wMbsoTYKbA2CRjFY1HK6.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/077_RoyAndersson_罗伊·安德森/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/y1aEoBFePjJJUSdD6RtoyEvKJo5.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/077_RoyAndersson_罗伊·安德森/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/7YWVwRvreMqxWmhLrgMKi33wIao.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/077_RoyAndersson_罗伊·安德森/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/8cTtgaKagrDgt13eu2DPD8XxXd9.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/077_RoyAndersson_罗伊·安德森/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "寒枝雀靜",
+      "title_en": "A Pigeon Sat on a Branch Reflecting on Existence",
+      "year": 2014,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/110390/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/gNBrmb0zabXmRY1IKVgcBXSo2F0.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/ljl1Qbs42WWDhx61mXz424u2vZQ.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/u8CxCqbR2LMFhbB1oqWQ4QVBuAs.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/uXeMfLCsKX4qJLjbPDCmgQelxrQ.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/110390/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/077_RoyAndersson_罗伊·安德森/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/gNBrmb0zabXmRY1IKVgcBXSo2F0.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/077_RoyAndersson_罗伊·安德森/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/ljl1Qbs42WWDhx61mXz424u2vZQ.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/077_RoyAndersson_罗伊·安德森/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/u8CxCqbR2LMFhbB1oqWQ4QVBuAs.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/077_RoyAndersson_罗伊·安德森/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/uXeMfLCsKX4qJLjbPDCmgQelxrQ.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/077_RoyAndersson_罗伊·安德森/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "千日千夜",
+      "title_en": "About Endlessness",
+      "year": 2019,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/348672/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/dQgqxHUdcNSmhiM4zebekZnnUII.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/84pCpSmZVpYOSIggr0hAfplWua7.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/rS82bCzK8l35MGxsYAx6fegiXIs.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/sP3TdFwhwLbodffXDfZvybyUdCc.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/348672/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/077_RoyAndersson_罗伊·安德森/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/dQgqxHUdcNSmhiM4zebekZnnUII.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/077_RoyAndersson_罗伊·安德森/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/84pCpSmZVpYOSIggr0hAfplWua7.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/077_RoyAndersson_罗伊·安德森/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/rS82bCzK8l35MGxsYAx6fegiXIs.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/077_RoyAndersson_罗伊·安德森/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/sP3TdFwhwLbodffXDfZvybyUdCc.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/077_RoyAndersson_罗伊·安德森/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/077_RoyAndersson_罗伊·安德森/assets/references/reference_director_manifest.json",
+      "sha256": "a01bc6853a8337cd92e7f01614b23d046186a2ed6877df84a7953f8ec61609ad",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/31304/images/backdrops",
+        "https://image.tmdb.org/t/p/original/hdX3esdD6u0gUdU1oSAaNMFlFQk.jpg",
+        "https://image.tmdb.org/t/p/original/bnZiXKIkXRB8SxVoBeo7OULUrLs.jpg",
+        "https://image.tmdb.org/t/p/original/y9U4ZEaFGzPhmpbt7l7kveD2VYN.jpg",
+        "https://image.tmdb.org/t/p/original/666P96JJCF4Wd91JUzcZYRMl47y.jpg",
+        "https://www.themoviedb.org/movie/34070/images/backdrops",
+        "https://image.tmdb.org/t/p/original/tEwzaE6wMbsoTYKbA2CRjFY1HK6.jpg",
+        "https://image.tmdb.org/t/p/original/y1aEoBFePjJJUSdD6RtoyEvKJo5.jpg",
+        "https://image.tmdb.org/t/p/original/7YWVwRvreMqxWmhLrgMKi33wIao.jpg",
+        "https://image.tmdb.org/t/p/original/8cTtgaKagrDgt13eu2DPD8XxXd9.jpg",
+        "https://www.themoviedb.org/movie/110390/images/backdrops",
+        "https://image.tmdb.org/t/p/original/gNBrmb0zabXmRY1IKVgcBXSo2F0.jpg",
+        "https://image.tmdb.org/t/p/original/ljl1Qbs42WWDhx61mXz424u2vZQ.jpg",
+        "https://image.tmdb.org/t/p/original/u8CxCqbR2LMFhbB1oqWQ4QVBuAs.jpg",
+        "https://image.tmdb.org/t/p/original/uXeMfLCsKX4qJLjbPDCmgQelxrQ.jpg",
+        "https://www.themoviedb.org/movie/348672/images/backdrops",
+        "https://image.tmdb.org/t/p/original/dQgqxHUdcNSmhiM4zebekZnnUII.jpg",
+        "https://image.tmdb.org/t/p/original/84pCpSmZVpYOSIggr0hAfplWua7.jpg",
+        "https://image.tmdb.org/t/p/original/rS82bCzK8l35MGxsYAx6fegiXIs.jpg",
+        "https://image.tmdb.org/t/p/original/sP3TdFwhwLbodffXDfZvybyUdCc.jpg"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/077_RoyAndersson_罗伊·安德森/assets/references/reference_sources.md",
+      "sha256": "434e34289b80cc153102907589f24f16a274df7d7eddf8a3f4ff746d238cc18b",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/31304/images/backdrops",
+        "https://image.tmdb.org/t/p/original/hdX3esdD6u0gUdU1oSAaNMFlFQk.jpg",
+        "https://image.tmdb.org/t/p/original/bnZiXKIkXRB8SxVoBeo7OULUrLs.jpg",
+        "https://image.tmdb.org/t/p/original/y9U4ZEaFGzPhmpbt7l7kveD2VYN.jpg",
+        "https://image.tmdb.org/t/p/original/666P96JJCF4Wd91JUzcZYRMl47y.jpg",
+        "https://www.themoviedb.org/movie/34070/images/backdrops",
+        "https://image.tmdb.org/t/p/original/tEwzaE6wMbsoTYKbA2CRjFY1HK6.jpg",
+        "https://image.tmdb.org/t/p/original/y1aEoBFePjJJUSdD6RtoyEvKJo5.jpg",
+        "https://image.tmdb.org/t/p/original/7YWVwRvreMqxWmhLrgMKi33wIao.jpg",
+        "https://image.tmdb.org/t/p/original/8cTtgaKagrDgt13eu2DPD8XxXd9.jpg",
+        "https://www.themoviedb.org/movie/110390/images/backdrops",
+        "https://image.tmdb.org/t/p/original/gNBrmb0zabXmRY1IKVgcBXSo2F0.jpg",
+        "https://image.tmdb.org/t/p/original/ljl1Qbs42WWDhx61mXz424u2vZQ.jpg",
+        "https://image.tmdb.org/t/p/original/u8CxCqbR2LMFhbB1oqWQ4QVBuAs.jpg",
+        "https://image.tmdb.org/t/p/original/uXeMfLCsKX4qJLjbPDCmgQelxrQ.jpg",
+        "https://www.themoviedb.org/movie/348672/images/backdrops",
+        "https://image.tmdb.org/t/p/original/dQgqxHUdcNSmhiM4zebekZnnUII.jpg",
+        "https://image.tmdb.org/t/p/original/84pCpSmZVpYOSIggr0hAfplWua7.jpg",
+        "https://image.tmdb.org/t/p/original/rS82bCzK8l35MGxsYAx6fegiXIs.jpg",
+        "https://image.tmdb.org/t/p/original/sP3TdFwhwLbodffXDfZvybyUdCc.jpg"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

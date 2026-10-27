@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "055",
+  "films": [
+    {
+      "title_zh": "黄飞鸿",
+      "title_en": "Once Upon a Time in China",
+      "year": 1991,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#F8C343",
+          "source_ratio": 16.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.163,
+          "source_luminance": 0.5939,
+          "source_saturation": 0.7298
+        },
+        {
+          "hex": "#AFB7C8",
+          "source_ratio": 14.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14300000000000002,
+          "source_luminance": 0.4715,
+          "source_saturation": 0.125
+        },
+        {
+          "hex": "#CB421B",
+          "source_ratio": 12.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.128,
+          "source_luminance": 0.1667,
+          "source_saturation": 0.867
+        },
+        {
+          "hex": "#9E1B0C",
+          "source_ratio": 11.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11800000000000001,
+          "source_luminance": 0.0808,
+          "source_saturation": 0.9241
+        },
+        {
+          "hex": "#382717",
+          "source_ratio": 11.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11599999999999999,
+          "source_luminance": 0.0235,
+          "source_saturation": 0.5893
+        },
+        {
+          "hex": "#4B3922",
+          "source_ratio": 11.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.114,
+          "source_luminance": 0.0454,
+          "source_saturation": 0.5467
+        },
+        {
+          "hex": "#FEE370",
+          "source_ratio": 11,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11,
+          "source_luminance": 0.7718,
+          "source_saturation": 0.5591
+        },
+        {
+          "hex": "#B2240F",
+          "source_ratio": 10.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10800000000000001,
+          "source_luminance": 0.1076,
+          "source_saturation": 0.9157
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/10617/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/055_Tsui Hark_徐克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/shl0ELODK3VgHr7pu8VTz2a8olW.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/055_Tsui Hark_徐克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/xfd6aLdSAAeR8lFppCozPYPnyj2.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/055_Tsui Hark_徐克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/fqLxSZpPTfPFjAzS6zUdGYJXSv.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/055_Tsui Hark_徐克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/4w3RGMaqwgnmh1PQ4lxrGmzYKPr.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/055_Tsui Hark_徐克/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "青蛇",
+      "title_en": "Green Snake",
+      "year": 1993,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#010101",
+          "source_ratio": 14.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.147,
+          "source_luminance": 0.0003,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#70696C",
+          "source_ratio": 13.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.133,
+          "source_luminance": 0.1463,
+          "source_saturation": 0.0625
+        },
+        {
+          "hex": "#39362C",
+          "source_ratio": 13.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.132,
+          "source_luminance": 0.0369,
+          "source_saturation": 0.2281
+        },
+        {
+          "hex": "#A29BA8",
+          "source_ratio": 12.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.125,
+          "source_luminance": 0.3395,
+          "source_saturation": 0.0774
+        },
+        {
+          "hex": "#2E1A19",
+          "source_ratio": 11.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11800000000000001,
+          "source_luminance": 0.0139,
+          "source_saturation": 0.4565
+        },
+        {
+          "hex": "#986E6A",
+          "source_ratio": 11.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11800000000000001,
+          "source_luminance": 0.1887,
+          "source_saturation": 0.3026
+        },
+        {
+          "hex": "#514435",
+          "source_ratio": 11.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11599999999999999,
+          "source_luminance": 0.0614,
+          "source_saturation": 0.3457
+        },
+        {
+          "hex": "#CBBDC9",
+          "source_ratio": 11.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.111,
+          "source_luminance": 0.5331,
+          "source_saturation": 0.069
+        }
+      ],
+      "source_ratio_sum": 99.99999999999999,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/39915/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/055_Tsui Hark_徐克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/sofHRGQgG6LvKYJWpaxQRFKe4or.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/055_Tsui Hark_徐克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/1y2NkdmDwkMmHGNNdM5SBDecHfk.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/055_Tsui Hark_徐克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/majFQjuyWVO1j7fzCHawenp7Gzx.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/055_Tsui Hark_徐克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/1CZ3a57nsit1Af584CNyWcMZZCk.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/055_Tsui Hark_徐克/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "刀",
+      "title_en": "The Blade",
+      "year": 1995,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#030403",
+          "source_ratio": 15.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.155,
+          "source_luminance": 0.0011,
+          "source_saturation": 0.25
+        },
+        {
+          "hex": "#855E46",
+          "source_ratio": 14.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.147,
+          "source_luminance": 0.1343,
+          "source_saturation": 0.4737
+        },
+        {
+          "hex": "#C4A197",
+          "source_ratio": 13.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.131,
+          "source_luminance": 0.3946,
+          "source_saturation": 0.2296
+        },
+        {
+          "hex": "#AE836D",
+          "source_ratio": 11.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11900000000000001,
+          "source_luminance": 0.2634,
+          "source_saturation": 0.3736
+        },
+        {
+          "hex": "#B7B5B5",
+          "source_ratio": 11.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.115,
+          "source_luminance": 0.4645,
+          "source_saturation": 0.0109
+        },
+        {
+          "hex": "#AC9B91",
+          "source_ratio": 11.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.114,
+          "source_luminance": 0.3426,
+          "source_saturation": 0.157
+        },
+        {
+          "hex": "#CCBBB3",
+          "source_ratio": 11.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.114,
+          "source_luminance": 0.5163,
+          "source_saturation": 0.1225
+        },
+        {
+          "hex": "#48372A",
+          "source_ratio": 10.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.105,
+          "source_luminance": 0.0428,
+          "source_saturation": 0.4167
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/42845/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/055_Tsui Hark_徐克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/92HhhtM2yT0ffV1kAkVDv16an9b.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/055_Tsui Hark_徐克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/oLZ4pfQOSnIzdD11XE8qYH6q2JY.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/055_Tsui Hark_徐克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/lgq4uTM7FSTczO6DX87xrLz12WW.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/055_Tsui Hark_徐克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/9qOe487vAuwoXW0Yg72Me1eWVPa.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/055_Tsui Hark_徐克/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "顺流逆流",
+      "title_en": "Time and Tide",
+      "year": 2000,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#6B7A9D",
+          "source_ratio": 13.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.138,
+          "source_luminance": 0.1948,
+          "source_saturation": 0.3185
+        },
+        {
+          "hex": "#402111",
+          "source_ratio": 13.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.134,
+          "source_luminance": 0.0222,
+          "source_saturation": 0.7344
+        },
+        {
+          "hex": "#020203",
+          "source_ratio": 12.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.128,
+          "source_luminance": 0.0006,
+          "source_saturation": 0.3333
+        },
+        {
+          "hex": "#8CA1A0",
+          "source_ratio": 12.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.128,
+          "source_luminance": 0.336,
+          "source_saturation": 0.1304
+        },
+        {
+          "hex": "#52240F",
+          "source_ratio": 12.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.121,
+          "source_luminance": 0.0309,
+          "source_saturation": 0.8171
+        },
+        {
+          "hex": "#7B6F59",
+          "source_ratio": 12.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.121,
+          "source_luminance": 0.163,
+          "source_saturation": 0.2764
+        },
+        {
+          "hex": "#B67C5C",
+          "source_ratio": 11.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11599999999999999,
+          "source_luminance": 0.2513,
+          "source_saturation": 0.4945
+        },
+        {
+          "hex": "#744122",
+          "source_ratio": 11.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.114,
+          "source_luminance": 0.0761,
+          "source_saturation": 0.7069
+        }
+      ],
+      "source_ratio_sum": 99.99999999999999,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/49291/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/055_Tsui Hark_徐克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/k6RUUIiJDVn6Rs1jmenk0uNUwaY.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/055_Tsui Hark_徐克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/wP0WxbtZsGX3IRjRGwetyUqbyrY.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/055_Tsui Hark_徐克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/9W7mDhkdiIUHKYF0lbh5gaPRGuZ.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/055_Tsui Hark_徐克/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/etFbWyKellA9rgCDkxzcNw2ndKK.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/055_Tsui Hark_徐克/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/055_Tsui Hark_徐克/assets/references/reference_director_manifest.json",
+      "sha256": "97cb3f903125d15fcd5478166c83bf5824b11ba9f9f40eec806cc7f39616b2c7",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/10617/images/backdrops",
+        "https://image.tmdb.org/t/p/original/shl0ELODK3VgHr7pu8VTz2a8olW.jpg",
+        "https://image.tmdb.org/t/p/original/xfd6aLdSAAeR8lFppCozPYPnyj2.jpg",
+        "https://image.tmdb.org/t/p/original/fqLxSZpPTfPFjAzS6zUdGYJXSv.jpg",
+        "https://image.tmdb.org/t/p/original/4w3RGMaqwgnmh1PQ4lxrGmzYKPr.jpg",
+        "https://www.themoviedb.org/movie/39915/images/backdrops",
+        "https://image.tmdb.org/t/p/original/sofHRGQgG6LvKYJWpaxQRFKe4or.jpg",
+        "https://image.tmdb.org/t/p/original/1y2NkdmDwkMmHGNNdM5SBDecHfk.jpg",
+        "https://image.tmdb.org/t/p/original/majFQjuyWVO1j7fzCHawenp7Gzx.jpg",
+        "https://image.tmdb.org/t/p/original/1CZ3a57nsit1Af584CNyWcMZZCk.jpg",
+        "https://www.themoviedb.org/movie/42845/images/backdrops",
+        "https://image.tmdb.org/t/p/original/92HhhtM2yT0ffV1kAkVDv16an9b.jpg",
+        "https://image.tmdb.org/t/p/original/oLZ4pfQOSnIzdD11XE8qYH6q2JY.jpg",
+        "https://image.tmdb.org/t/p/original/lgq4uTM7FSTczO6DX87xrLz12WW.jpg",
+        "https://image.tmdb.org/t/p/original/9qOe487vAuwoXW0Yg72Me1eWVPa.jpg",
+        "https://www.themoviedb.org/movie/49291/images/backdrops",
+        "https://image.tmdb.org/t/p/original/k6RUUIiJDVn6Rs1jmenk0uNUwaY.jpg",
+        "https://image.tmdb.org/t/p/original/wP0WxbtZsGX3IRjRGwetyUqbyrY.jpg",
+        "https://image.tmdb.org/t/p/original/9W7mDhkdiIUHKYF0lbh5gaPRGuZ.jpg",
+        "https://image.tmdb.org/t/p/original/etFbWyKellA9rgCDkxzcNw2ndKK.jpg"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/055_Tsui Hark_徐克/assets/references/reference_sources.md",
+      "sha256": "e177006403f73533fcdabda777896061c3a78d13770710f69094d7a3460c53e1",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/10617/images/backdrops",
+        "https://image.tmdb.org/t/p/original/shl0ELODK3VgHr7pu8VTz2a8olW.jpg",
+        "https://image.tmdb.org/t/p/original/xfd6aLdSAAeR8lFppCozPYPnyj2.jpg",
+        "https://image.tmdb.org/t/p/original/fqLxSZpPTfPFjAzS6zUdGYJXSv.jpg",
+        "https://image.tmdb.org/t/p/original/4w3RGMaqwgnmh1PQ4lxrGmzYKPr.jpg",
+        "https://www.themoviedb.org/movie/39915/images/backdrops",
+        "https://image.tmdb.org/t/p/original/sofHRGQgG6LvKYJWpaxQRFKe4or.jpg",
+        "https://image.tmdb.org/t/p/original/1y2NkdmDwkMmHGNNdM5SBDecHfk.jpg",
+        "https://image.tmdb.org/t/p/original/majFQjuyWVO1j7fzCHawenp7Gzx.jpg",
+        "https://image.tmdb.org/t/p/original/1CZ3a57nsit1Af584CNyWcMZZCk.jpg",
+        "https://www.themoviedb.org/movie/42845/images/backdrops",
+        "https://image.tmdb.org/t/p/original/92HhhtM2yT0ffV1kAkVDv16an9b.jpg",
+        "https://image.tmdb.org/t/p/original/oLZ4pfQOSnIzdD11XE8qYH6q2JY.jpg",
+        "https://image.tmdb.org/t/p/original/lgq4uTM7FSTczO6DX87xrLz12WW.jpg",
+        "https://image.tmdb.org/t/p/original/9qOe487vAuwoXW0Yg72Me1eWVPa.jpg",
+        "https://www.themoviedb.org/movie/49291/images/backdrops",
+        "https://image.tmdb.org/t/p/original/k6RUUIiJDVn6Rs1jmenk0uNUwaY.jpg",
+        "https://image.tmdb.org/t/p/original/wP0WxbtZsGX3IRjRGwetyUqbyrY.jpg",
+        "https://image.tmdb.org/t/p/original/9W7mDhkdiIUHKYF0lbh5gaPRGuZ.jpg",
+        "https://image.tmdb.org/t/p/original/etFbWyKellA9rgCDkxzcNw2ndKK.jpg"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

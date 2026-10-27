@@ -1,0 +1,179 @@
+{
+  "schema_version": "1.0.0",
+  "id": "118",
+  "label": {
+    "name_zh": "大岛渚",
+    "name_en": "NagisaOshima",
+    "category": "06_超现实梦幻与心理畸变",
+    "source_volume": "第2期_SKILL_浓彩与梦幻_081-140"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "血樱红",
+        "name_en": "Blood Sakura Red",
+        "hex": "#B71C1C",
+        "source_ratio": 0.22,
+        "normalized_ratio": 0.22,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "深夜蓝",
+        "name_en": "Late Night Blue",
+        "hex": "#0D47A1",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "木皮棕",
+        "name_en": "Wood Bark Brown",
+        "hex": "#5D4037",
+        "source_ratio": 0.16,
+        "normalized_ratio": 0.16,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "灯笼金",
+        "name_en": "Lantern Gold",
+        "hex": "#FFD54F",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "竹林绿",
+        "name_en": "Bamboo Green",
+        "hex": "#1B5E20",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "墨黑",
+        "name_en": "Ink Black",
+        "hex": "#212121",
+        "source_ratio": 0.16,
+        "normalized_ratio": 0.16,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "禁忌情欲",
+        "name_en": "禁忌情欲",
+        "hex": "#B71C1C",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "禁忌情欲"
+      },
+      {
+        "code": "E02",
+        "name_zh": "社会压抑",
+        "name_en": "社会压抑",
+        "hex": "#0D47A1",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "社会压抑"
+      },
+      {
+        "code": "E03",
+        "name_zh": "仪式温暖",
+        "name_en": "仪式温暖",
+        "hex": "#FFD54F",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "仪式温暖"
+      },
+      {
+        "code": "E04",
+        "name_zh": "肉身沉重",
+        "name_en": "肉身沉重",
+        "hex": "#5D4037",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "肉身沉重"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "高对比暖光",
+      "highlight_description": "红色重点光",
+      "shadow_description": "日式纸窗光",
+      "contrast_description": "高对比",
+      "overall_tone": "暖调"
+    },
+    "color_keywords": [
+      "血樱红",
+      "日式纸窗光",
+      "禁忌色",
+      "木棕暖调",
+      "日本蓝",
+      "仪式色彩"
+    ],
+    "mood_keywords": [
+      "禁忌之爱",
+      "政治批判",
+      "身体越界",
+      "日本新浪潮",
+      "死亡美学",
+      "情欲政治"
+    ],
+    "composition_keywords": [
+      "日式空间",
+      "身体特写",
+      "仪式构图",
+      "政治隐喻",
+      "自然风景",
+      "对称与失衡"
+    ],
+    "style_profile": {
+      "definition": "大岛渚的视觉风格：高对比暖光，血樱红, 日式纸窗光, 禁忌色。",
+      "lighting": "高对比暖光，红色重点光，日式纸窗光",
+      "framing": "日式空间、身体特写、仪式构图。",
+      "grading": "整体色调暖调，对比度高对比。",
+      "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "118",
+      "relative_path": "第2期_SKILL_浓彩与梦幻_081-140/06_超现实梦幻与心理畸变/118_NagisaOshima_大岛渚/assets/color_palettes/palette.json",
+      "sha256": "675e5fad467bec54efe5a18d76628d3d6778e7593e0736f80908345247e3b34f"
+    },
+    "source_entry_relative_dir": "第2期_SKILL_浓彩与梦幻_081-140/06_超现实梦幻与心理畸变/118_NagisaOshima_大岛渚",
+    "source_records": [],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 0,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": null
+}

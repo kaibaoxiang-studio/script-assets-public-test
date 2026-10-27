@@ -1,0 +1,179 @@
+{
+  "schema_version": "1.0.0",
+  "id": "116",
+  "label": {
+    "name_zh": "布兰登·柯南伯格",
+    "name_en": "BrandonCronenberg",
+    "category": "06_超现实梦幻与心理畸变",
+    "source_volume": "第2期_SKILL_浓彩与梦幻_081-140"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "临床青",
+        "name_en": "Clinical Cyan",
+        "hex": "#00BCD4",
+        "source_ratio": 0.2,
+        "normalized_ratio": 0.2,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "肉体粉",
+        "name_en": "Flesh Pink",
+        "hex": "#E91E63",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "暗青灰",
+        "name_en": "Dark Cyan Gray",
+        "hex": "#37474F",
+        "source_ratio": 0.16,
+        "normalized_ratio": 0.16,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "血肉红",
+        "name_en": "Flesh Blood Red",
+        "hex": "#B71C1C",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "冷白",
+        "name_en": "Cool White",
+        "hex": "#ECEFF1",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "深蓝灰",
+        "name_en": "Dark Blue Gray",
+        "hex": "#263238",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "临床冷漠",
+        "name_en": "临床冷漠",
+        "hex": "#00BCD4",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "临床冷漠"
+      },
+      {
+        "code": "E02",
+        "name_zh": "肉体迷恋",
+        "name_en": "肉体迷恋",
+        "hex": "#E91E63",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "肉体迷恋"
+      },
+      {
+        "code": "E03",
+        "name_zh": "科技恐惧",
+        "name_en": "科技恐惧",
+        "hex": "#37474F",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "科技恐惧"
+      },
+      {
+        "code": "E04",
+        "name_zh": "身体恐怖",
+        "name_en": "身体恐怖",
+        "hex": "#B71C1C",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "身体恐怖"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "冷白荧光",
+      "highlight_description": "肉色暖光",
+      "shadow_description": "数码色光",
+      "contrast_description": "高对比",
+      "overall_tone": "暖调"
+    },
+    "color_keywords": [
+      "临床冷白",
+      "肉体粉红",
+      "科幻恐怖色",
+      "数码蓝绿",
+      "未来冷色",
+      "血肉质感"
+    ],
+    "mood_keywords": [
+      "身体恐怖",
+      "科技焦虑",
+      "阶级批判",
+      "数码异化",
+      "遗传风格",
+      "冷感恐怖"
+    ],
+    "composition_keywords": [
+      "身体变形",
+      "临床空间",
+      "数码界面",
+      "未来冷色",
+      "针管仪器",
+      "阶级对照"
+    ],
+    "style_profile": {
+      "definition": "布兰登·柯南伯格的视觉风格：冷白荧光，临床冷白, 肉体粉红, 科幻恐怖色。",
+      "lighting": "冷白荧光，肉色暖光，数码色光",
+      "framing": "身体变形、临床空间、数码界面。",
+      "grading": "整体色调暖调，对比度高对比。",
+      "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "116",
+      "relative_path": "第2期_SKILL_浓彩与梦幻_081-140/06_超现实梦幻与心理畸变/116_BrandonCronenberg_布兰登·柯南伯格/assets/color_palettes/palette.json",
+      "sha256": "359b3fbf5269db27bbabc3c366dc67a1b7836b201d23cb0bca0b4ac12074205c"
+    },
+    "source_entry_relative_dir": "第2期_SKILL_浓彩与梦幻_081-140/06_超现实梦幻与心理畸变/116_BrandonCronenberg_布兰登·柯南伯格",
+    "source_records": [],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 0,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": null
+}

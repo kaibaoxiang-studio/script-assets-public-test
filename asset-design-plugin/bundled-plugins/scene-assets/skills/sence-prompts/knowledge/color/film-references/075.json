@@ -1,0 +1,324 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "075",
+  "films": [
+    {
+      "title_zh": "Breaking The Waves",
+      "title_en": "Breaking The Waves",
+      "year": 1996,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2015/07/28/breaking-the-waves/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (179).jpg?bwg=1547151965",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/15 (182).jpg?bwg=1547151965",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/28 (182).jpg?bwg=1547151965",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/42 (181).jpg?bwg=1547151965",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2015/07/28/breaking-the-waves/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/075_LarsvonTrier_拉斯·冯·提尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (179).jpg?bwg=1547151965",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/075_LarsvonTrier_拉斯·冯·提尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/15 (182).jpg?bwg=1547151965",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/075_LarsvonTrier_拉斯·冯·提尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/28 (182).jpg?bwg=1547151965",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/075_LarsvonTrier_拉斯·冯·提尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/42 (181).jpg?bwg=1547151965",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/075_LarsvonTrier_拉斯·冯·提尔/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Manderlay",
+      "title_en": "Manderlay",
+      "year": 2005,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2022/01/03/manderlay/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/manderlay001.jpg?bwg=1551286855",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/manderlay018.jpg?bwg=1551286854",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/manderlay036.jpg?bwg=1551286854",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/manderlay053.jpg?bwg=1551286854",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2022/01/03/manderlay/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/075_LarsvonTrier_拉斯·冯·提尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/manderlay001.jpg?bwg=1551286855",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/075_LarsvonTrier_拉斯·冯·提尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/manderlay018.jpg?bwg=1551286854",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/075_LarsvonTrier_拉斯·冯·提尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/manderlay036.jpg?bwg=1551286854",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/075_LarsvonTrier_拉斯·冯·提尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/manderlay053.jpg?bwg=1551286854",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/075_LarsvonTrier_拉斯·冯·提尔/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Melancholia",
+      "title_en": "Melancholia",
+      "year": 2011,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2016/01/29/melancholia/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (679).jpg?bwg=1547236183",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (693).jpg?bwg=1547236182",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/43 (681).jpg?bwg=1547236182",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/64 (512).jpg?bwg=1547236182",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2016/01/29/melancholia/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/075_LarsvonTrier_拉斯·冯·提尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (679).jpg?bwg=1547236183",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/075_LarsvonTrier_拉斯·冯·提尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (693).jpg?bwg=1547236182",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/075_LarsvonTrier_拉斯·冯·提尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/43 (681).jpg?bwg=1547236182",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/075_LarsvonTrier_拉斯·冯·提尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/64 (512).jpg?bwg=1547236182",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/075_LarsvonTrier_拉斯·冯·提尔/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "The House That Jack Built",
+      "title_en": "The House That Jack Built",
+      "year": 2018,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2020/04/24/the-house-that-jack-built/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_House_That_Jack_Built_001.jpg?bwg=1569841535",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_House_That_Jack_Built_020.jpg?bwg=1569841531",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_House_That_Jack_Built_040.jpg?bwg=1569841531",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_House_That_Jack_Built_059.jpg?bwg=1569841531",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2020/04/24/the-house-that-jack-built/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/075_LarsvonTrier_拉斯·冯·提尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_House_That_Jack_Built_001.jpg?bwg=1569841535",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/075_LarsvonTrier_拉斯·冯·提尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_House_That_Jack_Built_020.jpg?bwg=1569841531",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/075_LarsvonTrier_拉斯·冯·提尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_House_That_Jack_Built_040.jpg?bwg=1569841531",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/075_LarsvonTrier_拉斯·冯·提尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_House_That_Jack_Built_059.jpg?bwg=1569841531",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/075_LarsvonTrier_拉斯·冯·提尔/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/075_LarsvonTrier_拉斯·冯·提尔/assets/references/reference_director_manifest.json",
+      "sha256": "d4d2a2ed4bc5c8b44b8857cc878dc0a190782e5f883a5820f9d12a983151bc90",
+      "declared_urls": [
+        "https://film-grab.com/2015/07/28/breaking-the-waves/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (179).jpg?bwg=1547151965",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/15 (182).jpg?bwg=1547151965",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/28 (182).jpg?bwg=1547151965",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/42 (181).jpg?bwg=1547151965",
+        "https://film-grab.com/2022/01/03/manderlay/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/manderlay001.jpg?bwg=1551286855",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/manderlay018.jpg?bwg=1551286854",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/manderlay036.jpg?bwg=1551286854",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/manderlay053.jpg?bwg=1551286854",
+        "https://film-grab.com/2016/01/29/melancholia/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (679).jpg?bwg=1547236183",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (693).jpg?bwg=1547236182",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/43 (681).jpg?bwg=1547236182",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/64 (512).jpg?bwg=1547236182",
+        "https://film-grab.com/2020/04/24/the-house-that-jack-built/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_House_That_Jack_Built_001.jpg?bwg=1569841535",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_House_That_Jack_Built_020.jpg?bwg=1569841531",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_House_That_Jack_Built_040.jpg?bwg=1569841531",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_House_That_Jack_Built_059.jpg?bwg=1569841531"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/075_LarsvonTrier_拉斯·冯·提尔/assets/references/reference_sources.md",
+      "sha256": "930f67d126c5ffb2cd983bd7d1882ffacdd091133aa58fbec50b8e0d618a81fb",
+      "declared_urls": [
+        "https://film-grab.com/2015/07/28/breaking-the-waves/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (179).jpg?bwg=1547151965",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/15 (182).jpg?bwg=1547151965",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/28 (182).jpg?bwg=1547151965",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/42 (181).jpg?bwg=1547151965",
+        "https://film-grab.com/2022/01/03/manderlay/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/manderlay001.jpg?bwg=1551286855",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/manderlay018.jpg?bwg=1551286854",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/manderlay036.jpg?bwg=1551286854",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/manderlay053.jpg?bwg=1551286854",
+        "https://film-grab.com/2016/01/29/melancholia/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (679).jpg?bwg=1547236183",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (693).jpg?bwg=1547236182",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/43 (681).jpg?bwg=1547236182",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/64 (512).jpg?bwg=1547236182",
+        "https://film-grab.com/2020/04/24/the-house-that-jack-built/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_House_That_Jack_Built_001.jpg?bwg=1569841535",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_House_That_Jack_Built_020.jpg?bwg=1569841531",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_House_That_Jack_Built_040.jpg?bwg=1569841531",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_House_That_Jack_Built_059.jpg?bwg=1569841531"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

@@ -1,0 +1,6 @@
+interface:
+  display_name: 角色回图审查
+  short_description: 审查回流图片的剧本事实、身份与版式并产报告
+  default_prompt: Use $character-image-review to complete the requested task.
+policy:
+  allow_implicit_invocation: false

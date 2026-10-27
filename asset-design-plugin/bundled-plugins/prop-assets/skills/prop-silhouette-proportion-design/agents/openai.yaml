@@ -1,0 +1,4 @@
+interface:
+  display_name: "道具轮廓与比例设计"
+  short_description: "保持道具用途与关键交互，在允许的范围内探索轮廓、部件比例与辨识度"
+  default_prompt: "使用 $prop-silhouette-proportion-design，调整这件道具指定部位的轮廓比例，保持用途与关键交互。"

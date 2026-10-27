@@ -1,0 +1,191 @@
+{
+  "schema_version": "1.0.0",
+  "id": "035",
+  "label": {
+    "name_zh": "邓肯·琼斯",
+    "name_en": "Duncan Jones",
+    "category": "02_霓虹黑色与赛博未来",
+    "source_volume": "第1期_SKILL_冷调与大地_001-080"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "月基深灰蓝",
+        "name_en": "Lunar Base Deep Blue-Gray",
+        "hex": "#1A2535",
+        "source_ratio": 0.32,
+        "normalized_ratio": 0.32,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "冷金属灰",
+        "name_en": "Cold Metallic Gray",
+        "hex": "#8A95A5",
+        "source_ratio": 0.2,
+        "normalized_ratio": 0.2,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "屏幕蓝光",
+        "name_en": "Screen Glow Blue",
+        "hex": "#3D6B99",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "警报暖橙",
+        "name_en": "Warning Warm Orange",
+        "hex": "#C46B2E",
+        "source_ratio": 0.12,
+        "normalized_ratio": 0.12,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "无菌白",
+        "name_en": "Sterile White",
+        "hex": "#D9D2C4",
+        "source_ratio": 0.1,
+        "normalized_ratio": 0.1,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "兽人绿棕",
+        "name_en": "Orc Green-Brown",
+        "hex": "#2E4A3A",
+        "source_ratio": 0.08,
+        "normalized_ratio": 0.08,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "警报红",
+        "name_en": "Alarm Red",
+        "hex": "#B8302A",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "危机、系统故障、死亡倒计时、生命威胁"
+      },
+      {
+        "code": "E02",
+        "name_zh": "全息蓝",
+        "name_en": "Hologram Blue",
+        "hex": "#5AA0C8",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "虚拟世界、时间循环、数字身份、非现实感"
+      },
+      {
+        "code": "E03",
+        "name_zh": "记忆暖金",
+        "name_en": "Memory Warm Gold",
+        "hex": "#D4A868",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "人性温暖、记忆碎片、家的渴望、存在证明"
+      },
+      {
+        "code": "E04",
+        "name_zh": "太空虚空黑",
+        "name_en": "Space Void Black",
+        "hex": "#0B0E14",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "绝对孤独、宇宙冷漠、死亡、未知深渊"
+      }
+    ],
+    "source_ratio_sum": 0.9999999999999999
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "冷顶光+屏幕侧光，人工光源为主，极少自然光",
+      "highlight_description": "冷蓝/屏幕蓝光（显示器、全息投影、仪表灯）",
+      "shadow_description": "深灰蓝偏黑（金属阴影、密闭空间角落、太空暗部）",
+      "contrast_description": "中高对比（65-80%），冷蓝调中暖橙点缀",
+      "overall_tone": "冷调科幻，75%冷蓝灰 + 25%暖橙金点缀"
+    },
+    "color_keywords": [
+      "冷灰蓝基调",
+      "屏幕蓝光",
+      "无菌白",
+      "警报暖橙",
+      "金属质感",
+      "记忆暖金",
+      "工业冷光",
+      "霓虹全息",
+      "低饱和科幻",
+      "冷暖对峙"
+    ],
+    "mood_keywords": [
+      "存在主义孤独",
+      "密闭压抑",
+      "身份追问",
+      "时间循环",
+      "人机温情",
+      "反乌托邦",
+      "记忆执念",
+      "工业冷感",
+      "人性微光",
+      "哲学科幻"
+    ],
+    "composition_keywords": [
+      "密闭空间构图",
+      "对称框架",
+      "反射镜像",
+      "舱门/通道纵深",
+      "监视器视角",
+      "缓慢推轨",
+      "机械重复",
+      "克隆对称",
+      "屏幕画框",
+      "孤独远景"
+    ],
+    "style_profile": {
+      "definition": "邓肯·琼斯的视觉风格以冷顶光+屏幕侧光，人工光源为主，极少自然光为主，冷灰蓝基调、屏幕蓝光，营造出存在主义孤独的氛围。",
+      "lighting": "冷顶光+屏幕侧光，人工光源为主，极少自然光，高光偏冷蓝/屏幕蓝光（显示器、全息投影、仪表灯），阴影偏深灰蓝偏黑（金属阴影、密闭空间角落、太空暗部），整体冷调科幻，75%冷蓝灰 + 25%暖橙金点缀。",
+      "framing": "密闭空间构图、对称框架、反射镜像。",
+      "grading": "对比度中高对比（65-80%），冷蓝调中暖橙点缀，色调冷调科幻，75%冷蓝灰 + 25%暖橙金点缀。",
+      "avoid": "避免平光照明、避免色彩杂乱、避免构图失衡。"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "035",
+      "relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/035_DuncanJones_邓肯·琼斯/assets/color_palettes/palette.json",
+      "sha256": "f6e85a0346384d1aa1d63d1ff2f4f92b513834087a87c55e574b8fd623f7c76f"
+    },
+    "source_entry_relative_dir": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/035_DuncanJones_邓肯·琼斯",
+    "source_records": [],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 0,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": null
+}

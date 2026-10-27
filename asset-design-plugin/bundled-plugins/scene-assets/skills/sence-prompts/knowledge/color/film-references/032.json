@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "032",
+  "films": [
+    {
+      "title_zh": "Mad Max",
+      "title_en": "Mad Max",
+      "year": 1979,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#4E5A70",
+          "source_ratio": 14.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.149,
+          "source_luminance": 0.101,
+          "source_saturation": 0.3036
+        },
+        {
+          "hex": "#1F1E1F",
+          "source_ratio": 13.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.139,
+          "source_luminance": 0.0132,
+          "source_saturation": 0.0323
+        },
+        {
+          "hex": "#4F473E",
+          "source_ratio": 13.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.132,
+          "source_luminance": 0.0652,
+          "source_saturation": 0.2152
+        },
+        {
+          "hex": "#655B4F",
+          "source_ratio": 12.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.128,
+          "source_luminance": 0.1081,
+          "source_saturation": 0.2178
+        },
+        {
+          "hex": "#716B59",
+          "source_ratio": 12.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.127,
+          "source_luminance": 0.1475,
+          "source_saturation": 0.2124
+        },
+        {
+          "hex": "#4E688B",
+          "source_ratio": 12.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.122,
+          "source_luminance": 0.1338,
+          "source_saturation": 0.4388
+        },
+        {
+          "hex": "#130608",
+          "source_ratio": 10.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.102,
+          "source_luminance": 0.0029,
+          "source_saturation": 0.6842
+        },
+        {
+          "hex": "#241514",
+          "source_ratio": 10.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10099999999999999,
+          "source_luminance": 0.0096,
+          "source_saturation": 0.4444
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2015/09/23/mad-max/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/032_GeorgeMiller_乔治·米勒/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (642).jpg?bwg=1547234234",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/032_GeorgeMiller_乔治·米勒/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/21 (656).jpg?bwg=1547234234",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/032_GeorgeMiller_乔治·米勒/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/41 (648).jpg?bwg=1547234234",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/032_GeorgeMiller_乔治·米勒/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/61 (561).jpg?bwg=1547234234",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/032_GeorgeMiller_乔治·米勒/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Mad Max Beyond Thunderdome",
+      "title_en": "Mad Max Beyond Thunderdome",
+      "year": 1985,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#6A5550",
+          "source_ratio": 15.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.153,
+          "source_luminance": 0.1014,
+          "source_saturation": 0.2453
+        },
+        {
+          "hex": "#24222B",
+          "source_ratio": 14.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.141,
+          "source_luminance": 0.0169,
+          "source_saturation": 0.2093
+        },
+        {
+          "hex": "#9691B7",
+          "source_ratio": 14.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.141,
+          "source_luminance": 0.3015,
+          "source_saturation": 0.2077
+        },
+        {
+          "hex": "#B1ADD6",
+          "source_ratio": 14,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14,
+          "source_luminance": 0.4409,
+          "source_saturation": 0.1916
+        },
+        {
+          "hex": "#643B28",
+          "source_ratio": 13.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.13699999999999998,
+          "source_luminance": 0.0599,
+          "source_saturation": 0.6
+        },
+        {
+          "hex": "#513124",
+          "source_ratio": 10.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10300000000000001,
+          "source_luminance": 0.0407,
+          "source_saturation": 0.5556
+        },
+        {
+          "hex": "#1A223C",
+          "source_ratio": 9.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.09300000000000001,
+          "source_luminance": 0.0169,
+          "source_saturation": 0.5667
+        },
+        {
+          "hex": "#131217",
+          "source_ratio": 9.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.092,
+          "source_luminance": 0.0063,
+          "source_saturation": 0.2174
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2015/11/03/mad-max-beyond-thunderdome/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/032_GeorgeMiller_乔治·米勒/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (644).jpg?bwg=1547234371",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/032_GeorgeMiller_乔治·米勒/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (658).jpg?bwg=1547234370",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/032_GeorgeMiller_乔治·米勒/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (646).jpg?bwg=1547234370",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/032_GeorgeMiller_乔治·米勒/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (445).jpg?bwg=1547234370",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/032_GeorgeMiller_乔治·米勒/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Mad Max: Fury Road",
+      "title_en": "Mad Max: Fury Road",
+      "year": 2015,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#022965",
+          "source_ratio": 15.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.155,
+          "source_luminance": 0.0254,
+          "source_saturation": 0.9802
+        },
+        {
+          "hex": "#72676D",
+          "source_ratio": 13.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.133,
+          "source_luminance": 0.1438,
+          "source_saturation": 0.0965
+        },
+        {
+          "hex": "#857881",
+          "source_ratio": 12.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.128,
+          "source_luminance": 0.2,
+          "source_saturation": 0.0977
+        },
+        {
+          "hex": "#CE8445",
+          "source_ratio": 12.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.128,
+          "source_luminance": 0.3005,
+          "source_saturation": 0.665
+        },
+        {
+          "hex": "#493422",
+          "source_ratio": 12.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.122,
+          "source_luminance": 0.0399,
+          "source_saturation": 0.5342
+        },
+        {
+          "hex": "#A5969F",
+          "source_ratio": 11.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11900000000000001,
+          "source_luminance": 0.3232,
+          "source_saturation": 0.0909
+        },
+        {
+          "hex": "#060604",
+          "source_ratio": 11,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11,
+          "source_luminance": 0.0018,
+          "source_saturation": 0.3333
+        },
+        {
+          "hex": "#584E4F",
+          "source_ratio": 10.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.105,
+          "source_luminance": 0.0809,
+          "source_saturation": 0.1136
+        }
+      ],
+      "source_ratio_sum": 100.00000000000001,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2016/01/22/mad-max-fury-road/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/032_GeorgeMiller_乔治·米勒/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (645).jpg?bwg=1547234462",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/032_GeorgeMiller_乔治·米勒/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (659).jpg?bwg=1547234460",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/032_GeorgeMiller_乔治·米勒/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (647).jpg?bwg=1547234460",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/032_GeorgeMiller_乔治·米勒/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (446).jpg?bwg=1547234460",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/032_GeorgeMiller_乔治·米勒/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Furiosa",
+      "title_en": "Furiosa",
+      "year": 2024,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#3F3D34",
+          "source_ratio": 13.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.135,
+          "source_luminance": 0.0464,
+          "source_saturation": 0.1746
+        },
+        {
+          "hex": "#7D583F",
+          "source_ratio": 12.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.129,
+          "source_luminance": 0.117,
+          "source_saturation": 0.496
+        },
+        {
+          "hex": "#523E2E",
+          "source_ratio": 12.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.129,
+          "source_luminance": 0.0544,
+          "source_saturation": 0.439
+        },
+        {
+          "hex": "#90735A",
+          "source_ratio": 12.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.127,
+          "source_luminance": 0.1893,
+          "source_saturation": 0.375
+        },
+        {
+          "hex": "#25501B",
+          "source_ratio": 12.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12300000000000001,
+          "source_luminance": 0.0621,
+          "source_saturation": 0.6625
+        },
+        {
+          "hex": "#E7EEEE",
+          "source_ratio": 12.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12300000000000001,
+          "source_luminance": 0.8431,
+          "source_saturation": 0.0294
+        },
+        {
+          "hex": "#674E3B",
+          "source_ratio": 11.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11699999999999999,
+          "source_luminance": 0.0865,
+          "source_saturation": 0.4272
+        },
+        {
+          "hex": "#544F42",
+          "source_ratio": 11.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11699999999999999,
+          "source_luminance": 0.0787,
+          "source_saturation": 0.2143
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2024/06/28/furiosa/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/032_GeorgeMiller_乔治·米勒/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Furiosa_01.jpg?bwg=1719483149",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/032_GeorgeMiller_乔治·米勒/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Furiosa_22.jpg?bwg=1719483147",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/032_GeorgeMiller_乔治·米勒/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Furiosa_44.jpg?bwg=1719483147",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/032_GeorgeMiller_乔治·米勒/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Furiosa_65.jpg?bwg=1719483147",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/032_GeorgeMiller_乔治·米勒/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/032_GeorgeMiller_乔治·米勒/assets/references/reference_director_manifest.json",
+      "sha256": "681d5d03f7d26150359b7e94e05c6edeae0377cef50c6e1b157394b000b31d38",
+      "declared_urls": [
+        "https://film-grab.com/2015/09/23/mad-max/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (642).jpg?bwg=1547234234",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/21 (656).jpg?bwg=1547234234",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/41 (648).jpg?bwg=1547234234",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/61 (561).jpg?bwg=1547234234",
+        "https://film-grab.com/2015/11/03/mad-max-beyond-thunderdome/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (644).jpg?bwg=1547234371",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (658).jpg?bwg=1547234370",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (646).jpg?bwg=1547234370",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (445).jpg?bwg=1547234370",
+        "https://film-grab.com/2016/01/22/mad-max-fury-road/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (645).jpg?bwg=1547234462",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (659).jpg?bwg=1547234460",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (647).jpg?bwg=1547234460",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (446).jpg?bwg=1547234460",
+        "https://film-grab.com/2024/06/28/furiosa/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Furiosa_01.jpg?bwg=1719483149",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Furiosa_22.jpg?bwg=1719483147",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Furiosa_44.jpg?bwg=1719483147",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Furiosa_65.jpg?bwg=1719483147"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/032_GeorgeMiller_乔治·米勒/assets/references/reference_sources.md",
+      "sha256": "09b1535201b57762cc24ddddfe363c2daa2150645d060994d6c53380d43e6c51",
+      "declared_urls": [
+        "https://film-grab.com/2015/09/23/mad-max/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (642).jpg?bwg=1547234234",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/21 (656).jpg?bwg=1547234234",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/41 (648).jpg?bwg=1547234234",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/61 (561).jpg?bwg=1547234234",
+        "https://film-grab.com/2015/11/03/mad-max-beyond-thunderdome/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (644).jpg?bwg=1547234371",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (658).jpg?bwg=1547234370",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (646).jpg?bwg=1547234370",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (445).jpg?bwg=1547234370",
+        "https://film-grab.com/2016/01/22/mad-max-fury-road/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (645).jpg?bwg=1547234462",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (659).jpg?bwg=1547234460",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (647).jpg?bwg=1547234460",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (446).jpg?bwg=1547234460",
+        "https://film-grab.com/2024/06/28/furiosa/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Furiosa_01.jpg?bwg=1719483149",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Furiosa_22.jpg?bwg=1719483147",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Furiosa_44.jpg?bwg=1719483147",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Furiosa_65.jpg?bwg=1719483147"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

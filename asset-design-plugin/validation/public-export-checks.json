@@ -1,0 +1,29 @@
+{
+  "schema_version": "PublicExportChecksV1",
+  "date": "2026-10-27",
+  "scope": "Local checks of public documentation/provenance export. No model API or image calls; upstream historical real-call validation preserved separately.",
+  "plugin_version": "0.1.0",
+  "package_validation": {
+    "valid": true,
+    "checked_bundle_files": 432
+  },
+  "mother_regressions": {
+    "passed": 32,
+    "failed": 0,
+    "python": "3.12 with locked dependency cache"
+  },
+  "scene_library": {
+    "passed": true,
+    "checks": 129
+  },
+  "scene_project_regression": {
+    "passed": true,
+    "checks": 31
+  },
+  "personal_source_location_scan": {
+    "matches": 0
+  },
+  "source_changes": "none",
+  "runtime_and_skill_rule_changes": "none; scene regression fixture path updated to anonymous provenance path",
+  "upstream_bundle_lock_sha256": "34fce1d68430d78d08282442aee353f838470d882fc64f7eca40546c18cc80bc"
+}

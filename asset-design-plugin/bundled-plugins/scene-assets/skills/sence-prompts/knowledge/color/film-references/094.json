@@ -1,0 +1,276 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "094",
+  "films": [
+    {
+      "title_zh": "魔沼",
+      "title_en": "La Ciénaga",
+      "year": 2001,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/7IpUXbKHWA1Xt4jCwnP3A2YFPC3.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/b8gbRPrsEinp7Z2TY9Kn1jv5Rm9.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/tLibHkTvKCptzLqyBMBU0r8USbq.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/v5YMg4J2ADOwzs3wrIfNyCkxC9e.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/7IpUXbKHWA1Xt4jCwnP3A2YFPC3.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/094_LucreciaMartel_卢克雷西亚·马特尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/b8gbRPrsEinp7Z2TY9Kn1jv5Rm9.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/094_LucreciaMartel_卢克雷西亚·马特尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/tLibHkTvKCptzLqyBMBU0r8USbq.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/094_LucreciaMartel_卢克雷西亚·马特尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/v5YMg4J2ADOwzs3wrIfNyCkxC9e.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/094_LucreciaMartel_卢克雷西亚·马特尔/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 4,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "扎马",
+      "title_en": "Zama",
+      "year": 2016,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/9JqIR7bBO0uofsJiONgYAX2yw1R.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/oG8sdayvGEMbHYPIIlJlKzoZsAR.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/7DVaA3yyEXPaXCLbLdpZgrqFWHt.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/fhniVap3BiCPU8IDYTXa0iZpAYK.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/9JqIR7bBO0uofsJiONgYAX2yw1R.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/094_LucreciaMartel_卢克雷西亚·马特尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/oG8sdayvGEMbHYPIIlJlKzoZsAR.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/094_LucreciaMartel_卢克雷西亚·马特尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/7DVaA3yyEXPaXCLbLdpZgrqFWHt.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/094_LucreciaMartel_卢克雷西亚·马特尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/fhniVap3BiCPU8IDYTXa0iZpAYK.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/094_LucreciaMartel_卢克雷西亚·马特尔/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 4,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "被奪去的土地",
+      "title_en": "Landmarks",
+      "year": 2025,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/t4PVpbHAmJ6pA8Ff5JWSHFSBebX.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/8w5ebDQywZZNzYLF9rOnE2U16eH.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/5cFcnM5gHxfv9szP8M6l2sGXPTV.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/71fS8w31KWT0pYUaV3MbrjOqtwc.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/t4PVpbHAmJ6pA8Ff5JWSHFSBebX.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/094_LucreciaMartel_卢克雷西亚·马特尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/8w5ebDQywZZNzYLF9rOnE2U16eH.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/094_LucreciaMartel_卢克雷西亚·马特尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/5cFcnM5gHxfv9szP8M6l2sGXPTV.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/094_LucreciaMartel_卢克雷西亚·马特尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/71fS8w31KWT0pYUaV3MbrjOqtwc.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/094_LucreciaMartel_卢克雷西亚·马特尔/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 4,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Cornucopia",
+      "title_en": "Cornucopia",
+      "year": 2025,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/gh4cEqu7D9WSobqnGpdGjimERGl.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/gbZXiKESLJMAgDnnrsA0gMl1Sj1.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/o7HP9xBQ4XEknOsQ1kgL7kT363G.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/7JL3N8ZLtrD3ZCXrDAuOhV8fqei.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/gh4cEqu7D9WSobqnGpdGjimERGl.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/094_LucreciaMartel_卢克雷西亚·马特尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/gbZXiKESLJMAgDnnrsA0gMl1Sj1.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/094_LucreciaMartel_卢克雷西亚·马特尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/o7HP9xBQ4XEknOsQ1kgL7kT363G.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/094_LucreciaMartel_卢克雷西亚·马特尔/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/7JL3N8ZLtrD3ZCXrDAuOhV8fqei.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/094_LucreciaMartel_卢克雷西亚·马特尔/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 4,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/094_LucreciaMartel_卢克雷西亚·马特尔/assets/references/reference_director_manifest.json",
+      "sha256": "6c585e4e9da714fe8366217181a3cba732a4b5ddd9c0d35a0501c7726c306aee",
+      "declared_urls": [
+        "https://image.tmdb.org/t/p/original/7IpUXbKHWA1Xt4jCwnP3A2YFPC3.jpg",
+        "https://image.tmdb.org/t/p/original/b8gbRPrsEinp7Z2TY9Kn1jv5Rm9.jpg",
+        "https://image.tmdb.org/t/p/original/tLibHkTvKCptzLqyBMBU0r8USbq.jpg",
+        "https://image.tmdb.org/t/p/original/v5YMg4J2ADOwzs3wrIfNyCkxC9e.jpg",
+        "https://image.tmdb.org/t/p/original/9JqIR7bBO0uofsJiONgYAX2yw1R.jpg",
+        "https://image.tmdb.org/t/p/original/oG8sdayvGEMbHYPIIlJlKzoZsAR.jpg",
+        "https://image.tmdb.org/t/p/original/7DVaA3yyEXPaXCLbLdpZgrqFWHt.jpg",
+        "https://image.tmdb.org/t/p/original/fhniVap3BiCPU8IDYTXa0iZpAYK.jpg",
+        "https://image.tmdb.org/t/p/original/t4PVpbHAmJ6pA8Ff5JWSHFSBebX.jpg",
+        "https://image.tmdb.org/t/p/original/8w5ebDQywZZNzYLF9rOnE2U16eH.jpg",
+        "https://image.tmdb.org/t/p/original/5cFcnM5gHxfv9szP8M6l2sGXPTV.jpg",
+        "https://image.tmdb.org/t/p/original/71fS8w31KWT0pYUaV3MbrjOqtwc.jpg",
+        "https://image.tmdb.org/t/p/original/gh4cEqu7D9WSobqnGpdGjimERGl.jpg",
+        "https://image.tmdb.org/t/p/original/gbZXiKESLJMAgDnnrsA0gMl1Sj1.jpg",
+        "https://image.tmdb.org/t/p/original/o7HP9xBQ4XEknOsQ1kgL7kT363G.jpg",
+        "https://image.tmdb.org/t/p/original/7JL3N8ZLtrD3ZCXrDAuOhV8fqei.jpg"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/094_LucreciaMartel_卢克雷西亚·马特尔/assets/references/reference_sources.md",
+      "sha256": "1ae87459ef4fd71c4c1870fdb5e4ae9648c1faae650f506560c7314d180f3ff0",
+      "declared_urls": [
+        "https://image.tmdb.org/t/p/original/7IpUXbKHWA1Xt4jCwnP3A2YFPC3.jpg",
+        "https://image.tmdb.org/t/p/original/b8gbRPrsEinp7Z2TY9Kn1jv5Rm9.jpg",
+        "https://image.tmdb.org/t/p/original/tLibHkTvKCptzLqyBMBU0r8USbq.jpg",
+        "https://image.tmdb.org/t/p/original/v5YMg4J2ADOwzs3wrIfNyCkxC9e.jpg",
+        "https://image.tmdb.org/t/p/original/9JqIR7bBO0uofsJiONgYAX2yw1R.jpg",
+        "https://image.tmdb.org/t/p/original/oG8sdayvGEMbHYPIIlJlKzoZsAR.jpg",
+        "https://image.tmdb.org/t/p/original/7DVaA3yyEXPaXCLbLdpZgrqFWHt.jpg",
+        "https://image.tmdb.org/t/p/original/fhniVap3BiCPU8IDYTXa0iZpAYK.jpg",
+        "https://image.tmdb.org/t/p/original/t4PVpbHAmJ6pA8Ff5JWSHFSBebX.jpg",
+        "https://image.tmdb.org/t/p/original/8w5ebDQywZZNzYLF9rOnE2U16eH.jpg",
+        "https://image.tmdb.org/t/p/original/5cFcnM5gHxfv9szP8M6l2sGXPTV.jpg",
+        "https://image.tmdb.org/t/p/original/71fS8w31KWT0pYUaV3MbrjOqtwc.jpg",
+        "https://image.tmdb.org/t/p/original/gh4cEqu7D9WSobqnGpdGjimERGl.jpg",
+        "https://image.tmdb.org/t/p/original/gbZXiKESLJMAgDnnrsA0gMl1Sj1.jpg",
+        "https://image.tmdb.org/t/p/original/o7HP9xBQ4XEknOsQ1kgL7kT363G.jpg",
+        "https://image.tmdb.org/t/p/original/7JL3N8ZLtrD3ZCXrDAuOhV8fqei.jpg"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

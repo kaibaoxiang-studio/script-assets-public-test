@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "004",
+  "films": [
+    {
+      "title_zh": "Sisters",
+      "title_en": "Sisters",
+      "year": 1973,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#000602",
+          "source_ratio": 23.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.23800000000000002,
+          "source_luminance": 0.0013,
+          "source_saturation": 1
+        },
+        {
+          "hex": "#4B6567",
+          "source_ratio": 13.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.134,
+          "source_luminance": 0.1178,
+          "source_saturation": 0.2718
+        },
+        {
+          "hex": "#4D2F1C",
+          "source_ratio": 11,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11,
+          "source_luminance": 0.0369,
+          "source_saturation": 0.6364
+        },
+        {
+          "hex": "#3B534C",
+          "source_ratio": 10.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.109,
+          "source_luminance": 0.0764,
+          "source_saturation": 0.2892
+        },
+        {
+          "hex": "#411710",
+          "source_ratio": 10.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10800000000000001,
+          "source_luminance": 0.0177,
+          "source_saturation": 0.7538
+        },
+        {
+          "hex": "#321D16",
+          "source_ratio": 10.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.105,
+          "source_luminance": 0.0161,
+          "source_saturation": 0.56
+        },
+        {
+          "hex": "#C8D2D9",
+          "source_ratio": 10.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.102,
+          "source_luminance": 0.6338,
+          "source_saturation": 0.0783
+        },
+        {
+          "hex": "#6E6C68",
+          "source_ratio": 9.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.094,
+          "source_luminance": 0.1504,
+          "source_saturation": 0.0545
+        }
+      ],
+      "source_ratio_sum": 100.00000000000001,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/10/29/sisters/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/004_BrianDePalma_布莱恩·德·帕尔玛/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (918).jpg?bwg=1547385198",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/004_BrianDePalma_布莱恩·德·帕尔玛/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/18 (938).jpg?bwg=1547385198",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/004_BrianDePalma_布莱恩·德·帕尔玛/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/36 (934).jpg?bwg=1547385196",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/004_BrianDePalma_布莱恩·德·帕尔玛/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/53 (887).jpg?bwg=1547385196",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/004_BrianDePalma_布莱恩·德·帕尔玛/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Blow Out",
+      "title_en": "Blow Out",
+      "year": 1981,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#533127",
+          "source_ratio": 13.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.135,
+          "source_luminance": 0.0418,
+          "source_saturation": 0.5301
+        },
+        {
+          "hex": "#400607",
+          "source_ratio": 13.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.132,
+          "source_luminance": 0.0124,
+          "source_saturation": 0.9062
+        },
+        {
+          "hex": "#392F2C",
+          "source_ratio": 13.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.132,
+          "source_luminance": 0.0308,
+          "source_saturation": 0.2281
+        },
+        {
+          "hex": "#906055",
+          "source_ratio": 12.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.124,
+          "source_luminance": 0.1495,
+          "source_saturation": 0.4097
+        },
+        {
+          "hex": "#0B0907",
+          "source_ratio": 12.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.124,
+          "source_luminance": 0.0028,
+          "source_saturation": 0.3636
+        },
+        {
+          "hex": "#B5AFA8",
+          "source_ratio": 11.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11800000000000001,
+          "source_luminance": 0.4331,
+          "source_saturation": 0.0718
+        },
+        {
+          "hex": "#26221E",
+          "source_ratio": 11.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11800000000000001,
+          "source_luminance": 0.0165,
+          "source_saturation": 0.2105
+        },
+        {
+          "hex": "#6F7278",
+          "source_ratio": 11.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11699999999999999,
+          "source_luminance": 0.1677,
+          "source_saturation": 0.075
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2013/10/29/blow-out/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/004_BrianDePalma_布莱恩·德·帕尔玛/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (160).jpg?bwg=1547151077",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/004_BrianDePalma_布莱恩·德·帕尔玛/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (163).jpg?bwg=1547151077",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/004_BrianDePalma_布莱恩·德·帕尔玛/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (162).jpg?bwg=1547151076",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/004_BrianDePalma_布莱恩·德·帕尔玛/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (111).jpg?bwg=1547151076",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/004_BrianDePalma_布莱恩·德·帕尔玛/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Mission: Impossible",
+      "title_en": "Mission: Impossible",
+      "year": 1996,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#050407",
+          "source_ratio": 13.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.136,
+          "source_luminance": 0.0013,
+          "source_saturation": 0.4286
+        },
+        {
+          "hex": "#9A9599",
+          "source_ratio": 13.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.132,
+          "source_luminance": 0.3066,
+          "source_saturation": 0.0325
+        },
+        {
+          "hex": "#68727F",
+          "source_ratio": 13.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.132,
+          "source_luminance": 0.1651,
+          "source_saturation": 0.1811
+        },
+        {
+          "hex": "#091022",
+          "source_ratio": 12.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.127,
+          "source_luminance": 0.0054,
+          "source_saturation": 0.7353
+        },
+        {
+          "hex": "#53535A",
+          "source_ratio": 12.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.125,
+          "source_luminance": 0.0876,
+          "source_saturation": 0.0778
+        },
+        {
+          "hex": "#201A17",
+          "source_ratio": 11.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11699999999999999,
+          "source_luminance": 0.0111,
+          "source_saturation": 0.2812
+        },
+        {
+          "hex": "#3D3B3E",
+          "source_ratio": 11.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11699999999999999,
+          "source_luminance": 0.0447,
+          "source_saturation": 0.0484
+        },
+        {
+          "hex": "#C1BDBE",
+          "source_ratio": 11.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.114,
+          "source_luminance": 0.5145,
+          "source_saturation": 0.0207
+        }
+      ],
+      "source_ratio_sum": 100.00000000000001,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2020/01/06/mission-impossible/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/004_BrianDePalma_布莱恩·德·帕尔玛/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/missionimp001.jpg?bwg=1551287110",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/004_BrianDePalma_布莱恩·德·帕尔玛/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/missionimp022.jpg?bwg=1551287109",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/004_BrianDePalma_布莱恩·德·帕尔玛/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/missionimp043.jpg?bwg=1551287109",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/004_BrianDePalma_布莱恩·德·帕尔玛/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/missionimp064.jpg?bwg=1551287109",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/004_BrianDePalma_布莱恩·德·帕尔玛/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Passion",
+      "title_en": "Passion",
+      "year": 2012,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#574F39",
+          "source_ratio": 14.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14400000000000002,
+          "source_luminance": 0.0791,
+          "source_saturation": 0.3448
+        },
+        {
+          "hex": "#223A48",
+          "source_ratio": 14.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.142,
+          "source_luminance": 0.0383,
+          "source_saturation": 0.5278
+        },
+        {
+          "hex": "#28150B",
+          "source_ratio": 13.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.131,
+          "source_luminance": 0.0101,
+          "source_saturation": 0.725
+        },
+        {
+          "hex": "#503F20",
+          "source_ratio": 13,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.13,
+          "source_luminance": 0.0536,
+          "source_saturation": 0.6
+        },
+        {
+          "hex": "#10120F",
+          "source_ratio": 12,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12,
+          "source_luminance": 0.0058,
+          "source_saturation": 0.1667
+        },
+        {
+          "hex": "#4D5A62",
+          "source_ratio": 11.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11800000000000001,
+          "source_luminance": 0.0977,
+          "source_saturation": 0.2143
+        },
+        {
+          "hex": "#7E8880",
+          "source_ratio": 11.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.111,
+          "source_luminance": 0.236,
+          "source_saturation": 0.0735
+        },
+        {
+          "hex": "#6C3E08",
+          "source_ratio": 10.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10400000000000001,
+          "source_luminance": 0.0665,
+          "source_saturation": 0.9259
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/06/02/passion-2/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/004_BrianDePalma_布莱恩·德·帕尔玛/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Passion_01.jpg?bwg=1699894169",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/004_BrianDePalma_布莱恩·德·帕尔玛/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Passion_22.jpg?bwg=1699894168",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/004_BrianDePalma_布莱恩·德·帕尔玛/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Passion_44.jpg?bwg=1699894168",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/004_BrianDePalma_布莱恩·德·帕尔玛/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Passion_65.jpg?bwg=1699894168",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/004_BrianDePalma_布莱恩·德·帕尔玛/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/004_BrianDePalma_布莱恩·德·帕尔玛/assets/references/reference_director_manifest.json",
+      "sha256": "81400cbfdf665b392ed859ba6a63f74cb30cbc48d03c248eab4a20309ce9a135",
+      "declared_urls": [
+        "https://film-grab.com/2014/10/29/sisters/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (918).jpg?bwg=1547385198",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/18 (938).jpg?bwg=1547385198",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/36 (934).jpg?bwg=1547385196",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/53 (887).jpg?bwg=1547385196",
+        "https://film-grab.com/2013/10/29/blow-out/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (160).jpg?bwg=1547151077",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (163).jpg?bwg=1547151077",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (162).jpg?bwg=1547151076",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (111).jpg?bwg=1547151076",
+        "https://film-grab.com/2020/01/06/mission-impossible/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/missionimp001.jpg?bwg=1551287110",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/missionimp022.jpg?bwg=1551287109",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/missionimp043.jpg?bwg=1551287109",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/missionimp064.jpg?bwg=1551287109",
+        "https://film-grab.com/2025/06/02/passion-2/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Passion_01.jpg?bwg=1699894169",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Passion_22.jpg?bwg=1699894168",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Passion_44.jpg?bwg=1699894168",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Passion_65.jpg?bwg=1699894168"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/004_BrianDePalma_布莱恩·德·帕尔玛/assets/references/reference_sources.md",
+      "sha256": "2cec8243cdec553b02fca2bf0ae8e0f7708c0cb0d089f9a125e809d8c993581f",
+      "declared_urls": [
+        "https://film-grab.com/2014/10/29/sisters/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (918).jpg?bwg=1547385198",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/18 (938).jpg?bwg=1547385198",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/36 (934).jpg?bwg=1547385196",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/53 (887).jpg?bwg=1547385196",
+        "https://film-grab.com/2013/10/29/blow-out/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (160).jpg?bwg=1547151077",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (163).jpg?bwg=1547151077",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (162).jpg?bwg=1547151076",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (111).jpg?bwg=1547151076",
+        "https://film-grab.com/2020/01/06/mission-impossible/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/missionimp001.jpg?bwg=1551287110",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/missionimp022.jpg?bwg=1551287109",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/missionimp043.jpg?bwg=1551287109",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/missionimp064.jpg?bwg=1551287109",
+        "https://film-grab.com/2025/06/02/passion-2/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Passion_01.jpg?bwg=1699894169",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Passion_22.jpg?bwg=1699894168",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Passion_44.jpg?bwg=1699894168",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Passion_65.jpg?bwg=1699894168"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

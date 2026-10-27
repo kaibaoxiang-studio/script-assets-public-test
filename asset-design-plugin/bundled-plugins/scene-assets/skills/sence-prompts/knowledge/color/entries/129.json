@@ -1,0 +1,179 @@
+{
+  "schema_version": "1.0.0",
+  "id": "129",
+  "label": {
+    "name_zh": "伦·怀斯曼",
+    "name_en": "LenWiseman",
+    "category": "07_动作史诗与高饱和色彩",
+    "source_volume": "第2期_SKILL_浓彩与梦幻_081-140"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "暗夜蓝",
+        "name_en": "Night Blue",
+        "hex": "#0D47A1",
+        "source_ratio": 0.22,
+        "normalized_ratio": 0.22,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "血鲜红",
+        "name_en": "Blood Red",
+        "hex": "#C62828",
+        "source_ratio": 0.2,
+        "normalized_ratio": 0.2,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "钢铁灰",
+        "name_en": "Steel Gray",
+        "hex": "#37474F",
+        "source_ratio": 0.16,
+        "normalized_ratio": 0.16,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "深靛蓝",
+        "name_en": "Deep Indigo",
+        "hex": "#1A237E",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "深黑",
+        "name_en": "Deep Black",
+        "hex": "#000000",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "冷钢灰",
+        "name_en": "Cold Steel Gray",
+        "hex": "#78909C",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "冰冷愤怒",
+        "name_en": "冰冷愤怒",
+        "hex": "#0D47A1",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "冰冷愤怒"
+      },
+      {
+        "code": "E02",
+        "name_zh": "血族仇恨",
+        "name_en": "血族仇恨",
+        "hex": "#C62828",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "血族仇恨"
+      },
+      {
+        "code": "E03",
+        "name_zh": "地下压抑",
+        "name_en": "地下压抑",
+        "hex": "#37474F",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "地下压抑"
+      },
+      {
+        "code": "E04",
+        "name_zh": "古老秘密",
+        "name_en": "古老秘密",
+        "hex": "#1A237E",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "古老秘密"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "冷蓝月光",
+      "highlight_description": "血色暖光",
+      "shadow_description": "地下荧光",
+      "contrast_description": "高对比",
+      "overall_tone": "暖调"
+    },
+    "color_keywords": [
+      "暗夜蓝调",
+      "血红点缀",
+      "地下冷色",
+      "吸血鬼夜色",
+      "钢铁灰蓝",
+      "高对比动作色"
+    ],
+    "mood_keywords": [
+      "地下世界",
+      "血族战争",
+      "黑暗美学",
+      "动作酷感",
+      "现代哥特",
+      "永恒战争"
+    ],
+    "composition_keywords": [
+      "地下世界",
+      "吸血鬼狼人",
+      "皮衣紧身",
+      "慢镜动作",
+      "雨夜景",
+      "枪械美学"
+    ],
+    "style_profile": {
+      "definition": "伦·怀斯曼的视觉风格：冷蓝月光，暗夜蓝调, 血红点缀, 地下冷色。",
+      "lighting": "冷蓝月光，血色暖光，地下荧光",
+      "framing": "地下世界、吸血鬼狼人、皮衣紧身。",
+      "grading": "整体色调暖调，对比度高对比。",
+      "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "129",
+      "relative_path": "第2期_SKILL_浓彩与梦幻_081-140/07_动作史诗与高饱和色彩/129_LenWiseman_伦·怀斯曼/assets/color_palettes/palette.json",
+      "sha256": "f585c366cf47133134ec778a4cf2d0a00e3172e7cffb35e321b500866461a147"
+    },
+    "source_entry_relative_dir": "第2期_SKILL_浓彩与梦幻_081-140/07_动作史诗与高饱和色彩/129_LenWiseman_伦·怀斯曼",
+    "source_records": [],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 0,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": null
+}

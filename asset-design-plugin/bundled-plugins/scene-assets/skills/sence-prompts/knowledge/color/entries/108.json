@@ -1,0 +1,192 @@
+{
+  "schema_version": "1.0.0",
+  "id": "108",
+  "label": {
+    "name_zh": "阿里·艾斯特",
+    "name_en": "AriAster",
+    "category": "06_超现实梦幻与心理畸变",
+    "source_volume": "第2期_SKILL_浓彩与梦幻_081-140"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "仲夏夜金",
+        "name_en": "Midsommar Gold",
+        "hex": "#FFB300",
+        "source_ratio": 0.2,
+        "normalized_ratio": 0.2,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "木屋棕",
+        "name_en": "Cabin Brown",
+        "hex": "#8D6E63",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "青草绿",
+        "name_en": "Meadow Green",
+        "hex": "#33691E",
+        "source_ratio": 0.16,
+        "normalized_ratio": 0.16,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "血暗红",
+        "name_en": "Blood Dark Red",
+        "hex": "#B71C1C",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "日光黄",
+        "name_en": "Sunlight Yellow",
+        "hex": "#FFF9C4",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "暗棕黑",
+        "name_en": "Dark Brown Black",
+        "hex": "#3E2723",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "日光恐惧",
+        "name_en": "日光恐惧",
+        "hex": "#FFB300",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "日光恐惧"
+      },
+      {
+        "code": "E02",
+        "name_zh": "家庭压抑",
+        "name_en": "家庭压抑",
+        "hex": "#8D6E63",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "家庭压抑"
+      },
+      {
+        "code": "E03",
+        "name_zh": "血腥暴力",
+        "name_en": "血腥暴力",
+        "hex": "#B71C1C",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "血腥暴力"
+      },
+      {
+        "code": "E04",
+        "name_zh": "自然恐怖",
+        "name_en": "自然恐怖",
+        "hex": "#33691E",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "自然恐怖"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "自然日光",
+      "highlight_description": "暖色火光",
+      "shadow_description": "室内柔光",
+      "contrast_description": "高对比",
+      "overall_tone": "暖调"
+    },
+    "color_keywords": [
+      "日光恐怖色",
+      "民俗暖黄",
+      "木屋棕调",
+      "白昼恐惧",
+      "瑞典夏日色",
+      "家庭暖色"
+    ],
+    "mood_keywords": [
+      "日光恐怖",
+      "家庭创伤",
+      "民俗恐怖",
+      "悲伤恐惧",
+      "女性心理",
+      "存在焦虑"
+    ],
+    "composition_keywords": [
+      "对称构图",
+      "家庭空间",
+      "微缩模型",
+      "民俗仪式",
+      "缓慢恐怖",
+      "女性心理"
+    ],
+    "style_profile": {
+      "definition": "阿里·艾斯特的视觉风格：自然日光，日光恐怖色, 民俗暖黄, 木屋棕调。",
+      "lighting": "自然日光，暖色火光，室内柔光",
+      "framing": "对称构图、家庭空间、微缩模型。",
+      "grading": "整体色调暖调，对比度高对比。",
+      "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "108",
+      "relative_path": "第2期_SKILL_浓彩与梦幻_081-140/06_超现实梦幻与心理畸变/108_AriAster_阿里·艾斯特/assets/color_palettes/palette.json",
+      "sha256": "46160a31a0d2081cf39a875e5cbd046e85b963faa459600098438f7b0d23e6b9"
+    },
+    "source_entry_relative_dir": "第2期_SKILL_浓彩与梦幻_081-140/06_超现实梦幻与心理畸变/108_AriAster_阿里·艾斯特",
+    "source_records": [
+      {
+        "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/06_超现实梦幻与心理畸变/108_AriAster_阿里·艾斯特/assets/references/director-manifest.json",
+        "sha256": "dc052d597c0c088092e470b8d6fd02bd8fb91fa9b5494ef45d3f5386c1be4c0a",
+        "declared_url_count": 23,
+        "externally_verified": false
+      },
+      {
+        "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/06_超现实梦幻与心理畸变/108_AriAster_阿里·艾斯特/assets/references/sources.md",
+        "sha256": "a28361d9ed4023313ffd7e6eaa9d0de8de64e808b4f9fa65665b70f9b03b0044",
+        "declared_url_count": 23,
+        "externally_verified": false
+      }
+    ],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 0,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": null
+}

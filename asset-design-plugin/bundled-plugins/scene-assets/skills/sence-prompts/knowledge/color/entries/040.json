@@ -1,0 +1,191 @@
+{
+  "schema_version": "1.0.0",
+  "id": "040",
+  "label": {
+    "name_zh": "约翰·麦克蒂尔南",
+    "name_en": "John McTiernan",
+    "category": "02_霓虹黑色与赛博未来",
+    "source_volume": "第1期_SKILL_冷调与大地_001-080"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "潜艇钢蓝",
+        "name_en": "Submarine Steel Blue",
+        "hex": "#1E3040",
+        "source_ratio": 0.25,
+        "normalized_ratio": 0.25,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "丛林暗绿",
+        "name_en": "Jungle Dark Green",
+        "hex": "#1E2E1A",
+        "source_ratio": 0.2,
+        "normalized_ratio": 0.2,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "烟雾影黑",
+        "name_en": "Smoke Shadow Black",
+        "hex": "#2A2A2E",
+        "source_ratio": 0.2,
+        "normalized_ratio": 0.2,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "爆炸暖橙",
+        "name_en": "Explosion Warm Orange",
+        "hex": "#C45020",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "硬汉汗肤",
+        "name_en": "Tough Guy Sweat Skin",
+        "hex": "#9C7860",
+        "source_ratio": 0.12,
+        "normalized_ratio": 0.12,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "军事卡其",
+        "name_en": "Military Khaki",
+        "hex": "#6B6448",
+        "source_ratio": 0.08,
+        "normalized_ratio": 0.08,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "热成像红",
+        "name_en": "Thermal Imaging Red",
+        "hex": "#D04020",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "铁血战士热视觉、暴力、猎杀、热量签名"
+      },
+      {
+        "code": "E02",
+        "name_zh": "警灯蓝",
+        "name_en": "Police Light Blue",
+        "hex": "#2048B0",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "警察、警报、包围、危机逼近、城市夜"
+      },
+      {
+        "code": "E03",
+        "name_zh": "潜艇暗红",
+        "name_en": "Submarine Dark Red",
+        "hex": "#5A2020",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "苏联潜艇警报、危机红灯、冷战紧张"
+      },
+      {
+        "code": "E04",
+        "name_zh": "丛林湿绿",
+        "name_en": "Jungle Wet Green",
+        "hex": "#2A4A2A",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "雨林湿热、伪装隐匿、未知威胁、越南遗风"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "硬侧光+烟雾散射光，明暗分明的硬汉布光，实战质感",
+      "highlight_description": "暖橙/火光（爆炸、火焰、枪口焰）",
+      "shadow_description": "钢蓝/暗绿（夜战冷蓝+丛林绿暗，烟雾弥漫处呈烟灰）",
+      "contrast_description": "高对比（70-88%），烟雾柔化边缘但核心明暗分明",
+      "overall_tone": "暗调硬核动作，70%冷钢蓝暗绿烟灰 + 30%暖橙火光点缀"
+    },
+    "color_keywords": [
+      "暗调钢蓝",
+      "丛林暗绿",
+      "烟雾烟灰",
+      "爆炸暖橙",
+      "硬汉汗光",
+      "军事卡其",
+      "热成像红",
+      "警灯红蓝",
+      "枪口焰",
+      "油汗质感"
+    ],
+    "mood_keywords": [
+      "硬核硬汉",
+      "孤立无援",
+      "猫鼠猎杀",
+      "军事紧张",
+      "黑色幽默",
+      "蓝领英雄",
+      "80年代动作",
+      "烟雾迷漫",
+      "一触即发",
+      "原始暴力"
+    ],
+    "composition_keywords": [
+      "经典三幕式构景",
+      "低角度硬汉",
+      "烟雾弥漫纵深",
+      "热成像视角",
+      "手持战场感",
+      "轨道侧移跟拍",
+      "爆炸逆光剪影",
+      "封闭式空间压迫",
+      "军事地图俯拍",
+      "第一人称瞄准"
+    ],
+    "style_profile": {
+      "definition": "约翰·麦克蒂尔南的视觉风格以硬侧光+烟雾散射光，明暗分明的硬汉布光，实战质感为主，暗调钢蓝、丛林暗绿，营造出硬核硬汉的氛围。",
+      "lighting": "硬侧光+烟雾散射光，明暗分明的硬汉布光，实战质感，高光偏暖橙/火光（爆炸、火焰、枪口焰），阴影偏钢蓝/暗绿（夜战冷蓝+丛林绿暗，烟雾弥漫处呈烟灰），整体暗调硬核动作，70%冷钢蓝暗绿烟灰 + 30%暖橙火光点缀。",
+      "framing": "经典三幕式构景、低角度硬汉、烟雾弥漫纵深。",
+      "grading": "对比度高对比（70-88%），烟雾柔化边缘但核心明暗分明，色调暗调硬核动作，70%冷钢蓝暗绿烟灰 + 30%暖橙火光点缀。",
+      "avoid": "避免平光照明、避免色彩杂乱、避免构图失衡。"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "040",
+      "relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/040_JohnMcTiernan_约翰·麦克蒂尔南/assets/color_palettes/palette.json",
+      "sha256": "636ef6b8d68d03048b70c5493029c119f9e16a227b1273d11ea2f832187e63d5"
+    },
+    "source_entry_relative_dir": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/040_JohnMcTiernan_约翰·麦克蒂尔南",
+    "source_records": [],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 0,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": null
+}

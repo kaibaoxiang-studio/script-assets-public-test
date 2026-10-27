@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "002",
+  "films": [
+    {
+      "title_zh": "Alien 3",
+      "title_en": "Alien 3",
+      "year": 1992,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#000000",
+          "source_ratio": 38.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.381,
+          "source_luminance": 0,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#574D4A",
+          "source_ratio": 12.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.128,
+          "source_luminance": 0.0783,
+          "source_saturation": 0.1494
+        },
+        {
+          "hex": "#1C0E03",
+          "source_ratio": 11.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.115,
+          "source_luminance": 0.0057,
+          "source_saturation": 0.8929
+        },
+        {
+          "hex": "#302C2A",
+          "source_ratio": 7.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.079,
+          "source_luminance": 0.026,
+          "source_saturation": 0.125
+        },
+        {
+          "hex": "#4D3A30",
+          "source_ratio": 7.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.078,
+          "source_luminance": 0.0482,
+          "source_saturation": 0.3766
+        },
+        {
+          "hex": "#1E1C1E",
+          "source_ratio": 7.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.078,
+          "source_luminance": 0.012,
+          "source_saturation": 0.0667
+        },
+        {
+          "hex": "#57515B",
+          "source_ratio": 7.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.073,
+          "source_luminance": 0.0867,
+          "source_saturation": 0.1099
+        },
+        {
+          "hex": "#7880BE",
+          "source_ratio": 6.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.068,
+          "source_luminance": 0.2315,
+          "source_saturation": 0.3684
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/09/09/alien-3/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/002_DavidFincher_大卫·芬奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (50).jpg?bwg=1547142955",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/002_DavidFincher_大卫·芬奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (51).jpg?bwg=1547142955",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/002_DavidFincher_大卫·芬奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/43 (50).jpg?bwg=1547142954",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/002_DavidFincher_大卫·芬奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/64 (35).jpg?bwg=1547142954",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/002_DavidFincher_大卫·芬奇/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Panic Room",
+      "title_en": "Panic Room",
+      "year": 2002,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#010101",
+          "source_ratio": 25.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.256,
+          "source_luminance": 0.0003,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#2D372E",
+          "source_ratio": 12.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12300000000000001,
+          "source_luminance": 0.0349,
+          "source_saturation": 0.1818
+        },
+        {
+          "hex": "#231C0D",
+          "source_ratio": 11.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.113,
+          "source_luminance": 0.0122,
+          "source_saturation": 0.6286
+        },
+        {
+          "hex": "#08191C",
+          "source_ratio": 11.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.113,
+          "source_luminance": 0.0083,
+          "source_saturation": 0.7143
+        },
+        {
+          "hex": "#485848",
+          "source_ratio": 11.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.113,
+          "source_luminance": 0.0883,
+          "source_saturation": 0.1818
+        },
+        {
+          "hex": "#131912",
+          "source_ratio": 10,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.1,
+          "source_luminance": 0.0088,
+          "source_saturation": 0.28
+        },
+        {
+          "hex": "#434028",
+          "source_ratio": 9.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.092,
+          "source_luminance": 0.0501,
+          "source_saturation": 0.403
+        },
+        {
+          "hex": "#564526",
+          "source_ratio": 9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.09,
+          "source_luminance": 0.0637,
+          "source_saturation": 0.5581
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/08/22/panic-room/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/002_DavidFincher_大卫·芬奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (786).jpg?bwg=1547293904",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/002_DavidFincher_大卫·芬奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/21 (803).jpg?bwg=1547293904",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/002_DavidFincher_大卫·芬奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/41 (794).jpg?bwg=1547293904",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/002_DavidFincher_大卫·芬奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/61 (680).jpg?bwg=1547293904",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/002_DavidFincher_大卫·芬奇/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "The Girl With The Dragon Tattoo",
+      "title_en": "The Girl With The Dragon Tattoo",
+      "year": 2011,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#655422",
+          "source_ratio": 15.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.153,
+          "source_luminance": 0.0922,
+          "source_saturation": 0.6634
+        },
+        {
+          "hex": "#688596",
+          "source_ratio": 14.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.146,
+          "source_luminance": 0.2192,
+          "source_saturation": 0.3067
+        },
+        {
+          "hex": "#324A5F",
+          "source_ratio": 14.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.145,
+          "source_luminance": 0.064,
+          "source_saturation": 0.4737
+        },
+        {
+          "hex": "#425F74",
+          "source_ratio": 13.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.131,
+          "source_luminance": 0.106,
+          "source_saturation": 0.431
+        },
+        {
+          "hex": "#503F18",
+          "source_ratio": 12.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.122,
+          "source_luminance": 0.0533,
+          "source_saturation": 0.7
+        },
+        {
+          "hex": "#4C482B",
+          "source_ratio": 11,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11,
+          "source_luminance": 0.0635,
+          "source_saturation": 0.4342
+        },
+        {
+          "hex": "#0F0C06",
+          "source_ratio": 9.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.098,
+          "source_luminance": 0.0038,
+          "source_saturation": 0.6
+        },
+        {
+          "hex": "#271D09",
+          "source_ratio": 9.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.095,
+          "source_luminance": 0.0133,
+          "source_saturation": 0.7692
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/09/03/the-girl-with-the-dragon-tattoo/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/002_DavidFincher_大卫·芬奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1060).jpg?bwg=1547465197",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/002_DavidFincher_大卫·芬奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1082).jpg?bwg=1547465197",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/002_DavidFincher_大卫·芬奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1064).jpg?bwg=1547465196",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/002_DavidFincher_大卫·芬奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (729).jpg?bwg=1547465196",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/002_DavidFincher_大卫·芬奇/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "The Killer",
+      "title_en": "The Killer",
+      "year": 2023,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#6E7254",
+          "source_ratio": 14.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.145,
+          "source_luminance": 0.1599,
+          "source_saturation": 0.2632
+        },
+        {
+          "hex": "#010409",
+          "source_ratio": 13.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.13699999999999998,
+          "source_luminance": 0.0011,
+          "source_saturation": 0.8889
+        },
+        {
+          "hex": "#46371E",
+          "source_ratio": 13,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.13,
+          "source_luminance": 0.0413,
+          "source_saturation": 0.5714
+        },
+        {
+          "hex": "#E9EFED",
+          "source_ratio": 12.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.127,
+          "source_luminance": 0.8517,
+          "source_saturation": 0.0251
+        },
+        {
+          "hex": "#A0A483",
+          "source_ratio": 12,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12,
+          "source_luminance": 0.3566,
+          "source_saturation": 0.2012
+        },
+        {
+          "hex": "#26545C",
+          "source_ratio": 11.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11699999999999999,
+          "source_luminance": 0.0753,
+          "source_saturation": 0.587
+        },
+        {
+          "hex": "#5E593D",
+          "source_ratio": 11.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.115,
+          "source_luminance": 0.0986,
+          "source_saturation": 0.3511
+        },
+        {
+          "hex": "#859971",
+          "source_ratio": 10.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.109,
+          "source_luminance": 0.2896,
+          "source_saturation": 0.2614
+        }
+      ],
+      "source_ratio_sum": 100.00000000000001,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2023/11/13/the-killer/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/002_DavidFincher_大卫·芬奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Killer_01.jpg?bwg=1699896482",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/002_DavidFincher_大卫·芬奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Killer_22.jpg?bwg=1699896480",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/002_DavidFincher_大卫·芬奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Killer_44.jpg?bwg=1699896480",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/002_DavidFincher_大卫·芬奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Killer_65.jpg?bwg=1699896480",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/002_DavidFincher_大卫·芬奇/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/002_DavidFincher_大卫·芬奇/assets/references/reference_director_manifest.json",
+      "sha256": "03d921edf9a167ddcd36f43285c2be07d875e01bcb0bd463fdf1b68d8ac9d4cd",
+      "declared_urls": [
+        "https://film-grab.com/2014/09/09/alien-3/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (50).jpg?bwg=1547142955",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (51).jpg?bwg=1547142955",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/43 (50).jpg?bwg=1547142954",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/64 (35).jpg?bwg=1547142954",
+        "https://film-grab.com/2014/08/22/panic-room/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (786).jpg?bwg=1547293904",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/21 (803).jpg?bwg=1547293904",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/41 (794).jpg?bwg=1547293904",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/61 (680).jpg?bwg=1547293904",
+        "https://film-grab.com/2014/09/03/the-girl-with-the-dragon-tattoo/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1060).jpg?bwg=1547465197",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1082).jpg?bwg=1547465197",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1064).jpg?bwg=1547465196",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (729).jpg?bwg=1547465196",
+        "https://film-grab.com/2023/11/13/the-killer/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Killer_01.jpg?bwg=1699896482",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Killer_22.jpg?bwg=1699896480",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Killer_44.jpg?bwg=1699896480",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Killer_65.jpg?bwg=1699896480"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/002_DavidFincher_大卫·芬奇/assets/references/reference_sources.md",
+      "sha256": "e9fb4aecf30015a05fb6acbd7652a5cb7fe6c628c5f1575418b9d2a165924801",
+      "declared_urls": [
+        "https://film-grab.com/2014/09/09/alien-3/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (50).jpg?bwg=1547142955",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (51).jpg?bwg=1547142955",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/43 (50).jpg?bwg=1547142954",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/64 (35).jpg?bwg=1547142954",
+        "https://film-grab.com/2014/08/22/panic-room/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (786).jpg?bwg=1547293904",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/21 (803).jpg?bwg=1547293904",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/41 (794).jpg?bwg=1547293904",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/61 (680).jpg?bwg=1547293904",
+        "https://film-grab.com/2014/09/03/the-girl-with-the-dragon-tattoo/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1060).jpg?bwg=1547465197",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1082).jpg?bwg=1547465197",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1064).jpg?bwg=1547465196",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (729).jpg?bwg=1547465196",
+        "https://film-grab.com/2023/11/13/the-killer/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Killer_01.jpg?bwg=1699896482",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Killer_22.jpg?bwg=1699896480",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Killer_44.jpg?bwg=1699896480",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Killer_65.jpg?bwg=1699896480"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

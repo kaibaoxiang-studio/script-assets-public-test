@@ -1,0 +1,194 @@
+{
+  "schema_version": "1.0.0",
+  "id": "067",
+  "label": {
+    "name_zh": "考里斯马基",
+    "name_en": "AkiKaurismaki",
+    "category": "04_极简冷构与静观长镜",
+    "source_volume": "第1期_SKILL_冷调与大地_001-080"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "工人蓝",
+        "name_en": "Working Class Blue",
+        "hex": "#4A6B8A",
+        "source_ratio": 0.22,
+        "normalized_ratio": 0.22,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "芬兰灰蓝",
+        "name_en": "Finnish Gray Blue",
+        "hex": "#8B9DAF",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "复古米黄",
+        "name_en": "Vintage Beige",
+        "hex": "#C4B896",
+        "source_ratio": 0.16,
+        "normalized_ratio": 0.16,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "钢灰蓝",
+        "name_en": "Steel Gray Blue",
+        "hex": "#6B7D8E",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "旧墙米",
+        "name_en": "Old Wall Beige",
+        "hex": "#D4C8A8",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "深海蓝",
+        "name_en": "Deep Sea Blue",
+        "hex": "#2E4A66",
+        "source_ratio": 0.16,
+        "normalized_ratio": 0.16,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "",
+        "name_en": "Emotional 1",
+        "hex": "#5B7D9E",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "工人尊严"
+      },
+      {
+        "code": "E02",
+        "name_zh": "",
+        "name_en": "Emotional 2",
+        "hex": "#B8A882",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "温情默默"
+      },
+      {
+        "code": "E03",
+        "name_zh": "",
+        "name_en": "Emotional 3",
+        "hex": "#7A8B9C",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "冷面幽默"
+      },
+      {
+        "code": "E04",
+        "name_zh": "",
+        "name_en": "Emotional 4",
+        "hex": "#1E3A56",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "生活重压"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "柔光平光",
+      "highlight_description": "复古影棚光",
+      "shadow_description": "冷色调为主",
+      "contrast_description": "中高对比",
+      "overall_tone": "冷调"
+    },
+    "color_keywords": [
+      "低饱和蓝",
+      "复古色调",
+      "工人阶级色",
+      "芬兰冷调",
+      "米黄暖调",
+      "黑白感色彩"
+    ],
+    "mood_keywords": [
+      "冷面幽默",
+      "工人诗意",
+      "静默温情",
+      "生存尊严",
+      "复古怀旧",
+      "芬兰式忧郁"
+    ],
+    "composition_keywords": [
+      "对称构图",
+      "平面感",
+      "复古影棚",
+      "工人空间",
+      "酒吧场景",
+      "音乐表演"
+    ],
+    "style_profile": {
+      "definition": "考里斯马基的视觉风格以柔光平光为主，低饱和蓝、复古色调、工人阶级色，营造出冷面幽默的氛围。",
+      "lighting": "柔光平光，高光偏复古影棚光，阴影偏冷色调为主，整体冷调。",
+      "composition": [],
+      "mood": [],
+      "framing": "对称构图、平面感、复古影棚，强调视觉层次感。",
+      "grading": "对比度中高对比，色调冷调，色彩低饱和蓝、复古色调、工人阶级色。",
+      "avoid": "避免快速剪辑、避免强烈明暗对比、避免色彩杂乱"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "067",
+      "relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/067_AkiKaurismaki_考里斯马基/assets/color_palettes/palette.json",
+      "sha256": "0047c2fa3e96dddde676778d7b0eac116c834ccf495e9fb428ad1216ef1d7b24"
+    },
+    "source_entry_relative_dir": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/067_AkiKaurismaki_考里斯马基",
+    "source_records": [
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/067_AkiKaurismaki_考里斯马基/assets/references/reference_director_manifest.json",
+        "sha256": "ad591e6801b013b93e4217a4fed66b0314735a02dff83ca484e20dc51df612c2",
+        "declared_url_count": 20,
+        "externally_verified": false
+      },
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/067_AkiKaurismaki_考里斯马基/assets/references/reference_sources.md",
+        "sha256": "aaf00ca66efef823e9bdffca3b69662f9cd8913e7f3a98d2bdefb03f5384d042",
+        "declared_url_count": 20,
+        "externally_verified": false
+      }
+    ],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 0,
+      "source_only": 4
+    }
+  },
+  "film_reference_path": "film-references/067.json"
+}

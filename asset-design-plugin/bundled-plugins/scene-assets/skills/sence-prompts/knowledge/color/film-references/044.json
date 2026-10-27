@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "044",
+  "films": [
+    {
+      "title_zh": "Cronos",
+      "title_en": "Cronos",
+      "year": 1993,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#211C1C",
+          "source_ratio": 16.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.166,
+          "source_luminance": 0.0124,
+          "source_saturation": 0.1515
+        },
+        {
+          "hex": "#140302",
+          "source_ratio": 16.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.161,
+          "source_luminance": 0.0022,
+          "source_saturation": 0.9
+        },
+        {
+          "hex": "#404350",
+          "source_ratio": 14.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14800000000000002,
+          "source_luminance": 0.0568,
+          "source_saturation": 0.2
+        },
+        {
+          "hex": "#212733",
+          "source_ratio": 12.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.121,
+          "source_luminance": 0.0201,
+          "source_saturation": 0.3529
+        },
+        {
+          "hex": "#573228",
+          "source_ratio": 11.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11800000000000001,
+          "source_luminance": 0.0446,
+          "source_saturation": 0.5402
+        },
+        {
+          "hex": "#6E4844",
+          "source_ratio": 11,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11,
+          "source_luminance": 0.0837,
+          "source_saturation": 0.3818
+        },
+        {
+          "hex": "#392118",
+          "source_ratio": 8.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.08900000000000001,
+          "source_luminance": 0.0202,
+          "source_saturation": 0.5789
+        },
+        {
+          "hex": "#433131",
+          "source_ratio": 8.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.087,
+          "source_luminance": 0.0361,
+          "source_saturation": 0.2687
+        }
+      ],
+      "source_ratio_sum": 100.00000000000001,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2015/05/21/cronos/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/044_GuillermodelToro_吉尔莫·德尔·托罗/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (276).jpg?bwg=1547208836",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/044_GuillermodelToro_吉尔莫·德尔·托罗/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (281).jpg?bwg=1547208834",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/044_GuillermodelToro_吉尔莫·德尔·托罗/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (275).jpg?bwg=1547208834",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/044_GuillermodelToro_吉尔莫·德尔·托罗/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (190).jpg?bwg=1547208834",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/044_GuillermodelToro_吉尔莫·德尔·托罗/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Hellboy",
+      "title_en": "Hellboy",
+      "year": 2004,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#0A1732",
+          "source_ratio": 16.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.166,
+          "source_luminance": 0.0091,
+          "source_saturation": 0.8
+        },
+        {
+          "hex": "#03284D",
+          "source_ratio": 15.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.151,
+          "source_luminance": 0.0207,
+          "source_saturation": 0.961
+        },
+        {
+          "hex": "#57070E",
+          "source_ratio": 13.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.136,
+          "source_luminance": 0.0221,
+          "source_saturation": 0.9195
+        },
+        {
+          "hex": "#010B21",
+          "source_ratio": 13.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.134,
+          "source_luminance": 0.0036,
+          "source_saturation": 0.9697
+        },
+        {
+          "hex": "#05121D",
+          "source_ratio": 13.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.132,
+          "source_luminance": 0.0055,
+          "source_saturation": 0.8276
+        },
+        {
+          "hex": "#02233D",
+          "source_ratio": 10.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.105,
+          "source_luminance": 0.0155,
+          "source_saturation": 0.9672
+        },
+        {
+          "hex": "#183B6D",
+          "source_ratio": 8.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.08900000000000001,
+          "source_luminance": 0.0443,
+          "source_saturation": 0.7798
+        },
+        {
+          "hex": "#000008",
+          "source_ratio": 8.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.087,
+          "source_luminance": 0.0002,
+          "source_saturation": 1
+        }
+      ],
+      "source_ratio_sum": 100.00000000000001,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2015/07/09/hellboy/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/044_GuillermodelToro_吉尔莫·德尔·托罗/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (450).jpg?bwg=1547220224",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/044_GuillermodelToro_吉尔莫·德尔·托罗/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (459).jpg?bwg=1547220224",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/044_GuillermodelToro_吉尔莫·德尔·托罗/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (449).jpg?bwg=1547220223",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/044_GuillermodelToro_吉尔莫·德尔·托罗/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (301).jpg?bwg=1547220223",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/044_GuillermodelToro_吉尔莫·德尔·托罗/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Crimson Peak",
+      "title_en": "Crimson Peak",
+      "year": 2015,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#020202",
+          "source_ratio": 19.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.19699999999999998,
+          "source_luminance": 0.0006,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#5D0102",
+          "source_ratio": 13.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.131,
+          "source_luminance": 0.0235,
+          "source_saturation": 0.9892
+        },
+        {
+          "hex": "#676988",
+          "source_ratio": 12.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.121,
+          "source_luminance": 0.1476,
+          "source_saturation": 0.2426
+        },
+        {
+          "hex": "#071020",
+          "source_ratio": 12,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12,
+          "source_luminance": 0.0052,
+          "source_saturation": 0.7812
+        },
+        {
+          "hex": "#444763",
+          "source_ratio": 10.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.109,
+          "source_luminance": 0.0664,
+          "source_saturation": 0.3131
+        },
+        {
+          "hex": "#921818",
+          "source_ratio": 10.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10800000000000001,
+          "source_luminance": 0.0683,
+          "source_saturation": 0.8356
+        },
+        {
+          "hex": "#460202",
+          "source_ratio": 10.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.107,
+          "source_luminance": 0.0135,
+          "source_saturation": 0.9714
+        },
+        {
+          "hex": "#88A1D9",
+          "source_ratio": 10.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.107,
+          "source_luminance": 0.3573,
+          "source_saturation": 0.3733
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2016/03/25/crimson-peak/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/044_GuillermodelToro_吉尔莫·德尔·托罗/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/013 (1).jpg?bwg=1547136305",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/044_GuillermodelToro_吉尔莫·德尔·托罗/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/223 (1).jpg?bwg=1547136304",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/044_GuillermodelToro_吉尔莫·德尔·托罗/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/443 (1).jpg?bwg=1547136304",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/044_GuillermodelToro_吉尔莫·德尔·托罗/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/651 (1).jpg?bwg=1547136304",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/044_GuillermodelToro_吉尔莫·德尔·托罗/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Frankenstein (2025)",
+      "title_en": "Frankenstein (2025)",
+      "year": 2025,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#316174",
+          "source_ratio": 15.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.152,
+          "source_luminance": 0.1046,
+          "source_saturation": 0.5776
+        },
+        {
+          "hex": "#09120D",
+          "source_ratio": 14,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14,
+          "source_luminance": 0.0052,
+          "source_saturation": 0.5
+        },
+        {
+          "hex": "#757B75",
+          "source_ratio": 14,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14,
+          "source_luminance": 0.1923,
+          "source_saturation": 0.0488
+        },
+        {
+          "hex": "#93978B",
+          "source_ratio": 12.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.125,
+          "source_luminance": 0.302,
+          "source_saturation": 0.0795
+        },
+        {
+          "hex": "#27251D",
+          "source_ratio": 11.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11900000000000001,
+          "source_luminance": 0.0184,
+          "source_saturation": 0.2564
+        },
+        {
+          "hex": "#144451",
+          "source_ratio": 11.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11199999999999999,
+          "source_luminance": 0.0488,
+          "source_saturation": 0.7531
+        },
+        {
+          "hex": "#9FACA3",
+          "source_ratio": 10.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.107,
+          "source_luminance": 0.3952,
+          "source_saturation": 0.0756
+        },
+        {
+          "hex": "#182921",
+          "source_ratio": 10.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.105,
+          "source_luminance": 0.0189,
+          "source_saturation": 0.4146
+        }
+      ],
+      "source_ratio_sum": 100.00000000000001,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2026/02/20/frankenstein-2025/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/044_GuillermodelToro_吉尔莫·德尔·托罗/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Frankenstein_2025_01.jpg?bwg=1771606999",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/044_GuillermodelToro_吉尔莫·德尔·托罗/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Frankenstein_2025_22.jpg?bwg=1771606997",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/044_GuillermodelToro_吉尔莫·德尔·托罗/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Frankenstein_2025_44.jpg?bwg=1771606997",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/044_GuillermodelToro_吉尔莫·德尔·托罗/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Frankenstein_2025_65.jpg?bwg=1771606997",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/044_GuillermodelToro_吉尔莫·德尔·托罗/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/044_GuillermodelToro_吉尔莫·德尔·托罗/assets/references/reference_director_manifest.json",
+      "sha256": "e7a1ea0083359d7cf73dfc19bdb8fbe39cbc5b1df2185ec103173bc96a850950",
+      "declared_urls": [
+        "https://film-grab.com/2015/05/21/cronos/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (276).jpg?bwg=1547208836",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (281).jpg?bwg=1547208834",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (275).jpg?bwg=1547208834",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (190).jpg?bwg=1547208834",
+        "https://film-grab.com/2015/07/09/hellboy/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (450).jpg?bwg=1547220224",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (459).jpg?bwg=1547220224",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (449).jpg?bwg=1547220223",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (301).jpg?bwg=1547220223",
+        "https://film-grab.com/2016/03/25/crimson-peak/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/013 (1).jpg?bwg=1547136305",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/223 (1).jpg?bwg=1547136304",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/443 (1).jpg?bwg=1547136304",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/651 (1).jpg?bwg=1547136304",
+        "https://film-grab.com/2026/02/20/frankenstein-2025/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Frankenstein_2025_01.jpg?bwg=1771606999",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Frankenstein_2025_22.jpg?bwg=1771606997",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Frankenstein_2025_44.jpg?bwg=1771606997",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Frankenstein_2025_65.jpg?bwg=1771606997"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/044_GuillermodelToro_吉尔莫·德尔·托罗/assets/references/reference_sources.md",
+      "sha256": "54e9f8289037736c60ec5b4d2ca71018158ae3ad3475f86863bfa9733c7f275e",
+      "declared_urls": [
+        "https://film-grab.com/2015/05/21/cronos/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (276).jpg?bwg=1547208836",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (281).jpg?bwg=1547208834",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (275).jpg?bwg=1547208834",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (190).jpg?bwg=1547208834",
+        "https://film-grab.com/2015/07/09/hellboy/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (450).jpg?bwg=1547220224",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (459).jpg?bwg=1547220224",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (449).jpg?bwg=1547220223",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (301).jpg?bwg=1547220223",
+        "https://film-grab.com/2016/03/25/crimson-peak/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/013 (1).jpg?bwg=1547136305",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/223 (1).jpg?bwg=1547136304",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/443 (1).jpg?bwg=1547136304",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/651 (1).jpg?bwg=1547136304",
+        "https://film-grab.com/2026/02/20/frankenstein-2025/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Frankenstein_2025_01.jpg?bwg=1771606999",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Frankenstein_2025_22.jpg?bwg=1771606997",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Frankenstein_2025_44.jpg?bwg=1771606997",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Frankenstein_2025_65.jpg?bwg=1771606997"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

@@ -1,0 +1,2955 @@
+{
+  "schema_version": "CharacterKnowledgeAdoptionV1",
+  "sources": [
+    {
+      "id": "hair",
+      "archive": "发型设计知识库.zip",
+      "archive_sha256": "54c08406b4382ea0f4b7a749055ce9f86743a8257d0f2588254252fff1928abb",
+      "ingested_sha256": "0640af5dd894c8839615eef90c66b1419d3f532d890464d2b40a7da5594a84fd",
+      "capability": "character-hair-design",
+      "rules": "knowledge-rules/hair.md",
+      "members": [
+        {
+          "path": "发型设计知识库/00_知识库总览与学习路径.md",
+          "sha256": "e158c42779ebd774274f54b3651f8e1b29d435d669c25f479ca9daddc4eae5ab",
+          "bytes": 7202
+        },
+        {
+          "path": "发型设计知识库/模块一_头发基础结构/01_头发的生理结构与生长周期.md",
+          "sha256": "e445657d1f83e04fe9c862301190cccb31faab1cd789a07fae69af03f4b3f23c",
+          "bytes": 8473
+        },
+        {
+          "path": "发型设计知识库/模块一_头发基础结构/02_头发生长方向与发流规律.md",
+          "sha256": "57aacd6a88b984ff0da7b3e5b92dc96e90ea71c1ba4fe7ef451410e508dedd1f",
+          "bytes": 6364
+        },
+        {
+          "path": "发型设计知识库/模块一_头发基础结构/03_发旋的类型与绘制规律.md",
+          "sha256": "2a22eb23eb3e14c7f2eaa6a466cf50ee8f1303981b184b05d04018afc85b77be",
+          "bytes": 5771
+        },
+        {
+          "path": "发型设计知识库/模块一_头发基础结构/04_发量分布与密度设计.md",
+          "sha256": "c7a10fea24f09d58a992f743112cf256fd37fbe01357bec9f015a41447dd3d65",
+          "bytes": 6054
+        },
+        {
+          "path": "发型设计知识库/模块一_头发基础结构/05_发际线形状与设计.md",
+          "sha256": "0313de5b337fad0df37716e76c8cd503d8fd9e1a4402e53713ff594cdef1fb7e",
+          "bytes": 5729
+        },
+        {
+          "path": "发型设计知识库/模块一_头发基础结构/06_颅骨结构与头皮分区.md",
+          "sha256": "913e143a51def3d3f177f9075f641ddae996768df09ee73b652b007b46a03d3c",
+          "bytes": 6006
+        },
+        {
+          "path": "发型设计知识库/模块三_发型风格与性格外化/11_性格类型与发型风格映射.md",
+          "sha256": "0d0e98813f37a33da3b74b4a5faa49a90fe4447fcca97530b9789ebf873c6271",
+          "bytes": 5821
+        },
+        {
+          "path": "发型设计知识库/模块三_发型风格与性格外化/12_记忆点设计_标志性发型元素.md",
+          "sha256": "54416a5d43d7fc71e9753dda4eff2e0b9a3373bd68ef5490f3d54d3ba7217b4c",
+          "bytes": 4760
+        },
+        {
+          "path": "发型设计知识库/模块三_发型风格与性格外化/13_气质类型与发型语言.md",
+          "sha256": "4ef492e377b6087b13d4052f20690acb99f3bd42d85ea617be6c70bf2908a44e",
+          "bytes": 5896
+        },
+        {
+          "path": "发型设计知识库/模块三_发型风格与性格外化/14_发型作为时代地域与文化符号.md",
+          "sha256": "3e91d160ba7c5828ba99cad37489bea4d429b511552aec20cfd0e3a22a87d75f",
+          "bytes": 5665
+        },
+        {
+          "path": "发型设计知识库/模块二_脸型与发型适配/07_脸型测量与分类体系.md",
+          "sha256": "e0379067c94660f7d1597f4e94d210766abc30096873c58b1a5105688d64ac24",
+          "bytes": 5506
+        },
+        {
+          "path": "发型设计知识库/模块二_脸型与发型适配/08_八大脸型适配发型图谱.md",
+          "sha256": "a13737f0a4b6ea29de854102c54cffa7b1e80a374cd5ba3ad5a12b09832fb311",
+          "bytes": 6017
+        },
+        {
+          "path": "发型设计知识库/模块二_脸型与发型适配/09_发型修饰脸型的视觉技法.md",
+          "sha256": "2d8ddb87751795433bb76ac6482a4f2032081ab49c0cf16244c0daccd8865a60",
+          "bytes": 5442
+        },
+        {
+          "path": "发型设计知识库/模块二_脸型与发型适配/10_三庭五眼与发型设计.md",
+          "sha256": "31aa7054d1845d5ec952a02d796451c7bcf6a43c0a3394a3c34b2a54a52b8914",
+          "bytes": 6268
+        },
+        {
+          "path": "发型设计知识库/模块四_发型视觉表现/15_发丝质感表现.md",
+          "sha256": "940956de2ffb8229a3c72625b895cba524f7aca1ae2f31dc748319967b0ec375",
+          "bytes": 5486
+        },
+        {
+          "path": "发型设计知识库/模块四_发型视觉表现/16_发尾处理与剪裁语言.md",
+          "sha256": "9281f36414db85983beda101c793fc184d3302240ffccea86b628c597c742653",
+          "bytes": 4808
+        },
+        {
+          "path": "发型设计知识库/模块四_发型视觉表现/17_发色设计体系.md",
+          "sha256": "44e561a6fc21dfbbaa5ea714997cb4d378d0fa336d981f9bf264046e2e5526e7",
+          "bytes": 5330
+        },
+        {
+          "path": "发型设计知识库/模块四_发型视觉表现/18_发型动态与物理表现.md",
+          "sha256": "f528e9927467404ab7650a96bd30940c2766b3dd954b4720a705919c84c9e694",
+          "bytes": 5393
+        },
+        {
+          "path": "发型设计知识库/模块四_发型视觉表现/19_发型层次与体积结构.md",
+          "sha256": "25ce7946f51def247585fcb66c85bdc24b13e37387d0fc33db7ea6cc58dcf224",
+          "bytes": 4861
+        },
+        {
+          "path": "发型设计知识库/模块四_发型视觉表现/20_发型与饰品搭配.md",
+          "sha256": "66c376a3b6d6be35fae529ef3127605b5c768ee6998e238a90a347d581434f77",
+          "bytes": 5470
+        }
+      ]
+    },
+    {
+      "id": "body",
+      "archive": "形体体态设计知识库.zip",
+      "archive_sha256": "00136fde7b8cf5f68f7a1d431cf15aef73e1d8c2b395882a8091cd40e0c61d30",
+      "ingested_sha256": "1fd297cc5722ab09ab2f58fe4692ce34064ca2918b732179569b771727689621",
+      "capability": "character-body-design",
+      "rules": "knowledge-rules/body.md",
+      "members": [
+        {
+          "path": "形体体态设计知识库/01-基础人体比例/00-模块总览与比例检查清单.md",
+          "sha256": "47fd9b9874229f7801a54bb658b780d74013f9b7bca4828abd3604c2640da57b",
+          "bytes": 3329
+        },
+        {
+          "path": "形体体态设计知识库/01-基础人体比例/01-头身比.md",
+          "sha256": "5bead18c30c482cea709ae710180b0d74bb01b373c66e092353056dbd9dda92d",
+          "bytes": 6143
+        },
+        {
+          "path": "形体体态设计知识库/01-基础人体比例/02-头肩比.md",
+          "sha256": "f7508770efe492c08085d3f2fb3403fd410c3473fd6f22f44169b8e4c45c4740",
+          "bytes": 4903
+        },
+        {
+          "path": "形体体态设计知识库/01-基础人体比例/03-腰臀比.md",
+          "sha256": "733caf478e825a03ada5ce89fd39aa3b968501e01b42c851936b0c13f20033e5",
+          "bytes": 4738
+        },
+        {
+          "path": "形体体态设计知识库/01-基础人体比例/04-上下身比例与腿身比.md",
+          "sha256": "3d0aee7ea30bc6796fb3e9ceb5977a3d17e478fc8153ec852136eae32b70a689",
+          "bytes": 4582
+        },
+        {
+          "path": "形体体态设计知识库/01-基础人体比例/05-不同性别的标准比例.md",
+          "sha256": "5569ab13e8f84d265ea22f29771146b95c52d6fff120442d2f694aaf393194d0",
+          "bytes": 5067
+        },
+        {
+          "path": "形体体态设计知识库/01-基础人体比例/06-不同年龄的标准比例.md",
+          "sha256": "44203b887265d11d4b78348348ab5ae0f27b9771bed4fb6b7bccbee916e5665d",
+          "bytes": 4939
+        },
+        {
+          "path": "形体体态设计知识库/02-性格与体态设计/00-模块总览与体态-性格对照表.md",
+          "sha256": "edc52d661fa4ff348e8a54ac4f6c762f41aeef4b9b6525e04d69801c35ea5fc1",
+          "bytes": 3684
+        },
+        {
+          "path": "形体体态设计知识库/02-性格与体态设计/01-性格与体态的原理.md",
+          "sha256": "145ff87d9e60d0b10f6dc68a75c782522f86f211c9dd63fbadf60bcdfad7ae01",
+          "bytes": 5762
+        },
+        {
+          "path": "形体体态设计知识库/02-性格与体态设计/02-不同性格的站姿设计.md",
+          "sha256": "76f8ef2490d5e4469bb37a7bf55a2f3fdd8311095f150a7c466982d26c90f695",
+          "bytes": 5149
+        },
+        {
+          "path": "形体体态设计知识库/02-性格与体态设计/03-不同性格的走姿设计.md",
+          "sha256": "0018f08e6803abeda61f71489d8da174b2fb5d4010d3198f61d8bd6cd053c597",
+          "bytes": 5692
+        },
+        {
+          "path": "形体体态设计知识库/02-性格与体态设计/04-不同性格的坐姿设计.md",
+          "sha256": "3f7a7e023c0d02e303fa48952e7a8c446776766e8a01563c1afb98bcd2d0f260",
+          "bytes": 4582
+        },
+        {
+          "path": "形体体态设计知识库/02-性格与体态设计/05-体态外化性格的方法论.md",
+          "sha256": "d097ccb1ab2de2acfc538c7dcfab8ec20a8a8cd1cf5778eed4f383ff166e8f97",
+          "bytes": 5603
+        },
+        {
+          "path": "形体体态设计知识库/02-性格与体态设计/06-突出人物特征与记忆点.md",
+          "sha256": "a5c689bf2f6dd7f5829ad5fc68b92a357380fdb70233d1a37ad6a03973498f11",
+          "bytes": 4470
+        },
+        {
+          "path": "形体体态设计知识库/03-体型分类与极端体型/00-模块总览与体型矩阵.md",
+          "sha256": "9289638b7bfd39d4efdc55956c4ca7e6904f273141ce30da2a35227428a9d570",
+          "bytes": 4226
+        },
+        {
+          "path": "形体体态设计知识库/03-体型分类与极端体型/01-体型分类总览（谢尔登三大体型）.md",
+          "sha256": "1cd9769809aef3e6bd112244b48593258485c783454b68d57bd5d945343d4d7c",
+          "bytes": 4589
+        },
+        {
+          "path": "形体体态设计知识库/03-体型分类与极端体型/02-胖型体型设计.md",
+          "sha256": "68edb17553cb96fe3bac276151c4f4b92d40e3a17a15220a1b00661bb2638b9c",
+          "bytes": 4446
+        },
+        {
+          "path": "形体体态设计知识库/03-体型分类与极端体型/03-瘦型体型设计.md",
+          "sha256": "2e5d4557e79d2738de3a845f8b88b66869e7915ec30331640ea894d26cf85af0",
+          "bytes": 4011
+        },
+        {
+          "path": "形体体态设计知识库/03-体型分类与极端体型/04-高矮体型设计.md",
+          "sha256": "ceaafd7bd65ef7b0883d2b4795e1f3c950e735eb7a9cd9723cc6abc2e912f10b",
+          "bytes": 3540
+        },
+        {
+          "path": "形体体态设计知识库/03-体型分类与极端体型/05-肌肉型体型设计.md",
+          "sha256": "8459885d46c3b000985602831f48d9c63e01aae2f51166894bc704ecfc39a7c7",
+          "bytes": 4233
+        },
+        {
+          "path": "形体体态设计知识库/03-体型分类与极端体型/06-纤细型体型设计.md",
+          "sha256": "ff22f8d247c344897e3000bb87e5109e28e96109d03911ad2433c0943049973b",
+          "bytes": 3274
+        },
+        {
+          "path": "形体体态设计知识库/03-体型分类与极端体型/07-极端体型与夸张化设计.md",
+          "sha256": "ea94a7d1865e6d6d7991c0fbcb27a9188b74084a856c4bed465dadeb97d55d55",
+          "bytes": 4494
+        },
+        {
+          "path": "形体体态设计知识库/03-体型分类与极端体型/08-特殊比例与风格化变形.md",
+          "sha256": "207bbf06f658db39b728e014412166c4d6da7c4097e28aff0036789d0c657e18",
+          "bytes": 4506
+        },
+        {
+          "path": "形体体态设计知识库/04-体态与角色表达/00-模块总览与体态表达参数表.md",
+          "sha256": "c429feff92f6add8929cf107d963524b9b37bd623f004a1118bb04c6a410468f",
+          "bytes": 3083
+        },
+        {
+          "path": "形体体态设计知识库/04-体态与角色表达/01-站姿的情绪表达.md",
+          "sha256": "6680993f3161e8b827978a09429ca98a6e59bac1857278563b01745817df076f",
+          "bytes": 4152
+        },
+        {
+          "path": "形体体态设计知识库/04-体态与角色表达/02-走姿的性格表达.md",
+          "sha256": "836e7ef628ba935d542862ef16d08c4a56cf01cc870dbd2166d38aea85165c8c",
+          "bytes": 3456
+        },
+        {
+          "path": "形体体态设计知识库/04-体态与角色表达/03-手势的含义.md",
+          "sha256": "2f3ae0c82954a4b584afef9dcac02f098b8ba657eb3f988bf1263330c575ff75",
+          "bytes": 4020
+        },
+        {
+          "path": "形体体态设计知识库/04-体态与角色表达/04-身体朝向与心理.md",
+          "sha256": "0c0cc74d95470dab203513cab500c0cf1b7a78376f68c24437c9262c7e15b823",
+          "bytes": 3594
+        },
+        {
+          "path": "形体体态设计知识库/04-体态与角色表达/05-动态与静态的对比.md",
+          "sha256": "9cfa58097da3267e49fa0ed50ea8dfd1c73b3978f2f067e7ff68a15a8bd55452",
+          "bytes": 4228
+        },
+        {
+          "path": "形体体态设计知识库/04-体态与角色表达/06-不同职业的体态特征.md",
+          "sha256": "685936caed8b35eb6be03f3252adcfaf5cfcb589f4e874cf45a8e5fac4b7108b",
+          "bytes": 4725
+        },
+        {
+          "path": "形体体态设计知识库/README.md",
+          "sha256": "1eb542dd6beb4a75694e0d297029fb021208ed2f94fabe202cf8c0a0ed24cad7",
+          "bytes": 6231
+        }
+      ]
+    },
+    {
+      "id": "face",
+      "archive": "五官与面部差异化设计知识库.zip",
+      "archive_sha256": "2c322d0bdf76ea3b2dbd17115cf63e0f4f1f2b8ba24565a9e7f790a18bf076cb",
+      "ingested_sha256": "129d6c39ad61723a17e709b5e3efd09b7615caca7c7245fd0b4a7240d923bc10",
+      "capability": "character-face-design",
+      "rules": "knowledge-rules/face.md",
+      "members": [
+        {
+          "path": "五官与面部差异化设计知识库/01-三庭五眼与面部比例基准.md",
+          "sha256": "147623a7795737eeb0e18daa55b365206929d1d3caf5afbc03faa9526d692e52",
+          "bytes": 8935
+        },
+        {
+          "path": "五官与面部差异化设计知识库/02-面部骨骼结构：颅骨如何决定脸的轮廓.md",
+          "sha256": "72f1aee29d02f9c0ac8830a98aeebf539634f966c7f13139ba2ff4d73c00c452",
+          "bytes": 8784
+        },
+        {
+          "path": "五官与面部差异化设计知识库/03-面部肌肉与表情机理.md",
+          "sha256": "6e43259e7b2cf7d04b631eb93ba120f2856127d64b390e7cfef36815ffa24b48",
+          "bytes": 8550
+        },
+        {
+          "path": "五官与面部差异化设计知识库/04-五官位置关系与基准线系统.md",
+          "sha256": "76979e89a8839a800a7e39f1dde25e686c7f7f70aa305c5912648aef37e3c4aa",
+          "bytes": 7028
+        },
+        {
+          "path": "五官与面部差异化设计知识库/05-平均脸假说：为什么标准美人没有记忆点.md",
+          "sha256": "92241a106e89b5ef6db10b4b0c955788e62ec870885869591f9f5442cfa99fed",
+          "bytes": 9325
+        },
+        {
+          "path": "五官与面部差异化设计知识库/06-面孔独特性与漫画效应.md",
+          "sha256": "47f926a8495cfc1f098dac5db0df5c877a1f18f9c3c034300c04a8883c090c80",
+          "bytes": 8174
+        },
+        {
+          "path": "五官与面部差异化设计知识库/07-不对称、缺陷与不完美的叙事价值.md",
+          "sha256": "edf1e024ef0d8b5ff241ae1a7dccd48f0eac167c8f16de461405c4615174fb2c",
+          "bytes": 8223
+        },
+        {
+          "path": "五官与面部差异化设计知识库/08-经典角色差异化案例拆解.md",
+          "sha256": "658c25d1b0f4e5b66cb4970b4ccace676fceda92dd9a7997990d948b3f636fed",
+          "bytes": 7699
+        },
+        {
+          "path": "五官与面部差异化设计知识库/09-二维评价模型：可信感与支配感.md",
+          "sha256": "e963b2f3d943053d18c9265edad0e395be44197f59ce0cd5c33822cd766b17d4",
+          "bytes": 7922
+        },
+        {
+          "path": "五官与面部差异化设计知识库/10-娃娃脸效应：幼态特征如何被解读.md",
+          "sha256": "0133b4ee160396cecf193e235d11b11e72b9d05efa0a1cf238c744a7fdf51cf9",
+          "bytes": 7398
+        },
+        {
+          "path": "五官与面部差异化设计知识库/11-眉眼系统：眼神与眉毛的性格编码.md",
+          "sha256": "7f4a8c0bad8580f9ce8bdd694ccb4737234459cceff581407fdaaf5fda368531",
+          "bytes": 7031
+        },
+        {
+          "path": "五官与面部差异化设计知识库/12-鼻嘴下颌：性别气质与力量感.md",
+          "sha256": "d42e8e0f867875de89cc3fa472b3d0f6d588b03052e4e1d88ea0328242cbbf02",
+          "bytes": 6744
+        },
+        {
+          "path": "五官与面部差异化设计知识库/13-面部宽高比与攻击性信号.md",
+          "sha256": "f5a9698a3181490e8f26127beacc72e913406a294391b5f4c595c0e2cd5e07f4",
+          "bytes": 6859
+        },
+        {
+          "path": "五官与面部差异化设计知识库/14-微特征：疤痕、痣、皱纹如何讲述经历.md",
+          "sha256": "7dc9a46f7f180277ce116cfd83ad9c9d665b34306d642bcf5b1cfb91cb10fa62",
+          "bytes": 7018
+        },
+        {
+          "path": "五官与面部差异化设计知识库/15-第一印象的100毫秒：观众为什么相信这张脸.md",
+          "sha256": "b88069985927b566db234b0dc7bf500cda4bfa15596f92cf81df8804a08c0291",
+          "bytes": 8296
+        },
+        {
+          "path": "五官与面部差异化设计知识库/16-选角的视觉逻辑：气质与角色的匹配矩阵.md",
+          "sha256": "21d0d9f586a8509a50d20905e4585c3f827a07989ed2e2e93bf208c5d5992bff",
+          "bytes": 7421
+        },
+        {
+          "path": "五官与面部差异化设计知识库/17-演什么像什么：可塑性脸的结构特征.md",
+          "sha256": "6978720fd57c3784bab366f9403479cda12b32a9393c229bb298c166a261f557",
+          "bytes": 9033
+        },
+        {
+          "path": "五官与面部差异化设计知识库/README.md",
+          "sha256": "fadb9406661cf616d1ce053bc3306414307bbcdb6061bd3dce83b98d2def3530",
+          "bytes": 4862
+        }
+      ]
+    },
+    {
+      "id": "face-memory",
+      "archive": "面部记忆点与锁骨以上饰品设计.zip",
+      "archive_sha256": "2cfdb5f9f603f779be99ab0c3536c85a27e276165019d51cfbdfbfae813dbb61",
+      "ingested_sha256": "7f64634f52ab943982d714fc56331e873ca72aee250b2e3fd32422f801296660",
+      "capability": "character-face-signature-design",
+      "rules": "knowledge-rules/face-memory.md",
+      "members": [
+        {
+          "path": "面部记忆点与锁骨以上饰品设计/README_课程总览.md",
+          "sha256": "c333562284c6623f48857f266fd2f959fe9d44536c6d9a66483d49433fa262db",
+          "bytes": 5040
+        },
+        {
+          "path": "面部记忆点与锁骨以上饰品设计/模块1_记忆点基础原理/1.1_什么是角色记忆点.md",
+          "sha256": "9937783eb1cf5246aabeb39c6f4a64629c66320aa2e710f96387a534b2ad6fb9",
+          "bytes": 9110
+        },
+        {
+          "path": "面部记忆点与锁骨以上饰品设计/模块1_记忆点基础原理/1.2_记忆点的心理学原理.md",
+          "sha256": "fcc30b67d6567e6fef9cb0172c43a0af35c3f92e1b766fd9432a8ec1677f9ed2",
+          "bytes": 11777
+        },
+        {
+          "path": "面部记忆点与锁骨以上饰品设计/模块1_记忆点基础原理/1.3_记忆点的类型分类.md",
+          "sha256": "3fb548ac6068d7f76b257f10be6fa070805c9ebe4a160283bb83351c7347c149",
+          "bytes": 9324
+        },
+        {
+          "path": "面部记忆点与锁骨以上饰品设计/模块2_面部本身的记忆点设计/2.1_痣的设计.md",
+          "sha256": "f18fbad141eef557c2aa871913b3bf62da4b3da17205b334f0077f8ed75c0dec",
+          "bytes": 10438
+        },
+        {
+          "path": "面部记忆点与锁骨以上饰品设计/模块2_面部本身的记忆点设计/2.2_疤的设计.md",
+          "sha256": "9f28499af79bc8c9e8cb9468e88a22ffce5d5382115fea51dfc8c1226ab51607",
+          "bytes": 11587
+        },
+        {
+          "path": "面部记忆点与锁骨以上饰品设计/模块2_面部本身的记忆点设计/2.3_不对称设计.md",
+          "sha256": "adeba180ce428c551b407f4d7f085e84c35f06afe577b9cf206ec6dbf6c293f6",
+          "bytes": 11293
+        },
+        {
+          "path": "面部记忆点与锁骨以上饰品设计/模块2_面部本身的记忆点设计/2.4_独特五官设计.md",
+          "sha256": "cab00dc41132583cf4328440ce2a1ffa3933d29aeff8fe8ddf450331f3ead6a3",
+          "bytes": 11192
+        },
+        {
+          "path": "面部记忆点与锁骨以上饰品设计/模块2_面部本身的记忆点设计/2.5_微特征设计.md",
+          "sha256": "99f120455d93b1ef8bf6848175323057a992c7e94f70b7637c6daa5a9443a32e",
+          "bytes": 11868
+        },
+        {
+          "path": "面部记忆点与锁骨以上饰品设计/模块3_锁骨以上饰品设计/3.1_耳环设计.md",
+          "sha256": "a997e00528216579f7ce0cfdc05f95def2e119e474d8b76b0e5c54bdd9cfcdea",
+          "bytes": 9558
+        },
+        {
+          "path": "面部记忆点与锁骨以上饰品设计/模块3_锁骨以上饰品设计/3.2_项链设计.md",
+          "sha256": "eb6753c9f2f6d0aed3d8bd3c84fb48cd570d538f2122c36fc0feef623229a165",
+          "bytes": 9328
+        },
+        {
+          "path": "面部记忆点与锁骨以上饰品设计/模块3_锁骨以上饰品设计/3.3_面饰设计.md",
+          "sha256": "852c07282f98f4676c36da99a9ff3157281f80304ff714ddd9dd312abc535e3f",
+          "bytes": 10204
+        },
+        {
+          "path": "面部记忆点与锁骨以上饰品设计/模块3_锁骨以上饰品设计/3.4_纹身设计.md",
+          "sha256": "581ed62ef4d01f0054e28d3796cb2be3fba62cd652e42241321467bdec0eb8f8",
+          "bytes": 10083
+        },
+        {
+          "path": "面部记忆点与锁骨以上饰品设计/模块3_锁骨以上饰品设计/3.5_头饰设计.md",
+          "sha256": "487a07dc74700756c5583a4428f8f414ed84ef044d513f2fa0bae19bf055cbbd",
+          "bytes": 9440
+        },
+        {
+          "path": "面部记忆点与锁骨以上饰品设计/模块4_记忆点的平衡/4.1_记忆点数量控制.md",
+          "sha256": "e5c4420028b48c5737aee2bbbb390726d1b2340e2721725594f86fddf3b21bc2",
+          "bytes": 9007
+        },
+        {
+          "path": "面部记忆点与锁骨以上饰品设计/模块4_记忆点的平衡/4.2_主次关系设计.md",
+          "sha256": "34964c1923bca9ab52507c941a74678960b40448c1434fef41ce6c66d7c8c385",
+          "bytes": 9792
+        },
+        {
+          "path": "面部记忆点与锁骨以上饰品设计/模块4_记忆点的平衡/4.3_用记忆点外化性格.md",
+          "sha256": "97b8d93950f4c66d6866238405eb0a549c82618fa7fc990b7ebd4bb622e5d5f9",
+          "bytes": 9685
+        },
+        {
+          "path": "面部记忆点与锁骨以上饰品设计/模块5_经典案例分析/5.1_经典角色记忆点拆解.md",
+          "sha256": "99934015dbc0be65a85f2e0ba20e00248a6f03d2d7dc711e8f12c3d7efe5c2a8",
+          "bytes": 10599
+        },
+        {
+          "path": "面部记忆点与锁骨以上饰品设计/模块5_经典案例分析/5.2_常见错误案例.md",
+          "sha256": "0250c2a682eb54a2ff8bd75564ce777de62f7430c4ca7e1e85ee04df5da956ec",
+          "bytes": 12499
+        }
+      ]
+    },
+    {
+      "id": "skin",
+      "archive": "皮肤肌理与质感知识库.zip",
+      "archive_sha256": "b473b4760c0d4bcaf9fd71c1bf4402a6b2dbf57c1e8816fdbc5ff221689e9e42",
+      "ingested_sha256": "6c655631cca72b70bb6b0aff7cb9b6354e82d813ca3069ee23fd1b86f5e33916",
+      "capability": "character-skin-design",
+      "rules": "knowledge-rules/skin.md",
+      "members": [
+        {
+          "path": "皮肤肌理与质感知识库/01-皮肤结构基础/1.1 皮肤层次结构与光影映射.md",
+          "sha256": "db5e5633356f348d41d88aa8ceccf587914364877a51f6f97741b30702a87a7e",
+          "bytes": 8291
+        },
+        {
+          "path": "皮肤肌理与质感知识库/01-皮肤结构基础/1.2 皮肤纹理与毛孔.md",
+          "sha256": "03543b1e1b7973f5996a25b450540de69e1d31d70cee6f48657d37dc06776896",
+          "bytes": 7858
+        },
+        {
+          "path": "皮肤肌理与质感知识库/01-皮肤结构基础/1.3 肤色与色素.md",
+          "sha256": "53bcd88d07d5b4be87fe0fdbb797712dbf515717ce0bfaa69ae5c27fa4e23b25",
+          "bytes": 8401
+        },
+        {
+          "path": "皮肤肌理与质感知识库/02-皮肤质感分类与设计/2.1 质感光谱：光滑与粗糙.md",
+          "sha256": "fb19c01f630992f794a7d3926771d856abd567381d3d40f7745be676be88d150",
+          "bytes": 7837
+        },
+        {
+          "path": "皮肤肌理与质感知识库/02-皮肤质感分类与设计/2.2 油腻与干燥.md",
+          "sha256": "35d7b1ef532261e8493a3c0ab874ffc85986a317e671bed577fab93be4910ecf",
+          "bytes": 7410
+        },
+        {
+          "path": "皮肤肌理与质感知识库/02-皮肤质感分类与设计/2.3 年龄与皮肤质感.md",
+          "sha256": "937a45deae096270c1cc3a20a928e613f8ee51e44bac471f2808c94fb6228d8f",
+          "bytes": 8473
+        },
+        {
+          "path": "皮肤肌理与质感知识库/02-皮肤质感分类与设计/2.4 性别与皮肤质感差异.md",
+          "sha256": "ac76eafaaf23dd00da5cc789d41db3a52fe43cb7bc8c7fd903c8685b748988d8",
+          "bytes": 7835
+        },
+        {
+          "path": "皮肤肌理与质感知识库/02-皮肤质感分类与设计/2.5 职业与生活环境影响.md",
+          "sha256": "175d90a8979fcf8bea8b0488c4737ce9625f0fe5931084fd857504d032f16f69",
+          "bytes": 7432
+        },
+        {
+          "path": "皮肤肌理与质感知识库/03-生活痕迹与人物叙事/3.1 生活痕迹总论：有故事的脸.md",
+          "sha256": "7b4dc6a5fd17623e87a60de5d6f50cd27b8c8e80ed2b53fcd2b2f7cacfd2ac8f",
+          "bytes": 8316
+        },
+        {
+          "path": "皮肤肌理与质感知识库/03-生活痕迹与人物叙事/3.2 疤痕.md",
+          "sha256": "a86e291dead5eb354f9fc435a3b1be0d687e1fe69b36ffec48fef899c3fc7aac",
+          "bytes": 8241
+        },
+        {
+          "path": "皮肤肌理与质感知识库/03-生活痕迹与人物叙事/3.3 痣与胎记.md",
+          "sha256": "faecb2fd3824951399d70fc4298a27e957b7cd10e07331684ea7871798507557",
+          "bytes": 8279
+        },
+        {
+          "path": "皮肤肌理与质感知识库/03-生活痕迹与人物叙事/3.4 皱纹与表情纹.md",
+          "sha256": "423b4ed48eaa50a592ad9810cda5d989051ec9602722b6b5cfb953c6bcccacdb",
+          "bytes": 8309
+        },
+        {
+          "path": "皮肤肌理与质感知识库/03-生活痕迹与人物叙事/3.5 晒痕与色沉.md",
+          "sha256": "2329673d3c29e09d765a6ed8c34526cd1e7176a981b85d75a766583124725991",
+          "bytes": 8241
+        },
+        {
+          "path": "皮肤肌理与质感知识库/03-生活痕迹与人物叙事/3.6 纹身.md",
+          "sha256": "d49e8bd59061793f3dd916a7a238e2d55f1bd9834288428f81a01e142c89677f",
+          "bytes": 8870
+        },
+        {
+          "path": "皮肤肌理与质感知识库/03-生活痕迹与人物叙事/3.7 痘印与毛孔问题.md",
+          "sha256": "8d1e4ef7121ae6910f3a411d87ff5f640cb52ba854d4acdcff502fb0fd6b10c2",
+          "bytes": 8239
+        },
+        {
+          "path": "皮肤肌理与质感知识库/04-面部不对称设计/4.1 面部不对称原理与美感控制.md",
+          "sha256": "c25ca9578007d3dfd369e68685e4103bbf0b004bb48848b6bf1f2a8d5af1bebf",
+          "bytes": 12450
+        },
+        {
+          "path": "皮肤肌理与质感知识库/README.md",
+          "sha256": "e63e4ff5880da712451f3cbf4e93912b633b970ed3b5923b73c6365109bfbf72",
+          "bytes": 6129
+        }
+      ]
+    },
+    {
+      "id": "costume-cut",
+      "archive": "服饰剪裁设计知识库.zip",
+      "archive_sha256": "f2186d5b7292d5e2f4b5bb8a1a947be08500e08c1b091733fda393229472c03f",
+      "ingested_sha256": "4e55c47de5f3e871865e90c45c870515f03e816eb6c6abc3e4c9c973291a3f7f",
+      "capability": "character-costume-cut-design",
+      "rules": "knowledge-rules/costume-cut.md",
+      "members": [
+        {
+          "path": "服饰剪裁设计知识库/README.md",
+          "sha256": "0960a38af97c1bdb51c49053eb3622dbf9c1051c91b580ab5ba759b2d90b7e7a",
+          "bytes": 7815
+        },
+        {
+          "path": "服饰剪裁设计知识库/模块1_剪裁基础/01_什么是剪裁-衣服的结构线.md",
+          "sha256": "5d7f9868a98d1022760fb926cd186c19207fef7e89e12d965e5cbf0a40cdb120",
+          "bytes": 14349
+        },
+        {
+          "path": "服饰剪裁设计知识库/模块1_剪裁基础/02_常见剪裁手法-收腰垫肩落肩高开叉泡泡袖.md",
+          "sha256": "3c49096c1777b3f603cb5d5d93ce5f8100dd7247daae7babf04aa92a7dae6615",
+          "bytes": 14154
+        },
+        {
+          "path": "服饰剪裁设计知识库/模块1_剪裁基础/03_剪裁与款式的区别.md",
+          "sha256": "c2aa4e7006885bf868ceecce2ed8726012333dd0c8c96fe4488ca708055ad018",
+          "bytes": 10077
+        },
+        {
+          "path": "服饰剪裁设计知识库/模块2_剪裁改变身形/04_剪裁怎么显高显矮.md",
+          "sha256": "e2c9af1500ed929ec5537664a2f556037ba4b5554dd327482f6f1c519557eece",
+          "bytes": 10874
+        },
+        {
+          "path": "服饰剪裁设计知识库/模块2_剪裁改变身形/05_剪裁怎么显胖显瘦.md",
+          "sha256": "6ff8e32bcceb6f37162101d48102965baf8027d65afe2713a348b44813398a2a",
+          "bytes": 11335
+        },
+        {
+          "path": "服饰剪裁设计知识库/模块2_剪裁改变身形/06_剪裁怎么强化或弱化体型特征.md",
+          "sha256": "c4ae3e79de97f9ab9a5eea9a7574f1e709e76bce9bad663491f1e51d9559c4a9",
+          "bytes": 10676
+        },
+        {
+          "path": "服饰剪裁设计知识库/模块3_剪裁与性格外化/07_硬挺剪裁-权威与距离.md",
+          "sha256": "9d0de860fa292a39840b53275f9a92d91c4cb4cac9e38f1d420b4bc3e7770fa7",
+          "bytes": 10227
+        },
+        {
+          "path": "服饰剪裁设计知识库/模块3_剪裁与性格外化/08_柔软垂坠-流动与亲密.md",
+          "sha256": "72724e4b7ab3b7c9f2d6249ca4476c59de0376d7f7676b06c6386b78a91dd726",
+          "bytes": 10008
+        },
+        {
+          "path": "服饰剪裁设计知识库/模块3_剪裁与性格外化/09_锋利线条-攻击与决断.md",
+          "sha256": "197b5139449320ceea2dfb60f0e5a157bd9dc4c69991149e3ef8aba52a0ac138",
+          "bytes": 9975
+        },
+        {
+          "path": "服饰剪裁设计知识库/模块4_剪裁的文化符号/10_不同文化的剪裁传统.md",
+          "sha256": "d28bd13328c8ffc732b3119767a6144d72eea65360a7aed4b6b4829d5730b7f7",
+          "bytes": 13014
+        },
+        {
+          "path": "服饰剪裁设计知识库/模块4_剪裁的文化符号/11_不同时代的剪裁风格.md",
+          "sha256": "ee3e4118430adbdbb67f131a4d1513cc8b259a81f70ac6621a50320202b417ca",
+          "bytes": 13903
+        }
+      ]
+    },
+    {
+      "id": "costume-style",
+      "archive": "服饰款式设计知识库.zip",
+      "archive_sha256": "6ee6dd619992bc12808444b1f0fe3d04c3457bbc69c9320815eb78749979a6e2",
+      "ingested_sha256": "8bf2a9fb6e40f61443d569649c37d453365e5f9db1c558d192ed131e9b78ae62",
+      "capability": "character-costume-style-design",
+      "rules": "knowledge-rules/costume-style.md",
+      "members": [
+        {
+          "path": "服饰款式设计知识库/README.md",
+          "sha256": "06487191a0efb2b729f9beaf6aade270f7692984ffc0a5400a48c0f062e90a37",
+          "bytes": 5663
+        },
+        {
+          "path": "服饰款式设计知识库/模块1_款式基础/01_什么是款式-衣服的基本版型.md",
+          "sha256": "68246ea57821aae093e7659b81e39aa507cfc37df63c9ae4405aa42c451ac6d5",
+          "bytes": 14632
+        },
+        {
+          "path": "服饰款式设计知识库/模块1_款式基础/02_宽松vs修身的视觉区别.md",
+          "sha256": "f707edbdd3ffba491362cd7bcf9ed4242eec26a2923bd6636b68808c5dfdb960",
+          "bytes": 13119
+        },
+        {
+          "path": "服饰款式设计知识库/模块1_款式基础/03_正式vs休闲的视觉区别.md",
+          "sha256": "87d0949f02d135a8165cd0fca3728835ab551e7032db284ad485b06a6b2e2ca4",
+          "bytes": 14511
+        },
+        {
+          "path": "服饰款式设计知识库/模块1_款式基础/04_长vs短的视觉区别.md",
+          "sha256": "fbcaee710c06a47db9646d1f5481808c9d355712e1c733f158eac6c5111b907c",
+          "bytes": 12333
+        },
+        {
+          "path": "服饰款式设计知识库/模块2_款式与性格外化/01_宽松衣服=什么性格.md",
+          "sha256": "6f550ca36ce1babb161622e5f0eb80be7219bc087f257fc3fb3ad4cb11f3b1e2",
+          "bytes": 12692
+        },
+        {
+          "path": "服饰款式设计知识库/模块2_款式与性格外化/02_紧身衣服=什么性格.md",
+          "sha256": "bfceb6bf9c80a776e52c2e4e9986a6c07de9d52e3143b59fbedf741094381e00",
+          "bytes": 12215
+        },
+        {
+          "path": "服饰款式设计知识库/模块2_款式与性格外化/03_正式衣服=什么性格.md",
+          "sha256": "92d02a5650b245cbce1782019245c6f5550895c9db01ac93ca3947c350ac54a3",
+          "bytes": 11354
+        },
+        {
+          "path": "服饰款式设计知识库/模块2_款式与性格外化/04_休闲衣服=什么性格.md",
+          "sha256": "8a6539d5ead43ddd38af9bcc05f703dae47b53afa3cca37b62e290769f342cf0",
+          "bytes": 10924
+        },
+        {
+          "path": "服饰款式设计知识库/模块3_款式与身份职业/01_不同职业的人穿什么款式.md",
+          "sha256": "7b9c20c4f1544dd418170a1b5cf88b005145cb6bbb335fb55015e4a317d214b6",
+          "bytes": 10335
+        },
+        {
+          "path": "服饰款式设计知识库/模块3_款式与身份职业/02_不同阶层的人穿什么款式.md",
+          "sha256": "3464450d8b9819bf9d437d14f243b5bbea44e19ab92da81ca05c4c607cb6b016",
+          "bytes": 10618
+        },
+        {
+          "path": "服饰款式设计知识库/模块4_款式与世界观/01_不同世界观的人穿什么款式.md",
+          "sha256": "806a0b75eed35fbec3e52cce896df40a8732cce5f574130d59a212ced16f6be7",
+          "bytes": 9240
+        },
+        {
+          "path": "服饰款式设计知识库/模块4_款式与世界观/02_款式怎么体现时代感.md",
+          "sha256": "8972261f99630763fad8ad745714d64e3122583304dad5796efec22fde335f2f",
+          "bytes": 8572
+        }
+      ]
+    },
+    {
+      "id": "ensemble",
+      "archive": "角色群像差异化设计知识库.zip",
+      "archive_sha256": "964fed322d36899f83014a5f70f642ccedbb3efa9bcf23e2bbf82cf1808113dd",
+      "ingested_sha256": "b2b3b605f6e2e1ac2c9cf9d4bd2a302fc23d4929f7718ea6e742cbb7fb3523d3",
+      "capability": "character-cast-differentiation",
+      "rules": "knowledge-rules/ensemble.md",
+      "members": [
+        {
+          "path": "角色群像差异化设计知识库/01_群像基础.md",
+          "sha256": "3fa8fefdc59598984f3d4a588dedb1e088403113ab00236295d1cfceb2e91ed8",
+          "bytes": 9263
+        },
+        {
+          "path": "角色群像差异化设计知识库/02_剪影差异化.md",
+          "sha256": "5d7eea1a496cb98507806b8168678e4e202e17a0d4312c076232a3458b1aa37d",
+          "bytes": 7687
+        },
+        {
+          "path": "角色群像差异化设计知识库/03_脸型差异化.md",
+          "sha256": "143581cf52a9cd19f45f552fa31b76ee278aac18cae7060ec231a9386da509ca",
+          "bytes": 7880
+        },
+        {
+          "path": "角色群像差异化设计知识库/04_身材差异化.md",
+          "sha256": "cf87c26790f6f667aa3bf3d140750dca383698b0b06934516d3820007c843aba",
+          "bytes": 7099
+        },
+        {
+          "path": "角色群像差异化设计知识库/05_配色差异化.md",
+          "sha256": "1011233fc39e0207a5884bebfae2eac2a256ab3ef991f32ff581fdda7a2648ee",
+          "bytes": 7087
+        },
+        {
+          "path": "角色群像差异化设计知识库/06_发型差异化.md",
+          "sha256": "843e094b00a69dbc202410acd82a7c41b965c58c02f9a1e556c984cd988f4c11",
+          "bytes": 7448
+        },
+        {
+          "path": "角色群像差异化设计知识库/07_识别系统设计.md",
+          "sha256": "690f654d1249811884087266fe81d3b11e5a65ed698b03aa58ff4dc8c31a11ce",
+          "bytes": 8566
+        },
+        {
+          "path": "角色群像差异化设计知识库/08_经典案例拆解.md",
+          "sha256": "538cfced9a2adadb8c35d3fdd36da39e0f5d00aadc1864e37c35ec1f935c62c3",
+          "bytes": 8020
+        },
+        {
+          "path": "角色群像差异化设计知识库/README.md",
+          "sha256": "1068a14bf379a55a1f9a5a2592924daa11192bdf56cea6aa61978c6c13786d22",
+          "bytes": 6083
+        }
+      ]
+    },
+    {
+      "id": "costume-color",
+      "archive": "服饰配色设计知识库.zip",
+      "archive_sha256": "095795ac91aeffbcef8db5e94e207d61e96f123c3b8d0223ed95f989f5c809cc",
+      "ingested_sha256": "c80b5baa182ca6777ee617fddaaf375cf687b87a25971a34ccb3996affbad910",
+      "capability": "character-costume-color-design",
+      "rules": "knowledge-rules/costume-color.md",
+      "members": [
+        {
+          "path": "服饰配色设计知识库/01-色彩心理学基础/01-1-色彩的三个维度：色相·明度·饱和度.md",
+          "sha256": "44d5df059acc67ef9cddd7eb0afac312ace7184e15bfd917047ba8da8a3f9b21",
+          "bytes": 10400
+        },
+        {
+          "path": "服饰配色设计知识库/01-色彩心理学基础/01-2-冷暖色的心理暗示.md",
+          "sha256": "61f744eb165acb7b11876020617a941ddcf2e27f622e7288190625a0450ecedb",
+          "bytes": 10376
+        },
+        {
+          "path": "服饰配色设计知识库/01-色彩心理学基础/01-3-明度与饱和度的心理暗示.md",
+          "sha256": "50db286a4df9817415e2cc96a8f6fc5b3925d7911bd6f4f2b2d7fc429417cf55",
+          "bytes": 10754
+        },
+        {
+          "path": "服饰配色设计知识库/01-色彩心理学基础/01-4-颜色感知的认知科学依据.md",
+          "sha256": "e50d2060371be8af65911985b9db74a76442cc52229d3dd13434243a050c23a1",
+          "bytes": 11602
+        },
+        {
+          "path": "服饰配色设计知识库/02-单色色系的性格外化/02-1-黑色：权威、威胁与禁忌.md",
+          "sha256": "9d8b28a2830aaf03109f032e57a234066ec91632c5dd168605071f7cbb9bf6ab",
+          "bytes": 10001
+        },
+        {
+          "path": "服饰配色设计知识库/02-单色色系的性格外化/02-2-白色：纯洁、空白与隔离.md",
+          "sha256": "ec16bdf97501c3b6f3b27e92e49e0c9963b57061eea9ac6528a0b4d08ac7ee6e",
+          "bytes": 9499
+        },
+        {
+          "path": "服饰配色设计知识库/02-单色色系的性格外化/02-3-红色：欲望、愤怒与警示.md",
+          "sha256": "bf66274c838e33a15c5574405fe7303557ddf0087161978f9defd67e872c57fc",
+          "bytes": 9543
+        },
+        {
+          "path": "服饰配色设计知识库/02-单色色系的性格外化/02-4-蓝色：冷静、理性与忧郁.md",
+          "sha256": "82bf149c9457d76fc44376ef533de92dc168c0fc125ef2ce155d4a3b03d2e9c4",
+          "bytes": 9413
+        },
+        {
+          "path": "服饰配色设计知识库/02-单色色系的性格外化/02-5-绿色：自然、嫉妒与毒性.md",
+          "sha256": "538076e35d21c0e03a618e5b197f77a951f470a00ec9d984a79060747f7f4ea3",
+          "bytes": 9268
+        },
+        {
+          "path": "服饰配色设计知识库/02-单色色系的性格外化/02-6-黄色：乐观、警示与疯狂.md",
+          "sha256": "c542c7294d2c252186e357c0df92709445806eda777e5c123aa4bb23f35480d2",
+          "bytes": 9103
+        },
+        {
+          "path": "服饰配色设计知识库/03-配色方案/03-1-同色系与对比色：和谐与冲突.md",
+          "sha256": "f6ecbfbcf079d3b49b91a9b8fe0110268fc3fb6a274b5a9e63a018c98273d5fb",
+          "bytes": 9647
+        },
+        {
+          "path": "服饰配色设计知识库/03-配色方案/03-2-单色与多色：克制与丰富.md",
+          "sha256": "4020fb2448593eec37100fb406da1c8a6c4bd8601f56bcf56c5e16fcd3b85828",
+          "bytes": 9212
+        },
+        {
+          "path": "服饰配色设计知识库/03-配色方案/03-3-配色如何强化与弱化角色.md",
+          "sha256": "bf678fb4fc3214d6421158f8e7b633b806e4da56e865bd99ede549c978692dda",
+          "bytes": 9041
+        },
+        {
+          "path": "服饰配色设计知识库/04-配色与身份阶层/04-1-社会阶层与服饰配色.md",
+          "sha256": "521b855ca04f7af6eb4927a573f589f57f5df2b15d0f31bfca6c14832c2a54e3",
+          "bytes": 9273
+        },
+        {
+          "path": "服饰配色设计知识库/04-配色与身份阶层/04-2-职业与服饰配色.md",
+          "sha256": "168a577a99bf5fd1b9f0020bf9a55757b17b9ac91b3299e5535fe2421fe968dd",
+          "bytes": 10241
+        },
+        {
+          "path": "服饰配色设计知识库/05-配色与世界观/05-1-不同世界观的配色体系.md",
+          "sha256": "af58da8f45cdd16da1c1353ad6e142c32a6b4ccb81705caa687449ba2cf3aa1f",
+          "bytes": 9328
+        },
+        {
+          "path": "服饰配色设计知识库/05-配色与世界观/05-2-配色与时代感.md",
+          "sha256": "54673a4c432fa57e621cef2fd5215204aeb621781d639c658c3a59801c7a4729",
+          "bytes": 9128
+        },
+        {
+          "path": "服饰配色设计知识库/README.md",
+          "sha256": "75f7d6c8cb87f74b56e84d48508639425c182bb43d45bf678e4bf005b64b6f1b",
+          "bytes": 11501
+        }
+      ]
+    },
+    {
+      "id": "costume-material",
+      "archive": "服饰材质设计知识库.zip",
+      "archive_sha256": "338cb29f9a90ecc4f495a829cd61250850312c136d13d406da0da6cb8e0bbf7e",
+      "ingested_sha256": "9393bfc99b8d6d832e46a71f71bbd81080ee6a8edf9a1403f6859dba85976734",
+      "capability": "character-costume-material-design",
+      "rules": "knowledge-rules/costume-material.md",
+      "members": [
+        {
+          "path": "服饰材质设计知识库/README.md",
+          "sha256": "1dc2c400de0974e9321232c80a6dd3489c9513a56c7095dc803eda73c439f3c9",
+          "bytes": 6290
+        },
+        {
+          "path": "服饰材质设计知识库/模块1-材质基础/1.0-什么是材质.md",
+          "sha256": "94089d4c209e7fde0c029de53092fc86a8707dd7a8d3bb43d2db445a9aee2b23",
+          "bytes": 16357
+        },
+        {
+          "path": "服饰材质设计知识库/模块1-材质基础/1.1-丝绸的视觉特征.md",
+          "sha256": "0f8c9b45571e6d39e191da9ec8baf79df7fe5ea9ddbfafd2382c3c96f944903b",
+          "bytes": 15678
+        },
+        {
+          "path": "服饰材质设计知识库/模块1-材质基础/1.2-棉麻的视觉特征.md",
+          "sha256": "c9a6e06e096d4711f2425e20df86abaf99e5cb7318985138cb7052642632e4cc",
+          "bytes": 16477
+        },
+        {
+          "path": "服饰材质设计知识库/模块1-材质基础/1.3-皮革的视觉特征.md",
+          "sha256": "db85c6904b220bcf9059b5376adb02b96e27ed8bd3a375f16a7d113fa8119041",
+          "bytes": 16759
+        },
+        {
+          "path": "服饰材质设计知识库/模块1-材质基础/1.4-金属的视觉特征.md",
+          "sha256": "6917c41a7b77b08c194ecd7983379f428dce471ca7640966a6b36898685b2fd1",
+          "bytes": 16189
+        },
+        {
+          "path": "服饰材质设计知识库/模块1-材质基础/1.5-粗布的视觉特征.md",
+          "sha256": "ed6568a777bf957e737d8eb15b954a41861233a6829afe3210b5e77e08e4f32a",
+          "bytes": 15524
+        },
+        {
+          "path": "服饰材质设计知识库/模块1-材质基础/1.6-塑料的视觉特征.md",
+          "sha256": "c5d515195dc1f383416018e1986d72a01a81e80fdfcf67bf7fc489bafc9d00c3",
+          "bytes": 16144
+        },
+        {
+          "path": "服饰材质设计知识库/模块2-材质与身份阶层/2.1-为什么贵族穿丝绸.md",
+          "sha256": "378f2e3acc7604c05fd30e32a81c6cc0938d39d86a846ce3eb38cc1ea4926b0d",
+          "bytes": 14241
+        },
+        {
+          "path": "服饰材质设计知识库/模块2-材质与身份阶层/2.2-为什么农民穿粗布.md",
+          "sha256": "4953e7202e97cc0844ffbab108bd52213e76e83e405cfd969ccf09bf09f75d40",
+          "bytes": 13311
+        },
+        {
+          "path": "服饰材质设计知识库/模块2-材质与身份阶层/2.3-材质如何显示财富.md",
+          "sha256": "220c2007eba22304e0cb6b65ce75691573d87e6acbecbaaa261fd91725619b48",
+          "bytes": 14692
+        },
+        {
+          "path": "服饰材质设计知识库/模块3-材质与生存环境/3.1-沙漠环境的材质选择.md",
+          "sha256": "85469fb1f96d44df06b1399d3a85f9b1535522c3122576e202fdf0feb3f95caf",
+          "bytes": 11799
+        },
+        {
+          "path": "服饰材质设计知识库/模块3-材质与生存环境/3.2-雨林环境的材质选择.md",
+          "sha256": "fcb3f9bcfcea3ba99e9fac9511c56721025df90b63b7b86ba6c334701be0b62c",
+          "bytes": 11595
+        },
+        {
+          "path": "服饰材质设计知识库/模块3-材质与生存环境/3.3-冰原环境的材质选择.md",
+          "sha256": "84e1e61239ae690e1fab77cfaddee268055ce0c4a9b1c24131d1b43ba8dce581",
+          "bytes": 11474
+        },
+        {
+          "path": "服饰材质设计知识库/模块3-材质与生存环境/3.4-材质适应环境的原理.md",
+          "sha256": "f38e45204db46f6f8e3c0fa14503eef39f851c12c7879979598e5345717ef839",
+          "bytes": 12134
+        },
+        {
+          "path": "服饰材质设计知识库/模块4-材质与性格外化/4.1-粗糙材质与性格.md",
+          "sha256": "1649e85db90cdba48e51afa6c3cbe3251645c9f7be7de2febf79805a417f8f39",
+          "bytes": 12631
+        },
+        {
+          "path": "服饰材质设计知识库/模块4-材质与性格外化/4.2-精致材质与性格.md",
+          "sha256": "119b0c75a6cf84fb52e48677148d350f745e1c69bac908b9505f51c8f7518ec6",
+          "bytes": 12834
+        },
+        {
+          "path": "服饰材质设计知识库/模块4-材质与性格外化/4.3-柔软材质与性格.md",
+          "sha256": "519fcb762e2bc931cd60a517b52ebb1081ce6d6e3da82801597a39248c567307",
+          "bytes": 11899
+        },
+        {
+          "path": "服饰材质设计知识库/模块4-材质与性格外化/4.4-坚硬材质与性格.md",
+          "sha256": "ea8adc04e74b79ca0e19cf9e61636b8422717de50d42d018d9550fd4a0ffed1c",
+          "bytes": 11904
+        }
+      ]
+    },
+    {
+      "id": "costume-accessory",
+      "archive": "服饰饰品设计知识库.zip",
+      "archive_sha256": "a6cddefd194bedbecd87dd356758facabbd1e6bba6103db3c9869e2092b6e25f",
+      "ingested_sha256": "6565d53ac91096979e8846ab8d19ef78f59641a1978aa617b837d3f002664f96",
+      "capability": "character-costume-accessory-design",
+      "rules": "knowledge-rules/costume-accessory.md",
+      "members": [
+        {
+          "path": "accessory-design-kb/00-知识库使用指南.md",
+          "sha256": "fb063be1abd47188fabf2acd2db05e02b3c11c84d07203f054c7a5a5d8b72c3c",
+          "bytes": 5115
+        },
+        {
+          "path": "accessory-design-kb/01-模块1-饰品基础/1.1-什么是饰品.md",
+          "sha256": "ae86d4965043adc6445c5742a77937917164da96ee87bad53a2c8d6a5f1ea11b",
+          "bytes": 10146
+        },
+        {
+          "path": "accessory-design-kb/01-模块1-饰品基础/1.2-常见饰品类型.md",
+          "sha256": "d64e7251fb602ad0daeeedae137bd35f6f8c8c737022cd0a5daf0c100ec1c176",
+          "bytes": 10199
+        },
+        {
+          "path": "accessory-design-kb/01-模块1-饰品基础/1.3-饰品与衣服的关系.md",
+          "sha256": "1c06be999999b6eedc4f05b02ba7d59b698fb37441b38d977f2f404b1dbbd5df",
+          "bytes": 10585
+        },
+        {
+          "path": "accessory-design-kb/02-模块2-饰品如何传递信息/2.1-身份地位职业.md",
+          "sha256": "b84804d256113e46a2fdb47c7574e919030f6556a24d34889cb308e486c2e636",
+          "bytes": 10763
+        },
+        {
+          "path": "accessory-design-kb/02-模块2-饰品如何传递信息/2.2-文化含义.md",
+          "sha256": "b002ee1928f5a302095dc5d8671ed8ece5422d6cd4ce55936f2d88c43310fbdb",
+          "bytes": 10621
+        },
+        {
+          "path": "accessory-design-kb/02-模块2-饰品如何传递信息/2.3-人物经历.md",
+          "sha256": "db28f72334488960d2959b025f415bee41060f3c8f53cee6962527f6cb6cf2fb",
+          "bytes": 10111
+        },
+        {
+          "path": "accessory-design-kb/03-模块3-饰品与性格外化/3.1-戴很多饰品.md",
+          "sha256": "abc789912169b1d448ae8829beff774a5604b5c5aad80bb9824ecb10065f4e24",
+          "bytes": 9465
+        },
+        {
+          "path": "accessory-design-kb/03-模块3-饰品与性格外化/3.2-不戴饰品.md",
+          "sha256": "7754a3de167ad8ec6b0a37469ecd31bcc623379571476879355d14d934ab1bda",
+          "bytes": 9416
+        },
+        {
+          "path": "accessory-design-kb/03-模块3-饰品与性格外化/3.3-夸张饰品.md",
+          "sha256": "91734717ce66996851e1c21bbac08f191613c649be0b45b4f598de21d406f03f",
+          "bytes": 8557
+        },
+        {
+          "path": "accessory-design-kb/04-模块4-饰品与记忆点/4.1-标志性饰品设计.md",
+          "sha256": "e4275b90fbe16d0467d9329ef728bac9eaddb858a79884bfe9f49512b7860a56",
+          "bytes": 9501
+        },
+        {
+          "path": "accessory-design-kb/04-模块4-饰品与记忆点/4.2-经典角色饰品分析.md",
+          "sha256": "25e2c2873cde4efc2d4dbf6ff5eeaed18ec66a587a6f915c6924e437844b83c7",
+          "bytes": 11299
+        },
+        {
+          "path": "accessory-design-kb/05-模块5-饰品与衣服的平衡/5.1-衣服简单时加饰品.md",
+          "sha256": "a7f90f265cb3d5ae9628ae5941e1122f03136923316e62cbc77187fd37fe813c",
+          "bytes": 7585
+        },
+        {
+          "path": "accessory-design-kb/05-模块5-饰品与衣服的平衡/5.2-衣服复杂时少加饰品.md",
+          "sha256": "a98eb892561dcf9fd40eaa291af0dca2ab8f39469f5232191b10bec3622d9afe",
+          "bytes": 8000
+        },
+        {
+          "path": "accessory-design-kb/05-模块5-饰品与衣服的平衡/5.3-平衡不杂乱.md",
+          "sha256": "ab189ab4e553c13bb03d0670e297b38f1fa9d87bbe8a4aa555048eb78dbae8b8",
+          "bytes": 9413
+        },
+        {
+          "path": "accessory-design-kb/README.md",
+          "sha256": "8dea3bfcf3e198b90bc96df6039e97908e6c440f9c6a2bc59eea6b6582c4409a",
+          "bytes": 4581
+        },
+        {
+          "path": "accessory-design-kb/附录A-参考文献库.md",
+          "sha256": "26d7acdf1cc10b5ab34e0388aac54ad8960db30beee77dc91cc82bf55b3345a7",
+          "bytes": 17855
+        }
+      ]
+    },
+    {
+      "id": "legacy-visual",
+      "archive": "novel-characters-visual.zip",
+      "archive_sha256": "134a1bb8476d8c99338c6c36bac27746f9a2bd9907dfb2dd919a0ad33f224d6c",
+      "ingested_sha256": "eb375ed1e9860726ae0147db062c4ff235a1f9cae5154486a4f26c2e48336c6e",
+      "capability": "character-cast-differentiation",
+      "rules": "knowledge-rules/legacy-visual.md",
+      "members": [
+        {
+          "path": "novel-characters-visual/SKILL.md",
+          "sha256": "a92ec4441998137c65a59098eafdf1f699e9406fbae6fe685ed2a5a9b0c7bb49",
+          "bytes": 29541
+        }
+      ]
+    },
+    {
+      "id": "anti-stereotype-texture",
+      "archive": "拒绝脸谱化人物设计-知识库.zip",
+      "archive_sha256": "c352eca853c498c43c5ea3b363d1e83ff9eeadee9150899d3edcade04dd5bc5f",
+      "ingested_sha256": "d4d7644dece0d3ee4fcc73c76b59c520b08964a487deffdc110a3b9eae8e69f2",
+      "capability": "character-design",
+      "rules": "knowledge-rules/anti-stereotype-design.md",
+      "members": [
+        {
+          "path": "拒绝脸谱化人物设计/M1-脸谱化是什么/M1-1-什么是脸谱化-落入类型原型.md",
+          "sha256": "df06440a6b06d7bb0e88cd99f982a308d17fead1c5f96102cf9d444977118352",
+          "bytes": 7768
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M1-脸谱化是什么/M1-2-为什么观众会觉得刻板与油腻.md",
+          "sha256": "582b1306e21c1e2137dde51e9c3d88cdf5f6d3a3584039090d82549736aca1e2",
+          "bytes": 6944
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M1-脸谱化是什么/M1-3-脸谱化的反面-反类型设计.md",
+          "sha256": "953e2018182688a5816d7334e0fefd8b2c983f29522821995ddff4361737bcb8",
+          "bytes": 6774
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M2-为什么AI生成容易脸谱化/M2-1-平均脸效应.md",
+          "sha256": "15b9b49f7390e9e041084ecb4379842517d42301bdc3c3e6fe4787fcfc4f9951",
+          "bytes": 6639
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M2-为什么AI生成容易脸谱化/M2-2-训练数据偏见.md",
+          "sha256": "e90e603c7cfe0a952bead714cc4277a2497795b6f6cc8aa44b9601375984efdd",
+          "bytes": 7201
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M2-为什么AI生成容易脸谱化/M2-3-问题出在设计阶段而非模型阶段.md",
+          "sha256": "70bebe7e833b1d331389e9831877c6b78a1a75e555685f3566dff24946739429",
+          "bytes": 6565
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M3-如何从源头规避脸谱化/M3-1-从角色故事出发.md",
+          "sha256": "ffc36d5d7435210df020488a4d0484faa4170bb084acc70d8b2b345e6bb947ac",
+          "bytes": 5701
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M3-如何从源头规避脸谱化/M3-2-用不完美打破原型.md",
+          "sha256": "237bfbc8af77d93cbd16e189ff110e7d0d7c68bf3cc9c10f572809ca0f132e8e",
+          "bytes": 5904
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M3-如何从源头规避脸谱化/M3-3-用具体细节取代抽象类型.md",
+          "sha256": "6242e227533b7b32565c3ac32fb3437a629db4d4bb8ec0c2cf772f5cae5627ce",
+          "bytes": 5678
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M3-如何从源头规避脸谱化/M3-4-性格驱动五官.md",
+          "sha256": "b1ed61554a9987439fa77cf257c7b556d84587d47d9a5da8bbe0b282eccd7286",
+          "bytes": 7086
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M4-油腻问题的本质与规避/M4-1-油腻是什么.md",
+          "sha256": "341d5fcd0afd5bc607a81fe864349ca7ed8ec2a3b272d35d4361464528155398",
+          "bytes": 6287
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M4-油腻问题的本质与规避/M4-2-油腻与脸谱化的关系.md",
+          "sha256": "df197de4cf95315a179a5307a8c9e259b5c459516d88607f1a180fc7aaf2fdcc",
+          "bytes": 5570
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M4-油腻问题的本质与规避/M4-3-如何规避油腻.md",
+          "sha256": "6888e3f5922ceef8541c9ec72b80f57477c422dc11360d9a814e9afad8f202a4",
+          "bytes": 6125
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M5-设计流程改造/M5-1-设计前的角色背景问卷.md",
+          "sha256": "57e00802cc099faa534d866cde17578693811315364c435b60d37fa27b642d90",
+          "bytes": 6564
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M5-设计流程改造/M5-2-如何检查角色是否脸谱化.md",
+          "sha256": "20660ed9b812aec6bdda2c52a4bab991e5d003166b84e0dccf48afd7cd9e2427",
+          "bytes": 6295
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M5-设计流程改造/M5-3-反面教材.md",
+          "sha256": "84b3dd3a2c18227c788d044a079665856a90b91f2a5b459cb4fd85a461679c46",
+          "bytes": 8200
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-0-设计层与渲染层的双层去油总纲.md",
+          "sha256": "a0a682056d12d7d261ed1b171bfe2c21c17d9635d6c226242b63ea0aa38b3e23",
+          "bytes": 7323
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-1-渲染层油腻的成因与提示词去油.md",
+          "sha256": "ab65e0ab15f671f0e023d94c17ef3d82b1ce050981eaa055b8bd154e0ee16eb3",
+          "bytes": 6338
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-2-皮肤与材质的精准描述.md",
+          "sha256": "f59fd7db05c54895716b5e4d8839e0bc32685fc3e0f0037e4f5c7562c3e76dcc",
+          "bytes": 6558
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-3-多轮修改后的噪点脏糊修复.md",
+          "sha256": "1f0cbf817aca12103f5524b3c81a2c590167a19e121c0e82b05d8c3fec5df7af",
+          "bytes": 6147
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-4-保持角色资产图质感的工作流.md",
+          "sha256": "aa03dfcaf8fea13ef7a0d25e42d5dc5ad3abe976cb890fa8972df16948f66bf3",
+          "bytes": 5870
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-5-质感参考方向-服务于角色的三种质感路径.md",
+          "sha256": "8ded0fa37d3da933277753210231b0c4e7cfeeb7be044d584fd74021bbb3d454",
+          "bytes": 6615
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-6-质感词库速查表.md",
+          "sha256": "43fbdb9e465e640b5dcbf38003f5d9335ef20894f07f6de34d0e2f2842a9b54f",
+          "bytes": 5612
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-7-角色资产卡工作模板.md",
+          "sha256": "d742b84cea27be168b916d559998aac83f701bf8fb89747bd43edae39ea23e2f",
+          "bytes": 8665
+        },
+        {
+          "path": "拒绝脸谱化人物设计/README.md",
+          "sha256": "6de8adb0299948d69897f49ec839001e9aa15ebb0e933ceb0c7028cbafc51603",
+          "bytes": 11309
+        }
+      ]
+    },
+    {
+      "id": "anti-stereotype-texture",
+      "archive": "拒绝脸谱化人物设计-知识库.zip",
+      "archive_sha256": "c352eca853c498c43c5ea3b363d1e83ff9eeadee9150899d3edcade04dd5bc5f",
+      "ingested_sha256": "d4d7644dece0d3ee4fcc73c76b59c520b08964a487deffdc110a3b9eae8e69f2",
+      "capability": "character-cast-differentiation",
+      "rules": "knowledge-rules/anti-stereotype-cast.md",
+      "members": [
+        {
+          "path": "拒绝脸谱化人物设计/M1-脸谱化是什么/M1-1-什么是脸谱化-落入类型原型.md",
+          "sha256": "df06440a6b06d7bb0e88cd99f982a308d17fead1c5f96102cf9d444977118352",
+          "bytes": 7768
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M1-脸谱化是什么/M1-2-为什么观众会觉得刻板与油腻.md",
+          "sha256": "582b1306e21c1e2137dde51e9c3d88cdf5f6d3a3584039090d82549736aca1e2",
+          "bytes": 6944
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M1-脸谱化是什么/M1-3-脸谱化的反面-反类型设计.md",
+          "sha256": "953e2018182688a5816d7334e0fefd8b2c983f29522821995ddff4361737bcb8",
+          "bytes": 6774
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M2-为什么AI生成容易脸谱化/M2-1-平均脸效应.md",
+          "sha256": "15b9b49f7390e9e041084ecb4379842517d42301bdc3c3e6fe4787fcfc4f9951",
+          "bytes": 6639
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M2-为什么AI生成容易脸谱化/M2-2-训练数据偏见.md",
+          "sha256": "e90e603c7cfe0a952bead714cc4277a2497795b6f6cc8aa44b9601375984efdd",
+          "bytes": 7201
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M2-为什么AI生成容易脸谱化/M2-3-问题出在设计阶段而非模型阶段.md",
+          "sha256": "70bebe7e833b1d331389e9831877c6b78a1a75e555685f3566dff24946739429",
+          "bytes": 6565
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M3-如何从源头规避脸谱化/M3-1-从角色故事出发.md",
+          "sha256": "ffc36d5d7435210df020488a4d0484faa4170bb084acc70d8b2b345e6bb947ac",
+          "bytes": 5701
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M3-如何从源头规避脸谱化/M3-2-用不完美打破原型.md",
+          "sha256": "237bfbc8af77d93cbd16e189ff110e7d0d7c68bf3cc9c10f572809ca0f132e8e",
+          "bytes": 5904
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M3-如何从源头规避脸谱化/M3-3-用具体细节取代抽象类型.md",
+          "sha256": "6242e227533b7b32565c3ac32fb3437a629db4d4bb8ec0c2cf772f5cae5627ce",
+          "bytes": 5678
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M3-如何从源头规避脸谱化/M3-4-性格驱动五官.md",
+          "sha256": "b1ed61554a9987439fa77cf257c7b556d84587d47d9a5da8bbe0b282eccd7286",
+          "bytes": 7086
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M4-油腻问题的本质与规避/M4-1-油腻是什么.md",
+          "sha256": "341d5fcd0afd5bc607a81fe864349ca7ed8ec2a3b272d35d4361464528155398",
+          "bytes": 6287
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M4-油腻问题的本质与规避/M4-2-油腻与脸谱化的关系.md",
+          "sha256": "df197de4cf95315a179a5307a8c9e259b5c459516d88607f1a180fc7aaf2fdcc",
+          "bytes": 5570
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M4-油腻问题的本质与规避/M4-3-如何规避油腻.md",
+          "sha256": "6888e3f5922ceef8541c9ec72b80f57477c422dc11360d9a814e9afad8f202a4",
+          "bytes": 6125
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M5-设计流程改造/M5-1-设计前的角色背景问卷.md",
+          "sha256": "57e00802cc099faa534d866cde17578693811315364c435b60d37fa27b642d90",
+          "bytes": 6564
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M5-设计流程改造/M5-2-如何检查角色是否脸谱化.md",
+          "sha256": "20660ed9b812aec6bdda2c52a4bab991e5d003166b84e0dccf48afd7cd9e2427",
+          "bytes": 6295
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M5-设计流程改造/M5-3-反面教材.md",
+          "sha256": "84b3dd3a2c18227c788d044a079665856a90b91f2a5b459cb4fd85a461679c46",
+          "bytes": 8200
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-0-设计层与渲染层的双层去油总纲.md",
+          "sha256": "a0a682056d12d7d261ed1b171bfe2c21c17d9635d6c226242b63ea0aa38b3e23",
+          "bytes": 7323
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-1-渲染层油腻的成因与提示词去油.md",
+          "sha256": "ab65e0ab15f671f0e023d94c17ef3d82b1ce050981eaa055b8bd154e0ee16eb3",
+          "bytes": 6338
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-2-皮肤与材质的精准描述.md",
+          "sha256": "f59fd7db05c54895716b5e4d8839e0bc32685fc3e0f0037e4f5c7562c3e76dcc",
+          "bytes": 6558
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-3-多轮修改后的噪点脏糊修复.md",
+          "sha256": "1f0cbf817aca12103f5524b3c81a2c590167a19e121c0e82b05d8c3fec5df7af",
+          "bytes": 6147
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-4-保持角色资产图质感的工作流.md",
+          "sha256": "aa03dfcaf8fea13ef7a0d25e42d5dc5ad3abe976cb890fa8972df16948f66bf3",
+          "bytes": 5870
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-5-质感参考方向-服务于角色的三种质感路径.md",
+          "sha256": "8ded0fa37d3da933277753210231b0c4e7cfeeb7be044d584fd74021bbb3d454",
+          "bytes": 6615
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-6-质感词库速查表.md",
+          "sha256": "43fbdb9e465e640b5dcbf38003f5d9335ef20894f07f6de34d0e2f2842a9b54f",
+          "bytes": 5612
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-7-角色资产卡工作模板.md",
+          "sha256": "d742b84cea27be168b916d559998aac83f701bf8fb89747bd43edae39ea23e2f",
+          "bytes": 8665
+        },
+        {
+          "path": "拒绝脸谱化人物设计/README.md",
+          "sha256": "6de8adb0299948d69897f49ec839001e9aa15ebb0e933ceb0c7028cbafc51603",
+          "bytes": 11309
+        }
+      ]
+    },
+    {
+      "id": "anti-stereotype-texture",
+      "archive": "拒绝脸谱化人物设计-知识库.zip",
+      "archive_sha256": "c352eca853c498c43c5ea3b363d1e83ff9eeadee9150899d3edcade04dd5bc5f",
+      "ingested_sha256": "d4d7644dece0d3ee4fcc73c76b59c520b08964a487deffdc110a3b9eae8e69f2",
+      "capability": "character-skin-design",
+      "rules": "knowledge-rules/anti-stereotype-skin.md",
+      "members": [
+        {
+          "path": "拒绝脸谱化人物设计/M1-脸谱化是什么/M1-1-什么是脸谱化-落入类型原型.md",
+          "sha256": "df06440a6b06d7bb0e88cd99f982a308d17fead1c5f96102cf9d444977118352",
+          "bytes": 7768
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M1-脸谱化是什么/M1-2-为什么观众会觉得刻板与油腻.md",
+          "sha256": "582b1306e21c1e2137dde51e9c3d88cdf5f6d3a3584039090d82549736aca1e2",
+          "bytes": 6944
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M1-脸谱化是什么/M1-3-脸谱化的反面-反类型设计.md",
+          "sha256": "953e2018182688a5816d7334e0fefd8b2c983f29522821995ddff4361737bcb8",
+          "bytes": 6774
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M2-为什么AI生成容易脸谱化/M2-1-平均脸效应.md",
+          "sha256": "15b9b49f7390e9e041084ecb4379842517d42301bdc3c3e6fe4787fcfc4f9951",
+          "bytes": 6639
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M2-为什么AI生成容易脸谱化/M2-2-训练数据偏见.md",
+          "sha256": "e90e603c7cfe0a952bead714cc4277a2497795b6f6cc8aa44b9601375984efdd",
+          "bytes": 7201
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M2-为什么AI生成容易脸谱化/M2-3-问题出在设计阶段而非模型阶段.md",
+          "sha256": "70bebe7e833b1d331389e9831877c6b78a1a75e555685f3566dff24946739429",
+          "bytes": 6565
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M3-如何从源头规避脸谱化/M3-1-从角色故事出发.md",
+          "sha256": "ffc36d5d7435210df020488a4d0484faa4170bb084acc70d8b2b345e6bb947ac",
+          "bytes": 5701
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M3-如何从源头规避脸谱化/M3-2-用不完美打破原型.md",
+          "sha256": "237bfbc8af77d93cbd16e189ff110e7d0d7c68bf3cc9c10f572809ca0f132e8e",
+          "bytes": 5904
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M3-如何从源头规避脸谱化/M3-3-用具体细节取代抽象类型.md",
+          "sha256": "6242e227533b7b32565c3ac32fb3437a629db4d4bb8ec0c2cf772f5cae5627ce",
+          "bytes": 5678
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M3-如何从源头规避脸谱化/M3-4-性格驱动五官.md",
+          "sha256": "b1ed61554a9987439fa77cf257c7b556d84587d47d9a5da8bbe0b282eccd7286",
+          "bytes": 7086
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M4-油腻问题的本质与规避/M4-1-油腻是什么.md",
+          "sha256": "341d5fcd0afd5bc607a81fe864349ca7ed8ec2a3b272d35d4361464528155398",
+          "bytes": 6287
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M4-油腻问题的本质与规避/M4-2-油腻与脸谱化的关系.md",
+          "sha256": "df197de4cf95315a179a5307a8c9e259b5c459516d88607f1a180fc7aaf2fdcc",
+          "bytes": 5570
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M4-油腻问题的本质与规避/M4-3-如何规避油腻.md",
+          "sha256": "6888e3f5922ceef8541c9ec72b80f57477c422dc11360d9a814e9afad8f202a4",
+          "bytes": 6125
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M5-设计流程改造/M5-1-设计前的角色背景问卷.md",
+          "sha256": "57e00802cc099faa534d866cde17578693811315364c435b60d37fa27b642d90",
+          "bytes": 6564
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M5-设计流程改造/M5-2-如何检查角色是否脸谱化.md",
+          "sha256": "20660ed9b812aec6bdda2c52a4bab991e5d003166b84e0dccf48afd7cd9e2427",
+          "bytes": 6295
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M5-设计流程改造/M5-3-反面教材.md",
+          "sha256": "84b3dd3a2c18227c788d044a079665856a90b91f2a5b459cb4fd85a461679c46",
+          "bytes": 8200
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-0-设计层与渲染层的双层去油总纲.md",
+          "sha256": "a0a682056d12d7d261ed1b171bfe2c21c17d9635d6c226242b63ea0aa38b3e23",
+          "bytes": 7323
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-1-渲染层油腻的成因与提示词去油.md",
+          "sha256": "ab65e0ab15f671f0e023d94c17ef3d82b1ce050981eaa055b8bd154e0ee16eb3",
+          "bytes": 6338
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-2-皮肤与材质的精准描述.md",
+          "sha256": "f59fd7db05c54895716b5e4d8839e0bc32685fc3e0f0037e4f5c7562c3e76dcc",
+          "bytes": 6558
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-3-多轮修改后的噪点脏糊修复.md",
+          "sha256": "1f0cbf817aca12103f5524b3c81a2c590167a19e121c0e82b05d8c3fec5df7af",
+          "bytes": 6147
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-4-保持角色资产图质感的工作流.md",
+          "sha256": "aa03dfcaf8fea13ef7a0d25e42d5dc5ad3abe976cb890fa8972df16948f66bf3",
+          "bytes": 5870
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-5-质感参考方向-服务于角色的三种质感路径.md",
+          "sha256": "8ded0fa37d3da933277753210231b0c4e7cfeeb7be044d584fd74021bbb3d454",
+          "bytes": 6615
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-6-质感词库速查表.md",
+          "sha256": "43fbdb9e465e640b5dcbf38003f5d9335ef20894f07f6de34d0e2f2842a9b54f",
+          "bytes": 5612
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-7-角色资产卡工作模板.md",
+          "sha256": "d742b84cea27be168b916d559998aac83f701bf8fb89747bd43edae39ea23e2f",
+          "bytes": 8665
+        },
+        {
+          "path": "拒绝脸谱化人物设计/README.md",
+          "sha256": "6de8adb0299948d69897f49ec839001e9aa15ebb0e933ceb0c7028cbafc51603",
+          "bytes": 11309
+        }
+      ]
+    },
+    {
+      "id": "anti-stereotype-texture",
+      "archive": "拒绝脸谱化人物设计-知识库.zip",
+      "archive_sha256": "c352eca853c498c43c5ea3b363d1e83ff9eeadee9150899d3edcade04dd5bc5f",
+      "ingested_sha256": "d4d7644dece0d3ee4fcc73c76b59c520b08964a487deffdc110a3b9eae8e69f2",
+      "capability": "character-costume-material-design",
+      "rules": "knowledge-rules/anti-stereotype-material.md",
+      "members": [
+        {
+          "path": "拒绝脸谱化人物设计/M1-脸谱化是什么/M1-1-什么是脸谱化-落入类型原型.md",
+          "sha256": "df06440a6b06d7bb0e88cd99f982a308d17fead1c5f96102cf9d444977118352",
+          "bytes": 7768
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M1-脸谱化是什么/M1-2-为什么观众会觉得刻板与油腻.md",
+          "sha256": "582b1306e21c1e2137dde51e9c3d88cdf5f6d3a3584039090d82549736aca1e2",
+          "bytes": 6944
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M1-脸谱化是什么/M1-3-脸谱化的反面-反类型设计.md",
+          "sha256": "953e2018182688a5816d7334e0fefd8b2c983f29522821995ddff4361737bcb8",
+          "bytes": 6774
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M2-为什么AI生成容易脸谱化/M2-1-平均脸效应.md",
+          "sha256": "15b9b49f7390e9e041084ecb4379842517d42301bdc3c3e6fe4787fcfc4f9951",
+          "bytes": 6639
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M2-为什么AI生成容易脸谱化/M2-2-训练数据偏见.md",
+          "sha256": "e90e603c7cfe0a952bead714cc4277a2497795b6f6cc8aa44b9601375984efdd",
+          "bytes": 7201
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M2-为什么AI生成容易脸谱化/M2-3-问题出在设计阶段而非模型阶段.md",
+          "sha256": "70bebe7e833b1d331389e9831877c6b78a1a75e555685f3566dff24946739429",
+          "bytes": 6565
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M3-如何从源头规避脸谱化/M3-1-从角色故事出发.md",
+          "sha256": "ffc36d5d7435210df020488a4d0484faa4170bb084acc70d8b2b345e6bb947ac",
+          "bytes": 5701
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M3-如何从源头规避脸谱化/M3-2-用不完美打破原型.md",
+          "sha256": "237bfbc8af77d93cbd16e189ff110e7d0d7c68bf3cc9c10f572809ca0f132e8e",
+          "bytes": 5904
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M3-如何从源头规避脸谱化/M3-3-用具体细节取代抽象类型.md",
+          "sha256": "6242e227533b7b32565c3ac32fb3437a629db4d4bb8ec0c2cf772f5cae5627ce",
+          "bytes": 5678
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M3-如何从源头规避脸谱化/M3-4-性格驱动五官.md",
+          "sha256": "b1ed61554a9987439fa77cf257c7b556d84587d47d9a5da8bbe0b282eccd7286",
+          "bytes": 7086
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M4-油腻问题的本质与规避/M4-1-油腻是什么.md",
+          "sha256": "341d5fcd0afd5bc607a81fe864349ca7ed8ec2a3b272d35d4361464528155398",
+          "bytes": 6287
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M4-油腻问题的本质与规避/M4-2-油腻与脸谱化的关系.md",
+          "sha256": "df197de4cf95315a179a5307a8c9e259b5c459516d88607f1a180fc7aaf2fdcc",
+          "bytes": 5570
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M4-油腻问题的本质与规避/M4-3-如何规避油腻.md",
+          "sha256": "6888e3f5922ceef8541c9ec72b80f57477c422dc11360d9a814e9afad8f202a4",
+          "bytes": 6125
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M5-设计流程改造/M5-1-设计前的角色背景问卷.md",
+          "sha256": "57e00802cc099faa534d866cde17578693811315364c435b60d37fa27b642d90",
+          "bytes": 6564
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M5-设计流程改造/M5-2-如何检查角色是否脸谱化.md",
+          "sha256": "20660ed9b812aec6bdda2c52a4bab991e5d003166b84e0dccf48afd7cd9e2427",
+          "bytes": 6295
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M5-设计流程改造/M5-3-反面教材.md",
+          "sha256": "84b3dd3a2c18227c788d044a079665856a90b91f2a5b459cb4fd85a461679c46",
+          "bytes": 8200
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-0-设计层与渲染层的双层去油总纲.md",
+          "sha256": "a0a682056d12d7d261ed1b171bfe2c21c17d9635d6c226242b63ea0aa38b3e23",
+          "bytes": 7323
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-1-渲染层油腻的成因与提示词去油.md",
+          "sha256": "ab65e0ab15f671f0e023d94c17ef3d82b1ce050981eaa055b8bd154e0ee16eb3",
+          "bytes": 6338
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-2-皮肤与材质的精准描述.md",
+          "sha256": "f59fd7db05c54895716b5e4d8839e0bc32685fc3e0f0037e4f5c7562c3e76dcc",
+          "bytes": 6558
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-3-多轮修改后的噪点脏糊修复.md",
+          "sha256": "1f0cbf817aca12103f5524b3c81a2c590167a19e121c0e82b05d8c3fec5df7af",
+          "bytes": 6147
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-4-保持角色资产图质感的工作流.md",
+          "sha256": "aa03dfcaf8fea13ef7a0d25e42d5dc5ad3abe976cb890fa8972df16948f66bf3",
+          "bytes": 5870
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-5-质感参考方向-服务于角色的三种质感路径.md",
+          "sha256": "8ded0fa37d3da933277753210231b0c4e7cfeeb7be044d584fd74021bbb3d454",
+          "bytes": 6615
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-6-质感词库速查表.md",
+          "sha256": "43fbdb9e465e640b5dcbf38003f5d9335ef20894f07f6de34d0e2f2842a9b54f",
+          "bytes": 5612
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-7-角色资产卡工作模板.md",
+          "sha256": "d742b84cea27be168b916d559998aac83f701bf8fb89747bd43edae39ea23e2f",
+          "bytes": 8665
+        },
+        {
+          "path": "拒绝脸谱化人物设计/README.md",
+          "sha256": "6de8adb0299948d69897f49ec839001e9aa15ebb0e933ceb0c7028cbafc51603",
+          "bytes": 11309
+        }
+      ]
+    },
+    {
+      "id": "anti-stereotype-texture",
+      "archive": "拒绝脸谱化人物设计-知识库.zip",
+      "archive_sha256": "c352eca853c498c43c5ea3b363d1e83ff9eeadee9150899d3edcade04dd5bc5f",
+      "ingested_sha256": "d4d7644dece0d3ee4fcc73c76b59c520b08964a487deffdc110a3b9eae8e69f2",
+      "capability": "character-image-prompt",
+      "rules": "knowledge-rules/anti-stereotype-prompt.md",
+      "members": [
+        {
+          "path": "拒绝脸谱化人物设计/M1-脸谱化是什么/M1-1-什么是脸谱化-落入类型原型.md",
+          "sha256": "df06440a6b06d7bb0e88cd99f982a308d17fead1c5f96102cf9d444977118352",
+          "bytes": 7768
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M1-脸谱化是什么/M1-2-为什么观众会觉得刻板与油腻.md",
+          "sha256": "582b1306e21c1e2137dde51e9c3d88cdf5f6d3a3584039090d82549736aca1e2",
+          "bytes": 6944
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M1-脸谱化是什么/M1-3-脸谱化的反面-反类型设计.md",
+          "sha256": "953e2018182688a5816d7334e0fefd8b2c983f29522821995ddff4361737bcb8",
+          "bytes": 6774
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M2-为什么AI生成容易脸谱化/M2-1-平均脸效应.md",
+          "sha256": "15b9b49f7390e9e041084ecb4379842517d42301bdc3c3e6fe4787fcfc4f9951",
+          "bytes": 6639
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M2-为什么AI生成容易脸谱化/M2-2-训练数据偏见.md",
+          "sha256": "e90e603c7cfe0a952bead714cc4277a2497795b6f6cc8aa44b9601375984efdd",
+          "bytes": 7201
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M2-为什么AI生成容易脸谱化/M2-3-问题出在设计阶段而非模型阶段.md",
+          "sha256": "70bebe7e833b1d331389e9831877c6b78a1a75e555685f3566dff24946739429",
+          "bytes": 6565
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M3-如何从源头规避脸谱化/M3-1-从角色故事出发.md",
+          "sha256": "ffc36d5d7435210df020488a4d0484faa4170bb084acc70d8b2b345e6bb947ac",
+          "bytes": 5701
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M3-如何从源头规避脸谱化/M3-2-用不完美打破原型.md",
+          "sha256": "237bfbc8af77d93cbd16e189ff110e7d0d7c68bf3cc9c10f572809ca0f132e8e",
+          "bytes": 5904
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M3-如何从源头规避脸谱化/M3-3-用具体细节取代抽象类型.md",
+          "sha256": "6242e227533b7b32565c3ac32fb3437a629db4d4bb8ec0c2cf772f5cae5627ce",
+          "bytes": 5678
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M3-如何从源头规避脸谱化/M3-4-性格驱动五官.md",
+          "sha256": "b1ed61554a9987439fa77cf257c7b556d84587d47d9a5da8bbe0b282eccd7286",
+          "bytes": 7086
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M4-油腻问题的本质与规避/M4-1-油腻是什么.md",
+          "sha256": "341d5fcd0afd5bc607a81fe864349ca7ed8ec2a3b272d35d4361464528155398",
+          "bytes": 6287
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M4-油腻问题的本质与规避/M4-2-油腻与脸谱化的关系.md",
+          "sha256": "df197de4cf95315a179a5307a8c9e259b5c459516d88607f1a180fc7aaf2fdcc",
+          "bytes": 5570
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M4-油腻问题的本质与规避/M4-3-如何规避油腻.md",
+          "sha256": "6888e3f5922ceef8541c9ec72b80f57477c422dc11360d9a814e9afad8f202a4",
+          "bytes": 6125
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M5-设计流程改造/M5-1-设计前的角色背景问卷.md",
+          "sha256": "57e00802cc099faa534d866cde17578693811315364c435b60d37fa27b642d90",
+          "bytes": 6564
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M5-设计流程改造/M5-2-如何检查角色是否脸谱化.md",
+          "sha256": "20660ed9b812aec6bdda2c52a4bab991e5d003166b84e0dccf48afd7cd9e2427",
+          "bytes": 6295
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M5-设计流程改造/M5-3-反面教材.md",
+          "sha256": "84b3dd3a2c18227c788d044a079665856a90b91f2a5b459cb4fd85a461679c46",
+          "bytes": 8200
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-0-设计层与渲染层的双层去油总纲.md",
+          "sha256": "a0a682056d12d7d261ed1b171bfe2c21c17d9635d6c226242b63ea0aa38b3e23",
+          "bytes": 7323
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-1-渲染层油腻的成因与提示词去油.md",
+          "sha256": "ab65e0ab15f671f0e023d94c17ef3d82b1ce050981eaa055b8bd154e0ee16eb3",
+          "bytes": 6338
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-2-皮肤与材质的精准描述.md",
+          "sha256": "f59fd7db05c54895716b5e4d8839e0bc32685fc3e0f0037e4f5c7562c3e76dcc",
+          "bytes": 6558
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-3-多轮修改后的噪点脏糊修复.md",
+          "sha256": "1f0cbf817aca12103f5524b3c81a2c590167a19e121c0e82b05d8c3fec5df7af",
+          "bytes": 6147
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-4-保持角色资产图质感的工作流.md",
+          "sha256": "aa03dfcaf8fea13ef7a0d25e42d5dc5ad3abe976cb890fa8972df16948f66bf3",
+          "bytes": 5870
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-5-质感参考方向-服务于角色的三种质感路径.md",
+          "sha256": "8ded0fa37d3da933277753210231b0c4e7cfeeb7be044d584fd74021bbb3d454",
+          "bytes": 6615
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-6-质感词库速查表.md",
+          "sha256": "43fbdb9e465e640b5dcbf38003f5d9335ef20894f07f6de34d0e2f2842a9b54f",
+          "bytes": 5612
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-7-角色资产卡工作模板.md",
+          "sha256": "d742b84cea27be168b916d559998aac83f701bf8fb89747bd43edae39ea23e2f",
+          "bytes": 8665
+        },
+        {
+          "path": "拒绝脸谱化人物设计/README.md",
+          "sha256": "6de8adb0299948d69897f49ec839001e9aa15ebb0e933ceb0c7028cbafc51603",
+          "bytes": 11309
+        }
+      ]
+    },
+    {
+      "id": "anti-stereotype-texture",
+      "archive": "拒绝脸谱化人物设计-知识库.zip",
+      "archive_sha256": "c352eca853c498c43c5ea3b363d1e83ff9eeadee9150899d3edcade04dd5bc5f",
+      "ingested_sha256": "d4d7644dece0d3ee4fcc73c76b59c520b08964a487deffdc110a3b9eae8e69f2",
+      "capability": "character-image-review",
+      "rules": "knowledge-rules/anti-stereotype-review.md",
+      "members": [
+        {
+          "path": "拒绝脸谱化人物设计/M1-脸谱化是什么/M1-1-什么是脸谱化-落入类型原型.md",
+          "sha256": "df06440a6b06d7bb0e88cd99f982a308d17fead1c5f96102cf9d444977118352",
+          "bytes": 7768
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M1-脸谱化是什么/M1-2-为什么观众会觉得刻板与油腻.md",
+          "sha256": "582b1306e21c1e2137dde51e9c3d88cdf5f6d3a3584039090d82549736aca1e2",
+          "bytes": 6944
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M1-脸谱化是什么/M1-3-脸谱化的反面-反类型设计.md",
+          "sha256": "953e2018182688a5816d7334e0fefd8b2c983f29522821995ddff4361737bcb8",
+          "bytes": 6774
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M2-为什么AI生成容易脸谱化/M2-1-平均脸效应.md",
+          "sha256": "15b9b49f7390e9e041084ecb4379842517d42301bdc3c3e6fe4787fcfc4f9951",
+          "bytes": 6639
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M2-为什么AI生成容易脸谱化/M2-2-训练数据偏见.md",
+          "sha256": "e90e603c7cfe0a952bead714cc4277a2497795b6f6cc8aa44b9601375984efdd",
+          "bytes": 7201
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M2-为什么AI生成容易脸谱化/M2-3-问题出在设计阶段而非模型阶段.md",
+          "sha256": "70bebe7e833b1d331389e9831877c6b78a1a75e555685f3566dff24946739429",
+          "bytes": 6565
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M3-如何从源头规避脸谱化/M3-1-从角色故事出发.md",
+          "sha256": "ffc36d5d7435210df020488a4d0484faa4170bb084acc70d8b2b345e6bb947ac",
+          "bytes": 5701
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M3-如何从源头规避脸谱化/M3-2-用不完美打破原型.md",
+          "sha256": "237bfbc8af77d93cbd16e189ff110e7d0d7c68bf3cc9c10f572809ca0f132e8e",
+          "bytes": 5904
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M3-如何从源头规避脸谱化/M3-3-用具体细节取代抽象类型.md",
+          "sha256": "6242e227533b7b32565c3ac32fb3437a629db4d4bb8ec0c2cf772f5cae5627ce",
+          "bytes": 5678
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M3-如何从源头规避脸谱化/M3-4-性格驱动五官.md",
+          "sha256": "b1ed61554a9987439fa77cf257c7b556d84587d47d9a5da8bbe0b282eccd7286",
+          "bytes": 7086
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M4-油腻问题的本质与规避/M4-1-油腻是什么.md",
+          "sha256": "341d5fcd0afd5bc607a81fe864349ca7ed8ec2a3b272d35d4361464528155398",
+          "bytes": 6287
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M4-油腻问题的本质与规避/M4-2-油腻与脸谱化的关系.md",
+          "sha256": "df197de4cf95315a179a5307a8c9e259b5c459516d88607f1a180fc7aaf2fdcc",
+          "bytes": 5570
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M4-油腻问题的本质与规避/M4-3-如何规避油腻.md",
+          "sha256": "6888e3f5922ceef8541c9ec72b80f57477c422dc11360d9a814e9afad8f202a4",
+          "bytes": 6125
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M5-设计流程改造/M5-1-设计前的角色背景问卷.md",
+          "sha256": "57e00802cc099faa534d866cde17578693811315364c435b60d37fa27b642d90",
+          "bytes": 6564
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M5-设计流程改造/M5-2-如何检查角色是否脸谱化.md",
+          "sha256": "20660ed9b812aec6bdda2c52a4bab991e5d003166b84e0dccf48afd7cd9e2427",
+          "bytes": 6295
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M5-设计流程改造/M5-3-反面教材.md",
+          "sha256": "84b3dd3a2c18227c788d044a079665856a90b91f2a5b459cb4fd85a461679c46",
+          "bytes": 8200
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-0-设计层与渲染层的双层去油总纲.md",
+          "sha256": "a0a682056d12d7d261ed1b171bfe2c21c17d9635d6c226242b63ea0aa38b3e23",
+          "bytes": 7323
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-1-渲染层油腻的成因与提示词去油.md",
+          "sha256": "ab65e0ab15f671f0e023d94c17ef3d82b1ce050981eaa055b8bd154e0ee16eb3",
+          "bytes": 6338
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-2-皮肤与材质的精准描述.md",
+          "sha256": "f59fd7db05c54895716b5e4d8839e0bc32685fc3e0f0037e4f5c7562c3e76dcc",
+          "bytes": 6558
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-3-多轮修改后的噪点脏糊修复.md",
+          "sha256": "1f0cbf817aca12103f5524b3c81a2c590167a19e121c0e82b05d8c3fec5df7af",
+          "bytes": 6147
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-4-保持角色资产图质感的工作流.md",
+          "sha256": "aa03dfcaf8fea13ef7a0d25e42d5dc5ad3abe976cb890fa8972df16948f66bf3",
+          "bytes": 5870
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-5-质感参考方向-服务于角色的三种质感路径.md",
+          "sha256": "8ded0fa37d3da933277753210231b0c4e7cfeeb7be044d584fd74021bbb3d454",
+          "bytes": 6615
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-6-质感词库速查表.md",
+          "sha256": "43fbdb9e465e640b5dcbf38003f5d9335ef20894f07f6de34d0e2f2842a9b54f",
+          "bytes": 5612
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-7-角色资产卡工作模板.md",
+          "sha256": "d742b84cea27be168b916d559998aac83f701bf8fb89747bd43edae39ea23e2f",
+          "bytes": 8665
+        },
+        {
+          "path": "拒绝脸谱化人物设计/README.md",
+          "sha256": "6de8adb0299948d69897f49ec839001e9aa15ebb0e933ceb0c7028cbafc51603",
+          "bytes": 11309
+        }
+      ]
+    },
+    {
+      "id": "anti-stereotype-texture",
+      "archive": "拒绝脸谱化人物设计-知识库.zip",
+      "archive_sha256": "c352eca853c498c43c5ea3b363d1e83ff9eeadee9150899d3edcade04dd5bc5f",
+      "ingested_sha256": "d4d7644dece0d3ee4fcc73c76b59c520b08964a487deffdc110a3b9eae8e69f2",
+      "capability": "character-image-edit",
+      "rules": "knowledge-rules/anti-stereotype-edit.md",
+      "members": [
+        {
+          "path": "拒绝脸谱化人物设计/M1-脸谱化是什么/M1-1-什么是脸谱化-落入类型原型.md",
+          "sha256": "df06440a6b06d7bb0e88cd99f982a308d17fead1c5f96102cf9d444977118352",
+          "bytes": 7768
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M1-脸谱化是什么/M1-2-为什么观众会觉得刻板与油腻.md",
+          "sha256": "582b1306e21c1e2137dde51e9c3d88cdf5f6d3a3584039090d82549736aca1e2",
+          "bytes": 6944
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M1-脸谱化是什么/M1-3-脸谱化的反面-反类型设计.md",
+          "sha256": "953e2018182688a5816d7334e0fefd8b2c983f29522821995ddff4361737bcb8",
+          "bytes": 6774
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M2-为什么AI生成容易脸谱化/M2-1-平均脸效应.md",
+          "sha256": "15b9b49f7390e9e041084ecb4379842517d42301bdc3c3e6fe4787fcfc4f9951",
+          "bytes": 6639
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M2-为什么AI生成容易脸谱化/M2-2-训练数据偏见.md",
+          "sha256": "e90e603c7cfe0a952bead714cc4277a2497795b6f6cc8aa44b9601375984efdd",
+          "bytes": 7201
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M2-为什么AI生成容易脸谱化/M2-3-问题出在设计阶段而非模型阶段.md",
+          "sha256": "70bebe7e833b1d331389e9831877c6b78a1a75e555685f3566dff24946739429",
+          "bytes": 6565
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M3-如何从源头规避脸谱化/M3-1-从角色故事出发.md",
+          "sha256": "ffc36d5d7435210df020488a4d0484faa4170bb084acc70d8b2b345e6bb947ac",
+          "bytes": 5701
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M3-如何从源头规避脸谱化/M3-2-用不完美打破原型.md",
+          "sha256": "237bfbc8af77d93cbd16e189ff110e7d0d7c68bf3cc9c10f572809ca0f132e8e",
+          "bytes": 5904
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M3-如何从源头规避脸谱化/M3-3-用具体细节取代抽象类型.md",
+          "sha256": "6242e227533b7b32565c3ac32fb3437a629db4d4bb8ec0c2cf772f5cae5627ce",
+          "bytes": 5678
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M3-如何从源头规避脸谱化/M3-4-性格驱动五官.md",
+          "sha256": "b1ed61554a9987439fa77cf257c7b556d84587d47d9a5da8bbe0b282eccd7286",
+          "bytes": 7086
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M4-油腻问题的本质与规避/M4-1-油腻是什么.md",
+          "sha256": "341d5fcd0afd5bc607a81fe864349ca7ed8ec2a3b272d35d4361464528155398",
+          "bytes": 6287
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M4-油腻问题的本质与规避/M4-2-油腻与脸谱化的关系.md",
+          "sha256": "df197de4cf95315a179a5307a8c9e259b5c459516d88607f1a180fc7aaf2fdcc",
+          "bytes": 5570
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M4-油腻问题的本质与规避/M4-3-如何规避油腻.md",
+          "sha256": "6888e3f5922ceef8541c9ec72b80f57477c422dc11360d9a814e9afad8f202a4",
+          "bytes": 6125
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M5-设计流程改造/M5-1-设计前的角色背景问卷.md",
+          "sha256": "57e00802cc099faa534d866cde17578693811315364c435b60d37fa27b642d90",
+          "bytes": 6564
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M5-设计流程改造/M5-2-如何检查角色是否脸谱化.md",
+          "sha256": "20660ed9b812aec6bdda2c52a4bab991e5d003166b84e0dccf48afd7cd9e2427",
+          "bytes": 6295
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M5-设计流程改造/M5-3-反面教材.md",
+          "sha256": "84b3dd3a2c18227c788d044a079665856a90b91f2a5b459cb4fd85a461679c46",
+          "bytes": 8200
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-0-设计层与渲染层的双层去油总纲.md",
+          "sha256": "a0a682056d12d7d261ed1b171bfe2c21c17d9635d6c226242b63ea0aa38b3e23",
+          "bytes": 7323
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-1-渲染层油腻的成因与提示词去油.md",
+          "sha256": "ab65e0ab15f671f0e023d94c17ef3d82b1ce050981eaa055b8bd154e0ee16eb3",
+          "bytes": 6338
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-2-皮肤与材质的精准描述.md",
+          "sha256": "f59fd7db05c54895716b5e4d8839e0bc32685fc3e0f0037e4f5c7562c3e76dcc",
+          "bytes": 6558
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-3-多轮修改后的噪点脏糊修复.md",
+          "sha256": "1f0cbf817aca12103f5524b3c81a2c590167a19e121c0e82b05d8c3fec5df7af",
+          "bytes": 6147
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-4-保持角色资产图质感的工作流.md",
+          "sha256": "aa03dfcaf8fea13ef7a0d25e42d5dc5ad3abe976cb890fa8972df16948f66bf3",
+          "bytes": 5870
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-5-质感参考方向-服务于角色的三种质感路径.md",
+          "sha256": "8ded0fa37d3da933277753210231b0c4e7cfeeb7be044d584fd74021bbb3d454",
+          "bytes": 6615
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-6-质感词库速查表.md",
+          "sha256": "43fbdb9e465e640b5dcbf38003f5d9335ef20894f07f6de34d0e2f2842a9b54f",
+          "bytes": 5612
+        },
+        {
+          "path": "拒绝脸谱化人物设计/M6-渲染质感与去油实操/M6-7-角色资产卡工作模板.md",
+          "sha256": "d742b84cea27be168b916d559998aac83f701bf8fb89747bd43edae39ea23e2f",
+          "bytes": 8665
+        },
+        {
+          "path": "拒绝脸谱化人物设计/README.md",
+          "sha256": "6de8adb0299948d69897f49ec839001e9aa15ebb0e933ceb0c7028cbafc51603",
+          "bytes": 11309
+        }
+      ]
+    },
+    {
+      "id": "feature-focus",
+      "archive": "不完美美学与特征聚焦知识库.zip",
+      "archive_sha256": "94ec6e033bbfb5a55674f01b310ace576d5c488f415c1d5efd3b76bd770c06cd",
+      "ingested_sha256": "ab7c938604140e073c334a1e377479f3381241e2d1c9426ce8e3c5f0e28aafb2",
+      "capability": "character-feature-focus",
+      "rules": "knowledge-rules/feature-focus.md",
+      "members": [
+        {
+          "path": "不完美美学与特征聚焦知识库/README.md",
+          "sha256": "cf53ddda745c45c3d9068a820c8736c80dcf55330c640aed7a1399150654e572",
+          "bytes": 10351
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块1-不完美美学原理/01-面孔原型效应-为什么完美面孔没有记忆点.md",
+          "sha256": "1aaf19a041569b98a49d773a6c4c3eb178a3777f44d06bd05c42c28ecfaf48b5",
+          "bytes": 6405
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块1-不完美美学原理/02-视觉显著性理论-异常点如何捕获注意力.md",
+          "sha256": "a1ce55f1a1417b0987f6d66eb95ef5e92f1c3885841df440b907beb4d5730e20",
+          "bytes": 6638
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块1-不完美美学原理/03-缺陷与情感连接-为什么有缺点的角色更真实.md",
+          "sha256": "f5c973da443d110978a3cbb6926648d3d79099106da20013a2168c375ca05dc6",
+          "bytes": 6828
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块2-特征聚焦方法论/01-第一步-确定核心气质.md",
+          "sha256": "5dd6b48150e2994a9f5cefc088a4c941697a42195b6639b600b44e2ebd0c1cd5",
+          "bytes": 5691
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块2-特征聚焦方法论/02-第二步-选择2到3个视觉锚点.md",
+          "sha256": "48284c2f16f1ac429446fb984322fcf11489dd7366c22d77f9ad4f8eb5dba5f0",
+          "bytes": 6664
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块2-特征聚焦方法论/03-第三步-用不完美打破原型.md",
+          "sha256": "2de41e144e1cb746ef9a76dfa19080ae2d61dfea8eedb9c80609b87a29a18e95",
+          "bytes": 6820
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块2-特征聚焦方法论/04-第四步-用细节取代抽象描述.md",
+          "sha256": "97dba6bea0db382d86b1d75f51c31a401fe972a7dd6f19ac91c949fb3938c9bc",
+          "bytes": 6579
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块3-经典案例分析/01-金克丝-高饱和撞色与夸张动态.md",
+          "sha256": "a454f07b71c80eff4497fe17b795150e71c9e59422c9037aef29cc415b723af7",
+          "bytes": 5527
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块3-经典案例分析/02-卡缪-动作与服饰细节的记忆点.md",
+          "sha256": "beb8b6ea587791375cb39a0ec85ebcd754732574370f24d495d92b8dda5b2f12",
+          "bytes": 5546
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块3-经典案例分析/03-路飞-剪影级标志性元素.md",
+          "sha256": "9b1a6aa2355faa7e753fa3ae8e8fffb7bc274ed866f182eaed7b254d58828da1",
+          "bytes": 5860
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块4-验证方法/01-剪影测试.md",
+          "sha256": "053773664ccf7ebf8e8ad63a7edc89f9b8b810265ace9f79ce32fd957d5ca9cb",
+          "bytes": 5074
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块4-验证方法/02-遮挡测试.md",
+          "sha256": "8a6fbf6c2147264a07a04edf3018189991c297f31774ba4e19d54c3fc9c61090",
+          "bytes": 5186
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块4-验证方法/03-特征计数.md",
+          "sha256": "ca3c6b94c2225fe7caa7bdbfb0562d760dde377862719a7ce2581ec57966bf52",
+          "bytes": 5580
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块4-验证方法/04-一句话概括.md",
+          "sha256": "c922d240d4957acc4d01bfb798fd28cba6f248e47b6f75ccd7f301d3de21d6a8",
+          "bytes": 4928
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块5-避坑清单/01-堆砌形容词-网红脸的诞生.md",
+          "sha256": "f116eafdd5403f748d80175a992847a37239b01a131645bf8b450a9d2147c881",
+          "bytes": 5103
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块5-避坑清单/02-频繁更换风格标签-特征漂移.md",
+          "sha256": "e7b603a1e6c2479ab58a1a4f2fe9217180f1f19248a816ea84db3a50876ac91c",
+          "bytes": 5530
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块5-避坑清单/03-忽略不对称性-假人感.md",
+          "sha256": "def05da183dad72d64d21c04bcf25a53c85e4016877772dd1d32fa8490a56911",
+          "bytes": 5666
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块5-避坑清单/04-追求完美皮肤-塑料质感.md",
+          "sha256": "16446a92c116a4f9109d1eb6b8840ced3a4a5e47b132cf16e68fb965fb0ea589",
+          "bytes": 5412
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块6-AI提示词工程应用/01-把特征聚焦写进AI生图.md",
+          "sha256": "6d70966a66ba00e36b47cc7153332c1a91686012fd2bf6eec1932fda274db79a",
+          "bytes": 6006
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块6-AI提示词工程应用/02-怎么写不完美细节.md",
+          "sha256": "a22f5b96d10800e640a98f35b1f173677b3dcddc2b4b016809d12950c4fdd13a",
+          "bytes": 5669
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块6-AI提示词工程应用/03-完整提示词模板逐段拆解.md",
+          "sha256": "376b2a57b1cfc49cb5e5dd6bead8b80aed38aefe40fa903e227538d492012452",
+          "bytes": 10790
+        }
+      ]
+    },
+    {
+      "id": "feature-focus-design",
+      "archive": "不完美美学与特征聚焦知识库.zip",
+      "archive_sha256": "94ec6e033bbfb5a55674f01b310ace576d5c488f415c1d5efd3b76bd770c06cd",
+      "ingested_sha256": "ab7c938604140e073c334a1e377479f3381241e2d1c9426ce8e3c5f0e28aafb2",
+      "capability": "character-design",
+      "rules": "knowledge-rules/feature-focus.md",
+      "members": [
+        {
+          "path": "不完美美学与特征聚焦知识库/README.md",
+          "sha256": "cf53ddda745c45c3d9068a820c8736c80dcf55330c640aed7a1399150654e572",
+          "bytes": 10351
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块1-不完美美学原理/01-面孔原型效应-为什么完美面孔没有记忆点.md",
+          "sha256": "1aaf19a041569b98a49d773a6c4c3eb178a3777f44d06bd05c42c28ecfaf48b5",
+          "bytes": 6405
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块1-不完美美学原理/02-视觉显著性理论-异常点如何捕获注意力.md",
+          "sha256": "a1ce55f1a1417b0987f6d66eb95ef5e92f1c3885841df440b907beb4d5730e20",
+          "bytes": 6638
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块1-不完美美学原理/03-缺陷与情感连接-为什么有缺点的角色更真实.md",
+          "sha256": "f5c973da443d110978a3cbb6926648d3d79099106da20013a2168c375ca05dc6",
+          "bytes": 6828
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块2-特征聚焦方法论/01-第一步-确定核心气质.md",
+          "sha256": "5dd6b48150e2994a9f5cefc088a4c941697a42195b6639b600b44e2ebd0c1cd5",
+          "bytes": 5691
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块2-特征聚焦方法论/02-第二步-选择2到3个视觉锚点.md",
+          "sha256": "48284c2f16f1ac429446fb984322fcf11489dd7366c22d77f9ad4f8eb5dba5f0",
+          "bytes": 6664
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块2-特征聚焦方法论/03-第三步-用不完美打破原型.md",
+          "sha256": "2de41e144e1cb746ef9a76dfa19080ae2d61dfea8eedb9c80609b87a29a18e95",
+          "bytes": 6820
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块2-特征聚焦方法论/04-第四步-用细节取代抽象描述.md",
+          "sha256": "97dba6bea0db382d86b1d75f51c31a401fe972a7dd6f19ac91c949fb3938c9bc",
+          "bytes": 6579
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块3-经典案例分析/01-金克丝-高饱和撞色与夸张动态.md",
+          "sha256": "a454f07b71c80eff4497fe17b795150e71c9e59422c9037aef29cc415b723af7",
+          "bytes": 5527
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块3-经典案例分析/02-卡缪-动作与服饰细节的记忆点.md",
+          "sha256": "beb8b6ea587791375cb39a0ec85ebcd754732574370f24d495d92b8dda5b2f12",
+          "bytes": 5546
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块3-经典案例分析/03-路飞-剪影级标志性元素.md",
+          "sha256": "9b1a6aa2355faa7e753fa3ae8e8fffb7bc274ed866f182eaed7b254d58828da1",
+          "bytes": 5860
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块4-验证方法/01-剪影测试.md",
+          "sha256": "053773664ccf7ebf8e8ad63a7edc89f9b8b810265ace9f79ce32fd957d5ca9cb",
+          "bytes": 5074
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块4-验证方法/02-遮挡测试.md",
+          "sha256": "8a6fbf6c2147264a07a04edf3018189991c297f31774ba4e19d54c3fc9c61090",
+          "bytes": 5186
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块4-验证方法/03-特征计数.md",
+          "sha256": "ca3c6b94c2225fe7caa7bdbfb0562d760dde377862719a7ce2581ec57966bf52",
+          "bytes": 5580
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块4-验证方法/04-一句话概括.md",
+          "sha256": "c922d240d4957acc4d01bfb798fd28cba6f248e47b6f75ccd7f301d3de21d6a8",
+          "bytes": 4928
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块5-避坑清单/01-堆砌形容词-网红脸的诞生.md",
+          "sha256": "f116eafdd5403f748d80175a992847a37239b01a131645bf8b450a9d2147c881",
+          "bytes": 5103
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块5-避坑清单/02-频繁更换风格标签-特征漂移.md",
+          "sha256": "e7b603a1e6c2479ab58a1a4f2fe9217180f1f19248a816ea84db3a50876ac91c",
+          "bytes": 5530
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块5-避坑清单/03-忽略不对称性-假人感.md",
+          "sha256": "def05da183dad72d64d21c04bcf25a53c85e4016877772dd1d32fa8490a56911",
+          "bytes": 5666
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块5-避坑清单/04-追求完美皮肤-塑料质感.md",
+          "sha256": "16446a92c116a4f9109d1eb6b8840ced3a4a5e47b132cf16e68fb965fb0ea589",
+          "bytes": 5412
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块6-AI提示词工程应用/01-把特征聚焦写进AI生图.md",
+          "sha256": "6d70966a66ba00e36b47cc7153332c1a91686012fd2bf6eec1932fda274db79a",
+          "bytes": 6006
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块6-AI提示词工程应用/02-怎么写不完美细节.md",
+          "sha256": "a22f5b96d10800e640a98f35b1f173677b3dcddc2b4b016809d12950c4fdd13a",
+          "bytes": 5669
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块6-AI提示词工程应用/03-完整提示词模板逐段拆解.md",
+          "sha256": "376b2a57b1cfc49cb5e5dd6bead8b80aed38aefe40fa903e227538d492012452",
+          "bytes": 10790
+        }
+      ]
+    },
+    {
+      "id": "feature-focus-prompt",
+      "archive": "不完美美学与特征聚焦知识库.zip",
+      "archive_sha256": "94ec6e033bbfb5a55674f01b310ace576d5c488f415c1d5efd3b76bd770c06cd",
+      "ingested_sha256": "ab7c938604140e073c334a1e377479f3381241e2d1c9426ce8e3c5f0e28aafb2",
+      "capability": "character-image-prompt",
+      "rules": "knowledge-rules/feature-focus-prompt.md",
+      "members": [
+        {
+          "path": "不完美美学与特征聚焦知识库/README.md",
+          "sha256": "cf53ddda745c45c3d9068a820c8736c80dcf55330c640aed7a1399150654e572",
+          "bytes": 10351
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块1-不完美美学原理/01-面孔原型效应-为什么完美面孔没有记忆点.md",
+          "sha256": "1aaf19a041569b98a49d773a6c4c3eb178a3777f44d06bd05c42c28ecfaf48b5",
+          "bytes": 6405
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块1-不完美美学原理/02-视觉显著性理论-异常点如何捕获注意力.md",
+          "sha256": "a1ce55f1a1417b0987f6d66eb95ef5e92f1c3885841df440b907beb4d5730e20",
+          "bytes": 6638
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块1-不完美美学原理/03-缺陷与情感连接-为什么有缺点的角色更真实.md",
+          "sha256": "f5c973da443d110978a3cbb6926648d3d79099106da20013a2168c375ca05dc6",
+          "bytes": 6828
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块2-特征聚焦方法论/01-第一步-确定核心气质.md",
+          "sha256": "5dd6b48150e2994a9f5cefc088a4c941697a42195b6639b600b44e2ebd0c1cd5",
+          "bytes": 5691
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块2-特征聚焦方法论/02-第二步-选择2到3个视觉锚点.md",
+          "sha256": "48284c2f16f1ac429446fb984322fcf11489dd7366c22d77f9ad4f8eb5dba5f0",
+          "bytes": 6664
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块2-特征聚焦方法论/03-第三步-用不完美打破原型.md",
+          "sha256": "2de41e144e1cb746ef9a76dfa19080ae2d61dfea8eedb9c80609b87a29a18e95",
+          "bytes": 6820
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块2-特征聚焦方法论/04-第四步-用细节取代抽象描述.md",
+          "sha256": "97dba6bea0db382d86b1d75f51c31a401fe972a7dd6f19ac91c949fb3938c9bc",
+          "bytes": 6579
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块3-经典案例分析/01-金克丝-高饱和撞色与夸张动态.md",
+          "sha256": "a454f07b71c80eff4497fe17b795150e71c9e59422c9037aef29cc415b723af7",
+          "bytes": 5527
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块3-经典案例分析/02-卡缪-动作与服饰细节的记忆点.md",
+          "sha256": "beb8b6ea587791375cb39a0ec85ebcd754732574370f24d495d92b8dda5b2f12",
+          "bytes": 5546
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块3-经典案例分析/03-路飞-剪影级标志性元素.md",
+          "sha256": "9b1a6aa2355faa7e753fa3ae8e8fffb7bc274ed866f182eaed7b254d58828da1",
+          "bytes": 5860
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块4-验证方法/01-剪影测试.md",
+          "sha256": "053773664ccf7ebf8e8ad63a7edc89f9b8b810265ace9f79ce32fd957d5ca9cb",
+          "bytes": 5074
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块4-验证方法/02-遮挡测试.md",
+          "sha256": "8a6fbf6c2147264a07a04edf3018189991c297f31774ba4e19d54c3fc9c61090",
+          "bytes": 5186
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块4-验证方法/03-特征计数.md",
+          "sha256": "ca3c6b94c2225fe7caa7bdbfb0562d760dde377862719a7ce2581ec57966bf52",
+          "bytes": 5580
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块4-验证方法/04-一句话概括.md",
+          "sha256": "c922d240d4957acc4d01bfb798fd28cba6f248e47b6f75ccd7f301d3de21d6a8",
+          "bytes": 4928
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块5-避坑清单/01-堆砌形容词-网红脸的诞生.md",
+          "sha256": "f116eafdd5403f748d80175a992847a37239b01a131645bf8b450a9d2147c881",
+          "bytes": 5103
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块5-避坑清单/02-频繁更换风格标签-特征漂移.md",
+          "sha256": "e7b603a1e6c2479ab58a1a4f2fe9217180f1f19248a816ea84db3a50876ac91c",
+          "bytes": 5530
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块5-避坑清单/03-忽略不对称性-假人感.md",
+          "sha256": "def05da183dad72d64d21c04bcf25a53c85e4016877772dd1d32fa8490a56911",
+          "bytes": 5666
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块5-避坑清单/04-追求完美皮肤-塑料质感.md",
+          "sha256": "16446a92c116a4f9109d1eb6b8840ced3a4a5e47b132cf16e68fb965fb0ea589",
+          "bytes": 5412
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块6-AI提示词工程应用/01-把特征聚焦写进AI生图.md",
+          "sha256": "6d70966a66ba00e36b47cc7153332c1a91686012fd2bf6eec1932fda274db79a",
+          "bytes": 6006
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块6-AI提示词工程应用/02-怎么写不完美细节.md",
+          "sha256": "a22f5b96d10800e640a98f35b1f173677b3dcddc2b4b016809d12950c4fdd13a",
+          "bytes": 5669
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块6-AI提示词工程应用/03-完整提示词模板逐段拆解.md",
+          "sha256": "376b2a57b1cfc49cb5e5dd6bead8b80aed38aefe40fa903e227538d492012452",
+          "bytes": 10790
+        }
+      ]
+    },
+    {
+      "id": "feature-focus-review",
+      "archive": "不完美美学与特征聚焦知识库.zip",
+      "archive_sha256": "94ec6e033bbfb5a55674f01b310ace576d5c488f415c1d5efd3b76bd770c06cd",
+      "ingested_sha256": "ab7c938604140e073c334a1e377479f3381241e2d1c9426ce8e3c5f0e28aafb2",
+      "capability": "character-image-review",
+      "rules": "knowledge-rules/feature-focus-review.md",
+      "members": [
+        {
+          "path": "不完美美学与特征聚焦知识库/README.md",
+          "sha256": "cf53ddda745c45c3d9068a820c8736c80dcf55330c640aed7a1399150654e572",
+          "bytes": 10351
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块1-不完美美学原理/01-面孔原型效应-为什么完美面孔没有记忆点.md",
+          "sha256": "1aaf19a041569b98a49d773a6c4c3eb178a3777f44d06bd05c42c28ecfaf48b5",
+          "bytes": 6405
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块1-不完美美学原理/02-视觉显著性理论-异常点如何捕获注意力.md",
+          "sha256": "a1ce55f1a1417b0987f6d66eb95ef5e92f1c3885841df440b907beb4d5730e20",
+          "bytes": 6638
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块1-不完美美学原理/03-缺陷与情感连接-为什么有缺点的角色更真实.md",
+          "sha256": "f5c973da443d110978a3cbb6926648d3d79099106da20013a2168c375ca05dc6",
+          "bytes": 6828
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块2-特征聚焦方法论/01-第一步-确定核心气质.md",
+          "sha256": "5dd6b48150e2994a9f5cefc088a4c941697a42195b6639b600b44e2ebd0c1cd5",
+          "bytes": 5691
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块2-特征聚焦方法论/02-第二步-选择2到3个视觉锚点.md",
+          "sha256": "48284c2f16f1ac429446fb984322fcf11489dd7366c22d77f9ad4f8eb5dba5f0",
+          "bytes": 6664
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块2-特征聚焦方法论/03-第三步-用不完美打破原型.md",
+          "sha256": "2de41e144e1cb746ef9a76dfa19080ae2d61dfea8eedb9c80609b87a29a18e95",
+          "bytes": 6820
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块2-特征聚焦方法论/04-第四步-用细节取代抽象描述.md",
+          "sha256": "97dba6bea0db382d86b1d75f51c31a401fe972a7dd6f19ac91c949fb3938c9bc",
+          "bytes": 6579
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块3-经典案例分析/01-金克丝-高饱和撞色与夸张动态.md",
+          "sha256": "a454f07b71c80eff4497fe17b795150e71c9e59422c9037aef29cc415b723af7",
+          "bytes": 5527
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块3-经典案例分析/02-卡缪-动作与服饰细节的记忆点.md",
+          "sha256": "beb8b6ea587791375cb39a0ec85ebcd754732574370f24d495d92b8dda5b2f12",
+          "bytes": 5546
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块3-经典案例分析/03-路飞-剪影级标志性元素.md",
+          "sha256": "9b1a6aa2355faa7e753fa3ae8e8fffb7bc274ed866f182eaed7b254d58828da1",
+          "bytes": 5860
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块4-验证方法/01-剪影测试.md",
+          "sha256": "053773664ccf7ebf8e8ad63a7edc89f9b8b810265ace9f79ce32fd957d5ca9cb",
+          "bytes": 5074
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块4-验证方法/02-遮挡测试.md",
+          "sha256": "8a6fbf6c2147264a07a04edf3018189991c297f31774ba4e19d54c3fc9c61090",
+          "bytes": 5186
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块4-验证方法/03-特征计数.md",
+          "sha256": "ca3c6b94c2225fe7caa7bdbfb0562d760dde377862719a7ce2581ec57966bf52",
+          "bytes": 5580
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块4-验证方法/04-一句话概括.md",
+          "sha256": "c922d240d4957acc4d01bfb798fd28cba6f248e47b6f75ccd7f301d3de21d6a8",
+          "bytes": 4928
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块5-避坑清单/01-堆砌形容词-网红脸的诞生.md",
+          "sha256": "f116eafdd5403f748d80175a992847a37239b01a131645bf8b450a9d2147c881",
+          "bytes": 5103
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块5-避坑清单/02-频繁更换风格标签-特征漂移.md",
+          "sha256": "e7b603a1e6c2479ab58a1a4f2fe9217180f1f19248a816ea84db3a50876ac91c",
+          "bytes": 5530
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块5-避坑清单/03-忽略不对称性-假人感.md",
+          "sha256": "def05da183dad72d64d21c04bcf25a53c85e4016877772dd1d32fa8490a56911",
+          "bytes": 5666
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块5-避坑清单/04-追求完美皮肤-塑料质感.md",
+          "sha256": "16446a92c116a4f9109d1eb6b8840ced3a4a5e47b132cf16e68fb965fb0ea589",
+          "bytes": 5412
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块6-AI提示词工程应用/01-把特征聚焦写进AI生图.md",
+          "sha256": "6d70966a66ba00e36b47cc7153332c1a91686012fd2bf6eec1932fda274db79a",
+          "bytes": 6006
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块6-AI提示词工程应用/02-怎么写不完美细节.md",
+          "sha256": "a22f5b96d10800e640a98f35b1f173677b3dcddc2b4b016809d12950c4fdd13a",
+          "bytes": 5669
+        },
+        {
+          "path": "不完美美学与特征聚焦知识库/模块6-AI提示词工程应用/03-完整提示词模板逐段拆解.md",
+          "sha256": "376b2a57b1cfc49cb5e5dd6bead8b80aed38aefe40fa903e227538d492012452",
+          "bytes": 10790
+        }
+      ]
+    },
+    {
+      "id": "body-proportion-3d",
+      "archive": "身体比例与三维形体塑造-知识库 (1).zip",
+      "archive_sha256": "22ce30a52ee7caf1f51e258a8fa6fb0ea5c7e74ce9e95b1e60fb446f18f9bbaf",
+      "ingested_sha256": "d8e465b2fab48a72f9a2b74c8923d2f4655e225b0e15ff1fc1eaa99e395bceb6",
+      "capability": "character-body-design",
+      "rules": "knowledge-rules/body-proportion-3d.md",
+      "members": [
+        {
+          "path": "身体比例与三维形体塑造/README.md",
+          "sha256": "3f237a94a65007b4fdfef4f2d1f1562c71e3ef9eccc1112da5bbfc67d11e04a2",
+          "bytes": 4969
+        },
+        {
+          "path": "身体比例与三维形体塑造/模块1-身体比例测量标准/1-1-上下身比例.md",
+          "sha256": "f91bfac6dc3b194017411af204f46a3256ec1552a62c59697b202d39540722dd",
+          "bytes": 16250
+        },
+        {
+          "path": "身体比例与三维形体塑造/模块1-身体比例测量标准/1-2-腕线过裆.md",
+          "sha256": "25ccf785620edc3fca7d36ce00584ea2aaa38b64f13334ab0ae956bc4f9a0aed",
+          "bytes": 11434
+        },
+        {
+          "path": "身体比例与三维形体塑造/模块1-身体比例测量标准/1-3-小腿与大腿比例.md",
+          "sha256": "4eceffc156df881d2099fbc30fbce53efe21d52d1b29a4286c9f0ef7ef7200b3",
+          "bytes": 11186
+        },
+        {
+          "path": "身体比例与三维形体塑造/模块1-身体比例测量标准/1-4-小臂与大臂比例.md",
+          "sha256": "c116affd32d5aac864cdc4899140470ea43fa5582280876627fcb6c77fcd83e0",
+          "bytes": 10632
+        },
+        {
+          "path": "身体比例与三维形体塑造/模块2-三维形体与性格表达/2-1-形状语言.md",
+          "sha256": "e569bccd455e434b7c5c89f6dd9523b98346f217dc950b7ef45989160716cdd7",
+          "bytes": 12653
+        },
+        {
+          "path": "身体比例与三维形体塑造/模块2-三维形体与性格表达/2-2-剪影为王.md",
+          "sha256": "63aea182c4c04eddc8d8e5af8ab4cb2f8ecf156c7a20ef2ecd24585f257fe0b3",
+          "bytes": 9825
+        },
+        {
+          "path": "身体比例与三维形体塑造/模块2-三维形体与性格表达/2-3-体态与姿势.md",
+          "sha256": "336e5c65ea24ab38c693b340c9cbf467177aaeb231c9431d0a1e69107426875e",
+          "bytes": 11325
+        },
+        {
+          "path": "身体比例与三维形体塑造/模块2-三维形体与性格表达/2-4-三维体块与空间感.md",
+          "sha256": "faad14dd9235f6bebb7c1492beba670c4404290c2004c02a8c340bdf646e9c4a",
+          "bytes": 11278
+        },
+        {
+          "path": "身体比例与三维形体塑造/模块3-经典案例分析/3-1-大白.md",
+          "sha256": "5678a316551acc83d8e22b349b2caf50a4d7a91386fee2208ee72001595ff8d0",
+          "bytes": 10164
+        },
+        {
+          "path": "身体比例与三维形体塑造/模块3-经典案例分析/3-2-巴斯光年.md",
+          "sha256": "e23ae0279746e97321d211bc4e85cbe70e0f8332c3a3c88082e570555eb902e9",
+          "bytes": 9498
+        },
+        {
+          "path": "身体比例与三维形体塑造/模块3-经典案例分析/3-3-玛琳菲森.md",
+          "sha256": "6dd7163e8b6b478b6b476b3c7382eada09c3c4bbae8e9dcab66631406ea5a262",
+          "bytes": 10118
+        },
+        {
+          "path": "身体比例与三维形体塑造/模块4-避坑清单/4-1-盲目追求完美比例.md",
+          "sha256": "c61132352a2e5b2e20e3fb991524f64c4cf02dc894ea786f90913dd7c894e707",
+          "bytes": 8677
+        },
+        {
+          "path": "身体比例与三维形体塑造/模块4-避坑清单/4-2-忽略功能性设计.md",
+          "sha256": "fa204b556175122bc6cff05cffe30a482a990f3af8510bbd37254ea485c63406",
+          "bytes": 9264
+        },
+        {
+          "path": "身体比例与三维形体塑造/模块4-避坑清单/4-3-二维思维做三维.md",
+          "sha256": "9fcda4b3d8c2aa022bf4e343d1d23419d113c248a8cf16922779c87fff3ffa0d",
+          "bytes": 8461
+        },
+        {
+          "path": "身体比例与三维形体塑造/模块4-避坑清单/4-4-体态与性格割裂.md",
+          "sha256": "ebd10c3d6c99d9a64a9308cf0918831d67532d8b358c4d39647488dda8f8d391",
+          "bytes": 9106
+        },
+        {
+          "path": "身体比例与三维形体塑造/模块5-实操验证方法/5-1-剪影测试.md",
+          "sha256": "a4a8630aaa58f5b70197a80282447fccbef17738d16f33e3386bad1e02c64d47",
+          "bytes": 7752
+        },
+        {
+          "path": "身体比例与三维形体塑造/模块5-实操验证方法/5-2-体块拆解测试.md",
+          "sha256": "095024a20cf38c0fe44155476693161cd604afad9ab65da40dff1fc1a362e4ee",
+          "bytes": 8044
+        },
+        {
+          "path": "身体比例与三维形体塑造/模块5-实操验证方法/5-3-动态测试.md",
+          "sha256": "e5877f009ab4f75c1765751e0806da803f5206de40bdbb782bac3290a29da733",
+          "bytes": 9420
+        },
+        {
+          "path": "身体比例与三维形体塑造/知识库结构总览.html",
+          "sha256": "add2352c853b1ab632ff4f7edcedb56529e2be24c1e991000843d91c3e35b66e",
+          "bytes": 8606
+        }
+      ]
+    },
+    {
+      "id": "world-appearance",
+      "archive": "人种环境与科技外貌设计-知识库.zip",
+      "archive_sha256": "10b9f3ca4f0c0208f604e4d96406120a1c11288e9b41d76e16b8ff2710cc4c48",
+      "ingested_sha256": "13bd2996eb7f8c6e0f7f100e32bb63c7bdb3e70b17e5adb9ddf494bdb5d720b0",
+      "capability": "character-world-appearance-design",
+      "rules": "knowledge-rules/world-appearance.md",
+      "members": [
+        {
+          "path": "人种环境与科技外貌设计/README.md",
+          "sha256": "54ab4f3d7f77376c3385c322f1aa9e8d8a89a7ff295d938396299a60a22519e6",
+          "bytes": 3942
+        },
+        {
+          "path": "人种环境与科技外貌设计/模块1-人种与生活环境/1.1-肤色与毛发-紫外线与温度博弈.md",
+          "sha256": "b4d4f278f6a668a4f61fd7b9fbec8633e2d9569c149b619342dbb6d69918763c",
+          "bytes": 5419
+        },
+        {
+          "path": "人种环境与科技外貌设计/模块1-人种与生活环境/1.2-鼻型与呼吸系统-温湿度调节器.md",
+          "sha256": "c6417a13423c51a538d546e197c3c97a74709e3a7f59b3d991b5bec4cfc4bd35",
+          "bytes": 4611
+        },
+        {
+          "path": "人种环境与科技外貌设计/模块1-人种与生活环境/1.3-眼型与面部折角-防风沙与防雪盲.md",
+          "sha256": "662b4b8987391b5e8734be89efa6c3fb81fc73945e2fd6870ac5fa4145ce4a51",
+          "bytes": 4280
+        },
+        {
+          "path": "人种环境与科技外貌设计/模块1-人种与生活环境/1.4-体型与四肢比例-贝格曼法则与艾伦法则.md",
+          "sha256": "f79714138964dae08e957e84a076db6f2c1b8b1d1885257b4a5ce6ac18c25eee",
+          "bytes": 4935
+        },
+        {
+          "path": "人种环境与科技外貌设计/模块2-科技发达程度/2.1-原始文明-自然筛选与手工修饰.md",
+          "sha256": "3bf7b305f5adc9907838981d6f4896a392d528ad467180eacb1ae5fa37735dca",
+          "bytes": 4668
+        },
+        {
+          "path": "人种环境与科技外貌设计/模块2-科技发达程度/2.2-农耕与封建文明-营养改善与阶级分化.md",
+          "sha256": "37d8fe0e062fcf52e90c9886c1fda16284069b5d3b3558bf52b18db99630559f",
+          "bytes": 4936
+        },
+        {
+          "path": "人种环境与科技外貌设计/模块2-科技发达程度/2.3-现代科技文明-医疗标准化与基因微调.md",
+          "sha256": "3dc89952d4c3d2314e93c814fb253b99ea41bef7122fce965d47cce5e6748486",
+          "bytes": 4338
+        },
+        {
+          "path": "人种环境与科技外貌设计/模块2-科技发达程度/2.4-未来科技文明总论-主动进化与功能置换.md",
+          "sha256": "f7ef020e9450335e8408230df7e483f50b6853e73b0029b20bfe14a38875fd7b",
+          "bytes": 3957
+        },
+        {
+          "path": "人种环境与科技外貌设计/模块2-科技发达程度/2.5-赛博朋克-义体改造与阶层分化.md",
+          "sha256": "6e7db6a08872f4f09faccfac89948156b90bae7bdc39716fd76e2a3533b40256",
+          "bytes": 3657
+        },
+        {
+          "path": "人种环境与科技外貌设计/模块2-科技发达程度/2.6-蒸汽朋克-机械外骨骼与维多利亚美学.md",
+          "sha256": "ad3eae30505c2fba135ed2bb6190deebe9a9c598fa8b08ed5bfedc4ab5186041",
+          "bytes": 3973
+        },
+        {
+          "path": "人种环境与科技外貌设计/模块2-科技发达程度/2.7-纳米朋克-生物融合与微观改造.md",
+          "sha256": "d1509e50566ed1446fdcddfe5a6dc4916337fe3b0addcb9bde0160048522f9b2",
+          "bytes": 4061
+        },
+        {
+          "path": "人种环境与科技外貌设计/模块2-科技发达程度/2.8-玄幻武侠-能量共生与气血外显.md",
+          "sha256": "cdd3bb75732f0059d4c9cf2218b0f59e64ba8f1a58b708e3bfd1396a3ae4ee2a",
+          "bytes": 4899
+        },
+        {
+          "path": "人种环境与科技外貌设计/模块3-综合设计逻辑与实操避坑/3.1-环境压力测试-生存逻辑校验.md",
+          "sha256": "49dac418690f02398f0e582dca1d7bcbb2ae0bdbaa87c75f1e34886b9b6ca9d2",
+          "bytes": 4175
+        },
+        {
+          "path": "人种环境与科技外貌设计/模块3-综合设计逻辑与实操避坑/3.2-科技与阶层逻辑-改造动机分层.md",
+          "sha256": "e53a0f3db6dabb74018e6ac4351ad897f1df6fe7733fae7e9cec127781081430",
+          "bytes": 3619
+        },
+        {
+          "path": "人种环境与科技外貌设计/模块3-综合设计逻辑与实操避坑/3.3-避免刻板人种堆砌-连续渐变与迁徙混血.md",
+          "sha256": "8dc52e0ee7486cee80b54156e236010c2c2dca7d01292057371293db45164510",
+          "bytes": 4879
+        },
+        {
+          "path": "人种环境与科技外貌设计/模块3-综合设计逻辑与实操避坑/3.4-验证方法-角色设计逻辑自洽检查清单.md",
+          "sha256": "489c1fdcc5eb8136accc486348d819504e98cfb6340f62162485266e4b070baf",
+          "bytes": 4695
+        }
+      ]
+    },
+    {
+      "id": "face-decoration",
+      "archive": "面部装饰与妆容设计知识库.zip",
+      "archive_sha256": "a31967bcbd94e527da59d9201dfc0ed4cdd8ec8710ce2669b91cb585b3279ec2",
+      "ingested_sha256": "385fbd7715365f1d6f51c49725b00e1433b4694f676ea45719e7416d85f107ac",
+      "capability": "character-face-decoration-design",
+      "rules": "knowledge-rules/face-decoration.md",
+      "members": [
+        {
+          "path": "面部装饰与妆容设计知识库/README.md",
+          "sha256": "ea83bb6210dfc914682723af4d069e64372351e20b724cad4e4d1ee60782f360",
+          "bytes": 7267
+        },
+        {
+          "path": "面部装饰与妆容设计知识库/模块1-原生痕迹/1.1-痣与斑点-视觉锚点与性格暗示.md",
+          "sha256": "7a8967719146caf883d8d05f55e0c7a77b2a45394ec605d64525c31f06e54af8",
+          "bytes": 12198
+        },
+        {
+          "path": "面部装饰与妆容设计知识库/模块1-原生痕迹/1.2-疤痕与伤痕-过往经历的勋章.md",
+          "sha256": "1bc48439e5ff32bd9b626dfb9a123c0c47a4a11b5e23f1efb969251ed4aa7b14",
+          "bytes": 11675
+        },
+        {
+          "path": "面部装饰与妆容设计知识库/模块1-原生痕迹/1.3-皮肤与五官的不完美质感-打破塑料感.md",
+          "sha256": "7297e79b08c586e83d00a1e23f9acd3ea19d34fff5622fb54a537ee8534de3b7",
+          "bytes": 11265
+        },
+        {
+          "path": "面部装饰与妆容设计知识库/模块2-后天修饰/2.1-纹身与面绘-信仰反叛与归属.md",
+          "sha256": "0f7267893069fe7ed70a20ffe29e098cf232a7769e03cc059b48caee87a61247",
+          "bytes": 10929
+        },
+        {
+          "path": "面部装饰与妆容设计知识库/模块2-后天修饰/2.2-眼妆与眉眼修饰-情绪与攻击性的放大器.md",
+          "sha256": "9974d1f7d3983c558a7258e21e0af67e47a1859efb735bd0dce59a0b19b1ff59",
+          "bytes": 10984
+        },
+        {
+          "path": "面部装饰与妆容设计知识库/模块2-后天修饰/2.3-唇妆与面部配饰-欲望与防备的边界.md",
+          "sha256": "a60bc2b7a2d6082ebf6c9614ca997b8d3da7fc0e653d0ec27d9bad8b18d2c2f5",
+          "bytes": 10850
+        },
+        {
+          "path": "面部装饰与妆容设计知识库/模块3-性格映射/3.1-性格与面部细节的映射公式.md",
+          "sha256": "81f5f5371a8febab097eebcf61783b3f8507bade46bf0be02a3b75f60492dea5",
+          "bytes": 9946
+        },
+        {
+          "path": "面部装饰与妆容设计知识库/模块4-实操方法/4.1-如何把细节写进设计文档.md",
+          "sha256": "b56993150d01d7d8120e628e61f69014e30646e5324cb679ab0877de90dfeb2b",
+          "bytes": 9743
+        },
+        {
+          "path": "面部装饰与妆容设计知识库/模块5-避坑清单/5.1-避坑清单.md",
+          "sha256": "f89916c75ba90f4e3014d663f5e132ff01f8ff2122d998d57d84fdee53dd229f",
+          "bytes": 9750
+        }
+      ]
+    },
+    {
+      "id": "costume-deep",
+      "archive": "服饰深层设计知识库.zip",
+      "archive_sha256": "220689dec20a399e873dfba45ee8dca69594391c0d5a188d98dd26d1ebb8d72b",
+      "ingested_sha256": "e103945647dd96c3c2a38bae4144e9ba3b897391da381909c9f95e3f7fc2a07d",
+      "capability": "character-costume-designer",
+      "rules": "knowledge-rules/costume-deep.md",
+      "members": [
+        {
+          "path": "服饰深层设计知识库/00-课程导论.md",
+          "sha256": "28ad89fa3a97c8f2fc8ffb0d3161eb2f8a12e1408779fd4e78fa40d7661d0d3b",
+          "bytes": 7816
+        },
+        {
+          "path": "服饰深层设计知识库/README.md",
+          "sha256": "bd4e68e3cec50d7318932b89842148f8ce6f3c797e3eff16dd7cf915329cc1ab",
+          "bytes": 5075
+        },
+        {
+          "path": "服饰深层设计知识库/模块1-世界观符号的抽象与解构/1-1-符号解构与几何化.md",
+          "sha256": "7bd67c3117b2a4068910664a22848191c6f97a71c701636e0c7e55a849e054c9",
+          "bytes": 8702
+        },
+        {
+          "path": "服饰深层设计知识库/模块1-世界观符号的抽象与解构/1-2-去语境化与重组.md",
+          "sha256": "0e7d5d7596967da76690ec8fef24e728ce3302ff0345d10e1dc5395a2870e72c",
+          "bytes": 8753
+        },
+        {
+          "path": "服饰深层设计知识库/模块1-世界观符号的抽象与解构/1-3-数字化与科技感重构.md",
+          "sha256": "35efbf1f072616b0b75eb33edb6e0d087281f54f77b7ffea295970c2fdbe1af1",
+          "bytes": 8461
+        },
+        {
+          "path": "服饰深层设计知识库/模块2-服饰纹样设计/2-1-专属纹样与图腾隐喻.md",
+          "sha256": "814c9d2f2d8084b36559d078ef835930bd7be946f83958cee88781bab16b7efd",
+          "bytes": 7781
+        },
+        {
+          "path": "服饰深层设计知识库/模块2-服饰纹样设计/2-2-文字与密码隐藏.md",
+          "sha256": "54bf686c18c89f8a0ff8c6da56df7b229e7d4235842e3f28def2d692cf78e832",
+          "bytes": 7500
+        },
+        {
+          "path": "服饰深层设计知识库/模块2-服饰纹样设计/2-3-材质隐喻与工艺结合.md",
+          "sha256": "f486620b60106ec68e5ed548b1836c681b6e2b2d1acd10bae7d30d90df2fd998",
+          "bytes": 8565
+        },
+        {
+          "path": "服饰深层设计知识库/模块3-视觉锚点与记忆点打造/3-1-核心视觉锚点.md",
+          "sha256": "06f19a75a84bb30a35a136dea26661fb355b61d54bce60dec1ae27b043e06b41",
+          "bytes": 7454
+        },
+        {
+          "path": "服饰深层设计知识库/模块3-视觉锚点与记忆点打造/3-2-色彩强对比与符号化配色.md",
+          "sha256": "57c5cabda6beb9ffb68be6b05301d6e24626d35675a6b62948e93f2660ccb102",
+          "bytes": 7959
+        },
+        {
+          "path": "服饰深层设计知识库/模块3-视觉锚点与记忆点打造/3-3-动态记忆点.md",
+          "sha256": "ebaa9ef07295051c295170f1566bae47040c3c9f4c68229c7c62798f53072d2e",
+          "bytes": 7346
+        },
+        {
+          "path": "服饰深层设计知识库/模块4-穿衣风格圣经/4-1-核心气质与关键词.md",
+          "sha256": "6a368b7b414988f35a6223d1eb0846b8537a8d92c842d80a3e2fee748d9c4498",
+          "bytes": 7127
+        },
+        {
+          "path": "服饰深层设计知识库/模块4-穿衣风格圣经/4-2-色彩与材质库.md",
+          "sha256": "bf874a4ba12edc1430ed2b9b03c662272c851d6c075463ccb46b1740c5b9a782",
+          "bytes": 7399
+        },
+        {
+          "path": "服饰深层设计知识库/模块4-穿衣风格圣经/4-3-标志性廓形与剪裁.md",
+          "sha256": "821b066794402306184927f8aa255c59b11ae8db13e75e4c855de9f8a9c2b9b6",
+          "bytes": 7245
+        },
+        {
+          "path": "服饰深层设计知识库/模块4-穿衣风格圣经/4-4-专属配饰与习惯.md",
+          "sha256": "2b49c945c2f8b8c34fb54900095a508969c14165550172efadbb7673f1b42cba",
+          "bytes": 7289
+        },
+        {
+          "path": "服饰深层设计知识库/模块4-穿衣风格圣经/4-5-场景化穿搭矩阵.md",
+          "sha256": "4b8074c2c8f88f95a23ef7ff50ca6fa30761c21ec3e29c9599960c33ea319435",
+          "bytes": 7287
+        },
+        {
+          "path": "服饰深层设计知识库/模块5-穿搭技巧与视觉冲突/5-1-材质硬软与光哑对冲.md",
+          "sha256": "bcfa72b2ef1b30109e5c794c927c1f295cf079a651b98ec07d8a2b65bbf3446c",
+          "bytes": 6468
+        },
+        {
+          "path": "服饰深层设计知识库/模块5-穿搭技巧与视觉冲突/5-2-三明治叠穿法则.md",
+          "sha256": "7a4d2fb68774c17584e80261cae58aef1b1bd654af550c42ad4dc843493fbe17",
+          "bytes": 7055
+        },
+        {
+          "path": "服饰深层设计知识库/模块5-穿搭技巧与视觉冲突/5-3-70-25-5配色法则.md",
+          "sha256": "d657265bb2104366eb9df62e712cfc4e656fda4b573f5f9292c0d32dc2091923",
+          "bytes": 6598
+        },
+        {
+          "path": "服饰深层设计知识库/模块5-穿搭技巧与视觉冲突/5-4-局部破损与修补逻辑.md",
+          "sha256": "f246705e976040d9fdadb649034b363a092a814e6be9e2a4714cf97c5527add5",
+          "bytes": 7054
+        },
+        {
+          "path": "服饰深层设计知识库/模块6-实操避坑与验证清单/6-1-避免细节堆砌.md",
+          "sha256": "7275c3566e891a0cee1dc70c6f2ba8443dbf6d3e169e810b087c709d7ad82d23",
+          "bytes": 7036
+        },
+        {
+          "path": "服饰深层设计知识库/模块6-实操避坑与验证清单/6-2-重力与物理逻辑.md",
+          "sha256": "eac5cd198d1525811314980d79f9f02acd3b598678f031b7865e27c74868fe95",
+          "bytes": 6282
+        },
+        {
+          "path": "服饰深层设计知识库/模块6-实操避坑与验证清单/6-3-剪影测试.md",
+          "sha256": "fda6c54ab8ed01661dbd5215f006ef6c6582db6c858a477832107f806b3fa366",
+          "bytes": 6223
+        },
+        {
+          "path": "服饰深层设计知识库/模块6-实操避坑与验证清单/6-4-功能逻辑.md",
+          "sha256": "98621addd2291033dc19c3f87e2281ab617c094938302e6f87452c671c2fc589",
+          "bytes": 7676
+        },
+        {
+          "path": "服饰深层设计知识库/附录-AI辅助生成提示词框架.md",
+          "sha256": "c1d26c498ec7bd4fb3c3281e0bd789e8dedaea149923776c7e0bda5af7f47a60",
+          "bytes": 7610
+        }
+      ]
+    },
+    {
+      "id": "original-face",
+      "archive": "原创AI角色捏脸_不用参考图_完整教程.docx",
+      "archive_sha256": "f66b749300ee08834ec21f4559563073fd6aa543b2747be473bf0aea383544dd",
+      "ingested_sha256": "6fd0169437d5608c32986512ccd247ecd5b3b3b30be73c0f243806f31feb7638",
+      "capability": "character-face-design",
+      "rules": "knowledge-rules/original-face.md",
+      "members": [
+        {
+          "path": "word/document.xml",
+          "sha256": "e8234520c84dae983d53252c8deaf82507ddaf3784571e1b2aa66683e7178e71",
+          "bytes": 53452
+        }
+      ]
+    },
+    {
+      "id": "state-makeup",
+      "archive": "AI角色妆造_提升角色质感_完整教程.docx",
+      "archive_sha256": "484972e5c1e4daa03208aa2df737a76aa4cd223640084cff7484043d5427ee2c",
+      "ingested_sha256": "928694ac242b7b63c02a5b033070e70ae6ca702f2ed290340f0ad4f054469aa8",
+      "capability": "character-costume-designer",
+      "rules": "knowledge-rules/state-makeup.md",
+      "members": [
+        {
+          "path": "word/document.xml",
+          "sha256": "b2747d818bac6cd6728bd3f831261ddc4f2a942ac6a73410e98961582a138532",
+          "bytes": 50846
+        }
+      ]
+    }
+  ]
+}

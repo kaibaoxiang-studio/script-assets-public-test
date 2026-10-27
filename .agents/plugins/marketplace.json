@@ -1,0 +1,10 @@
+{
+  "name": "script-assets-public-test",
+  "interface": {"displayName": "开宝箱 · 剧本与资产公开测试"},
+  "plugins": [
+    {"name":"screenplay-standardizer","source":{"source":"local","path":"./script-plugins/level-1/screenplay-standardization/screenplay-standardizer"},"policy":{"installation":"AVAILABLE","authentication":"ON_INSTALL"},"category":"Productivity"},
+    {"name":"scene-log-extractor","source":{"source":"local","path":"./script-plugins/level-2/scene-log-extraction/scene-log-extractor"},"policy":{"installation":"AVAILABLE","authentication":"ON_INSTALL"},"category":"Productivity"},
+    {"name":"screenplay-asset-extractor","source":{"source":"local","path":"./script-plugins/level-2/asset-extraction/screenplay-asset-extractor"},"policy":{"installation":"AVAILABLE","authentication":"ON_INSTALL"},"category":"Productivity"},
+    {"name":"asset-design","source":{"source":"local","path":"./asset-design-plugin"},"policy":{"installation":"AVAILABLE","authentication":"ON_INSTALL"},"category":"Productivity"}
+  ]
+}

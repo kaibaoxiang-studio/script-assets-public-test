@@ -1,0 +1,4 @@
+interface:
+  display_name: "sence-prompts"
+  short_description: "根据资产表与剧本描述，深化材质工艺，兼顾走戏功能与设计美感，生成中文场景图提示词"
+  default_prompt: "请使用 $sence-prompts，根据这份完整资产表与对应剧本描述，为指定场景生成世界观一致、材质工艺鲜明、可走戏且有设计美感的详细中文静态场景图提示词。"

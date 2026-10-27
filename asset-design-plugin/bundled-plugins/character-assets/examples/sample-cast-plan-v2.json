@@ -1,0 +1,42 @@
+{
+  "schema_version": "CastPlanV2",
+  "characters": [
+    {
+      "id": "CHR-001",
+      "morphology": "human",
+      "design_distinction": "右眉旧伤来自剧本；偏宽肩、收束短发与深蓝工作服形成稳定识别",
+      "recognition_axes": {
+        "silhouette": "宽肩、短外套形成上宽下直轮廓",
+        "face_structure": "宽颧和短方下颌；右眉旧伤",
+        "body_posture": "重心偏前、肩背紧实",
+        "hair_structure": "贴头短发、右侧自然发旋",
+        "costume_color": "深蓝工作服为主、少量暗灰硬件"
+      }
+    },
+    {
+      "id": "CHR-002",
+      "morphology": "human",
+      "design_distinction": "白礼服原文保留；细肩、偏长脸与蓬松低束发区别于林岚",
+      "recognition_axes": {
+        "silhouette": "窄肩与较长礼服形成纵向轮廓",
+        "face_structure": "偏长脸、柔和圆钝下颌",
+        "body_posture": "身体重心居中、肩线放松",
+        "hair_structure": "蓬松低束发、两侧留短发片",
+        "costume_color": "白色礼服为主、低明度装饰点"
+      }
+    },
+    {
+      "id": "CHR-003",
+      "morphology": "nonhuman",
+      "design_distinction": "四足机器犬以背部脊线、头部感知器和警戒光区分人类角色",
+      "recognition_axes": {
+        "silhouette": "四足低重心、背部脊线突出",
+        "face_structure": "不适用: 机器犬以头部感知器轮廓识别",
+        "body_posture": "四足支撑、警戒时重心前移",
+        "hair_structure": "不适用: 金属壳体无毛发",
+        "costume_color": "不适用: 壳体颜色与警戒光另行设计"
+      }
+    }
+  ],
+  "unresolved": []
+}

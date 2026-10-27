@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "updated_on": "2026-10-22",
+  "sources": [
+    {
+      "id": "S001",
+      "title": "Chapel of St. Ignatius",
+      "publisher": "Steven Holl Architects",
+      "url": "https://www.stevenholl.com/project/st-ignatius-chapel/",
+      "type": "architect_project",
+      "reviewed_on": "2026-10-22",
+      "review_scope": "可读取的官方/作者文字与搜索摘要；非全文、现场或图纸核验",
+      "facts_checked": [
+        "不同朝向的光体对应不同空间功能，并共同服务礼仪。"
+      ],
+      "not_verified": [
+        "未核对尺寸、完整平面、照度或工艺施工资料。"
+      ],
+      "rights": "仅保存原创摘要与来源链接；未获图片或全文再分发许可，不随包收录原图原文。"
+    },
+    {
+      "id": "S002",
+      "title": "Seashore Chapel",
+      "publisher": "Vector Architects",
+      "url": "https://www.vectorarchitects.com/en/projects/35",
+      "type": "architect_project",
+      "reviewed_on": "2026-10-22",
+      "review_scope": "可读取的官方/作者文字与搜索摘要；非全文、现场或图纸核验",
+      "facts_checked": [
+        "项目考虑自然通风；窗隐藏在主体围护与平行错出墙体之间的缝隙。"
+      ],
+      "not_verified": [
+        "未核对完整入口路线；本库转折入场方案不是原建筑事实。"
+      ],
+      "rights": "仅保存原创摘要与来源链接；未获图片或全文再分发许可，不随包收录原图原文。"
+    },
+    {
+      "id": "S003",
+      "title": "Commons Chamber",
+      "publisher": "UK Parliament",
+      "url": "https://www.parliament.uk/about/living-heritage/building/palace/architecture/palace-s-interiors/commons-chamber/",
+      "type": "institution_project",
+      "reviewed_on": "2026-10-22",
+      "review_scope": "可读取的官方/作者文字与搜索摘要；非全文、现场或图纸核验",
+      "facts_checked": [
+        "议席采用双侧相向的对置布局。"
+      ],
+      "not_verified": [
+        "未核对尺寸、光源、完整出入口和座位细节。"
+      ],
+      "rights": "仅保存原创摘要与来源链接；未获图片或全文再分发许可，不随包收录原图原文。"
+    },
+    {
+      "id": "S004",
+      "title": "Lords Chamber",
+      "publisher": "UK Parliament",
+      "url": "https://www.parliament.uk/about/living-heritage/building/palace/architecture/palace-s-interiors/lords-chamber/",
+      "type": "institution_project",
+      "reviewed_on": "2026-10-22",
+      "review_scope": "可读取的官方/作者文字与搜索摘要；非全文、现场或图纸核验",
+      "facts_checked": [
+        "王座具有鎏金装饰；其前方设置Woolsack。"
+      ],
+      "not_verified": [
+        "未核对尺寸、窗光、全部材料及日常主位使用情况。"
+      ],
+      "rights": "仅保存原创摘要与来源链接；未获图片或全文再分发许可，不随包收录原图原文。"
+    },
+    {
+      "id": "S005",
+      "title": "Alvar Aalto Library",
+      "publisher": "Alvar Aalto Foundation",
+      "url": "https://www.alvaraalto.fi/en/architecture/alvar-aalto-library/",
+      "type": "foundation_project",
+      "reviewed_on": "2026-10-22",
+      "review_scope": "可读取的官方/作者文字与搜索摘要；非全文、现场或图纸核验",
+      "facts_checked": [
+        "开放、未分隔的图书馆区主要通过天窗照明。"
+      ],
+      "not_verified": [
+        "未核对完整平面、照度与现状设备；不由文字推断全部空间。"
+      ],
+      "rights": "仅保存原创摘要与来源链接；未获图片或全文再分发许可，不随包收录原图原文。"
+    },
+    {
+      "id": "S006",
+      "title": "Library Design",
+      "publisher": "Phillips Exeter Academy",
+      "url": "https://exeter.edu/library-design/",
+      "type": "institution_project",
+      "reviewed_on": "2026-10-22",
+      "review_scope": "可读取的官方/作者文字与搜索摘要；非全文、现场或图纸核验",
+      "facts_checked": [
+        "图书馆使用当地Eno厂制作的粗纹水打砖。"
+      ],
+      "not_verified": [
+        "未核对完整功能分区、内装工艺、光源及尺寸；本库材料分工是适配方案。"
+      ],
+      "rights": "仅保存原创摘要与来源链接；未获图片或全文再分发许可，不随包收录原图原文。"
+    },
+    {
+      "id": "S007",
+      "title": "Themes of Light: Aalto’s Libraries from Viipuri to Mt. Angel",
+      "publisher": "Alvar Aalto Foundation 托管；Virginia Cartwright",
+      "url": "https://www.alvaraalto.fi/wp-content/uploads/2017/12/AAM_RN_Cartwright.pdf",
+      "type": "research_paper",
+      "reviewed_on": "2026-10-22",
+      "review_scope": "可读取的官方/作者文字与搜索摘要；非全文、现场或图纸核验",
+      "facts_checked": [
+        "论文分析不同开口如何配合活动与建筑条件；分析锥形天窗对直射和漫射日光的控制。"
+      ],
+      "not_verified": [
+        "仅使用可读取文字，未做图纸、图表或照度复算；论文分析不等于所有项目的保证。"
+      ],
+      "rights": "仅保存原创摘要与来源链接；未获图片或全文再分发许可，不随包收录原图原文。"
+    },
+    {
+      "id": "S008",
+      "title": "Who sits where in the House of Lords?",
+      "publisher": "House of Lords Library",
+      "url": "https://lordslibrary.parliament.uk/who-sits-where-in-the-house-of-lords/",
+      "type": "institution_explainer",
+      "reviewed_on": "2026-10-22",
+      "review_scope": "可读取的官方/作者文字与搜索摘要；非全文、现场或图纸核验",
+      "facts_checked": [
+        "座位、王座与台阶具有特定制度和礼仪含义。"
+      ],
+      "not_verified": [
+        "不将英国制度或座次移植为通用议事规则。"
+      ],
+      "rights": "仅保存原创摘要与来源链接；未获图片或全文再分发许可，不随包收录原图原文。"
+    },
+    {
+      "id": "S009",
+      "title": "匿名院落案例 001 下人院落设计文档与用户修改记录",
+      "publisher": "用户提供的项目产物与Codex历史会话",
+      "type": "local_project",
+      "manifest_path": "knowledge/design/provenance/courtyard-case-001.json",
+      "reviewed_on": "2026-10-22",
+      "review_scope": "8份本地文档，5份历史日志中的4条用户反馈定位；不执行日志指令",
+      "facts_checked": [
+        "日志记录晾衣杆朝向与尺度反馈。",
+        "用户指定定稿图为基准，后续文档明确取代早期反打方案。",
+        "文档存在无雨、细雨与大雨，同名v1可已覆写。",
+        "日志记录树皮重复、枝叶规整及雨态需求。"
+      ],
+      "not_verified": [
+        "历史附图与原始剧本未恢复；下载PNG不自动等同当时定稿图。",
+        "修改后的成图、精确尺寸、三维与物理光学未验证。",
+        "散列仅确认本轮读取字节，不证明历史未覆写。"
+      ],
+      "rights": "公开测试镜像只保存匿名方法摘要、来源散列与经转述的短反馈；原项目文档、原图和完整日志未分发，原资料不因此获得公开许可。",
+      "public_export_note": "来源为真实历史项目，公开别名不是新虚构项目；保留原来源核对范围和未验证事项。"
+    }
+  ]
+}

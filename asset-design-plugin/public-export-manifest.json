@@ -1,0 +1,168 @@
+{
+  "schema_version": "PublicExportManifestV1",
+  "distribution": "public-test-export",
+  "plugin_version": "0.1.0",
+  "exported_on": "2026-10-27",
+  "source_repository": "https://github.com/kaibaoxiang-studio/asset-design-plugin",
+  "source_commit": "2c4a66669ced1d2ee2cc8cd1c1636c09e67599bf",
+  "upstream_bundle_lock_sha256": "34fce1d68430d78d08282442aee353f838470d882fc64f7eca40546c18cc80bc",
+  "scope": "Documentation and provenance anonymization only; runtime code, Skill behavior, dependency versions and plugin versions are preserved. Original private source materials are not distributed. Historical validation is not a fresh API run.",
+  "transforms": [
+    {
+      "path": "README.md",
+      "source_sha256": "2250b492067858a738ff0285b2642c987bbe87f5d9dc65e216cab4909b2681a6",
+      "export_sha256": "c28b6d4eedc8d6913db1f91801696a6fb2bdc8b7c80bbdafcd02067f4aed9381",
+      "reason": "Document public test export and historical validation scope."
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "source_sha256": "ac312f02c65fe788fda3144280a4a12b6f30e0157c355d5327391fefaddbc768",
+      "export_sha256": "e6ef206ec2fd5b8cc4ada255225259e883ca7605cff53b82b2c8bb63b78cd944",
+      "reason": "State public testing distribution truthfully and retain all third-party attribution and licensing limits."
+    },
+    {
+      "path": "bundle-lock.json",
+      "source_sha256": "34fce1d68430d78d08282442aee353f838470d882fc64f7eca40546c18cc80bc",
+      "export_sha256": "bf72e3c31cc2696f4d98a5c316531c382eb24c5ee78cef9b1d501ebe02886688",
+      "reason": "Record effective public bundle hashes and explicitly retain original upstream byte provenance."
+    },
+    {
+      "path": "bundled-plugins/character-assets/examples/reference-images.md",
+      "source_sha256": "eb8565b31ce93f6285f4afb0f018d6b46eefa1e8fe05938168bb8186d9dd637e",
+      "export_sha256": "a9f07741a300ddc03952a256b38be744d911aca403f76f4ae31285bd17957160",
+      "reason": "Replace unavailable development-machine image locations with portable reference-purpose labels; preserve all design rules."
+    },
+    {
+      "path": "bundled-plugins/character-assets/generation-lock.json",
+      "source_sha256": "42f95d0aff529611a3cfea60491c36991aa83f3cbfeb0f1367d02697cde055b1",
+      "export_sha256": "e91ae8eb6cbb709e36411cb0f25d23cb09dc390deb9e14d3b6b9cdb8cb5c6bcc",
+      "reason": "Recalculate child generated-file hashes for documented public documentation overlays."
+    },
+    {
+      "path": "bundled-plugins/character-assets/harness-blueprint.json",
+      "source_sha256": "2af89a99dd592bfa09c4ba26d304c30589535e76246314d283445b4aec028fbf",
+      "export_sha256": "0110291f0f38a6bd1c881277ff6785af1418c89c2abb676db6b3cc09c23088dc",
+      "reason": "Synchronize embedded source-reference documentation so regeneration retains the public documentation overlay."
+    },
+    {
+      "path": "bundled-plugins/character-assets/references/group-ensemble.md",
+      "source_sha256": "e6a81fe7dde6b6138739d2577309fe552b1df4d5574895e38331f9ef1cfc2fc8",
+      "export_sha256": "d77d604e43e582a0a0d0eea19a0f5e57b6613ba760a7fcea7b836e1087527d10",
+      "reason": "Remove source document absolute path; retain basename, source digest and method-only adoption scope."
+    },
+    {
+      "path": "bundled-plugins/scene-assets/skills/sence-prompts/knowledge/design-library/GUIDE.md",
+      "source_sha256": "574568f1f42fa3b7f572159d24953824e750b0c0ba4c0a29c0c17a166dddadb6",
+      "export_sha256": "4ac59c752582e2948e56a4b45a3300f60b7756e111e8f5751cdda8310dce7e86",
+      "reason": "Anonymize production-case label, source locators and historical session IDs while retaining method, reference relationships and original evidence hashes."
+    },
+    {
+      "path": "bundled-plugins/scene-assets/skills/sence-prompts/knowledge/design-library/knowledge/design/entries/DES-007.md",
+      "source_sha256": "099bea1d6e8f2a0927c50e6e32e11adcd57e3715bbf5af9ce6b928f99cc23616",
+      "export_sha256": "39288f4f9c268174f984cde211091d7da490dcb7c65e15071551521d1de40afc",
+      "reason": "Anonymize production-case label, source locators and historical session IDs while retaining method, reference relationships and original evidence hashes."
+    },
+    {
+      "path": "bundled-plugins/scene-assets/skills/sence-prompts/knowledge/design-library/knowledge/design/entries/DES-008.md",
+      "source_sha256": "dcfe7e8f37659543b9c3e2b137c9e3a50af691638842781cc3e8970e7da6c72f",
+      "export_sha256": "2ee1b4df8950ba99a5f3b087f892b592677f36011c58d2460a2c34aa5ba597f3",
+      "reason": "Anonymize production-case label, source locators and historical session IDs while retaining method, reference relationships and original evidence hashes."
+    },
+    {
+      "path": "bundled-plugins/scene-assets/skills/sence-prompts/knowledge/design-library/knowledge/design/entries/DES-009.md",
+      "source_sha256": "65420f5646d5d992102a6e6afa43c6749e27bb9072aa83662da8ef6180faeb81",
+      "export_sha256": "415a2accf447a296f799a8d3acb363602377f08ca4c1d0e1f3901054bfc985b6",
+      "reason": "Anonymize production-case label, source locators and historical session IDs while retaining method, reference relationships and original evidence hashes."
+    },
+    {
+      "path": "bundled-plugins/scene-assets/skills/sence-prompts/knowledge/design-library/knowledge/design/entries/DES-010.md",
+      "source_sha256": "5794f724628116316f60be578544bd16be3cd2a32a791d54e22c0bed06dfe430",
+      "export_sha256": "196b5f6a0589bf252a30ad270eb92d7cab932a13396db6f5d624450dd1da578e",
+      "reason": "Anonymize production-case label, source locators and historical session IDs while retaining method, reference relationships and original evidence hashes."
+    },
+    {
+      "path": "bundled-plugins/scene-assets/skills/sence-prompts/knowledge/design-library/knowledge/design/entries/DES-011.md",
+      "source_sha256": "2b3ad862cb8a0914e41e8158e03a64ca9b01cb3b6dae7a601ad025b7f5c01eae",
+      "export_sha256": "ce1bf9d1f68f462d03f5d08efd1391a374db6a90b37eb9031b6c1d173eb21bc4",
+      "reason": "Anonymize production-case label, source locators and historical session IDs while retaining method, reference relationships and original evidence hashes."
+    },
+    {
+      "path": "bundled-plugins/scene-assets/skills/sence-prompts/knowledge/design-library/knowledge/design/index.json",
+      "source_sha256": "361e048f8ac0e8e21894ce1089ac5b86190e20b6bc7a48886a98acab63698508",
+      "export_sha256": "5605468f52d7d551406cc263fd6b0e76ef7abbe4d7c47798453d356dd9c199b1",
+      "reason": "Anonymize production-case label, source locators and historical session IDs while retaining method, reference relationships and original evidence hashes."
+    },
+    {
+      "path": "bundled-plugins/scene-assets/skills/sence-prompts/knowledge/design-library/knowledge/design/provenance/courtyard-case-001.json",
+      "source_sha256": "a72e656bfb40240b2141e896355065e92356453185b48a0b8fb446e11af7ae3a",
+      "export_sha256": "c1171f78fe121c65da866b77078b06058ee95ef7b283d0bc6e79a9f832359bdc",
+      "reason": "Anonymize real production metadata and paraphrase four private feedback quotes; preserve honest source dates, ordinals, roles, source hashes and verification limits.",
+      "source_path_redacted": true,
+      "source_path_sha256": "8e3e6548c437a90f7d0e45e15e1e2e4a917ca212c2b717108352965d5c6507f9"
+    },
+    {
+      "path": "bundled-plugins/scene-assets/skills/sence-prompts/knowledge/design-library/knowledge/design/sources.json",
+      "source_sha256": "8db31a2d0bfe9fea79201dec146db41ec0e72cc4d32d57f40c40a7ffe4ab4790",
+      "export_sha256": "15d4cc2b5a997f192e0260cc09589b2814d14f1ab0a5f3957db93dd121dbfd6b",
+      "reason": "Clarify anonymous public case provenance and distribution boundary without adding license to original private material."
+    },
+    {
+      "path": "bundled-plugins/scene-assets/skills/sence-prompts/knowledge/design-library/tests/project-regression.mjs",
+      "source_sha256": "7c0f001c8006038a3cc0bca44c8129c67e36bb3f79a0cdf2bd9945af8766f0bc",
+      "export_sha256": "028b904612b8843ff454a32bd0155fefd7305bf72cdcf5b588d0bd6b251322fa",
+      "reason": "Anonymize production-case label, source locators and historical session IDs while retaining method, reference relationships and original evidence hashes."
+    },
+    {
+      "path": "bundled-plugins/scene-assets/skills/sence-prompts/references/knowledge-base-guide.md",
+      "source_sha256": "1f15f867344b6f34eed9ce8d91cbb72d93e8977996066d322bd7d1055a643ff8",
+      "export_sha256": "eb488d794bd11866d6c836ebf006a934be070246197261dbc08f25b96ed8bedf",
+      "reason": "Anonymize production-case label, source locators and historical session IDs while retaining method, reference relationships and original evidence hashes."
+    },
+    {
+      "path": "release-notes.md",
+      "source_sha256": "7890172d27b030b68972ea6598f97715a39d433c5f54502c8699d30604f00a93",
+      "export_sha256": "2cd38beb3743438be290491e79ddaaeac39a6707fe1067060203b3a11d81000b",
+      "reason": "Scope original private-release assertions as historical upstream evidence."
+    },
+    {
+      "path": "validation/doctor.json",
+      "source_sha256": "05dc72d9d1d7f383f3ab4c36f358c3a63623082e7f7d30cc3ceea6f4e6254388",
+      "export_sha256": "20532bcc0f479b93d1b9d6683557a2b1b54a45ecf5865c55b5dd13fc1cfc54e6",
+      "reason": "Replace historical validation session IDs and machine-specific environment locations with portable labels; historical test results remain unchanged."
+    },
+    {
+      "path": "validation/real-call-report.json",
+      "source_sha256": "a2b148100e46a7d77fafb4eba8d1a8b9942053a0c490b409c3bd359651aa6b9a",
+      "export_sha256": "26787be104afb6236c8781ee1dea9ab9500c984cb3a802f867c58c33284e7d51",
+      "reason": "Recalculate public validation-record file hashes following metadata-only anonymization."
+    },
+    {
+      "path": "validation/real-calls/character/transport.json",
+      "source_sha256": "a67538b8eaa2d3bdeb493926c39b752d1650a6c03b17c3dc3c5555f786f47d63",
+      "export_sha256": "12102e58ccc8960f06bba26e86d9e30238e6f24322d3c126a262397d26355b9a",
+      "reason": "Replace historical validation session IDs and machine-specific environment locations with portable labels; historical test results remain unchanged."
+    },
+    {
+      "path": "validation/real-calls/prop/transport.json",
+      "source_sha256": "496379446504f0d7bfed32373386b446dc596f89f8c6b5563560d40f9b29b044",
+      "export_sha256": "d0fe7ed2a760b257fd9401eabff3847fa985764e94f4c67fdb2a6198589c9bd0",
+      "reason": "Replace historical validation session IDs and machine-specific environment locations with portable labels; historical test results remain unchanged."
+    },
+    {
+      "path": "validation/real-calls/scene/transport.json",
+      "source_sha256": "efc71984728cb6e7816f7fea4a0e1a2535cc4e4397c312a6eafeffc074c49687",
+      "export_sha256": "1fc85f969ba020b87106bc746ec6d7f0a877e27d1b2e1e0af42a4d7c6a915cd4",
+      "reason": "Replace historical validation session IDs and machine-specific environment locations with portable labels; historical test results remain unchanged."
+    },
+    {
+      "path": "validation/v0.1.0.md",
+      "source_sha256": "6ae0cb16c7f7a965922e8105606a4c2deda26ba9347333690aefd8582dc600f0",
+      "export_sha256": "910b3bfe1e3a63a35759e11f94b152f32c13060acc42725aaa6c41c2db2caeee",
+      "reason": "Scope historical upstream exact-snapshot and real-call claims separately from public export verification."
+    }
+  ],
+  "public_validation": {
+    "path": "validation/public-export-checks.json",
+    "sha256": "e91c5c6969a057e4d7ab5cfda11c7acd2b5ae31b6ed3e5a471825abb21fab7aa"
+  }
+}

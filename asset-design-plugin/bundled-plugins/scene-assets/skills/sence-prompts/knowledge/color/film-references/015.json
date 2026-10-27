@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "015",
+  "films": [
+    {
+      "title_zh": "Eraserhead",
+      "title_en": "Eraserhead",
+      "year": 1977,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#000000",
+          "source_ratio": 31.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.312,
+          "source_luminance": 0,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#DBDBDB",
+          "source_ratio": 10.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.106,
+          "source_luminance": 0.7084,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#222022",
+          "source_ratio": 10.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10300000000000001,
+          "source_luminance": 0.0149,
+          "source_saturation": 0.0588
+        },
+        {
+          "hex": "#3D3B3D",
+          "source_ratio": 10.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10300000000000001,
+          "source_luminance": 0.0446,
+          "source_saturation": 0.0328
+        },
+        {
+          "hex": "#9E9D9E",
+          "source_ratio": 10.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10300000000000001,
+          "source_luminance": 0.3385,
+          "source_saturation": 0.0063
+        },
+        {
+          "hex": "#646264",
+          "source_ratio": 9.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.095,
+          "source_luminance": 0.1236,
+          "source_saturation": 0.02
+        },
+        {
+          "hex": "#C8C7C8",
+          "source_ratio": 9.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.095,
+          "source_luminance": 0.573,
+          "source_saturation": 0.005
+        },
+        {
+          "hex": "#B4B3B4",
+          "source_ratio": 8.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.083,
+          "source_luminance": 0.4524,
+          "source_saturation": 0.0056
+        }
+      ],
+      "source_ratio_sum": 99.99999999999999,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2013/02/01/eraserhead/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/015_DavidLynch_大卫·林奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (349).jpg?bwg=1547215218",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/015_DavidLynch_大卫·林奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (356).jpg?bwg=1547215218",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/015_DavidLynch_大卫·林奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/43 (348).jpg?bwg=1547215218",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/015_DavidLynch_大卫·林奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/64 (257).jpg?bwg=1547215217",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/015_DavidLynch_大卫·林奇/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Blue Velvet",
+      "title_en": "Blue Velvet",
+      "year": 1986,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#101743",
+          "source_ratio": 16.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.16899999999999998,
+          "source_luminance": 0.0113,
+          "source_saturation": 0.7612
+        },
+        {
+          "hex": "#412A19",
+          "source_ratio": 14.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.146,
+          "source_luminance": 0.0285,
+          "source_saturation": 0.6154
+        },
+        {
+          "hex": "#010002",
+          "source_ratio": 13.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.135,
+          "source_luminance": 0.0001,
+          "source_saturation": 1
+        },
+        {
+          "hex": "#31270D",
+          "source_ratio": 13.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.131,
+          "source_luminance": 0.0213,
+          "source_saturation": 0.7347
+        },
+        {
+          "hex": "#01032F",
+          "source_ratio": 11.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11599999999999999,
+          "source_luminance": 0.0028,
+          "source_saturation": 0.9787
+        },
+        {
+          "hex": "#270D09",
+          "source_ratio": 10.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10800000000000001,
+          "source_luminance": 0.0074,
+          "source_saturation": 0.7692
+        },
+        {
+          "hex": "#371B10",
+          "source_ratio": 9.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.099,
+          "source_luminance": 0.0163,
+          "source_saturation": 0.7091
+        },
+        {
+          "hex": "#21160C",
+          "source_ratio": 9.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.096,
+          "source_luminance": 0.0092,
+          "source_saturation": 0.6364
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2010/06/17/blue-velvet/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/015_DavidLynch_大卫·林奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (165).jpg?bwg=1547151331",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/015_DavidLynch_大卫·林奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/21 (168).jpg?bwg=1547151332",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/015_DavidLynch_大卫·林奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/41 (167).jpg?bwg=1547151331",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/015_DavidLynch_大卫·林奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/61 (136).jpg?bwg=1547151330",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/015_DavidLynch_大卫·林奇/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Lost Highway",
+      "title_en": "Lost Highway",
+      "year": 1997,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#87868C",
+          "source_ratio": 17.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.174,
+          "source_luminance": 0.2409,
+          "source_saturation": 0.0429
+        },
+        {
+          "hex": "#5B595F",
+          "source_ratio": 14.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.146,
+          "source_luminance": 0.102,
+          "source_saturation": 0.0632
+        },
+        {
+          "hex": "#4B4546",
+          "source_ratio": 14.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.145,
+          "source_luminance": 0.0619,
+          "source_saturation": 0.08
+        },
+        {
+          "hex": "#10110E",
+          "source_ratio": 14.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.142,
+          "source_luminance": 0.0054,
+          "source_saturation": 0.1765
+        },
+        {
+          "hex": "#272A26",
+          "source_ratio": 13.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.13699999999999998,
+          "source_luminance": 0.0223,
+          "source_saturation": 0.0952
+        },
+        {
+          "hex": "#ABB3B4",
+          "source_ratio": 10.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.106,
+          "source_luminance": 0.4419,
+          "source_saturation": 0.05
+        },
+        {
+          "hex": "#706C71",
+          "source_ratio": 8.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.08800000000000001,
+          "source_luminance": 0.1536,
+          "source_saturation": 0.0442
+        },
+        {
+          "hex": "#3D302A",
+          "source_ratio": 6.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.062,
+          "source_luminance": 0.0327,
+          "source_saturation": 0.3115
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/06/24/lost-highway/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/015_DavidLynch_大卫·林奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (628).jpg?bwg=1547229474",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/015_DavidLynch_大卫·林奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (642).jpg?bwg=1547229474",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/015_DavidLynch_大卫·林奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (630).jpg?bwg=1547229473",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/015_DavidLynch_大卫·林奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (435).jpg?bwg=1547229473",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/015_DavidLynch_大卫·林奇/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Inland Empire",
+      "title_en": "Inland Empire",
+      "year": 2006,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#000000",
+          "source_ratio": 28.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.289,
+          "source_luminance": 0,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#321104",
+          "source_ratio": 11.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11800000000000001,
+          "source_luminance": 0.0109,
+          "source_saturation": 0.92
+        },
+        {
+          "hex": "#636466",
+          "source_ratio": 11.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.113,
+          "source_luminance": 0.1273,
+          "source_saturation": 0.0294
+        },
+        {
+          "hex": "#3C3D40",
+          "source_ratio": 10.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.106,
+          "source_luminance": 0.0467,
+          "source_saturation": 0.0625
+        },
+        {
+          "hex": "#CBB38C",
+          "source_ratio": 10.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10099999999999999,
+          "source_luminance": 0.4683,
+          "source_saturation": 0.3103
+        },
+        {
+          "hex": "#1F0A01",
+          "source_ratio": 10,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.1,
+          "source_luminance": 0.0051,
+          "source_saturation": 0.9677
+        },
+        {
+          "hex": "#2B2826",
+          "source_ratio": 9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.09,
+          "source_luminance": 0.0217,
+          "source_saturation": 0.1163
+        },
+        {
+          "hex": "#A2340F",
+          "source_ratio": 8.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.083,
+          "source_luminance": 0.1017,
+          "source_saturation": 0.9074
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2016/03/29/inland-empire/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/015_DavidLynch_大卫·林奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/0143 (1).jpg?bwg=1547055139",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/015_DavidLynch_大卫·林奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/2342 (1).jpg?bwg=1547055138",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/015_DavidLynch_大卫·林奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/4441 (1).jpg?bwg=1547055138",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/015_DavidLynch_大卫·林奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/6527 (1).jpg?bwg=1547055138",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/015_DavidLynch_大卫·林奇/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/015_DavidLynch_大卫·林奇/assets/references/reference_director_manifest.json",
+      "sha256": "02b1c966949d1081167a2ac29ca39caaf1810e95c51812245a76911fda55a307",
+      "declared_urls": [
+        "https://film-grab.com/2013/02/01/eraserhead/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (349).jpg?bwg=1547215218",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (356).jpg?bwg=1547215218",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/43 (348).jpg?bwg=1547215218",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/64 (257).jpg?bwg=1547215217",
+        "https://film-grab.com/2010/06/17/blue-velvet/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (165).jpg?bwg=1547151331",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/21 (168).jpg?bwg=1547151332",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/41 (167).jpg?bwg=1547151331",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/61 (136).jpg?bwg=1547151330",
+        "https://film-grab.com/2014/06/24/lost-highway/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (628).jpg?bwg=1547229474",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (642).jpg?bwg=1547229474",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (630).jpg?bwg=1547229473",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (435).jpg?bwg=1547229473",
+        "https://film-grab.com/2016/03/29/inland-empire/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/0143 (1).jpg?bwg=1547055139",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/2342 (1).jpg?bwg=1547055138",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/4441 (1).jpg?bwg=1547055138",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/6527 (1).jpg?bwg=1547055138"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/015_DavidLynch_大卫·林奇/assets/references/reference_sources.md",
+      "sha256": "4d2feea8c053e6afd2db808dbb86cfa530dcfa2f90074a67b8b2e3b93efa58f6",
+      "declared_urls": [
+        "https://film-grab.com/2013/02/01/eraserhead/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (349).jpg?bwg=1547215218",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (356).jpg?bwg=1547215218",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/43 (348).jpg?bwg=1547215218",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/64 (257).jpg?bwg=1547215217",
+        "https://film-grab.com/2010/06/17/blue-velvet/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (165).jpg?bwg=1547151331",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/21 (168).jpg?bwg=1547151332",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/41 (167).jpg?bwg=1547151331",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/61 (136).jpg?bwg=1547151330",
+        "https://film-grab.com/2014/06/24/lost-highway/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (628).jpg?bwg=1547229474",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (642).jpg?bwg=1547229474",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (630).jpg?bwg=1547229473",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (435).jpg?bwg=1547229473",
+        "https://film-grab.com/2016/03/29/inland-empire/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/0143 (1).jpg?bwg=1547055139",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/2342 (1).jpg?bwg=1547055138",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/4441 (1).jpg?bwg=1547055138",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/6527 (1).jpg?bwg=1547055138"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

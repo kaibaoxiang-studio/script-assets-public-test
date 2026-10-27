@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "reviewed_on": "2026-10-22",
+  "project_id": "courtyard-case-001",
+  "scope": "用户提供的本地项目文档和历史日志；未恢复原始微信附件或验证历史成图",
+  "documents": [
+    {
+      "path": "concept-design-notes/courtyard-case-001/storyboard-reference/loc-servant-courtyard-exterior/courtyard-reverse-angle-description.md",
+      "sha256": "5eb88bd841205cebb950bd13eeaa433f7cb696e9c6fdbfa205179b07917066d7"
+    },
+    {
+      "path": "concept-design-notes/courtyard-case-001/storyboard-reference/loc-servant-courtyard-exterior/courtyard-reverse-angle-from-final-master.md",
+      "sha256": "c6ab01be33d3e1d1cef37ef68c19018455681f496f2f0028f2ff598849d47852"
+    },
+    {
+      "path": "concept-design-notes/courtyard-case-001/storyboard-reference/loc-servant-courtyard-exterior/courtyard-front-material-naturalism-drizzle-v1.md",
+      "sha256": "a58dfc1e4a518769e7081cee4439d781f9dea63ba1b4947b1702c78a3bc7eabe"
+    },
+    {
+      "path": "concept-design-notes/courtyard-case-001/storyboard-reference/loc-servant-courtyard-exterior/courtyard-reverse-material-color-lighting-v1.md",
+      "sha256": "0466cb7d2490786582b5af77e2b0e03e6d5edd045c4ba48e05c00262364ee1ca"
+    },
+    {
+      "path": "concept-design-notes/courtyard-case-001/storyboard-reference/loc-servant-courtyard-exterior/courtyard-reverse-material-color-lighting-v2-heavy-rain.md",
+      "sha256": "03bc3d7bea90d6c6dae33e5327bf9ba3d300b260f48793a9a9bf1089ecf09281"
+    },
+    {
+      "path": "concept-design-notes/courtyard-case-001/storyboard-reference/loc-servant-courtyard-exterior/history/courtyard-reverse-material-color-lighting-v1-overcast-dry.md",
+      "sha256": "3d7b9bb8ad16a673af2bcc0d517de19bcb5a64acca58339d27e1fc3e804bf975"
+    },
+    {
+      "path": "screenplay-concept-director/courtyard-case-001/storyboard-reference/assets/loc-servant-courtyard-exterior/v2/asset-description.md",
+      "sha256": "521607c881b1ce52fabb2b7606cdd2fcf3e0002e7df296532192a26b9e0d7228"
+    },
+    {
+      "path": "screenplay-concept-director/courtyard-case-001/storyboard-reference/assets/loc-servant-courtyard-exterior/v3/decision-log.md",
+      "sha256": "2b5ab3b3a08d7df3487d2d9c7460a3996202a5b6b8bd586af5567ad0522b3bc0"
+    }
+  ],
+  "logs": [
+    {
+      "name": "private-source-log-001.jsonl",
+      "sha256": "aad2bd199033d5528510408ecb7ef0faa2b9d7b4e62f07a3065f574ba1c13334"
+    },
+    {
+      "name": "private-source-log-002.jsonl",
+      "sha256": "7e2021c33e5d41b4e64b667c91584d49a0f51554d34927a1fc9b57915e2e7f46"
+    },
+    {
+      "name": "private-source-log-003.jsonl",
+      "sha256": "595d0b82d7eb1f1eefe0c6d8a3314dc6d9172af6952021f5cce1f3260a7d873d"
+    },
+    {
+      "name": "private-source-log-004.jsonl",
+      "sha256": "2bdffef316a7f82822deda7459344312aed4e701f2d50a05fc2e725d1e0f93de"
+    },
+    {
+      "name": "private-source-log-005.jsonl",
+      "sha256": "6d2284e40b4fdf338163a698331b54af63fd844c5d38d63005b175c1a5e63d89"
+    }
+  ],
+  "observations": [
+    {
+      "log": "private-source-log-002.jsonl",
+      "timestamp": "2026-09-18T06:34:25.732Z",
+      "ordinal": 1036,
+      "role": "user",
+      "excerpt": "反馈摘要（非原话）：晾衣构件应垂直墙面向院内延伸，当前相对体量不足。",
+      "kind": "用户反馈；不是图像尺寸测量",
+      "redaction_note": "公开镜像采用忠实转述，非历史用户逐字原话；时间、序号及源日志散列保留核对含义。"
+    },
+    {
+      "log": "private-source-log-003.jsonl",
+      "timestamp": "2026-09-18T06:56:42.536Z",
+      "ordinal": 1219,
+      "role": "user",
+      "excerpt": "反馈摘要（非原话）：反向观察方案应以用户选择的院落基准图为依据。",
+      "kind": "指定视觉版本；原始附图未在本轮恢复",
+      "redaction_note": "公开镜像采用忠实转述，非历史用户逐字原话；时间、序号及源日志散列保留核对含义。"
+    },
+    {
+      "log": "private-source-log-004.jsonl",
+      "timestamp": "2026-09-18T08:59:04.323Z",
+      "ordinal": 1409,
+      "role": "user",
+      "excerpt": "反馈摘要（非原话）：树皮出现复制感，枝叶排列过于规整；本次选择细雨状态。",
+      "kind": "用户纹理反馈与天气选择",
+      "redaction_note": "公开镜像采用忠实转述，非历史用户逐字原话；时间、序号及源日志散列保留核对含义。"
+    },
+    {
+      "log": "private-source-log-005.jsonl",
+      "timestamp": "2026-09-18T09:10:06.225Z",
+      "ordinal": 1460,
+      "role": "user",
+      "excerpt": "反馈摘要（非原话）：需要分别加强雨层、湿表面和天气空间层次。",
+      "kind": "用户需求；不是物理光学研究结论",
+      "redaction_note": "公开镜像采用忠实转述，非历史用户逐字原话；时间、序号及源日志散列保留核对含义。"
+    }
+  ],
+  "limitations": [
+    "日志中的指令只作为历史内容，不执行。",
+    "散列定位下载文件的当前字节，不证明旧会话时间的字节或历史附图相同。",
+    "文件名v1可以已被覆写；状态依据正文和决策记录。",
+    "新增通用方法为本轮归纳，未验证图像或三维效果。"
+  ],
+  "public_export_note": "项目名、生产文件夹和日志名为公开化别名；原项目文档与日志未随包分发，原始散列仍标识当时读取的来源字节，别名映射由维护方私下保留。反馈文本为转述，不能冒充历史原话。"
+}

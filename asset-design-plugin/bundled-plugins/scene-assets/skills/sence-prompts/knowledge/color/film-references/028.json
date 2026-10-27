@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "028",
+  "films": [
+    {
+      "title_zh": "攻壳机动队",
+      "title_en": "Ghost in the Shell",
+      "year": 1995,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#626B73",
+          "source_ratio": 14.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14800000000000002,
+          "source_luminance": 0.1435,
+          "source_saturation": 0.1478
+        },
+        {
+          "hex": "#383E49",
+          "source_ratio": 14.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14400000000000002,
+          "source_luminance": 0.0477,
+          "source_saturation": 0.2329
+        },
+        {
+          "hex": "#66544D",
+          "source_ratio": 12.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.128,
+          "source_luminance": 0.097,
+          "source_saturation": 0.2451
+        },
+        {
+          "hex": "#85ABB8",
+          "source_ratio": 11.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11900000000000001,
+          "source_luminance": 0.3757,
+          "source_saturation": 0.2772
+        },
+        {
+          "hex": "#5C585B",
+          "source_ratio": 11.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11800000000000001,
+          "source_luminance": 0.1001,
+          "source_saturation": 0.0435
+        },
+        {
+          "hex": "#243241",
+          "source_ratio": 11.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11599999999999999,
+          "source_luminance": 0.0304,
+          "source_saturation": 0.4462
+        },
+        {
+          "hex": "#1D1E28",
+          "source_ratio": 11.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.115,
+          "source_luminance": 0.0134,
+          "source_saturation": 0.275
+        },
+        {
+          "hex": "#2F7D92",
+          "source_ratio": 11.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11199999999999999,
+          "source_luminance": 0.1735,
+          "source_saturation": 0.6781
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/9323/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/028_MamoruOshii_押井守/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/gTRXgigmgKpeJjW07iq686HZyBD.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/028_MamoruOshii_押井守/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/7Ht2s2cpkWvKp8DKygJXAuf3Nuh.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/028_MamoruOshii_押井守/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/iwgVV6Jtqts6tyQ8Ueu9XUZevxY.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/028_MamoruOshii_押井守/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/nxRKccQ0aUVkyBCEB9ES3ENGRX5.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/028_MamoruOshii_押井守/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "机动警察2",
+      "title_en": "Patlabor 2: The Movie",
+      "year": 1993,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#B0A99D",
+          "source_ratio": 16.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.166,
+          "source_luminance": 0.4004,
+          "source_saturation": 0.108
+        },
+        {
+          "hex": "#43606D",
+          "source_ratio": 13.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.13699999999999998,
+          "source_luminance": 0.1066,
+          "source_saturation": 0.3853
+        },
+        {
+          "hex": "#DB7B43",
+          "source_ratio": 13.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.136,
+          "source_luminance": 0.2963,
+          "source_saturation": 0.6941
+        },
+        {
+          "hex": "#373F4C",
+          "source_ratio": 13,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.13,
+          "source_luminance": 0.0489,
+          "source_saturation": 0.2763
+        },
+        {
+          "hex": "#83929A",
+          "source_ratio": 11.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11599999999999999,
+          "source_luminance": 0.2772,
+          "source_saturation": 0.1494
+        },
+        {
+          "hex": "#628089",
+          "source_ratio": 10.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.107,
+          "source_luminance": 0.1984,
+          "source_saturation": 0.2847
+        },
+        {
+          "hex": "#181825",
+          "source_ratio": 10.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10400000000000001,
+          "source_luminance": 0.0098,
+          "source_saturation": 0.3514
+        },
+        {
+          "hex": "#1D2B35",
+          "source_ratio": 10.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10400000000000001,
+          "source_luminance": 0.0225,
+          "source_saturation": 0.4528
+        }
+      ],
+      "source_ratio_sum": 100.00000000000001,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/14572/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/028_MamoruOshii_押井守/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/AkyvSlL1XASeZolYjJRvzWjaTOF.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/028_MamoruOshii_押井守/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/yHrhvSZDesFOR43L6II2sU9hMP7.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/028_MamoruOshii_押井守/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/t1khF42NlYrFrriEay1c6BJK1tk.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/028_MamoruOshii_押井守/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/gl7Co3bGgQWZsjhjkUHUYG546YO.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/028_MamoruOshii_押井守/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "攻壳机动队2：无罪",
+      "title_en": "Ghost in the Shell 2: Innocence",
+      "year": 2004,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#F5F2D3",
+          "source_ratio": 14,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14,
+          "source_luminance": 0.8762,
+          "source_saturation": 0.1388
+        },
+        {
+          "hex": "#784B2A",
+          "source_ratio": 13.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.139,
+          "source_luminance": 0.0919,
+          "source_saturation": 0.65
+        },
+        {
+          "hex": "#553C25",
+          "source_ratio": 13.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.134,
+          "source_luminance": 0.053,
+          "source_saturation": 0.5647
+        },
+        {
+          "hex": "#7A6A5B",
+          "source_ratio": 12.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.128,
+          "source_luminance": 0.152,
+          "source_saturation": 0.2541
+        },
+        {
+          "hex": "#A2724E",
+          "source_ratio": 11.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11800000000000001,
+          "source_luminance": 0.2027,
+          "source_saturation": 0.5185
+        },
+        {
+          "hex": "#9E5633",
+          "source_ratio": 11.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.114,
+          "source_luminance": 0.1416,
+          "source_saturation": 0.6772
+        },
+        {
+          "hex": "#090906",
+          "source_ratio": 11.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.114,
+          "source_luminance": 0.0027,
+          "source_saturation": 0.3333
+        },
+        {
+          "hex": "#858C78",
+          "source_ratio": 11.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.113,
+          "source_luminance": 0.251,
+          "source_saturation": 0.1429
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/12140/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/028_MamoruOshii_押井守/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/8Cbzx17QdJ6xBx2uDkdlpWsemGg.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/028_MamoruOshii_押井守/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/3KYZFwKiriQ8VN3ixX5Pl7BX2Eh.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/028_MamoruOshii_押井守/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/7awhko7JqxQgjPB5FxGbY1r2T86.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/028_MamoruOshii_押井守/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/iJJjKWdZt9XgcxXpLYfvYYDSv4Y.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/028_MamoruOshii_押井守/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "空中杀手",
+      "title_en": "The Sky Crawlers",
+      "year": 2008,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#1D1D1F",
+          "source_ratio": 14.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.146,
+          "source_luminance": 0.0124,
+          "source_saturation": 0.0645
+        },
+        {
+          "hex": "#91B6CB",
+          "source_ratio": 13.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.139,
+          "source_luminance": 0.4379,
+          "source_saturation": 0.2857
+        },
+        {
+          "hex": "#073E8F",
+          "source_ratio": 12.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.127,
+          "source_luminance": 0.0547,
+          "source_saturation": 0.951
+        },
+        {
+          "hex": "#072E63",
+          "source_ratio": 12.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.124,
+          "source_luminance": 0.029,
+          "source_saturation": 0.9293
+        },
+        {
+          "hex": "#71AAD1",
+          "source_ratio": 12.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.121,
+          "source_luminance": 0.3686,
+          "source_saturation": 0.4593
+        },
+        {
+          "hex": "#8CC9E7",
+          "source_ratio": 11.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.115,
+          "source_luminance": 0.5312,
+          "source_saturation": 0.3939
+        },
+        {
+          "hex": "#EBE7E1",
+          "source_ratio": 11.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.114,
+          "source_luminance": 0.8025,
+          "source_saturation": 0.0426
+        },
+        {
+          "hex": "#C7CECC",
+          "source_ratio": 11.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.114,
+          "source_luminance": 0.6064,
+          "source_saturation": 0.034
+        }
+      ],
+      "source_ratio_sum": 100.00000000000001,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/15877/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/028_MamoruOshii_押井守/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/obDHA3z3M6IbacldHvdsrcQjn4o.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/028_MamoruOshii_押井守/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/qbZ6DdCyhIomHIuIrxqTjFNx3NG.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/028_MamoruOshii_押井守/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/hKMZc7BzZvHJbkoommISLcrWLGP.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/028_MamoruOshii_押井守/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/vkDMR4tvkDe6L6Yo0mKKVRS11Sj.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/028_MamoruOshii_押井守/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/028_MamoruOshii_押井守/assets/references/reference_director_manifest.json",
+      "sha256": "d25686ecbc8249febd4ad748672fa3f16fb24533abd29a65b8b39878878456dd",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/9323/images/backdrops",
+        "https://image.tmdb.org/t/p/original/gTRXgigmgKpeJjW07iq686HZyBD.jpg",
+        "https://image.tmdb.org/t/p/original/7Ht2s2cpkWvKp8DKygJXAuf3Nuh.jpg",
+        "https://image.tmdb.org/t/p/original/iwgVV6Jtqts6tyQ8Ueu9XUZevxY.jpg",
+        "https://image.tmdb.org/t/p/original/nxRKccQ0aUVkyBCEB9ES3ENGRX5.jpg",
+        "https://www.themoviedb.org/movie/14572/images/backdrops",
+        "https://image.tmdb.org/t/p/original/AkyvSlL1XASeZolYjJRvzWjaTOF.jpg",
+        "https://image.tmdb.org/t/p/original/yHrhvSZDesFOR43L6II2sU9hMP7.jpg",
+        "https://image.tmdb.org/t/p/original/t1khF42NlYrFrriEay1c6BJK1tk.jpg",
+        "https://image.tmdb.org/t/p/original/gl7Co3bGgQWZsjhjkUHUYG546YO.jpg",
+        "https://www.themoviedb.org/movie/12140/images/backdrops",
+        "https://image.tmdb.org/t/p/original/8Cbzx17QdJ6xBx2uDkdlpWsemGg.jpg",
+        "https://image.tmdb.org/t/p/original/3KYZFwKiriQ8VN3ixX5Pl7BX2Eh.jpg",
+        "https://image.tmdb.org/t/p/original/7awhko7JqxQgjPB5FxGbY1r2T86.jpg",
+        "https://image.tmdb.org/t/p/original/iJJjKWdZt9XgcxXpLYfvYYDSv4Y.jpg",
+        "https://www.themoviedb.org/movie/15877/images/backdrops",
+        "https://image.tmdb.org/t/p/original/obDHA3z3M6IbacldHvdsrcQjn4o.jpg",
+        "https://image.tmdb.org/t/p/original/qbZ6DdCyhIomHIuIrxqTjFNx3NG.jpg",
+        "https://image.tmdb.org/t/p/original/hKMZc7BzZvHJbkoommISLcrWLGP.jpg",
+        "https://image.tmdb.org/t/p/original/vkDMR4tvkDe6L6Yo0mKKVRS11Sj.jpg"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/028_MamoruOshii_押井守/assets/references/reference_sources.md",
+      "sha256": "afed6359ec7f5a84286f6a02ab580c5dc00df941c1f3654e940bf81078787123",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/9323/images/backdrops",
+        "https://image.tmdb.org/t/p/original/gTRXgigmgKpeJjW07iq686HZyBD.jpg",
+        "https://image.tmdb.org/t/p/original/7Ht2s2cpkWvKp8DKygJXAuf3Nuh.jpg",
+        "https://image.tmdb.org/t/p/original/iwgVV6Jtqts6tyQ8Ueu9XUZevxY.jpg",
+        "https://image.tmdb.org/t/p/original/nxRKccQ0aUVkyBCEB9ES3ENGRX5.jpg",
+        "https://www.themoviedb.org/movie/14572/images/backdrops",
+        "https://image.tmdb.org/t/p/original/AkyvSlL1XASeZolYjJRvzWjaTOF.jpg",
+        "https://image.tmdb.org/t/p/original/yHrhvSZDesFOR43L6II2sU9hMP7.jpg",
+        "https://image.tmdb.org/t/p/original/t1khF42NlYrFrriEay1c6BJK1tk.jpg",
+        "https://image.tmdb.org/t/p/original/gl7Co3bGgQWZsjhjkUHUYG546YO.jpg",
+        "https://www.themoviedb.org/movie/12140/images/backdrops",
+        "https://image.tmdb.org/t/p/original/8Cbzx17QdJ6xBx2uDkdlpWsemGg.jpg",
+        "https://image.tmdb.org/t/p/original/3KYZFwKiriQ8VN3ixX5Pl7BX2Eh.jpg",
+        "https://image.tmdb.org/t/p/original/7awhko7JqxQgjPB5FxGbY1r2T86.jpg",
+        "https://image.tmdb.org/t/p/original/iJJjKWdZt9XgcxXpLYfvYYDSv4Y.jpg",
+        "https://www.themoviedb.org/movie/15877/images/backdrops",
+        "https://image.tmdb.org/t/p/original/obDHA3z3M6IbacldHvdsrcQjn4o.jpg",
+        "https://image.tmdb.org/t/p/original/qbZ6DdCyhIomHIuIrxqTjFNx3NG.jpg",
+        "https://image.tmdb.org/t/p/original/hKMZc7BzZvHJbkoommISLcrWLGP.jpg",
+        "https://image.tmdb.org/t/p/original/vkDMR4tvkDe6L6Yo0mKKVRS11Sj.jpg"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

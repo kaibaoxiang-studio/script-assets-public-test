@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0.0",
+  "id": "032",
+  "label": {
+    "name_zh": "乔治·米勒",
+    "name_en": "George Miller",
+    "category": "02_霓虹黑色与赛博未来",
+    "source_volume": "第1期_SKILL_冷调与大地_001-080"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "沙漠橙",
+        "name_en": "Desert Orange",
+        "hex": "#E65100",
+        "source_ratio": 0.26,
+        "normalized_ratio": 0.26,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "烈焰红",
+        "name_en": "Blazing Red",
+        "hex": "#C62828",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "天空深蓝",
+        "name_en": "Deep Sky Blue",
+        "hex": "#0D47A1",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "尘暴赭",
+        "name_en": "Dust Storm Ochre",
+        "hex": "#8D6E2F",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "铬银战妆",
+        "name_en": "Chrome War Paint",
+        "hex": "#CFD8DC",
+        "source_ratio": 0.12,
+        "normalized_ratio": 0.12,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "废土深棕",
+        "name_en": "Wasteland Dark Brown",
+        "hex": "#3E2723",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "火焰橙黄",
+        "name_en": "Fire Orange-Yellow",
+        "hex": "#FFAB00",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "爆炸烈焰、战车引擎喷火、速度狂热"
+      },
+      {
+        "code": "E02",
+        "name_zh": "夜幕靛蓝",
+        "name_en": "Night Indigo",
+        "hex": "#1A237E",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "夜幕追逐、沙漠寒夜、短暂宁静"
+      },
+      {
+        "code": "E03",
+        "name_zh": "毒雾绿",
+        "name_en": "Toxic Green",
+        "hex": "#76FF03",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "汽油弹绿焰、毒雾、疫病废土异光"
+      },
+      {
+        "code": "E04",
+        "name_zh": "锈褐decay",
+        "name_en": "Rust Brown Decay",
+        "hex": "#795548",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "锈迹斑斑、文明残骸、衰败金属"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "烈日顶光为主，硬光切割，火焰/爆炸作为动态光源，沙漠烈日形成极端明暗",
+      "highlight_description": "火焰橙黄/铬银白（爆炸火光/金属反光/烈日高光）",
+      "shadow_description": "废土深棕/天空深蓝（暗部偏冷蓝/深棕，沙漠阴影极深）",
+      "contrast_description": "极高对比（85-95%），橙黄与深蓝极端互补碰撞，饱和度极高",
+      "overall_tone": "高饱和暖废土，70%暖橙红赭 + 30%冷蓝铬白"
+    },
+    "color_keywords": [
+      "沙漠橙黄",
+      "烈焰红",
+      "天空深蓝",
+      "铬银反光",
+      "尘暴赭",
+      "战妆白",
+      "火焰橙黄",
+      "硬光切割",
+      "极端互补",
+      "高饱和碰撞"
+    ],
+    "mood_keywords": [
+      "废土狂热",
+      "速度暴力",
+      "末日公路",
+      "生存本能",
+      "战车崇拜",
+      "汽油文化",
+      "沙漠神话",
+      "狂暴美学",
+      "女性反抗",
+      "希望绿洲"
+    ],
+    "composition_keywords": [
+      "极速追车",
+      "低角度战车正面",
+      "爆炸中心帧",
+      "尘暴远景",
+      "人物群像正面",
+      "战车对冲",
+      "慢镜飞溅",
+      "广角畸变",
+      "手持颠簸",
+      "中心对称冲击"
+    ],
+    "style_profile": {
+      "definition": "橙红荒漠与深青天空在超高对比中驱动持续动作。",
+      "lighting": "强烈日光、沙尘、火焰、夜间冷光；肤色保持可读，不让环境偏色吞没面部层次。",
+      "framing": "中心化动作、快速但清晰的运动链；先交代颜色承载的空间，再进入人物与关键物件。",
+      "grading": "橙青强分离但保持材质，黑位清楚；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+      "avoid": "动作模糊成团、糖果霓虹、无沙尘层次、无动机环绕和随机变焦、用统一滤镜替代色彩比例、光源和材质。"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "032",
+      "relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/032_GeorgeMiller_乔治·米勒/assets/color_palettes/palette.json",
+      "sha256": "4a6d8f82ab8a0c7e1bae03cfa1375ca80f31af55073d53bd5c3fbe23edc53edc"
+    },
+    "source_entry_relative_dir": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/032_GeorgeMiller_乔治·米勒",
+    "source_records": [
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/032_GeorgeMiller_乔治·米勒/assets/references/reference_director_manifest.json",
+        "sha256": "681d5d03f7d26150359b7e94e05c6edeae0377cef50c6e1b157394b000b31d38",
+        "declared_url_count": 20,
+        "externally_verified": false
+      },
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/032_GeorgeMiller_乔治·米勒/assets/references/reference_sources.md",
+        "sha256": "09b1535201b57762cc24ddddfe363c2daa2150645d060994d6c53380d43e6c51",
+        "declared_url_count": 20,
+        "externally_verified": false
+      }
+    ],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 4,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": "film-references/032.json"
+}

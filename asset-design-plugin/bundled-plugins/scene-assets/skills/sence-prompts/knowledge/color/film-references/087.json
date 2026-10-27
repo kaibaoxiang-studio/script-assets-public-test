@@ -1,0 +1,324 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "087",
+  "films": [
+    {
+      "title_zh": "Romeo + Juliet",
+      "title_en": "Romeo + Juliet",
+      "year": 1996,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2015/02/24/romeo-juliet/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (863).jpg?bwg=1547382346",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (882).jpg?bwg=1547382344",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (868).jpg?bwg=1547382344",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (593).jpg?bwg=1547382344",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2015/02/24/romeo-juliet/",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/087_BazLuhrmann_巴兹·鲁赫曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (863).jpg?bwg=1547382346",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/087_BazLuhrmann_巴兹·鲁赫曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (882).jpg?bwg=1547382344",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/087_BazLuhrmann_巴兹·鲁赫曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (868).jpg?bwg=1547382344",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/087_BazLuhrmann_巴兹·鲁赫曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (593).jpg?bwg=1547382344",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/087_BazLuhrmann_巴兹·鲁赫曼/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Moulin Rouge!",
+      "title_en": "Moulin Rouge!",
+      "year": 2001,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2017/12/15/moulin-rouge/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/moulinrouge001.jpg?bwg=1546965324",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/moulinrouge022.jpg?bwg=1546965323",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/moulinrouge044.jpg?bwg=1546965323",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/moulinrouge065.jpg?bwg=1546965323",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2017/12/15/moulin-rouge/",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/087_BazLuhrmann_巴兹·鲁赫曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/moulinrouge001.jpg?bwg=1546965324",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/087_BazLuhrmann_巴兹·鲁赫曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/moulinrouge022.jpg?bwg=1546965323",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/087_BazLuhrmann_巴兹·鲁赫曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/moulinrouge044.jpg?bwg=1546965323",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/087_BazLuhrmann_巴兹·鲁赫曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/moulinrouge065.jpg?bwg=1546965323",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/087_BazLuhrmann_巴兹·鲁赫曼/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "The Great Gatsby (2013)",
+      "title_en": "The Great Gatsby (2013)",
+      "year": 2013,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/06/11/the-great-gatsby-2013/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Great_Gatsby_2013_01.jpg?bwg=1702982842",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Great_Gatsby_2013_21.jpg?bwg=1702982841",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Great_Gatsby_2013_41.jpg?bwg=1702982841",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Great_Gatsby_2013_61.jpg?bwg=1702982841",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/06/11/the-great-gatsby-2013/",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/087_BazLuhrmann_巴兹·鲁赫曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Great_Gatsby_2013_01.jpg?bwg=1702982842",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/087_BazLuhrmann_巴兹·鲁赫曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Great_Gatsby_2013_21.jpg?bwg=1702982841",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/087_BazLuhrmann_巴兹·鲁赫曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Great_Gatsby_2013_41.jpg?bwg=1702982841",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/087_BazLuhrmann_巴兹·鲁赫曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Great_Gatsby_2013_61.jpg?bwg=1702982841",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/087_BazLuhrmann_巴兹·鲁赫曼/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Elvis",
+      "title_en": "Elvis",
+      "year": 2022,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2022/11/01/elvis/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Elvis_01.jpg?bwg=1664885347",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Elvis_22.jpg?bwg=1664885346",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Elvis_44.jpg?bwg=1664885346",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Elvis_65.jpg?bwg=1664885346",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2022/11/01/elvis/",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/087_BazLuhrmann_巴兹·鲁赫曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Elvis_01.jpg?bwg=1664885347",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/087_BazLuhrmann_巴兹·鲁赫曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Elvis_22.jpg?bwg=1664885346",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/087_BazLuhrmann_巴兹·鲁赫曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Elvis_44.jpg?bwg=1664885346",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/087_BazLuhrmann_巴兹·鲁赫曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Elvis_65.jpg?bwg=1664885346",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/087_BazLuhrmann_巴兹·鲁赫曼/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/087_BazLuhrmann_巴兹·鲁赫曼/assets/references/reference_director_manifest.json",
+      "sha256": "460cef67e59888b9326bbe464850f49743fbb13b060875ab4e49b4a56e2373f3",
+      "declared_urls": [
+        "https://film-grab.com/2015/02/24/romeo-juliet/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (863).jpg?bwg=1547382346",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (882).jpg?bwg=1547382344",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (868).jpg?bwg=1547382344",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (593).jpg?bwg=1547382344",
+        "https://film-grab.com/2017/12/15/moulin-rouge/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/moulinrouge001.jpg?bwg=1546965324",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/moulinrouge022.jpg?bwg=1546965323",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/moulinrouge044.jpg?bwg=1546965323",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/moulinrouge065.jpg?bwg=1546965323",
+        "https://film-grab.com/2025/06/11/the-great-gatsby-2013/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Great_Gatsby_2013_01.jpg?bwg=1702982842",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Great_Gatsby_2013_21.jpg?bwg=1702982841",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Great_Gatsby_2013_41.jpg?bwg=1702982841",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Great_Gatsby_2013_61.jpg?bwg=1702982841",
+        "https://film-grab.com/2022/11/01/elvis/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Elvis_01.jpg?bwg=1664885347",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Elvis_22.jpg?bwg=1664885346",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Elvis_44.jpg?bwg=1664885346",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Elvis_65.jpg?bwg=1664885346"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/087_BazLuhrmann_巴兹·鲁赫曼/assets/references/reference_sources.md",
+      "sha256": "f0837aa064a8b0e11dbba3dfb9e1d43b138f00cda1721e34a1c8b80aa0dd7b8f",
+      "declared_urls": [
+        "https://film-grab.com/2015/02/24/romeo-juliet/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (863).jpg?bwg=1547382346",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (882).jpg?bwg=1547382344",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (868).jpg?bwg=1547382344",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (593).jpg?bwg=1547382344",
+        "https://film-grab.com/2017/12/15/moulin-rouge/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/moulinrouge001.jpg?bwg=1546965324",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/moulinrouge022.jpg?bwg=1546965323",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/moulinrouge044.jpg?bwg=1546965323",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/moulinrouge065.jpg?bwg=1546965323",
+        "https://film-grab.com/2025/06/11/the-great-gatsby-2013/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Great_Gatsby_2013_01.jpg?bwg=1702982842",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Great_Gatsby_2013_21.jpg?bwg=1702982841",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Great_Gatsby_2013_41.jpg?bwg=1702982841",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Great_Gatsby_2013_61.jpg?bwg=1702982841",
+        "https://film-grab.com/2022/11/01/elvis/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Elvis_01.jpg?bwg=1664885347",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Elvis_22.jpg?bwg=1664885346",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Elvis_44.jpg?bwg=1664885346",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Elvis_65.jpg?bwg=1664885346"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

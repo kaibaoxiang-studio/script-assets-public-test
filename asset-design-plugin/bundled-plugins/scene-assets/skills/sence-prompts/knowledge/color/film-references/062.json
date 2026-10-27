@@ -1,0 +1,276 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "062",
+  "films": [
+    {
+      "title_zh": "夢想者四夜",
+      "title_en": "Four Nights of a Dreamer",
+      "year": 1971,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/5kh4VMRflkmlOcvnB0WW2LgbZg9.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/qTS5VoFzK3ZoaSmrxw25j7cvgFQ.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/4U0InESiQrLfgnw1NbEldyz8NIs.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/43SNM88ge3Z1loFux0aJwbazGlt.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/5kh4VMRflkmlOcvnB0WW2LgbZg9.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/062_RobertBresson_罗伯特·布列松/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/qTS5VoFzK3ZoaSmrxw25j7cvgFQ.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/062_RobertBresson_罗伯特·布列松/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/4U0InESiQrLfgnw1NbEldyz8NIs.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/062_RobertBresson_罗伯特·布列松/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/43SNM88ge3Z1loFux0aJwbazGlt.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/062_RobertBresson_罗伯特·布列松/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 4,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "錢",
+      "title_en": "L'Argent",
+      "year": 1983,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/a62YSsCwYd5EyzB5EbaeX2FmM4m.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/4BfnCSvJV4FEmtqOeqyPAFDZd3O.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/c5iSkadcCBUN03vTUTEHkBq4oVs.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/yJqCY8X8CuaGSyiyapd8wkRNpbA.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/a62YSsCwYd5EyzB5EbaeX2FmM4m.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/062_RobertBresson_罗伯特·布列松/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/4BfnCSvJV4FEmtqOeqyPAFDZd3O.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/062_RobertBresson_罗伯特·布列松/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/c5iSkadcCBUN03vTUTEHkBq4oVs.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/062_RobertBresson_罗伯特·布列松/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/yJqCY8X8CuaGSyiyapd8wkRNpbA.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/062_RobertBresson_罗伯特·布列松/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 4,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "大概是魔鬼",
+      "title_en": "The Devil Probably",
+      "year": 1977,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/mAtCjCDYN3c5Bjm6P4wOmDMlJLv.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/zrHhVwDqjzBJrkJOUvJ7rY5npJ2.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/dCh5DIAxZCJMXmTVJX48gl5zFxq.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/vxptNY2SeqESHkA8q2RnpF2dzCM.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/mAtCjCDYN3c5Bjm6P4wOmDMlJLv.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/062_RobertBresson_罗伯特·布列松/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/zrHhVwDqjzBJrkJOUvJ7rY5npJ2.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/062_RobertBresson_罗伯特·布列松/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/dCh5DIAxZCJMXmTVJX48gl5zFxq.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/062_RobertBresson_罗伯特·布列松/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/vxptNY2SeqESHkA8q2RnpF2dzCM.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/062_RobertBresson_罗伯特·布列松/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 4,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "驢子巴達薩",
+      "title_en": "Au Hasard Balthazar",
+      "year": 1966,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/7LPz7NEYtLXcV44j0kRLLkZ54yH.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/6QpwBcMphgzvsIQXRurEF4C6XLM.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/15Hh98iqlTxiVXx1Jtbb25nf2jh.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/lEDQFnMQeCgQJfTB1tFngRq2yJN.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/7LPz7NEYtLXcV44j0kRLLkZ54yH.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/062_RobertBresson_罗伯特·布列松/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/6QpwBcMphgzvsIQXRurEF4C6XLM.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/062_RobertBresson_罗伯特·布列松/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/15Hh98iqlTxiVXx1Jtbb25nf2jh.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/062_RobertBresson_罗伯特·布列松/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/lEDQFnMQeCgQJfTB1tFngRq2yJN.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/062_RobertBresson_罗伯特·布列松/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 4,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/062_RobertBresson_罗伯特·布列松/assets/references/reference_director_manifest.json",
+      "sha256": "03b285266edaadb305ea5cff9144fedeb008af2b8ad32558fe44d46104591e70",
+      "declared_urls": [
+        "https://image.tmdb.org/t/p/original/5kh4VMRflkmlOcvnB0WW2LgbZg9.jpg",
+        "https://image.tmdb.org/t/p/original/qTS5VoFzK3ZoaSmrxw25j7cvgFQ.jpg",
+        "https://image.tmdb.org/t/p/original/4U0InESiQrLfgnw1NbEldyz8NIs.jpg",
+        "https://image.tmdb.org/t/p/original/43SNM88ge3Z1loFux0aJwbazGlt.jpg",
+        "https://image.tmdb.org/t/p/original/a62YSsCwYd5EyzB5EbaeX2FmM4m.jpg",
+        "https://image.tmdb.org/t/p/original/4BfnCSvJV4FEmtqOeqyPAFDZd3O.jpg",
+        "https://image.tmdb.org/t/p/original/c5iSkadcCBUN03vTUTEHkBq4oVs.jpg",
+        "https://image.tmdb.org/t/p/original/yJqCY8X8CuaGSyiyapd8wkRNpbA.jpg",
+        "https://image.tmdb.org/t/p/original/mAtCjCDYN3c5Bjm6P4wOmDMlJLv.jpg",
+        "https://image.tmdb.org/t/p/original/zrHhVwDqjzBJrkJOUvJ7rY5npJ2.jpg",
+        "https://image.tmdb.org/t/p/original/dCh5DIAxZCJMXmTVJX48gl5zFxq.jpg",
+        "https://image.tmdb.org/t/p/original/vxptNY2SeqESHkA8q2RnpF2dzCM.jpg",
+        "https://image.tmdb.org/t/p/original/7LPz7NEYtLXcV44j0kRLLkZ54yH.jpg",
+        "https://image.tmdb.org/t/p/original/6QpwBcMphgzvsIQXRurEF4C6XLM.jpg",
+        "https://image.tmdb.org/t/p/original/15Hh98iqlTxiVXx1Jtbb25nf2jh.jpg",
+        "https://image.tmdb.org/t/p/original/lEDQFnMQeCgQJfTB1tFngRq2yJN.jpg"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/062_RobertBresson_罗伯特·布列松/assets/references/reference_sources.md",
+      "sha256": "cfa5a16d3a227ea44bbda94f18398175ae9b7ea24beb7ab8a9ab2e7bd7558791",
+      "declared_urls": [
+        "https://image.tmdb.org/t/p/original/5kh4VMRflkmlOcvnB0WW2LgbZg9.jpg",
+        "https://image.tmdb.org/t/p/original/qTS5VoFzK3ZoaSmrxw25j7cvgFQ.jpg",
+        "https://image.tmdb.org/t/p/original/4U0InESiQrLfgnw1NbEldyz8NIs.jpg",
+        "https://image.tmdb.org/t/p/original/43SNM88ge3Z1loFux0aJwbazGlt.jpg",
+        "https://image.tmdb.org/t/p/original/a62YSsCwYd5EyzB5EbaeX2FmM4m.jpg",
+        "https://image.tmdb.org/t/p/original/4BfnCSvJV4FEmtqOeqyPAFDZd3O.jpg",
+        "https://image.tmdb.org/t/p/original/c5iSkadcCBUN03vTUTEHkBq4oVs.jpg",
+        "https://image.tmdb.org/t/p/original/yJqCY8X8CuaGSyiyapd8wkRNpbA.jpg",
+        "https://image.tmdb.org/t/p/original/mAtCjCDYN3c5Bjm6P4wOmDMlJLv.jpg",
+        "https://image.tmdb.org/t/p/original/zrHhVwDqjzBJrkJOUvJ7rY5npJ2.jpg",
+        "https://image.tmdb.org/t/p/original/dCh5DIAxZCJMXmTVJX48gl5zFxq.jpg",
+        "https://image.tmdb.org/t/p/original/vxptNY2SeqESHkA8q2RnpF2dzCM.jpg",
+        "https://image.tmdb.org/t/p/original/7LPz7NEYtLXcV44j0kRLLkZ54yH.jpg",
+        "https://image.tmdb.org/t/p/original/6QpwBcMphgzvsIQXRurEF4C6XLM.jpg",
+        "https://image.tmdb.org/t/p/original/15Hh98iqlTxiVXx1Jtbb25nf2jh.jpg",
+        "https://image.tmdb.org/t/p/original/lEDQFnMQeCgQJfTB1tFngRq2yJN.jpg"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

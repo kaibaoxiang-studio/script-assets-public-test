@@ -1,0 +1,324 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "061",
+  "films": [
+    {
+      "title_zh": "伊万的童年",
+      "title_en": "Ivan’s Childhood",
+      "year": 1962,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2016/03/30/ivans-childhood/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/0124 (1).jpg?bwg=1547131963",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/2124 (1).jpg?bwg=1547131962",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/4024 (1).jpg?bwg=1547131962",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/6018 (1).jpg?bwg=1547131962",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2016/03/30/ivans-childhood/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/061_AndreiTarkovsky_塔可夫斯基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/0124 (1).jpg?bwg=1547131963",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/061_AndreiTarkovsky_塔可夫斯基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/2124 (1).jpg?bwg=1547131962",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/061_AndreiTarkovsky_塔可夫斯基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/4024 (1).jpg?bwg=1547131962",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/061_AndreiTarkovsky_塔可夫斯基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/6018 (1).jpg?bwg=1547131962",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/061_AndreiTarkovsky_塔可夫斯基/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "飞向太空",
+      "title_en": "Solaris",
+      "year": 1972,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2012/12/14/solaris-2/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (928).jpg?bwg=1547406512",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (948).jpg?bwg=1547406512",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (933).jpg?bwg=1547406511",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (639).jpg?bwg=1547406511",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2012/12/14/solaris-2/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/061_AndreiTarkovsky_塔可夫斯基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (928).jpg?bwg=1547406512",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/061_AndreiTarkovsky_塔可夫斯基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (948).jpg?bwg=1547406512",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/061_AndreiTarkovsky_塔可夫斯基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (933).jpg?bwg=1547406511",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/061_AndreiTarkovsky_塔可夫斯基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (639).jpg?bwg=1547406511",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/061_AndreiTarkovsky_塔可夫斯基/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "镜子",
+      "title_en": "Mirror (Зеркало, Zerkalo)",
+      "year": 1975,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2010/09/27/mirror-%d0%b7%d0%b5%d1%80%d0%ba%d0%b0%d0%bb%d0%be-zerkalo/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (693).jpg?bwg=1547236924",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/20 (706).jpg?bwg=1547236922",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/40 (701).jpg?bwg=1547236921",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/59 (626).jpg?bwg=1547236921",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2010/09/27/mirror-%d0%b7%d0%b5%d1%80%d0%ba%d0%b0%d0%bb%d0%be-zerkalo/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/061_AndreiTarkovsky_塔可夫斯基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (693).jpg?bwg=1547236924",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/061_AndreiTarkovsky_塔可夫斯基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/20 (706).jpg?bwg=1547236922",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/061_AndreiTarkovsky_塔可夫斯基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/40 (701).jpg?bwg=1547236921",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/061_AndreiTarkovsky_塔可夫斯基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/59 (626).jpg?bwg=1547236921",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/061_AndreiTarkovsky_塔可夫斯基/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "乡愁",
+      "title_en": "Nostalghia",
+      "year": 1983,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/04/21/nostalghia/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Nostalgia_01.jpg?bwg=1719562559",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Nostalgia_22.jpg?bwg=1719562558",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Nostalgia_44.jpg?bwg=1719562558",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Nostalgia_65.jpg?bwg=1719562558",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/04/21/nostalghia/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/061_AndreiTarkovsky_塔可夫斯基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Nostalgia_01.jpg?bwg=1719562559",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/061_AndreiTarkovsky_塔可夫斯基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Nostalgia_22.jpg?bwg=1719562558",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/061_AndreiTarkovsky_塔可夫斯基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Nostalgia_44.jpg?bwg=1719562558",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/061_AndreiTarkovsky_塔可夫斯基/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Nostalgia_65.jpg?bwg=1719562558",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/061_AndreiTarkovsky_塔可夫斯基/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/061_AndreiTarkovsky_塔可夫斯基/assets/references/reference_director_manifest.json",
+      "sha256": "1c0976918eb620c98be8cf661b82420fb30f44e3040774e68bae45e2d4258d27",
+      "declared_urls": [
+        "https://film-grab.com/2016/03/30/ivans-childhood/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/0124 (1).jpg?bwg=1547131963",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/2124 (1).jpg?bwg=1547131962",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/4024 (1).jpg?bwg=1547131962",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/6018 (1).jpg?bwg=1547131962",
+        "https://film-grab.com/2012/12/14/solaris-2/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (928).jpg?bwg=1547406512",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (948).jpg?bwg=1547406512",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (933).jpg?bwg=1547406511",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (639).jpg?bwg=1547406511",
+        "https://film-grab.com/2010/09/27/mirror-%d0%b7%d0%b5%d1%80%d0%ba%d0%b0%d0%bb%d0%be-zerkalo/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (693).jpg?bwg=1547236924",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/20 (706).jpg?bwg=1547236922",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/40 (701).jpg?bwg=1547236921",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/59 (626).jpg?bwg=1547236921",
+        "https://film-grab.com/2025/04/21/nostalghia/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Nostalgia_01.jpg?bwg=1719562559",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Nostalgia_22.jpg?bwg=1719562558",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Nostalgia_44.jpg?bwg=1719562558",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Nostalgia_65.jpg?bwg=1719562558"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/061_AndreiTarkovsky_塔可夫斯基/assets/references/reference_sources.md",
+      "sha256": "5873e5dafc1fe22e6d62025c594ceda2ee6b8e2b02ac3873078a7718b06df317",
+      "declared_urls": [
+        "https://film-grab.com/2016/03/30/ivans-childhood/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/0124 (1).jpg?bwg=1547131963",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/2124 (1).jpg?bwg=1547131962",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/4024 (1).jpg?bwg=1547131962",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/6018 (1).jpg?bwg=1547131962",
+        "https://film-grab.com/2012/12/14/solaris-2/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (928).jpg?bwg=1547406512",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (948).jpg?bwg=1547406512",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (933).jpg?bwg=1547406511",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (639).jpg?bwg=1547406511",
+        "https://film-grab.com/2010/09/27/mirror-%d0%b7%d0%b5%d1%80%d0%ba%d0%b0%d0%bb%d0%be-zerkalo/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (693).jpg?bwg=1547236924",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/20 (706).jpg?bwg=1547236922",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/40 (701).jpg?bwg=1547236921",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/59 (626).jpg?bwg=1547236921",
+        "https://film-grab.com/2025/04/21/nostalghia/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Nostalgia_01.jpg?bwg=1719562559",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Nostalgia_22.jpg?bwg=1719562558",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Nostalgia_44.jpg?bwg=1719562558",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Nostalgia_65.jpg?bwg=1719562558"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

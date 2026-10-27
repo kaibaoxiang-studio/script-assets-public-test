@@ -1,0 +1,704 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "008",
+  "films": [
+    {
+      "title_zh": "录像带谋杀案",
+      "title_en": "Videodrome",
+      "year": 1983,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#010101",
+          "source_ratio": 22.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.22699999999999998,
+          "source_luminance": 0.0003,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#707B79",
+          "source_ratio": 12.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.121,
+          "source_luminance": 0.1899,
+          "source_saturation": 0.0894
+        },
+        {
+          "hex": "#2A2D27",
+          "source_ratio": 11.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11800000000000001,
+          "source_luminance": 0.0252,
+          "source_saturation": 0.1333
+        },
+        {
+          "hex": "#061432",
+          "source_ratio": 11.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.115,
+          "source_luminance": 0.0077,
+          "source_saturation": 0.88
+        },
+        {
+          "hex": "#987F6B",
+          "source_ratio": 10.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.109,
+          "source_luminance": 0.2292,
+          "source_saturation": 0.2961
+        },
+        {
+          "hex": "#453D3A",
+          "source_ratio": 10.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10800000000000001,
+          "source_luminance": 0.0491,
+          "source_saturation": 0.1594
+        },
+        {
+          "hex": "#595254",
+          "source_ratio": 10.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.106,
+          "source_luminance": 0.088,
+          "source_saturation": 0.0787
+        },
+        {
+          "hex": "#CACEC5",
+          "source_ratio": 9.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.096,
+          "source_luminance": 0.6073,
+          "source_saturation": 0.0437
+        }
+      ],
+      "source_ratio_sum": 99.99999999999999,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "官方/发行版本资料页",
+          "url": "https://www.criterion.com/films/240-videodrome",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2013/09/24/videodrome/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/1 (25).jpg?bwg=1547479511",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/16 (1301).jpg?bwg=1547479511",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/29 (1300).jpg?bwg=1547479510",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/40 (1291).jpg?bwg=1547479510",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 05",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/6 (25).jpg?bwg=1547479511",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 06",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/9 (25).jpg?bwg=1547479510",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "孽扣",
+      "title_en": "Dead Ringers",
+      "year": 1988,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#020001",
+          "source_ratio": 25.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.251,
+          "source_luminance": 0.0002,
+          "source_saturation": 1
+        },
+        {
+          "hex": "#93898B",
+          "source_ratio": 12.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.129,
+          "source_luminance": 0.2596,
+          "source_saturation": 0.068
+        },
+        {
+          "hex": "#363230",
+          "source_ratio": 11.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11699999999999999,
+          "source_luminance": 0.0328,
+          "source_saturation": 0.1111
+        },
+        {
+          "hex": "#615250",
+          "source_ratio": 11.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.113,
+          "source_luminance": 0.0916,
+          "source_saturation": 0.1753
+        },
+        {
+          "hex": "#201F1A",
+          "source_ratio": 10.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.106,
+          "source_luminance": 0.0136,
+          "source_saturation": 0.1875
+        },
+        {
+          "hex": "#3F6290",
+          "source_ratio": 9.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.096,
+          "source_luminance": 0.1181,
+          "source_saturation": 0.5625
+        },
+        {
+          "hex": "#9F9FA6",
+          "source_ratio": 9.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.095,
+          "source_luminance": 0.3492,
+          "source_saturation": 0.0422
+        },
+        {
+          "hex": "#44453C",
+          "source_ratio": 9.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.09300000000000001,
+          "source_luminance": 0.0581,
+          "source_saturation": 0.1304
+        }
+      ],
+      "source_ratio_sum": 99.99999999999999,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "官方/发行版本资料页",
+          "url": "https://www.criterion.com/films/541-dead-ringers",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/05/31/dead-ringers/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (297).jpg?bwg=1547209936",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/15 (302).jpg?bwg=1547209938",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (302).jpg?bwg=1547209936",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/29 (302).jpg?bwg=1547209938",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 05",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/43 (296).jpg?bwg=1547209936",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 06",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/57 (267).jpg?bwg=1547209936",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "欲望号快车",
+      "title_en": "Crash",
+      "year": 1996,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#081D4F",
+          "source_ratio": 18.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.18600000000000003,
+          "source_luminance": 0.0149,
+          "source_saturation": 0.8987
+        },
+        {
+          "hex": "#434848",
+          "source_ratio": 15.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.155,
+          "source_luminance": 0.063,
+          "source_saturation": 0.0694
+        },
+        {
+          "hex": "#2F2A2B",
+          "source_ratio": 14.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.146,
+          "source_luminance": 0.0243,
+          "source_saturation": 0.1064
+        },
+        {
+          "hex": "#080200",
+          "source_ratio": 13,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.13,
+          "source_luminance": 0.001,
+          "source_saturation": 1
+        },
+        {
+          "hex": "#03091B",
+          "source_ratio": 11.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11699999999999999,
+          "source_luminance": 0.0029,
+          "source_saturation": 0.8889
+        },
+        {
+          "hex": "#1E1C1B",
+          "source_ratio": 10,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.1,
+          "source_luminance": 0.0119,
+          "source_saturation": 0.1
+        },
+        {
+          "hex": "#2F343F",
+          "source_ratio": 8.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.08800000000000001,
+          "source_luminance": 0.0342,
+          "source_saturation": 0.254
+        },
+        {
+          "hex": "#6F7277",
+          "source_ratio": 7.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.078,
+          "source_luminance": 0.1675,
+          "source_saturation": 0.0672
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "官方/发行版本资料页",
+          "url": "https://www.criterion.com/films/29014-crash",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/06/16/crash/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (268).jpg?bwg=1547208418",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/15 (273).jpg?bwg=1547208417",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/29 (273).jpg?bwg=1547208418",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/37 (272).jpg?bwg=1547208417",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 05",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/57 (245).jpg?bwg=1547208417",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 06",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/64 (202).jpg?bwg=1547208417",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "变蝇人",
+      "title_en": "The Fly",
+      "year": 1986,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#44352B",
+          "source_ratio": 14.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.142,
+          "source_luminance": 0.0395,
+          "source_saturation": 0.3676
+        },
+        {
+          "hex": "#6A82AF",
+          "source_ratio": 13.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.138,
+          "source_luminance": 0.2212,
+          "source_saturation": 0.3943
+        },
+        {
+          "hex": "#2E0C06",
+          "source_ratio": 13.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.138,
+          "source_luminance": 0.0086,
+          "source_saturation": 0.8696
+        },
+        {
+          "hex": "#010101",
+          "source_ratio": 13.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.132,
+          "source_luminance": 0.0003,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#585966",
+          "source_ratio": 11.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11699999999999999,
+          "source_luminance": 0.1018,
+          "source_saturation": 0.1373
+        },
+        {
+          "hex": "#62473B",
+          "source_ratio": 11.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.113,
+          "source_luminance": 0.0742,
+          "source_saturation": 0.398
+        },
+        {
+          "hex": "#9CC1E8",
+          "source_ratio": 11,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11,
+          "source_luminance": 0.5103,
+          "source_saturation": 0.3276
+        },
+        {
+          "hex": "#1E1811",
+          "source_ratio": 11,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11,
+          "source_luminance": 0.0097,
+          "source_saturation": 0.4333
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "官方/发行版本资料页",
+          "url": "https://www.20thcenturystudios.com/movies/the-fly",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2010/06/27/the-fly/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/image001 (11).jpg?bwg=1547464696",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/image008 (11).jpg?bwg=1547464696",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/image015 (11).jpg?bwg=1547464696",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/image021 (11).jpg?bwg=1547464696",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 05",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/image055 (11).jpg?bwg=1547464695",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 06",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/image062 (9).jpg?bwg=1547464695",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "暴力史",
+      "title_en": "A History of Violence",
+      "year": 2005,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#446026",
+          "source_ratio": 16.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.16899999999999998,
+          "source_luminance": 0.0973,
+          "source_saturation": 0.6042
+        },
+        {
+          "hex": "#3D453A",
+          "source_ratio": 13.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.134,
+          "source_luminance": 0.0555,
+          "source_saturation": 0.1594
+        },
+        {
+          "hex": "#73624C",
+          "source_ratio": 13.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.131,
+          "source_luminance": 0.129,
+          "source_saturation": 0.3391
+        },
+        {
+          "hex": "#000000",
+          "source_ratio": 12.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.127,
+          "source_luminance": 0,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#CDE3E2",
+          "source_ratio": 12.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.126,
+          "source_luminance": 0.7341,
+          "source_saturation": 0.0969
+        },
+        {
+          "hex": "#A6B6B3",
+          "source_ratio": 11.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.111,
+          "source_luminance": 0.4482,
+          "source_saturation": 0.0879
+        },
+        {
+          "hex": "#687B64",
+          "source_ratio": 10.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.105,
+          "source_luminance": 0.1803,
+          "source_saturation": 0.187
+        },
+        {
+          "hex": "#1D251A",
+          "source_ratio": 9.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.09699999999999999,
+          "source_luminance": 0.0166,
+          "source_saturation": 0.2973
+        }
+      ],
+      "source_ratio_sum": 99.99999999999999,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "官方/发行版本资料页",
+          "url": "https://www.criterion.com/films/33805-a-history-of-violence",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/08/19/a-history-of-violence/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (21).jpg?bwg=1547140530",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/08 (21).jpg?bwg=1547140530",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/15 (21).jpg?bwg=1547140531",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/29 (21).jpg?bwg=1547140530",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 05",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/37 (21).jpg?bwg=1547140530",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 06",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (16).jpg?bwg=1547140530",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_director_manifest.json",
+      "sha256": "6b9d5a076a8498e5632d98e02a9ef0796e9f2d8a59dfd4e25379f586537b9f7b",
+      "declared_urls": [
+        "https://www.criterion.com/films/240-videodrome",
+        "https://film-grab.com/2013/09/24/videodrome/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/1 (25).jpg?bwg=1547479511",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/16 (1301).jpg?bwg=1547479511",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/29 (1300).jpg?bwg=1547479510",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/40 (1291).jpg?bwg=1547479510",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/6 (25).jpg?bwg=1547479511",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/9 (25).jpg?bwg=1547479510",
+        "https://www.criterion.com/films/541-dead-ringers",
+        "https://film-grab.com/2014/05/31/dead-ringers/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (297).jpg?bwg=1547209936",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/15 (302).jpg?bwg=1547209938",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (302).jpg?bwg=1547209936",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/29 (302).jpg?bwg=1547209938",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/43 (296).jpg?bwg=1547209936",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/57 (267).jpg?bwg=1547209936",
+        "https://www.criterion.com/films/29014-crash",
+        "https://film-grab.com/2014/06/16/crash/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (268).jpg?bwg=1547208418",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/15 (273).jpg?bwg=1547208417",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/29 (273).jpg?bwg=1547208418",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/37 (272).jpg?bwg=1547208417",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/57 (245).jpg?bwg=1547208417",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/64 (202).jpg?bwg=1547208417",
+        "https://www.20thcenturystudios.com/movies/the-fly",
+        "https://film-grab.com/2010/06/27/the-fly/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/image001 (11).jpg?bwg=1547464696",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/image008 (11).jpg?bwg=1547464696",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/image015 (11).jpg?bwg=1547464696",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/image021 (11).jpg?bwg=1547464696",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/image055 (11).jpg?bwg=1547464695",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/image062 (9).jpg?bwg=1547464695",
+        "https://www.criterion.com/films/33805-a-history-of-violence",
+        "https://film-grab.com/2014/08/19/a-history-of-violence/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (21).jpg?bwg=1547140530",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/08 (21).jpg?bwg=1547140530",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/15 (21).jpg?bwg=1547140531",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/29 (21).jpg?bwg=1547140530",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/37 (21).jpg?bwg=1547140530",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (16).jpg?bwg=1547140530"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/008_DavidCronenberg_大卫·柯南伯格/assets/references/reference_sources.md",
+      "sha256": "b0924539b7fea8f1d5642cedc8544e8faec98bb542c42374031777c1680fe19a",
+      "declared_urls": [
+        "https://www.criterion.com/films/240-videodrome",
+        "https://film-grab.com/2013/09/24/videodrome/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/1 (25).jpg?bwg=1547479511",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/16 (1301).jpg?bwg=1547479511",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/29 (1300).jpg?bwg=1547479510",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/40 (1291).jpg?bwg=1547479510",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/6 (25).jpg?bwg=1547479511",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/9 (25).jpg?bwg=1547479510",
+        "https://www.criterion.com/films/541-dead-ringers",
+        "https://film-grab.com/2014/05/31/dead-ringers/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (297).jpg?bwg=1547209936",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/15 (302).jpg?bwg=1547209938",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (302).jpg?bwg=1547209936",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/29 (302).jpg?bwg=1547209938",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/43 (296).jpg?bwg=1547209936",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/57 (267).jpg?bwg=1547209936",
+        "https://www.criterion.com/films/29014-crash",
+        "https://film-grab.com/2014/06/16/crash/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (268).jpg?bwg=1547208418",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/15 (273).jpg?bwg=1547208417",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/29 (273).jpg?bwg=1547208418",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/37 (272).jpg?bwg=1547208417",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/57 (245).jpg?bwg=1547208417",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/64 (202).jpg?bwg=1547208417",
+        "https://www.20thcenturystudios.com/movies/the-fly",
+        "https://film-grab.com/2010/06/27/the-fly/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/image001 (11).jpg?bwg=1547464696",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/image008 (11).jpg?bwg=1547464696",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/image015 (11).jpg?bwg=1547464696",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/image021 (11).jpg?bwg=1547464696",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/image055 (11).jpg?bwg=1547464695",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/image062 (9).jpg?bwg=1547464695",
+        "https://www.criterion.com/films/33805-a-history-of-violence",
+        "https://film-grab.com/2014/08/19/a-history-of-violence/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (21).jpg?bwg=1547140530",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/08 (21).jpg?bwg=1547140530",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/15 (21).jpg?bwg=1547140531",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/29 (21).jpg?bwg=1547140530",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/37 (21).jpg?bwg=1547140530",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (16).jpg?bwg=1547140530"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

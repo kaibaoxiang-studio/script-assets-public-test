@@ -1,0 +1,7 @@
+interface:
+  display_name: 服饰材质设计
+  short_description: 服饰材质设计：重量、光泽、垂坠与磨损
+  default_prompt: Use $character-costume-material-design to complete the requested
+    task.
+policy:
+  allow_implicit_invocation: false

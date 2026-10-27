@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "026",
+  "films": [
+    {
+      "title_zh": "Thief",
+      "title_en": "Thief",
+      "year": 1981,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#010101",
+          "source_ratio": 29.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.292,
+          "source_luminance": 0.0003,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#1C1915",
+          "source_ratio": 15.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.155,
+          "source_luminance": 0.01,
+          "source_saturation": 0.25
+        },
+        {
+          "hex": "#2D2F2A",
+          "source_ratio": 13.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.134,
+          "source_luminance": 0.0276,
+          "source_saturation": 0.1064
+        },
+        {
+          "hex": "#5D5A5B",
+          "source_ratio": 11.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11199999999999999,
+          "source_luminance": 0.1039,
+          "source_saturation": 0.0323
+        },
+        {
+          "hex": "#869193",
+          "source_ratio": 9.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.092,
+          "source_luminance": 0.2743,
+          "source_saturation": 0.0884
+        },
+        {
+          "hex": "#6E7578",
+          "source_ratio": 9.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.091,
+          "source_luminance": 0.1739,
+          "source_saturation": 0.0833
+        },
+        {
+          "hex": "#3F3F40",
+          "source_ratio": 8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.08,
+          "source_luminance": 0.0498,
+          "source_saturation": 0.0156
+        },
+        {
+          "hex": "#302527",
+          "source_ratio": 4.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.044000000000000004,
+          "source_luminance": 0.021,
+          "source_saturation": 0.2292
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/04/15/thief/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/026_MichaelMann_迈克尔·曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1208).jpg?bwg=1547475955",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/026_MichaelMann_迈克尔·曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1232).jpg?bwg=1547475955",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/026_MichaelMann_迈克尔·曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/42 (1217).jpg?bwg=1547475955",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/026_MichaelMann_迈克尔·曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/63 (964).jpg?bwg=1547475955",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/026_MichaelMann_迈克尔·曼/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Heat",
+      "title_en": "Heat",
+      "year": 1995,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#393C45",
+          "source_ratio": 15.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.158,
+          "source_luminance": 0.0453,
+          "source_saturation": 0.1739
+        },
+        {
+          "hex": "#676E7F",
+          "source_ratio": 14.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.146,
+          "source_luminance": 0.1557,
+          "source_saturation": 0.189
+        },
+        {
+          "hex": "#8E8A98",
+          "source_ratio": 13.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.134,
+          "source_luminance": 0.2619,
+          "source_saturation": 0.0921
+        },
+        {
+          "hex": "#050A09",
+          "source_ratio": 13.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.131,
+          "source_luminance": 0.0027,
+          "source_saturation": 0.5
+        },
+        {
+          "hex": "#222629",
+          "source_ratio": 11.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11900000000000001,
+          "source_luminance": 0.0189,
+          "source_saturation": 0.1707
+        },
+        {
+          "hex": "#382F30",
+          "source_ratio": 11.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.111,
+          "source_luminance": 0.0309,
+          "source_saturation": 0.1607
+        },
+        {
+          "hex": "#B8B8C7",
+          "source_ratio": 10.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10400000000000001,
+          "source_luminance": 0.4859,
+          "source_saturation": 0.0754
+        },
+        {
+          "hex": "#827075",
+          "source_ratio": 9.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.09699999999999999,
+          "source_luminance": 0.1762,
+          "source_saturation": 0.1385
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2013/03/27/heat/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/026_MichaelMann_迈克尔·曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (446).jpg?bwg=1547220064",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/026_MichaelMann_迈克尔·曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (455).jpg?bwg=1547220064",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/026_MichaelMann_迈克尔·曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (445).jpg?bwg=1547220062",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/026_MichaelMann_迈克尔·曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (297).jpg?bwg=1547220062",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/026_MichaelMann_迈克尔·曼/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Ali",
+      "title_en": "Ali",
+      "year": 2001,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#000000",
+          "source_ratio": 21.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.21899999999999997,
+          "source_luminance": 0,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#516E96",
+          "source_ratio": 12.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.128,
+          "source_luminance": 0.151,
+          "source_saturation": 0.46
+        },
+        {
+          "hex": "#7992B0",
+          "source_ratio": 12.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.124,
+          "source_luminance": 0.2776,
+          "source_saturation": 0.3125
+        },
+        {
+          "hex": "#391309",
+          "source_ratio": 11.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11800000000000001,
+          "source_luminance": 0.0136,
+          "source_saturation": 0.8421
+        },
+        {
+          "hex": "#8BA8C4",
+          "source_ratio": 10.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10800000000000001,
+          "source_luminance": 0.3748,
+          "source_saturation": 0.2908
+        },
+        {
+          "hex": "#FFFFFD",
+          "source_ratio": 10.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10300000000000001,
+          "source_luminance": 0.9987,
+          "source_saturation": 0.0078
+        },
+        {
+          "hex": "#AAA99B",
+          "source_ratio": 10.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.102,
+          "source_luminance": 0.3929,
+          "source_saturation": 0.0882
+        },
+        {
+          "hex": "#ABCBD3",
+          "source_ratio": 9.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.098,
+          "source_luminance": 0.5607,
+          "source_saturation": 0.1896
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2017/01/09/ali/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/026_MichaelMann_迈克尔·曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/ali001.jpg?bwg=1546982270",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/026_MichaelMann_迈克尔·曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/ali022.jpg?bwg=1546982269",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/026_MichaelMann_迈克尔·曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/ali044.jpg?bwg=1546982269",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/026_MichaelMann_迈克尔·曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/ali065.jpg?bwg=1546982269",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/026_MichaelMann_迈克尔·曼/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Ferrari",
+      "title_en": "Ferrari",
+      "year": 2023,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#9CA7A6",
+          "source_ratio": 16.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.166,
+          "source_luminance": 0.3746,
+          "source_saturation": 0.0659
+        },
+        {
+          "hex": "#757873",
+          "source_ratio": 13.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.135,
+          "source_luminance": 0.1845,
+          "source_saturation": 0.0417
+        },
+        {
+          "hex": "#191407",
+          "source_ratio": 13,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.13,
+          "source_luminance": 0.0072,
+          "source_saturation": 0.72
+        },
+        {
+          "hex": "#977F5B",
+          "source_ratio": 12.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.125,
+          "source_luminance": 0.2251,
+          "source_saturation": 0.3974
+        },
+        {
+          "hex": "#5C5F59",
+          "source_ratio": 11.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11699999999999999,
+          "source_luminance": 0.1118,
+          "source_saturation": 0.0632
+        },
+        {
+          "hex": "#B98A54",
+          "source_ratio": 11.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.113,
+          "source_luminance": 0.2913,
+          "source_saturation": 0.5459
+        },
+        {
+          "hex": "#584026",
+          "source_ratio": 11.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11199999999999999,
+          "source_luminance": 0.0588,
+          "source_saturation": 0.5682
+        },
+        {
+          "hex": "#40321A",
+          "source_ratio": 10.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.102,
+          "source_luminance": 0.0345,
+          "source_saturation": 0.5938
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2024/04/01/ferrari/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/026_MichaelMann_迈克尔·曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Ferrari_01.jpg?bwg=1710708227",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/026_MichaelMann_迈克尔·曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Ferrari_22.jpg?bwg=1710708225",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/026_MichaelMann_迈克尔·曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Ferrari_44.jpg?bwg=1710708225",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/026_MichaelMann_迈克尔·曼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Ferrari_65.jpg?bwg=1710708225",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/026_MichaelMann_迈克尔·曼/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/026_MichaelMann_迈克尔·曼/assets/references/reference_director_manifest.json",
+      "sha256": "b067fb3d9fc5013278d481f39f55b06a7894161049473e2cbf89f7c63e379c30",
+      "declared_urls": [
+        "https://film-grab.com/2014/04/15/thief/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1208).jpg?bwg=1547475955",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1232).jpg?bwg=1547475955",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/42 (1217).jpg?bwg=1547475955",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/63 (964).jpg?bwg=1547475955",
+        "https://film-grab.com/2013/03/27/heat/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (446).jpg?bwg=1547220064",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (455).jpg?bwg=1547220064",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (445).jpg?bwg=1547220062",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (297).jpg?bwg=1547220062",
+        "https://film-grab.com/2017/01/09/ali/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/ali001.jpg?bwg=1546982270",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/ali022.jpg?bwg=1546982269",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/ali044.jpg?bwg=1546982269",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/ali065.jpg?bwg=1546982269",
+        "https://film-grab.com/2024/04/01/ferrari/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Ferrari_01.jpg?bwg=1710708227",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Ferrari_22.jpg?bwg=1710708225",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Ferrari_44.jpg?bwg=1710708225",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Ferrari_65.jpg?bwg=1710708225"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/026_MichaelMann_迈克尔·曼/assets/references/reference_sources.md",
+      "sha256": "c15553be5da55b1bb963d2887177d69b85727b8ee32b0ad894e8d5896e03fac9",
+      "declared_urls": [
+        "https://film-grab.com/2014/04/15/thief/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1208).jpg?bwg=1547475955",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1232).jpg?bwg=1547475955",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/42 (1217).jpg?bwg=1547475955",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/63 (964).jpg?bwg=1547475955",
+        "https://film-grab.com/2013/03/27/heat/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (446).jpg?bwg=1547220064",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (455).jpg?bwg=1547220064",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (445).jpg?bwg=1547220062",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (297).jpg?bwg=1547220062",
+        "https://film-grab.com/2017/01/09/ali/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/ali001.jpg?bwg=1546982270",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/ali022.jpg?bwg=1546982269",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/ali044.jpg?bwg=1546982269",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/ali065.jpg?bwg=1546982269",
+        "https://film-grab.com/2024/04/01/ferrari/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Ferrari_01.jpg?bwg=1710708227",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Ferrari_22.jpg?bwg=1710708225",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Ferrari_44.jpg?bwg=1710708225",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Ferrari_65.jpg?bwg=1710708225"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

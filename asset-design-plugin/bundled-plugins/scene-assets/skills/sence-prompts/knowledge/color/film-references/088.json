@@ -1,0 +1,324 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "088",
+  "films": [
+    {
+      "title_zh": "Pepi, Luci, Bom and Other Girls Like Mom",
+      "title_en": "Pepi, Luci, Bom and Other Girls Like Mom",
+      "year": 1980,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2017/03/27/pepi-luci-bom-and-other-girls-like-mom/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/pepi001.jpg?bwg=1546961138",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/pepi020.jpg?bwg=1546961136",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/pepi039.jpg?bwg=1546961136",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/pepi058.jpg?bwg=1546961136",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2017/03/27/pepi-luci-bom-and-other-girls-like-mom/",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/088_PedroAlmodovar_阿莫多瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/pepi001.jpg?bwg=1546961138",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/088_PedroAlmodovar_阿莫多瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/pepi020.jpg?bwg=1546961136",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/088_PedroAlmodovar_阿莫多瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/pepi039.jpg?bwg=1546961136",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/088_PedroAlmodovar_阿莫多瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/pepi058.jpg?bwg=1546961136",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/088_PedroAlmodovar_阿莫多瓦/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Tie Me Up! Tie Me Down!",
+      "title_en": "Tie Me Up! Tie Me Down!",
+      "year": 1989,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2017/06/05/tie-me-up-tie-me-down/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tiemeup001.jpg?bwg=1546960206",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tiemeup022.jpg?bwg=1546960205",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tiemeup044.jpg?bwg=1546960205",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tiemeup065.jpg?bwg=1546960204",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2017/06/05/tie-me-up-tie-me-down/",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/088_PedroAlmodovar_阿莫多瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tiemeup001.jpg?bwg=1546960206",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/088_PedroAlmodovar_阿莫多瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tiemeup022.jpg?bwg=1546960205",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/088_PedroAlmodovar_阿莫多瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tiemeup044.jpg?bwg=1546960205",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/088_PedroAlmodovar_阿莫多瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tiemeup065.jpg?bwg=1546960204",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/088_PedroAlmodovar_阿莫多瓦/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Bad Education",
+      "title_en": "Bad Education",
+      "year": 2004,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2017/07/17/bad-education/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/badeducation001.jpg?bwg=1546962905",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/badeducation022.jpg?bwg=1546962904",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/badeducation044.jpg?bwg=1546962904",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/badeducation065.jpg?bwg=1546962904",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2017/07/17/bad-education/",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/088_PedroAlmodovar_阿莫多瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/badeducation001.jpg?bwg=1546962905",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/088_PedroAlmodovar_阿莫多瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/badeducation022.jpg?bwg=1546962904",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/088_PedroAlmodovar_阿莫多瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/badeducation044.jpg?bwg=1546962904",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/088_PedroAlmodovar_阿莫多瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/badeducation065.jpg?bwg=1546962904",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/088_PedroAlmodovar_阿莫多瓦/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Parallel Mothers",
+      "title_en": "Parallel Mothers",
+      "year": 2021,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2026/03/06/parallel-mothers/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Parallel_Mothers_01.jpg?bwg=1701089660",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Parallel_Mothers_19.jpg?bwg=1701089659",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Parallel_Mothers_38.jpg?bwg=1701089659",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Parallel_Mothers_56.jpg?bwg=1701089659",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2026/03/06/parallel-mothers/",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/088_PedroAlmodovar_阿莫多瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Parallel_Mothers_01.jpg?bwg=1701089660",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/088_PedroAlmodovar_阿莫多瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Parallel_Mothers_19.jpg?bwg=1701089659",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/088_PedroAlmodovar_阿莫多瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Parallel_Mothers_38.jpg?bwg=1701089659",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/088_PedroAlmodovar_阿莫多瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Parallel_Mothers_56.jpg?bwg=1701089659",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/088_PedroAlmodovar_阿莫多瓦/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/088_PedroAlmodovar_阿莫多瓦/assets/references/reference_director_manifest.json",
+      "sha256": "cb45436cdaa93480b6120e2248b08248c7023ee42a4cff01c6f1f62828108127",
+      "declared_urls": [
+        "https://film-grab.com/2017/03/27/pepi-luci-bom-and-other-girls-like-mom/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/pepi001.jpg?bwg=1546961138",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/pepi020.jpg?bwg=1546961136",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/pepi039.jpg?bwg=1546961136",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/pepi058.jpg?bwg=1546961136",
+        "https://film-grab.com/2017/06/05/tie-me-up-tie-me-down/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tiemeup001.jpg?bwg=1546960206",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tiemeup022.jpg?bwg=1546960205",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tiemeup044.jpg?bwg=1546960205",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tiemeup065.jpg?bwg=1546960204",
+        "https://film-grab.com/2017/07/17/bad-education/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/badeducation001.jpg?bwg=1546962905",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/badeducation022.jpg?bwg=1546962904",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/badeducation044.jpg?bwg=1546962904",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/badeducation065.jpg?bwg=1546962904",
+        "https://film-grab.com/2026/03/06/parallel-mothers/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Parallel_Mothers_01.jpg?bwg=1701089660",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Parallel_Mothers_19.jpg?bwg=1701089659",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Parallel_Mothers_38.jpg?bwg=1701089659",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Parallel_Mothers_56.jpg?bwg=1701089659"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/088_PedroAlmodovar_阿莫多瓦/assets/references/reference_sources.md",
+      "sha256": "acc98ee9febb1902ea0dbed873d814003417683dd2d760078ffa544b1122bc6e",
+      "declared_urls": [
+        "https://film-grab.com/2017/03/27/pepi-luci-bom-and-other-girls-like-mom/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/pepi001.jpg?bwg=1546961138",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/pepi020.jpg?bwg=1546961136",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/pepi039.jpg?bwg=1546961136",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/pepi058.jpg?bwg=1546961136",
+        "https://film-grab.com/2017/06/05/tie-me-up-tie-me-down/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tiemeup001.jpg?bwg=1546960206",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tiemeup022.jpg?bwg=1546960205",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tiemeup044.jpg?bwg=1546960205",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tiemeup065.jpg?bwg=1546960204",
+        "https://film-grab.com/2017/07/17/bad-education/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/badeducation001.jpg?bwg=1546962905",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/badeducation022.jpg?bwg=1546962904",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/badeducation044.jpg?bwg=1546962904",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/badeducation065.jpg?bwg=1546962904",
+        "https://film-grab.com/2026/03/06/parallel-mothers/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Parallel_Mothers_01.jpg?bwg=1701089660",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Parallel_Mothers_19.jpg?bwg=1701089659",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Parallel_Mothers_38.jpg?bwg=1701089659",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Parallel_Mothers_56.jpg?bwg=1701089659"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

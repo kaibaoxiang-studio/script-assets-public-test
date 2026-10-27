@@ -1,0 +1,6 @@
+interface:
+  display_name: 发型设计
+  short_description: 发型设计：发流、体积、轮廓与跨视角连续性
+  default_prompt: Use $character-hair-design to complete the requested task.
+policy:
+  allow_implicit_invocation: false

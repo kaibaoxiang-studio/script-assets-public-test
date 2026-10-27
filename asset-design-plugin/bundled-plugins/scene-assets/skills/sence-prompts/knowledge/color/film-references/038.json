@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "038",
+  "films": [
+    {
+      "title_zh": "Following",
+      "title_en": "Following",
+      "year": 1998,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#030303",
+          "source_ratio": 14.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.142,
+          "source_luminance": 0.0009,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#686868",
+          "source_ratio": 13.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.136,
+          "source_luminance": 0.1384,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#AAAAAA",
+          "source_ratio": 13.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.131,
+          "source_luminance": 0.402,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#C2C2C2",
+          "source_ratio": 13,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.13,
+          "source_luminance": 0.5395,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#3F3F3F",
+          "source_ratio": 12.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.129,
+          "source_luminance": 0.0497,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#2D2D2D",
+          "source_ratio": 12.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.122,
+          "source_luminance": 0.0262,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#1D1D1D",
+          "source_ratio": 10.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.107,
+          "source_luminance": 0.0123,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#7B7B7B",
+          "source_ratio": 10.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10300000000000001,
+          "source_luminance": 0.1981,
+          "source_saturation": 0
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2015/04/17/following/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/038_ChristopherNolan_克里斯托弗·诺兰/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (384).jpg?bwg=1547217040",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/038_ChristopherNolan_克里斯托弗·诺兰/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/18 (392).jpg?bwg=1547217039",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/038_ChristopherNolan_克里斯托弗·诺兰/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/35 (390).jpg?bwg=1547217039",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/038_ChristopherNolan_克里斯托弗·诺兰/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/52 (368).jpg?bwg=1547217039",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/038_ChristopherNolan_克里斯托弗·诺兰/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "The Prestige",
+      "title_en": "The Prestige",
+      "year": 2006,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#000000",
+          "source_ratio": 43.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.431,
+          "source_luminance": 0,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#121917",
+          "source_ratio": 10.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10300000000000001,
+          "source_luminance": 0.0089,
+          "source_saturation": 0.28
+        },
+        {
+          "hex": "#1B1308",
+          "source_ratio": 9.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.094,
+          "source_luminance": 0.0072,
+          "source_saturation": 0.7037
+        },
+        {
+          "hex": "#71665F",
+          "source_ratio": 8.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.087,
+          "source_luminance": 0.1384,
+          "source_saturation": 0.1593
+        },
+        {
+          "hex": "#232724",
+          "source_ratio": 7.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.077,
+          "source_luminance": 0.0194,
+          "source_saturation": 0.1026
+        },
+        {
+          "hex": "#3E2816",
+          "source_ratio": 7.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.075,
+          "source_luminance": 0.026,
+          "source_saturation": 0.6452
+        },
+        {
+          "hex": "#2B2318",
+          "source_ratio": 6.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.068,
+          "source_luminance": 0.0178,
+          "source_saturation": 0.4419
+        },
+        {
+          "hex": "#2F190B",
+          "source_ratio": 6.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.065,
+          "source_luminance": 0.0132,
+          "source_saturation": 0.766
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2010/06/25/the-prestige/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/038_ChristopherNolan_克里斯托弗·诺兰/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1140).jpg?bwg=1547469524",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/038_ChristopherNolan_克里斯托弗·诺兰/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/21 (1163).jpg?bwg=1547469523",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/038_ChristopherNolan_克里斯托弗·诺兰/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/40 (1154).jpg?bwg=1547469523",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/038_ChristopherNolan_克里斯托弗·诺兰/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/60 (1028).jpg?bwg=1547469523",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/038_ChristopherNolan_克里斯托弗·诺兰/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "The Dark Knight Rises",
+      "title_en": "The Dark Knight Rises",
+      "year": 2012,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#0E1113",
+          "source_ratio": 16.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.168,
+          "source_luminance": 0.0054,
+          "source_saturation": 0.2632
+        },
+        {
+          "hex": "#43403C",
+          "source_ratio": 14.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14300000000000002,
+          "source_luminance": 0.0519,
+          "source_saturation": 0.1045
+        },
+        {
+          "hex": "#103E66",
+          "source_ratio": 12.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.124,
+          "source_luminance": 0.0451,
+          "source_saturation": 0.8431
+        },
+        {
+          "hex": "#24272F",
+          "source_ratio": 12.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12300000000000001,
+          "source_luminance": 0.0203,
+          "source_saturation": 0.234
+        },
+        {
+          "hex": "#47525B",
+          "source_ratio": 12.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.122,
+          "source_luminance": 0.0813,
+          "source_saturation": 0.2198
+        },
+        {
+          "hex": "#05305B",
+          "source_ratio": 11.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11800000000000001,
+          "source_luminance": 0.029,
+          "source_saturation": 0.9451
+        },
+        {
+          "hex": "#35302F",
+          "source_ratio": 10.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10300000000000001,
+          "source_luminance": 0.0308,
+          "source_saturation": 0.1132
+        },
+        {
+          "hex": "#05182C",
+          "source_ratio": 9.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.099,
+          "source_luminance": 0.0087,
+          "source_saturation": 0.8864
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/09/08/the-dark-knight-rises/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/038_ChristopherNolan_克里斯托弗·诺兰/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (289).jpg?bwg=1547209455",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/038_ChristopherNolan_克里斯托弗·诺兰/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (294).jpg?bwg=1547209454",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/038_ChristopherNolan_克里斯托弗·诺兰/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (288).jpg?bwg=1547209454",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/038_ChristopherNolan_克里斯托弗·诺兰/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (198).jpg?bwg=1547209454",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/038_ChristopherNolan_克里斯托弗·诺兰/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Oppenheimer",
+      "title_en": "Oppenheimer",
+      "year": 2023,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#040B04",
+          "source_ratio": 15.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.156,
+          "source_luminance": 0.0027,
+          "source_saturation": 0.6364
+        },
+        {
+          "hex": "#172321",
+          "source_ratio": 13.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.134,
+          "source_luminance": 0.0149,
+          "source_saturation": 0.3429
+        },
+        {
+          "hex": "#A15906",
+          "source_ratio": 12.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.128,
+          "source_luminance": 0.1473,
+          "source_saturation": 0.9627
+        },
+        {
+          "hex": "#A1A27E",
+          "source_ratio": 12.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.122,
+          "source_luminance": 0.3492,
+          "source_saturation": 0.2222
+        },
+        {
+          "hex": "#09221A",
+          "source_ratio": 11.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11800000000000001,
+          "source_luminance": 0.0128,
+          "source_saturation": 0.7353
+        },
+        {
+          "hex": "#6A5B41",
+          "source_ratio": 11.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.115,
+          "source_luminance": 0.1093,
+          "source_saturation": 0.3868
+        },
+        {
+          "hex": "#0D3434",
+          "source_ratio": 11.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.113,
+          "source_luminance": 0.0279,
+          "source_saturation": 0.75
+        },
+        {
+          "hex": "#6D2F03",
+          "source_ratio": 11.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.114,
+          "source_luminance": 0.0529,
+          "source_saturation": 0.9725
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2023/12/06/oppenheimer/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/038_ChristopherNolan_克里斯托弗·诺兰/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Oppenheimer_01.jpg?bwg=1699893938",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/038_ChristopherNolan_克里斯托弗·诺兰/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Oppenheimer_22.jpg?bwg=1699893936",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/038_ChristopherNolan_克里斯托弗·诺兰/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Oppenheimer_44.jpg?bwg=1699893936",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/038_ChristopherNolan_克里斯托弗·诺兰/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Oppenheimer_65.jpg?bwg=1699893936",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/038_ChristopherNolan_克里斯托弗·诺兰/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/038_ChristopherNolan_克里斯托弗·诺兰/assets/references/reference_director_manifest.json",
+      "sha256": "14d4ca15dbdba2cb1c2fa1937f8219039e630d1b288c6bb31a5bf3571ae2e5a7",
+      "declared_urls": [
+        "https://film-grab.com/2015/04/17/following/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (384).jpg?bwg=1547217040",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/18 (392).jpg?bwg=1547217039",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/35 (390).jpg?bwg=1547217039",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/52 (368).jpg?bwg=1547217039",
+        "https://film-grab.com/2010/06/25/the-prestige/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1140).jpg?bwg=1547469524",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/21 (1163).jpg?bwg=1547469523",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/40 (1154).jpg?bwg=1547469523",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/60 (1028).jpg?bwg=1547469523",
+        "https://film-grab.com/2014/09/08/the-dark-knight-rises/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (289).jpg?bwg=1547209455",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (294).jpg?bwg=1547209454",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (288).jpg?bwg=1547209454",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (198).jpg?bwg=1547209454",
+        "https://film-grab.com/2023/12/06/oppenheimer/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Oppenheimer_01.jpg?bwg=1699893938",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Oppenheimer_22.jpg?bwg=1699893936",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Oppenheimer_44.jpg?bwg=1699893936",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Oppenheimer_65.jpg?bwg=1699893936"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/038_ChristopherNolan_克里斯托弗·诺兰/assets/references/reference_sources.md",
+      "sha256": "87650a2ed0c4f735a272622f0c6101e4529cf4e9fb369282ca44a04d80482eca",
+      "declared_urls": [
+        "https://film-grab.com/2015/04/17/following/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (384).jpg?bwg=1547217040",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/18 (392).jpg?bwg=1547217039",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/35 (390).jpg?bwg=1547217039",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/52 (368).jpg?bwg=1547217039",
+        "https://film-grab.com/2010/06/25/the-prestige/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1140).jpg?bwg=1547469524",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/21 (1163).jpg?bwg=1547469523",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/40 (1154).jpg?bwg=1547469523",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/60 (1028).jpg?bwg=1547469523",
+        "https://film-grab.com/2014/09/08/the-dark-knight-rises/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (289).jpg?bwg=1547209455",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (294).jpg?bwg=1547209454",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (288).jpg?bwg=1547209454",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (198).jpg?bwg=1547209454",
+        "https://film-grab.com/2023/12/06/oppenheimer/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Oppenheimer_01.jpg?bwg=1699893938",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Oppenheimer_22.jpg?bwg=1699893936",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Oppenheimer_44.jpg?bwg=1699893936",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Oppenheimer_65.jpg?bwg=1699893936"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

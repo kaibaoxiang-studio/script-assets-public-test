@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "052",
+  "films": [
+    {
+      "title_zh": "陌生之地",
+      "title_en": "Foreign Land",
+      "year": 1996,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#1E1E1E",
+          "source_ratio": 14.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.141,
+          "source_luminance": 0.013,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#787878",
+          "source_ratio": 13.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.138,
+          "source_luminance": 0.1878,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#3C3B3B",
+          "source_ratio": 12.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.125,
+          "source_luminance": 0.044,
+          "source_saturation": 0.0167
+        },
+        {
+          "hex": "#595959",
+          "source_ratio": 12.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12300000000000001,
+          "source_luminance": 0.0999,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#C9C9C9",
+          "source_ratio": 12.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.121,
+          "source_luminance": 0.5841,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#A9A9A9",
+          "source_ratio": 12,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12,
+          "source_luminance": 0.3968,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#0D0D0D",
+          "source_ratio": 11.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11599999999999999,
+          "source_luminance": 0.004,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#EAE9E9",
+          "source_ratio": 11.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11599999999999999,
+          "source_luminance": 0.8165,
+          "source_saturation": 0.0043
+        }
+      ],
+      "source_ratio_sum": 99.99999999999999,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/57811/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/052_WalterSalles_沃尔特·塞勒斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/i9dJI44Zy9rB5I1NjntfRN5932d.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/052_WalterSalles_沃尔特·塞勒斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/f5pOcLcFVqzGUfdszApf8qc2Hci.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/052_WalterSalles_沃尔特·塞勒斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/6HjirVxotLDoIhtZ7fu1J1vMmlH.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/052_WalterSalles_沃尔特·塞勒斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/8PBP9SvrV91FNt16KGy1ozRQggu.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/052_WalterSalles_沃尔特·塞勒斯/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "革命前夕的摩托車日記",
+      "title_en": "The Motorcycle Diaries",
+      "year": 2004,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#7A694E",
+          "source_ratio": 18.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.182,
+          "source_luminance": 0.1479,
+          "source_saturation": 0.3607
+        },
+        {
+          "hex": "#D6C5A4",
+          "source_ratio": 14,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14,
+          "source_luminance": 0.5691,
+          "source_saturation": 0.2336
+        },
+        {
+          "hex": "#8EB1D9",
+          "source_ratio": 12.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.129,
+          "source_luminance": 0.422,
+          "source_saturation": 0.3456
+        },
+        {
+          "hex": "#91865A",
+          "source_ratio": 12.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.124,
+          "source_luminance": 0.2381,
+          "source_saturation": 0.3793
+        },
+        {
+          "hex": "#74A1D3",
+          "source_ratio": 11.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11199999999999999,
+          "source_luminance": 0.3391,
+          "source_saturation": 0.4502
+        },
+        {
+          "hex": "#3F2B09",
+          "source_ratio": 10.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.105,
+          "source_luminance": 0.028,
+          "source_saturation": 0.8571
+        },
+        {
+          "hex": "#B7A88B",
+          "source_ratio": 10.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10400000000000001,
+          "source_luminance": 0.3994,
+          "source_saturation": 0.2404
+        },
+        {
+          "hex": "#6E573B",
+          "source_ratio": 10.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10400000000000001,
+          "source_luminance": 0.1045,
+          "source_saturation": 0.4636
+        }
+      ],
+      "source_ratio_sum": 100.00000000000001,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/1653/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/052_WalterSalles_沃尔特·塞勒斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/o6Ln9kTC4ZrHZNUhWLOwBfUvqXU.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/052_WalterSalles_沃尔特·塞勒斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/vQJJPPRhsWSatMpIcHAetYrjdY7.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/052_WalterSalles_沃尔特·塞勒斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/kkO3eZXEp7CZoDmw3tjZdERvgM1.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/052_WalterSalles_沃尔特·塞勒斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/zoeXeaL9c0yEv3BXsFCTetYXoCM.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/052_WalterSalles_沃尔特·塞勒斯/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "巴黎，我爱你",
+      "title_en": "Paris, je t'aime",
+      "year": 2006,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#2F3048",
+          "source_ratio": 16.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.163,
+          "source_luminance": 0.0319,
+          "source_saturation": 0.3472
+        },
+        {
+          "hex": "#9C8773",
+          "source_ratio": 14.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.142,
+          "source_luminance": 0.2563,
+          "source_saturation": 0.2628
+        },
+        {
+          "hex": "#525253",
+          "source_ratio": 12.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.128,
+          "source_luminance": 0.0845,
+          "source_saturation": 0.012
+        },
+        {
+          "hex": "#7A7F86",
+          "source_ratio": 12.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.121,
+          "source_luminance": 0.2104,
+          "source_saturation": 0.0896
+        },
+        {
+          "hex": "#ACA699",
+          "source_ratio": 11.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.115,
+          "source_luminance": 0.3834,
+          "source_saturation": 0.1105
+        },
+        {
+          "hex": "#C9CBC4",
+          "source_ratio": 11.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.114,
+          "source_luminance": 0.5911,
+          "source_saturation": 0.0345
+        },
+        {
+          "hex": "#0B0A10",
+          "source_ratio": 11,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11,
+          "source_luminance": 0.0033,
+          "source_saturation": 0.375
+        },
+        {
+          "hex": "#696463",
+          "source_ratio": 10.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.107,
+          "source_luminance": 0.1302,
+          "source_saturation": 0.0571
+        }
+      ],
+      "source_ratio_sum": 100.00000000000001,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/2266/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/052_WalterSalles_沃尔特·塞勒斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/z5SQmAzMAkK54qMQJC9WsZ6PddL.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/052_WalterSalles_沃尔特·塞勒斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/3QZkFDe2GVQbOa8XZxK38BVsX1k.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/052_WalterSalles_沃尔特·塞勒斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/8YYNWgDfA4UiumXJHD0GE6oJbPv.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/052_WalterSalles_沃尔特·塞勒斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/Aa9coJLLCH4Erw0FY4x8LhiUH5B.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/052_WalterSalles_沃尔特·塞勒斯/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "我生如是繼續",
+      "title_en": "I'm Still Here",
+      "year": 2024,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#68839C",
+          "source_ratio": 14.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14300000000000002,
+          "source_luminance": 0.2158,
+          "source_saturation": 0.3333
+        },
+        {
+          "hex": "#86ADCA",
+          "source_ratio": 13.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.136,
+          "source_luminance": 0.3922,
+          "source_saturation": 0.3366
+        },
+        {
+          "hex": "#3B2419",
+          "source_ratio": 13.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.135,
+          "source_luminance": 0.0226,
+          "source_saturation": 0.5763
+        },
+        {
+          "hex": "#A8CDDD",
+          "source_ratio": 13.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.132,
+          "source_luminance": 0.5721,
+          "source_saturation": 0.2398
+        },
+        {
+          "hex": "#516472",
+          "source_ratio": 11.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.114,
+          "source_luminance": 0.1208,
+          "source_saturation": 0.2895
+        },
+        {
+          "hex": "#5F3822",
+          "source_ratio": 11.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.114,
+          "source_luminance": 0.0538,
+          "source_saturation": 0.6421
+        },
+        {
+          "hex": "#96A4A5",
+          "source_ratio": 11.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.113,
+          "source_luminance": 0.3575,
+          "source_saturation": 0.0909
+        },
+        {
+          "hex": "#E2C085",
+          "source_ratio": 11.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.113,
+          "source_luminance": 0.5556,
+          "source_saturation": 0.4115
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/1000837/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/052_WalterSalles_沃尔特·塞勒斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/j9uruwRe9qM8RnP758dF7ISB8Bj.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/052_WalterSalles_沃尔特·塞勒斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/x0pkoGlwWdkzRxgQioD3cUG0awu.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/052_WalterSalles_沃尔特·塞勒斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/8YS6xNfCGRaoACbqR41m17x824B.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/052_WalterSalles_沃尔特·塞勒斯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/cEjqDOmTf3eNDB3ajHSe0vBzPjc.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/052_WalterSalles_沃尔特·塞勒斯/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/052_WalterSalles_沃尔特·塞勒斯/assets/references/reference_director_manifest.json",
+      "sha256": "76bc3d36048b85cadcc1a1ee31b1cdcd969638cf01eaeb444ab84b0c0ac7e8c9",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/57811/images/backdrops",
+        "https://image.tmdb.org/t/p/original/i9dJI44Zy9rB5I1NjntfRN5932d.jpg",
+        "https://image.tmdb.org/t/p/original/f5pOcLcFVqzGUfdszApf8qc2Hci.jpg",
+        "https://image.tmdb.org/t/p/original/6HjirVxotLDoIhtZ7fu1J1vMmlH.jpg",
+        "https://image.tmdb.org/t/p/original/8PBP9SvrV91FNt16KGy1ozRQggu.jpg",
+        "https://www.themoviedb.org/movie/1653/images/backdrops",
+        "https://image.tmdb.org/t/p/original/o6Ln9kTC4ZrHZNUhWLOwBfUvqXU.jpg",
+        "https://image.tmdb.org/t/p/original/vQJJPPRhsWSatMpIcHAetYrjdY7.jpg",
+        "https://image.tmdb.org/t/p/original/kkO3eZXEp7CZoDmw3tjZdERvgM1.jpg",
+        "https://image.tmdb.org/t/p/original/zoeXeaL9c0yEv3BXsFCTetYXoCM.jpg",
+        "https://www.themoviedb.org/movie/2266/images/backdrops",
+        "https://image.tmdb.org/t/p/original/z5SQmAzMAkK54qMQJC9WsZ6PddL.jpg",
+        "https://image.tmdb.org/t/p/original/3QZkFDe2GVQbOa8XZxK38BVsX1k.jpg",
+        "https://image.tmdb.org/t/p/original/8YYNWgDfA4UiumXJHD0GE6oJbPv.jpg",
+        "https://image.tmdb.org/t/p/original/Aa9coJLLCH4Erw0FY4x8LhiUH5B.jpg",
+        "https://www.themoviedb.org/movie/1000837/images/backdrops",
+        "https://image.tmdb.org/t/p/original/j9uruwRe9qM8RnP758dF7ISB8Bj.jpg",
+        "https://image.tmdb.org/t/p/original/x0pkoGlwWdkzRxgQioD3cUG0awu.jpg",
+        "https://image.tmdb.org/t/p/original/8YS6xNfCGRaoACbqR41m17x824B.jpg",
+        "https://image.tmdb.org/t/p/original/cEjqDOmTf3eNDB3ajHSe0vBzPjc.jpg"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/052_WalterSalles_沃尔特·塞勒斯/assets/references/reference_sources.md",
+      "sha256": "53f6b2819eb95d4cad59b4ea6ed394ffabdeddd49ea86fc99b537faca5acd4d6",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/57811/images/backdrops",
+        "https://image.tmdb.org/t/p/original/i9dJI44Zy9rB5I1NjntfRN5932d.jpg",
+        "https://image.tmdb.org/t/p/original/f5pOcLcFVqzGUfdszApf8qc2Hci.jpg",
+        "https://image.tmdb.org/t/p/original/6HjirVxotLDoIhtZ7fu1J1vMmlH.jpg",
+        "https://image.tmdb.org/t/p/original/8PBP9SvrV91FNt16KGy1ozRQggu.jpg",
+        "https://www.themoviedb.org/movie/1653/images/backdrops",
+        "https://image.tmdb.org/t/p/original/o6Ln9kTC4ZrHZNUhWLOwBfUvqXU.jpg",
+        "https://image.tmdb.org/t/p/original/vQJJPPRhsWSatMpIcHAetYrjdY7.jpg",
+        "https://image.tmdb.org/t/p/original/kkO3eZXEp7CZoDmw3tjZdERvgM1.jpg",
+        "https://image.tmdb.org/t/p/original/zoeXeaL9c0yEv3BXsFCTetYXoCM.jpg",
+        "https://www.themoviedb.org/movie/2266/images/backdrops",
+        "https://image.tmdb.org/t/p/original/z5SQmAzMAkK54qMQJC9WsZ6PddL.jpg",
+        "https://image.tmdb.org/t/p/original/3QZkFDe2GVQbOa8XZxK38BVsX1k.jpg",
+        "https://image.tmdb.org/t/p/original/8YYNWgDfA4UiumXJHD0GE6oJbPv.jpg",
+        "https://image.tmdb.org/t/p/original/Aa9coJLLCH4Erw0FY4x8LhiUH5B.jpg",
+        "https://www.themoviedb.org/movie/1000837/images/backdrops",
+        "https://image.tmdb.org/t/p/original/j9uruwRe9qM8RnP758dF7ISB8Bj.jpg",
+        "https://image.tmdb.org/t/p/original/x0pkoGlwWdkzRxgQioD3cUG0awu.jpg",
+        "https://image.tmdb.org/t/p/original/8YS6xNfCGRaoACbqR41m17x824B.jpg",
+        "https://image.tmdb.org/t/p/original/cEjqDOmTf3eNDB3ajHSe0vBzPjc.jpg"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

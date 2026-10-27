@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "022",
+  "films": [
+    {
+      "title_zh": "爱神（手）",
+      "title_en": "Eros",
+      "year": 2004,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#A79892",
+          "source_ratio": 13.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.138,
+          "source_luminance": 0.3275,
+          "source_saturation": 0.1257
+        },
+        {
+          "hex": "#726D66",
+          "source_ratio": 13.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.134,
+          "source_luminance": 0.1547,
+          "source_saturation": 0.1053
+        },
+        {
+          "hex": "#403D3F",
+          "source_ratio": 13.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.134,
+          "source_luminance": 0.0479,
+          "source_saturation": 0.0469
+        },
+        {
+          "hex": "#040308",
+          "source_ratio": 12.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.121,
+          "source_luminance": 0.0011,
+          "source_saturation": 0.625
+        },
+        {
+          "hex": "#867A6B",
+          "source_ratio": 11.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11900000000000001,
+          "source_luminance": 0.2005,
+          "source_saturation": 0.2015
+        },
+        {
+          "hex": "#2F2D30",
+          "source_ratio": 11.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11900000000000001,
+          "source_luminance": 0.0269,
+          "source_saturation": 0.0625
+        },
+        {
+          "hex": "#1E1B1D",
+          "source_ratio": 11.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11900000000000001,
+          "source_luminance": 0.0115,
+          "source_saturation": 0.1
+        },
+        {
+          "hex": "#580409",
+          "source_ratio": 11.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11599999999999999,
+          "source_luminance": 0.0218,
+          "source_saturation": 0.9545
+        }
+      ],
+      "source_ratio_sum": 100.00000000000001,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/02/03/eros/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/022_WongKar-wai_王家卫/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_01.jpg?bwg=1724143047",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/022_WongKar-wai_王家卫/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_22.jpg?bwg=1724143045",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/022_WongKar-wai_王家卫/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_44.jpg?bwg=1724143045",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/022_WongKar-wai_王家卫/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_65.jpg?bwg=1724143045",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/022_WongKar-wai_王家卫/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "东邪西毒：终极版",
+      "title_en": "Ashes Of Time Redux",
+      "year": 1994,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#010900",
+          "source_ratio": 17.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.174,
+          "source_luminance": 0.002,
+          "source_saturation": 1
+        },
+        {
+          "hex": "#F9F9D6",
+          "source_ratio": 13.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.138,
+          "source_luminance": 0.9275,
+          "source_saturation": 0.1406
+        },
+        {
+          "hex": "#A14403",
+          "source_ratio": 12.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.126,
+          "source_luminance": 0.1172,
+          "source_saturation": 0.9814
+        },
+        {
+          "hex": "#8B3702",
+          "source_ratio": 12.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.122,
+          "source_luminance": 0.0823,
+          "source_saturation": 0.9856
+        },
+        {
+          "hex": "#A29152",
+          "source_ratio": 11.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11699999999999999,
+          "source_luminance": 0.2854,
+          "source_saturation": 0.4938
+        },
+        {
+          "hex": "#C99740",
+          "source_ratio": 11.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11199999999999999,
+          "source_luminance": 0.3492,
+          "source_saturation": 0.6816
+        },
+        {
+          "hex": "#201101",
+          "source_ratio": 10.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.109,
+          "source_luminance": 0.0071,
+          "source_saturation": 0.9688
+        },
+        {
+          "hex": "#683002",
+          "source_ratio": 10.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.102,
+          "source_luminance": 0.0506,
+          "source_saturation": 0.9808
+        }
+      ],
+      "source_ratio_sum": 100.00000000000001,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/02/18/ashes-of-time-redux/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/022_WongKar-wai_王家卫/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (97).jpg?bwg=1547146996",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/022_WongKar-wai_王家卫/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (99).jpg?bwg=1547146995",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/022_WongKar-wai_王家卫/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (98).jpg?bwg=1547146995",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/022_WongKar-wai_王家卫/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (66).jpg?bwg=1547146995",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/022_WongKar-wai_王家卫/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "花样年华",
+      "title_en": "In The Mood For Love",
+      "year": 2000,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#564941",
+          "source_ratio": 16.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.16699999999999998,
+          "source_luminance": 0.0713,
+          "source_saturation": 0.2442
+        },
+        {
+          "hex": "#1F0203",
+          "source_ratio": 14.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.147,
+          "source_luminance": 0.0034,
+          "source_saturation": 0.9355
+        },
+        {
+          "hex": "#32281F",
+          "source_ratio": 13.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.135,
+          "source_luminance": 0.0229,
+          "source_saturation": 0.38
+        },
+        {
+          "hex": "#6D5E54",
+          "source_ratio": 12.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.121,
+          "source_luminance": 0.119,
+          "source_saturation": 0.2294
+        },
+        {
+          "hex": "#32130F",
+          "source_ratio": 11.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11800000000000001,
+          "source_luminance": 0.0118,
+          "source_saturation": 0.7
+        },
+        {
+          "hex": "#262515",
+          "source_ratio": 11.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11199999999999999,
+          "source_luminance": 0.0179,
+          "source_saturation": 0.4474
+        },
+        {
+          "hex": "#0B0705",
+          "source_ratio": 10,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.1,
+          "source_luminance": 0.0023,
+          "source_saturation": 0.5455
+        },
+        {
+          "hex": "#252826",
+          "source_ratio": 10,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.1,
+          "source_luminance": 0.0205,
+          "source_saturation": 0.075
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2013/03/09/in-the-mood-for-love/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/022_WongKar-wai_王家卫/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (494).jpg?bwg=1547222278",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/022_WongKar-wai_王家卫/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (504).jpg?bwg=1547222276",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/022_WongKar-wai_王家卫/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (494).jpg?bwg=1547222276",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/022_WongKar-wai_王家卫/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (334).jpg?bwg=1547222276",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/022_WongKar-wai_王家卫/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "一代宗师",
+      "title_en": "The Grandmaster",
+      "year": 2013,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#000000",
+          "source_ratio": 17.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.179,
+          "source_luminance": 0,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#2F332F",
+          "source_ratio": 13.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.13699999999999998,
+          "source_luminance": 0.0318,
+          "source_saturation": 0.0784
+        },
+        {
+          "hex": "#584F46",
+          "source_ratio": 12.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12300000000000001,
+          "source_luminance": 0.0811,
+          "source_saturation": 0.2045
+        },
+        {
+          "hex": "#626861",
+          "source_ratio": 11.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11699999999999999,
+          "source_luminance": 0.1336,
+          "source_saturation": 0.0673
+        },
+        {
+          "hex": "#919388",
+          "source_ratio": 11.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.115,
+          "source_luminance": 0.2866,
+          "source_saturation": 0.0748
+        },
+        {
+          "hex": "#181917",
+          "source_ratio": 11.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.111,
+          "source_luminance": 0.0095,
+          "source_saturation": 0.08
+        },
+        {
+          "hex": "#3B4542",
+          "source_ratio": 10.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.109,
+          "source_luminance": 0.0558,
+          "source_saturation": 0.1449
+        },
+        {
+          "hex": "#271816",
+          "source_ratio": 10.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.109,
+          "source_luminance": 0.0114,
+          "source_saturation": 0.4359
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/04/30/the-grandmaster/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/022_WongKar-wai_王家卫/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1073).jpg?bwg=1547465843",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/022_WongKar-wai_王家卫/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1095).jpg?bwg=1547465844",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/022_WongKar-wai_王家卫/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1076).jpg?bwg=1547465843",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/022_WongKar-wai_王家卫/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (736).jpg?bwg=1547465843",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/022_WongKar-wai_王家卫/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/022_WongKar-wai_王家卫/assets/references/reference_director_manifest.json",
+      "sha256": "038383fa08db2c031ec85e65c39d64aa194d9a7431a7922b90f50ef142219487",
+      "declared_urls": [
+        "https://film-grab.com/2025/02/03/eros/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_01.jpg?bwg=1724143047",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_22.jpg?bwg=1724143045",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_44.jpg?bwg=1724143045",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_65.jpg?bwg=1724143045",
+        "https://film-grab.com/2014/02/18/ashes-of-time-redux/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (97).jpg?bwg=1547146996",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (99).jpg?bwg=1547146995",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (98).jpg?bwg=1547146995",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (66).jpg?bwg=1547146995",
+        "https://film-grab.com/2013/03/09/in-the-mood-for-love/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (494).jpg?bwg=1547222278",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (504).jpg?bwg=1547222276",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (494).jpg?bwg=1547222276",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (334).jpg?bwg=1547222276",
+        "https://film-grab.com/2014/04/30/the-grandmaster/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1073).jpg?bwg=1547465843",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1095).jpg?bwg=1547465844",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1076).jpg?bwg=1547465843",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (736).jpg?bwg=1547465843"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/022_WongKar-wai_王家卫/assets/references/reference_sources.md",
+      "sha256": "8bc68eba82b5a5b2ebba7714f63f320cf84c3b87ce5ed62b1a555e116926c4d3",
+      "declared_urls": [
+        "https://film-grab.com/2025/02/03/eros/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_01.jpg?bwg=1724143047",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_22.jpg?bwg=1724143045",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_44.jpg?bwg=1724143045",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_65.jpg?bwg=1724143045",
+        "https://film-grab.com/2014/02/18/ashes-of-time-redux/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (97).jpg?bwg=1547146996",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (99).jpg?bwg=1547146995",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (98).jpg?bwg=1547146995",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (66).jpg?bwg=1547146995",
+        "https://film-grab.com/2013/03/09/in-the-mood-for-love/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (494).jpg?bwg=1547222278",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (504).jpg?bwg=1547222276",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (494).jpg?bwg=1547222276",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (334).jpg?bwg=1547222276",
+        "https://film-grab.com/2014/04/30/the-grandmaster/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1073).jpg?bwg=1547465843",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1095).jpg?bwg=1547465844",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1076).jpg?bwg=1547465843",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (736).jpg?bwg=1547465843"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

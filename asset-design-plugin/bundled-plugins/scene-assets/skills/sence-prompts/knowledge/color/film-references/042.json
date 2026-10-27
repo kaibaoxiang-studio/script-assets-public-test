@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "042",
+  "films": [
+    {
+      "title_zh": "Amores Perros",
+      "title_en": "Amores Perros",
+      "year": 2000,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#000000",
+          "source_ratio": 17.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.17800000000000002,
+          "source_luminance": 0,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#ACC9DA",
+          "source_ratio": 14.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.145,
+          "source_luminance": 0.5561,
+          "source_saturation": 0.211
+        },
+        {
+          "hex": "#484C43",
+          "source_ratio": 13.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.132,
+          "source_luminance": 0.0695,
+          "source_saturation": 0.1184
+        },
+        {
+          "hex": "#2F3933",
+          "source_ratio": 11.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11800000000000001,
+          "source_luminance": 0.0377,
+          "source_saturation": 0.1754
+        },
+        {
+          "hex": "#7C8782",
+          "source_ratio": 11.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.115,
+          "source_luminance": 0.2322,
+          "source_saturation": 0.0815
+        },
+        {
+          "hex": "#CDE2EC",
+          "source_ratio": 11,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11,
+          "source_luminance": 0.7343,
+          "source_saturation": 0.1314
+        },
+        {
+          "hex": "#241E19",
+          "source_ratio": 10.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10400000000000001,
+          "source_luminance": 0.0137,
+          "source_saturation": 0.3056
+        },
+        {
+          "hex": "#17231F",
+          "source_ratio": 9.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.098,
+          "source_luminance": 0.0148,
+          "source_saturation": 0.3429
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/04/09/amores-perros/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/042_AlejandroInarritu_伊纳里图/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Amores_Perros_01.jpg?bwg=1718099316",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/042_AlejandroInarritu_伊纳里图/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Amores_Perros_22.jpg?bwg=1718099315",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/042_AlejandroInarritu_伊纳里图/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Amores_Perros_44.jpg?bwg=1718099315",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/042_AlejandroInarritu_伊纳里图/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Amores_Perros_65.jpg?bwg=1718099315",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/042_AlejandroInarritu_伊纳里图/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Babel",
+      "title_en": "Babel",
+      "year": 2006,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#2C1C11",
+          "source_ratio": 15.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.155,
+          "source_luminance": 0.0141,
+          "source_saturation": 0.6136
+        },
+        {
+          "hex": "#9D8371",
+          "source_ratio": 15,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.15,
+          "source_luminance": 0.2459,
+          "source_saturation": 0.2803
+        },
+        {
+          "hex": "#F2F0D9",
+          "source_ratio": 14.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.141,
+          "source_luminance": 0.8621,
+          "source_saturation": 0.1033
+        },
+        {
+          "hex": "#03050A",
+          "source_ratio": 12.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.125,
+          "source_luminance": 0.0015,
+          "source_saturation": 0.7
+        },
+        {
+          "hex": "#7A665A",
+          "source_ratio": 11.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.111,
+          "source_luminance": 0.1438,
+          "source_saturation": 0.2623
+        },
+        {
+          "hex": "#84786E",
+          "source_ratio": 10.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10800000000000001,
+          "source_luminance": 0.1946,
+          "source_saturation": 0.1667
+        },
+        {
+          "hex": "#665C55",
+          "source_ratio": 10.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.107,
+          "source_luminance": 0.1113,
+          "source_saturation": 0.1667
+        },
+        {
+          "hex": "#474B48",
+          "source_ratio": 10.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10300000000000001,
+          "source_luminance": 0.0684,
+          "source_saturation": 0.0533
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/11/24/babel/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/042_AlejandroInarritu_伊纳里图/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Babel_01.jpg?bwg=1721915968",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/042_AlejandroInarritu_伊纳里图/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Babel_20.jpg?bwg=1721915966",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/042_AlejandroInarritu_伊纳里图/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Babel_39.jpg?bwg=1721915966",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/042_AlejandroInarritu_伊纳里图/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Babel_58.jpg?bwg=1721915966",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/042_AlejandroInarritu_伊纳里图/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Birdman",
+      "title_en": "Birdman",
+      "year": 2014,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#292312",
+          "source_ratio": 17,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.17,
+          "source_luminance": 0.0172,
+          "source_saturation": 0.561
+        },
+        {
+          "hex": "#4B4533",
+          "source_ratio": 13,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.13,
+          "source_luminance": 0.0599,
+          "source_saturation": 0.32
+        },
+        {
+          "hex": "#707D7E",
+          "source_ratio": 12.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.126,
+          "source_luminance": 0.1962,
+          "source_saturation": 0.1111
+        },
+        {
+          "hex": "#0B0809",
+          "source_ratio": 12.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.125,
+          "source_luminance": 0.0026,
+          "source_saturation": 0.2727
+        },
+        {
+          "hex": "#6D9EB7",
+          "source_ratio": 12.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12300000000000001,
+          "source_luminance": 0.3112,
+          "source_saturation": 0.4044
+        },
+        {
+          "hex": "#011036",
+          "source_ratio": 11.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11800000000000001,
+          "source_luminance": 0.0064,
+          "source_saturation": 0.9815
+        },
+        {
+          "hex": "#3B7EA2",
+          "source_ratio": 10.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.109,
+          "source_luminance": 0.1846,
+          "source_saturation": 0.6358
+        },
+        {
+          "hex": "#0B4167",
+          "source_ratio": 9.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.099,
+          "source_luminance": 0.0483,
+          "source_saturation": 0.8932
+        }
+      ],
+      "source_ratio_sum": 100.00000000000001,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2015/05/08/birdman/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/042_AlejandroInarritu_伊纳里图/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (146).jpg?bwg=1547150414",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/042_AlejandroInarritu_伊纳里图/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/18 (149).jpg?bwg=1547150414",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/042_AlejandroInarritu_伊纳里图/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/34 (148).jpg?bwg=1547150414",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/042_AlejandroInarritu_伊纳里图/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/51 (139).jpg?bwg=1547150414",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/042_AlejandroInarritu_伊纳里图/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Bardo: False Chronicle of a Handful of Truths",
+      "title_en": "Bardo: False Chronicle of a Handful of Truths",
+      "year": 2022,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#130E0E",
+          "source_ratio": 16.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.168,
+          "source_luminance": 0.0048,
+          "source_saturation": 0.2632
+        },
+        {
+          "hex": "#857A6A",
+          "source_ratio": 14.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14300000000000002,
+          "source_luminance": 0.1995,
+          "source_saturation": 0.203
+        },
+        {
+          "hex": "#3D423C",
+          "source_ratio": 13.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.134,
+          "source_luminance": 0.0521,
+          "source_saturation": 0.0909
+        },
+        {
+          "hex": "#2A1506",
+          "source_ratio": 12.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.126,
+          "source_luminance": 0.0104,
+          "source_saturation": 0.8571
+        },
+        {
+          "hex": "#6F6255",
+          "source_ratio": 11.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11800000000000001,
+          "source_luminance": 0.1277,
+          "source_saturation": 0.2342
+        },
+        {
+          "hex": "#35322B",
+          "source_ratio": 11.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11800000000000001,
+          "source_luminance": 0.0321,
+          "source_saturation": 0.1887
+        },
+        {
+          "hex": "#B4977E",
+          "source_ratio": 10.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10099999999999999,
+          "source_luminance": 0.3334,
+          "source_saturation": 0.3
+        },
+        {
+          "hex": "#1D211D",
+          "source_ratio": 9.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.092,
+          "source_luminance": 0.0144,
+          "source_saturation": 0.1212
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2023/09/25/bardo-false-chronicle-of-a-handful-of-truths/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/042_AlejandroInarritu_伊纳里图/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Bardo_01.jpg?bwg=1680014122",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/042_AlejandroInarritu_伊纳里图/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Bardo_17.jpg?bwg=1680014122",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/042_AlejandroInarritu_伊纳里图/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Bardo_34.jpg?bwg=1680014122",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/042_AlejandroInarritu_伊纳里图/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Bardo_50.jpg?bwg=1680014122",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/042_AlejandroInarritu_伊纳里图/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/042_AlejandroInarritu_伊纳里图/assets/references/reference_director_manifest.json",
+      "sha256": "f1a716811e76b9e8245574fc4352a235f25e3c92e82ad8823e1b5927e22dd342",
+      "declared_urls": [
+        "https://film-grab.com/2025/04/09/amores-perros/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Amores_Perros_01.jpg?bwg=1718099316",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Amores_Perros_22.jpg?bwg=1718099315",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Amores_Perros_44.jpg?bwg=1718099315",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Amores_Perros_65.jpg?bwg=1718099315",
+        "https://film-grab.com/2025/11/24/babel/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Babel_01.jpg?bwg=1721915968",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Babel_20.jpg?bwg=1721915966",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Babel_39.jpg?bwg=1721915966",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Babel_58.jpg?bwg=1721915966",
+        "https://film-grab.com/2015/05/08/birdman/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (146).jpg?bwg=1547150414",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/18 (149).jpg?bwg=1547150414",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/34 (148).jpg?bwg=1547150414",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/51 (139).jpg?bwg=1547150414",
+        "https://film-grab.com/2023/09/25/bardo-false-chronicle-of-a-handful-of-truths/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Bardo_01.jpg?bwg=1680014122",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Bardo_17.jpg?bwg=1680014122",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Bardo_34.jpg?bwg=1680014122",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Bardo_50.jpg?bwg=1680014122"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/042_AlejandroInarritu_伊纳里图/assets/references/reference_sources.md",
+      "sha256": "871e0e5ac819151f90dafc1fb62a98a4674e89536b01efa0cbc2e64e241e430d",
+      "declared_urls": [
+        "https://film-grab.com/2025/04/09/amores-perros/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Amores_Perros_01.jpg?bwg=1718099316",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Amores_Perros_22.jpg?bwg=1718099315",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Amores_Perros_44.jpg?bwg=1718099315",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Amores_Perros_65.jpg?bwg=1718099315",
+        "https://film-grab.com/2025/11/24/babel/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Babel_01.jpg?bwg=1721915968",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Babel_20.jpg?bwg=1721915966",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Babel_39.jpg?bwg=1721915966",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Babel_58.jpg?bwg=1721915966",
+        "https://film-grab.com/2015/05/08/birdman/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (146).jpg?bwg=1547150414",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/18 (149).jpg?bwg=1547150414",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/34 (148).jpg?bwg=1547150414",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/51 (139).jpg?bwg=1547150414",
+        "https://film-grab.com/2023/09/25/bardo-false-chronicle-of-a-handful-of-truths/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Bardo_01.jpg?bwg=1680014122",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Bardo_17.jpg?bwg=1680014122",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Bardo_34.jpg?bwg=1680014122",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Bardo_50.jpg?bwg=1680014122"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

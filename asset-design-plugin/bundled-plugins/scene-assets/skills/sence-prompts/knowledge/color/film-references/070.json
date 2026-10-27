@@ -1,0 +1,324 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "070",
+  "films": [
+    {
+      "title_zh": "野草蔓生",
+      "title_en": "River of Grass",
+      "year": 1994,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/98514/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/tErSuaPqo3XU5CWPSmORKwxRtwY.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/eE86C33CXs65iyPwEEIiMYEpvqa.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/M0vQ6nCg0Zd3tHH1wVC6gxRkea.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/slyNvviKpPrWIzodNnMU0g836LA.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/98514/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/070_KellyReichardt_凯莉·雷查德/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/tErSuaPqo3XU5CWPSmORKwxRtwY.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/070_KellyReichardt_凯莉·雷查德/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/eE86C33CXs65iyPwEEIiMYEpvqa.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/070_KellyReichardt_凯莉·雷查德/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/M0vQ6nCg0Zd3tHH1wVC6gxRkea.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/070_KellyReichardt_凯莉·雷查德/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/slyNvviKpPrWIzodNnMU0g836LA.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/070_KellyReichardt_凯莉·雷查德/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "米克的近路",
+      "title_en": "Meek's Cutoff",
+      "year": 2010,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/57120/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/hhD6lRCScoPd0k9VWTq4kYP8ToX.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/4JuVd36b7wfYtg5krSmFJKzZCPe.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/r5OcDVvL5NSRZ7JOZTpZDTVmzIE.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/mwEnuMOmbr1PmdBGB1Ud3pSZJgi.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/57120/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/070_KellyReichardt_凯莉·雷查德/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/hhD6lRCScoPd0k9VWTq4kYP8ToX.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/070_KellyReichardt_凯莉·雷查德/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/4JuVd36b7wfYtg5krSmFJKzZCPe.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/070_KellyReichardt_凯莉·雷查德/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/r5OcDVvL5NSRZ7JOZTpZDTVmzIE.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/070_KellyReichardt_凯莉·雷查德/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/mwEnuMOmbr1PmdBGB1Ud3pSZJgi.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/070_KellyReichardt_凯莉·雷查德/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "某种女人",
+      "title_en": "Certain Women",
+      "year": 2016,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/340487/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/rq63u5290HJ6k42J5Mfi8KNu8Rl.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/9LCawRttI7Klb0XY58ZoX5Yfz2l.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/g3AhzmTM76rjvHuT6y9RfEOuq9s.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/wH45fXExhJed21c4LU2xOmmb4Ki.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/340487/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/070_KellyReichardt_凯莉·雷查德/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/rq63u5290HJ6k42J5Mfi8KNu8Rl.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/070_KellyReichardt_凯莉·雷查德/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/9LCawRttI7Klb0XY58ZoX5Yfz2l.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/070_KellyReichardt_凯莉·雷查德/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/g3AhzmTM76rjvHuT6y9RfEOuq9s.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/070_KellyReichardt_凯莉·雷查德/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/wH45fXExhJed21c4LU2xOmmb4Ki.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/070_KellyReichardt_凯莉·雷查德/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "藝盜低飛",
+      "title_en": "The Mastermind",
+      "year": 2025,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/1352624/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/cfnrMVUAGOIMoxH5aXg1nBXR8xk.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/84zLndLA41ruDe5SRBUPIUQbFJm.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/fSPrXBPu0WXn2zPBjVOnHCocfjN.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/tyTYIkZud731bkPOncMtbzK1fsN.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/1352624/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/070_KellyReichardt_凯莉·雷查德/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/cfnrMVUAGOIMoxH5aXg1nBXR8xk.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/070_KellyReichardt_凯莉·雷查德/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/84zLndLA41ruDe5SRBUPIUQbFJm.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/070_KellyReichardt_凯莉·雷查德/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/fSPrXBPu0WXn2zPBjVOnHCocfjN.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/070_KellyReichardt_凯莉·雷查德/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/tyTYIkZud731bkPOncMtbzK1fsN.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/070_KellyReichardt_凯莉·雷查德/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/070_KellyReichardt_凯莉·雷查德/assets/references/reference_director_manifest.json",
+      "sha256": "7dc9209ed4e192cfe1c079e6f4b73fb71b5fc6e7214873d75a36d87bc64d681e",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/98514/images/backdrops",
+        "https://image.tmdb.org/t/p/original/tErSuaPqo3XU5CWPSmORKwxRtwY.jpg",
+        "https://image.tmdb.org/t/p/original/eE86C33CXs65iyPwEEIiMYEpvqa.jpg",
+        "https://image.tmdb.org/t/p/original/M0vQ6nCg0Zd3tHH1wVC6gxRkea.jpg",
+        "https://image.tmdb.org/t/p/original/slyNvviKpPrWIzodNnMU0g836LA.jpg",
+        "https://www.themoviedb.org/movie/57120/images/backdrops",
+        "https://image.tmdb.org/t/p/original/hhD6lRCScoPd0k9VWTq4kYP8ToX.jpg",
+        "https://image.tmdb.org/t/p/original/4JuVd36b7wfYtg5krSmFJKzZCPe.jpg",
+        "https://image.tmdb.org/t/p/original/r5OcDVvL5NSRZ7JOZTpZDTVmzIE.jpg",
+        "https://image.tmdb.org/t/p/original/mwEnuMOmbr1PmdBGB1Ud3pSZJgi.jpg",
+        "https://www.themoviedb.org/movie/340487/images/backdrops",
+        "https://image.tmdb.org/t/p/original/rq63u5290HJ6k42J5Mfi8KNu8Rl.jpg",
+        "https://image.tmdb.org/t/p/original/9LCawRttI7Klb0XY58ZoX5Yfz2l.jpg",
+        "https://image.tmdb.org/t/p/original/g3AhzmTM76rjvHuT6y9RfEOuq9s.jpg",
+        "https://image.tmdb.org/t/p/original/wH45fXExhJed21c4LU2xOmmb4Ki.jpg",
+        "https://www.themoviedb.org/movie/1352624/images/backdrops",
+        "https://image.tmdb.org/t/p/original/cfnrMVUAGOIMoxH5aXg1nBXR8xk.jpg",
+        "https://image.tmdb.org/t/p/original/84zLndLA41ruDe5SRBUPIUQbFJm.jpg",
+        "https://image.tmdb.org/t/p/original/fSPrXBPu0WXn2zPBjVOnHCocfjN.jpg",
+        "https://image.tmdb.org/t/p/original/tyTYIkZud731bkPOncMtbzK1fsN.jpg"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/070_KellyReichardt_凯莉·雷查德/assets/references/reference_sources.md",
+      "sha256": "8aaf0163bda1de77e2b2b19d60de2265a99dc0d3b2eb9abb756f92d54aef49fa",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/98514/images/backdrops",
+        "https://image.tmdb.org/t/p/original/tErSuaPqo3XU5CWPSmORKwxRtwY.jpg",
+        "https://image.tmdb.org/t/p/original/eE86C33CXs65iyPwEEIiMYEpvqa.jpg",
+        "https://image.tmdb.org/t/p/original/M0vQ6nCg0Zd3tHH1wVC6gxRkea.jpg",
+        "https://image.tmdb.org/t/p/original/slyNvviKpPrWIzodNnMU0g836LA.jpg",
+        "https://www.themoviedb.org/movie/57120/images/backdrops",
+        "https://image.tmdb.org/t/p/original/hhD6lRCScoPd0k9VWTq4kYP8ToX.jpg",
+        "https://image.tmdb.org/t/p/original/4JuVd36b7wfYtg5krSmFJKzZCPe.jpg",
+        "https://image.tmdb.org/t/p/original/r5OcDVvL5NSRZ7JOZTpZDTVmzIE.jpg",
+        "https://image.tmdb.org/t/p/original/mwEnuMOmbr1PmdBGB1Ud3pSZJgi.jpg",
+        "https://www.themoviedb.org/movie/340487/images/backdrops",
+        "https://image.tmdb.org/t/p/original/rq63u5290HJ6k42J5Mfi8KNu8Rl.jpg",
+        "https://image.tmdb.org/t/p/original/9LCawRttI7Klb0XY58ZoX5Yfz2l.jpg",
+        "https://image.tmdb.org/t/p/original/g3AhzmTM76rjvHuT6y9RfEOuq9s.jpg",
+        "https://image.tmdb.org/t/p/original/wH45fXExhJed21c4LU2xOmmb4Ki.jpg",
+        "https://www.themoviedb.org/movie/1352624/images/backdrops",
+        "https://image.tmdb.org/t/p/original/cfnrMVUAGOIMoxH5aXg1nBXR8xk.jpg",
+        "https://image.tmdb.org/t/p/original/84zLndLA41ruDe5SRBUPIUQbFJm.jpg",
+        "https://image.tmdb.org/t/p/original/fSPrXBPu0WXn2zPBjVOnHCocfjN.jpg",
+        "https://image.tmdb.org/t/p/original/tyTYIkZud731bkPOncMtbzK1fsN.jpg"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

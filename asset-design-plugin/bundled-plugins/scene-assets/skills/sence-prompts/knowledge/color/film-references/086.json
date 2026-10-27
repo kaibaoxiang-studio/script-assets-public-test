@@ -1,0 +1,324 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "086",
+  "films": [
+    {
+      "title_zh": "Red Sorghum",
+      "title_en": "Red Sorghum",
+      "year": 1988,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2026/03/14/red-sorghum/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Red_Sorghum_01.jpg?bwg=1713948171",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Red_Sorghum_22.jpg?bwg=1713948171",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Red_Sorghum_44.jpg?bwg=1713948170",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Red_Sorghum_65.jpg?bwg=1713948170",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2026/03/14/red-sorghum/",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/086_ZhangYimou_张艺谋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Red_Sorghum_01.jpg?bwg=1713948171",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/086_ZhangYimou_张艺谋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Red_Sorghum_22.jpg?bwg=1713948171",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/086_ZhangYimou_张艺谋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Red_Sorghum_44.jpg?bwg=1713948170",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/086_ZhangYimou_张艺谋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Red_Sorghum_65.jpg?bwg=1713948170",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/086_ZhangYimou_张艺谋/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Shanghai Triad",
+      "title_en": "Shanghai Triad",
+      "year": 1995,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2023/01/18/shanghai-triad/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Shanghai_Triad_001.jpg?bwg=1642586872",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Shanghai_Triad_013.jpg?bwg=1642586872",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Shanghai_Triad_025.jpg?bwg=1642586872",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Shanghai_Triad_037.jpg?bwg=1642586873",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2023/01/18/shanghai-triad/",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/086_ZhangYimou_张艺谋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Shanghai_Triad_001.jpg?bwg=1642586872",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/086_ZhangYimou_张艺谋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Shanghai_Triad_013.jpg?bwg=1642586872",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/086_ZhangYimou_张艺谋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Shanghai_Triad_025.jpg?bwg=1642586872",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/086_ZhangYimou_张艺谋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Shanghai_Triad_037.jpg?bwg=1642586873",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/086_ZhangYimou_张艺谋/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Shadow",
+      "title_en": "Shadow",
+      "year": 2018,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/11/16/shadow/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Shadow_01.jpg?bwg=1710710951",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Shadow_22.jpg?bwg=1710710951",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Shadow_44.jpg?bwg=1710710950",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Shadow_65.jpg?bwg=1710710950",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/11/16/shadow/",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/086_ZhangYimou_张艺谋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Shadow_01.jpg?bwg=1710710951",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/086_ZhangYimou_张艺谋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Shadow_22.jpg?bwg=1710710951",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/086_ZhangYimou_张艺谋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Shadow_44.jpg?bwg=1710710950",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/086_ZhangYimou_张艺谋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Shadow_65.jpg?bwg=1710710950",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/086_ZhangYimou_张艺谋/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Under The Light",
+      "title_en": "Under The Light",
+      "year": 2023,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/01/29/under-the-light/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Under_The_Light_01.jpg?bwg=1718183196",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Under_The_Light_22.jpg?bwg=1718183190",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Under_The_Light_44.jpg?bwg=1718183190",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Under_The_Light_65.jpg?bwg=1718183190",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/01/29/under-the-light/",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/086_ZhangYimou_张艺谋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Under_The_Light_01.jpg?bwg=1718183196",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/086_ZhangYimou_张艺谋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Under_The_Light_22.jpg?bwg=1718183190",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/086_ZhangYimou_张艺谋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Under_The_Light_44.jpg?bwg=1718183190",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/086_ZhangYimou_张艺谋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Under_The_Light_65.jpg?bwg=1718183190",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/086_ZhangYimou_张艺谋/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/086_ZhangYimou_张艺谋/assets/references/reference_director_manifest.json",
+      "sha256": "bb82e14c85d6d012b5a1bb0778d7f14734329d855c71d09fe7c7a0a65e2958f7",
+      "declared_urls": [
+        "https://film-grab.com/2026/03/14/red-sorghum/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Red_Sorghum_01.jpg?bwg=1713948171",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Red_Sorghum_22.jpg?bwg=1713948171",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Red_Sorghum_44.jpg?bwg=1713948170",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Red_Sorghum_65.jpg?bwg=1713948170",
+        "https://film-grab.com/2023/01/18/shanghai-triad/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Shanghai_Triad_001.jpg?bwg=1642586872",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Shanghai_Triad_013.jpg?bwg=1642586872",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Shanghai_Triad_025.jpg?bwg=1642586872",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Shanghai_Triad_037.jpg?bwg=1642586873",
+        "https://film-grab.com/2025/11/16/shadow/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Shadow_01.jpg?bwg=1710710951",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Shadow_22.jpg?bwg=1710710951",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Shadow_44.jpg?bwg=1710710950",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Shadow_65.jpg?bwg=1710710950",
+        "https://film-grab.com/2025/01/29/under-the-light/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Under_The_Light_01.jpg?bwg=1718183196",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Under_The_Light_22.jpg?bwg=1718183190",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Under_The_Light_44.jpg?bwg=1718183190",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Under_The_Light_65.jpg?bwg=1718183190"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/086_ZhangYimou_张艺谋/assets/references/reference_sources.md",
+      "sha256": "e7f51da0a8b006cb04922cfc91aabf9fdf40e3983d7a9cd2d7b7808011e894c8",
+      "declared_urls": [
+        "https://film-grab.com/2026/03/14/red-sorghum/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Red_Sorghum_01.jpg?bwg=1713948171",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Red_Sorghum_22.jpg?bwg=1713948171",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Red_Sorghum_44.jpg?bwg=1713948170",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Red_Sorghum_65.jpg?bwg=1713948170",
+        "https://film-grab.com/2023/01/18/shanghai-triad/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Shanghai_Triad_001.jpg?bwg=1642586872",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Shanghai_Triad_013.jpg?bwg=1642586872",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Shanghai_Triad_025.jpg?bwg=1642586872",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Shanghai_Triad_037.jpg?bwg=1642586873",
+        "https://film-grab.com/2025/11/16/shadow/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Shadow_01.jpg?bwg=1710710951",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Shadow_22.jpg?bwg=1710710951",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Shadow_44.jpg?bwg=1710710950",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Shadow_65.jpg?bwg=1710710950",
+        "https://film-grab.com/2025/01/29/under-the-light/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Under_The_Light_01.jpg?bwg=1718183196",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Under_The_Light_22.jpg?bwg=1718183190",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Under_The_Light_44.jpg?bwg=1718183190",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Under_The_Light_65.jpg?bwg=1718183190"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

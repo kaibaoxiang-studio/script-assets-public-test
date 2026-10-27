@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0.0",
+  "id": "014",
+  "label": {
+    "name_zh": "乔纳森·格雷泽",
+    "name_en": "Jonathan Glazer",
+    "category": "01_黑色悬疑与冷调惊悚",
+    "source_volume": "第1期_SKILL_冷调与大地_001-080"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "虚空黑",
+        "name_en": "Void Black",
+        "hex": "#0A0A0A",
+        "source_ratio": 0.45,
+        "normalized_ratio": 0.45,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "深渊蓝灰",
+        "name_en": "Abyss Blue Gray",
+        "hex": "#1C2833",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "凝固血",
+        "name_en": "Coagulated Blood Red",
+        "hex": "#78281F",
+        "source_ratio": 0.12,
+        "normalized_ratio": 0.12,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "铁灰蓝",
+        "name_en": "Iron Gray Blue",
+        "hex": "#5D6D7E",
+        "source_ratio": 0.1,
+        "normalized_ratio": 0.1,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "冷灰雾",
+        "name_en": "Cold Mist Gray",
+        "hex": "#AAB7B8",
+        "source_ratio": 0.08,
+        "normalized_ratio": 0.08,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "苍白肤",
+        "name_en": "Pale Pink Skin",
+        "hex": "#F5B7B1",
+        "source_ratio": 0.07,
+        "normalized_ratio": 0.07,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "绝对黑",
+        "name_en": "Absolute Black",
+        "hex": "#000000",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "虚无、未知、存在的深渊"
+      },
+      {
+        "code": "E02",
+        "name_zh": "原初红",
+        "name_en": "Primal Red",
+        "hex": "#E74C3C",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "原始欲望、生命与死亡、肉体的真相"
+      },
+      {
+        "code": "E03",
+        "name_zh": "冷钢蓝",
+        "name_en": "Cold Steel Blue",
+        "hex": "#85929E",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "疏离、观察、非人的视角"
+      },
+      {
+        "code": "E04",
+        "name_zh": "幽灵白",
+        "name_en": "Ghost White",
+        "hex": "#F4F6F7",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "纯真的丧失、人类的脆弱、超自然"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "极简光源，大面积暗部，精准的单光源设计",
+      "highlight_description": "冷白偏灰（自然光/日光灯/未知光源）",
+      "shadow_description": "纯黑（虚空/暗部/未知空间）",
+      "contrast_description": "极高对比（85-95%），大面积纯黑",
+      "overall_tone": "冷黑实验，90%冷暗 + 10%微弱暖调"
+    },
+    "color_keywords": [
+      "冷黑实验",
+      "抽象恐怖",
+      "极简色彩",
+      "大面积暗部",
+      "冷白高光",
+      "血红点缀",
+      "铁灰冷调",
+      "雾蒙蒙白",
+      "肤色苍白",
+      "虚空纯黑"
+    ],
+    "mood_keywords": [
+      "存在主义恐惧",
+      "超自然疏离",
+      "抽象恐怖",
+      "非人视角",
+      "人类的渺小",
+      "身份消融",
+      "生命与死亡",
+      "时间的静止",
+      "道德深渊",
+      "不可名状"
+    ],
+    "composition_keywords": [
+      "极简极端构图",
+      "固定长镜头",
+      "对称几何",
+      "大面积暗部",
+      "人物渺小化",
+      "抽象空间",
+      "手持观察",
+      "水面倒影",
+      "低角度仰拍",
+      "负空间构图"
+    ],
+    "style_profile": {
+      "definition": "固定日常观察、边界空间与画外声音制造道德和身体异化",
+      "lighting": "自然日光、平直室内光与局部不可解释黑暗；肤色保持自然可读，高光和黑位保留材质。",
+      "framing": "固定宽景、房间全貌、边界线和冷静人物位置",
+      "grading": "花园绿、墙白、制服灰黑、家居暖色与纯黑；局部强调色不污染整幅画面。",
+      "avoid": "统一滤镜替代真实材质、无动机环绕和随机变焦、人物身份与空间轴漂移、肤色污染、死黑和爆白、只模仿颜色不执行镜头语言。"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "014",
+      "relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/014_JonathanGlazer_乔纳森·格雷泽/assets/color_palettes/palette.json",
+      "sha256": "a986a085c1c534d4100fbb9ca27c12ae9c71cb1ce010554a8c13991e1619a924"
+    },
+    "source_entry_relative_dir": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/014_JonathanGlazer_乔纳森·格雷泽",
+    "source_records": [
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/014_JonathanGlazer_乔纳森·格雷泽/assets/references/reference_director_manifest.json",
+        "sha256": "e297a2f841d04d524603a8e88c91684fe4649fcfb8ed73ae6ffca4c8110f7834",
+        "declared_url_count": 20,
+        "externally_verified": false
+      },
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/014_JonathanGlazer_乔纳森·格雷泽/assets/references/reference_sources.md",
+        "sha256": "c76ab6b6c7f0a2ed66472a2a684e1eb15d30de7f15b56837bd47208bc877c1da",
+        "declared_url_count": 20,
+        "externally_verified": false
+      }
+    ],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 4,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": "film-references/014.json"
+}

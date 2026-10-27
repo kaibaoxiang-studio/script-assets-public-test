@@ -1,0 +1,296 @@
+{
+  "schema_version": "CharacterKnowledgeSourceRegisterV1",
+  "sources": [
+    {
+      "id": "character-course",
+      "title": "AI角色概念设计课.docx",
+      "sha256": "04ab20e00dd9983964f18f69e57059bdefef43109e8e3c4f94f955e57b72f363",
+      "adopted_in": [
+        "references/character-design.md",
+        "references/costume-and-morphology.md"
+      ]
+    },
+    {
+      "id": "asset-concept",
+      "title": "资产概念knowledge.docx",
+      "sha256": "343a42ab44bc8d84c34d62bb7d3b8c8d30b3c53f3ff199bbae3b47674599cdd7",
+      "adopted_in": [
+        "references/execution-sheet.md",
+        "references/expression.md"
+      ]
+    },
+    {
+      "id": "character-design-knowledge",
+      "title": "角色概念设计知识库.zip",
+      "sha256": "0f95d6493678ab129047767a80fbfd1c63b207a5e475f26e80424d4d305a277d",
+      "adopted_in": [
+        "references/character-design.md",
+        "references/review.md"
+      ]
+    },
+    {
+      "id": "costume-knowledge",
+      "title": "服装史与造型风格知识库.zip",
+      "sha256": "ed0034c9e4aa857f898872800d85945f46eec0aa73bb9a432da645fef70f9e85",
+      "adopted_in": [
+        "references/costume-and-morphology.md"
+      ]
+    },
+    {
+      "id": "nonhuman-knowledge",
+      "title": "非人角色与极端体型知识库.zip",
+      "sha256": "98464f8f0e6d6744a5b8063be6ff3a40db7ff33c4f790b7223e958f98fc0e929",
+      "adopted_in": [
+        "references/costume-and-morphology.md",
+        "references/execution-sheet.md"
+      ]
+    },
+    {
+      "id": "ensemble-application",
+      "title": "AI角色_上传一个故事做出整套角色设计.docx",
+      "sha256": "d42c3893aa8399f81f28c8fd16a95e74cf485960649f4aff15f08c629053dc94",
+      "adopted_in": [
+        "references/character-design.md"
+      ]
+    },
+    {
+      "id": "ensemble-rar",
+      "title": "create-character-ensemble RAR",
+      "origin": "https://superiguowai.mfdemo.cn/chaoji/2026/10/20/6ad737b25b707.rar",
+      "sha256": "ef0496aeea3c3c105b23c2de27cb191ed2d8102d47d4e7f6b196ec1c765af18b",
+      "license": "not provided",
+      "adopted_in": [
+        "references/character-design.md",
+        "references/review.md"
+      ]
+    },
+    {
+      "id": "script-plugins",
+      "origin": "https://github.com/kaibaoxiang-studio/script-plugins",
+      "revision": "9110d951e882e3ac89a013f2fea42e142fa08b3f",
+      "adopted_in": [
+        "references/evidence.md",
+        "references/interfaces.md"
+      ]
+    },
+    {
+      "id": "higgsfield-skills",
+      "origin": "https://github.com/higgsfield-ai/skills",
+      "revision": "f83af0bc1d937c8119099a11f8ebbf5e6fb99819",
+      "license": "MIT",
+      "adopted_in": [
+        "references/prompting.md",
+        "references/editing.md"
+      ]
+    },
+    {
+      "id": "openai-image-prompting",
+      "origin": "https://developers.openai.com/api/docs/guides/image-prompting",
+      "checked_on": "2026-10-21",
+      "adopted_in": [
+        "references/prompting.md",
+        "references/editing.md"
+      ]
+    },
+    {
+      "id": "hedgehog-2d3d",
+      "title": "刺猬星球素材/3d角色质感提示词/2d转3d提示词.txt",
+      "sha256": "6faa60a3f7b37e46d2ae4401d2f83729887deba031c2619bb87d3d3ea210b7fa",
+      "license": "not provided",
+      "adopted_in": [
+        "references/knowledge/character-image-prompt/hedgehog-2d3d.md",
+        "references/review.md"
+      ],
+      "adaptation": "只研究身份锚点与媒介转换，独立写规则；不复制提示词或图片"
+    },
+    {
+      "id": "hedgehog-poster-reference",
+      "title": "刺猬星球素材/3d角色质感提示词/替换海报角色提示词.txt",
+      "sha256": "ec94b106196958c3d25332d07547192c9aec5d2eb7a6733aab9cece7ca779a79",
+      "license": "not provided",
+      "adopted_in": [
+        "references/prompting.md"
+      ],
+      "adaptation": "提取参考图职责分离方法；服装替换改为需变体审批"
+    },
+    {
+      "id": "hedgehog-anime-concept",
+      "title": "刺猬星球素材/动漫PV角色概念设计/SKILL.md",
+      "sha256": "bf266f8942438273ead0e2d6fe1a26b9988e2dfaecd12b5b15eb48417975ae11",
+      "license": "not provided",
+      "adopted_in": [
+        "references/prompting.md",
+        "references/review.md"
+      ],
+      "adaptation": "提取风格与具体人物分离及回图诊断；不继承固定海报画风和比例"
+    },
+    {
+      "id": "hedgehog-execution-example",
+      "title": "刺猬星球素材/打斗提示词/四视图提示词.txt",
+      "sha256": "b750b10de906df64261ff823baf9f236077711eff4c8798efe68adcd27cef7d2",
+      "license": "not provided",
+      "adopted_in": [
+        "references/source-notes.md"
+      ],
+      "adaptation": "与已有执行板规则比较；保留本插件约45度半侧脸合同，不复制示例"
+    },
+    {
+      "id": "hedgehog-general-image-skill",
+      "title": "刺猬星球素材/01-通用图片生成/SKILL.md",
+      "sha256": "3e8fdab2d0c0b69d121503a2d2833a067a672afca21b51c5e1ac99a1f30860fb",
+      "license": "Apache-2.0",
+      "adopted_in": [
+        "references/knowledge/character-image-prompt/hedgehog-general-image-skill.md",
+        "references/prompting.md"
+      ],
+      "adaptation": "独立改写新图/修图分流、参考图职责和提示词详略规则；不复制工具调用代码"
+    },
+    {
+      "id": "hedgehog-general-image-prompting",
+      "title": "刺猬星球素材/01-通用图片生成/references/prompting.md",
+      "sha256": "d957a45cb24fe2cf1a85858674fc533f15a5f4621355f559a13a93168999c2dd",
+      "license": "Apache-2.0",
+      "adopted_in": [
+        "references/knowledge/character-image-edit/hedgehog-general-image-prompting.md",
+        "references/editing.md"
+      ],
+      "adaptation": "独立改写单项修图、文字原样与整图复核；保留外部出图"
+    },
+    {
+      "id": "v020-hair",
+      "title": "发型设计知识库.zip",
+      "sha256": "54c08406b4382ea0f4b7a749055ce9f86743a8257d0f2588254252fff1928abb",
+      "license": "not provided; user-supplied method input",
+      "adopted_in": [
+        "references/knowledge/character-hair-design/hair.md"
+      ],
+      "adaptation": "独立撰写聚焦规则，不复制课程或旧 Skill 原文；成员哈希见 creator-src/knowledge-adoption.json"
+    },
+    {
+      "id": "v020-body",
+      "title": "形体体态设计知识库.zip",
+      "sha256": "00136fde7b8cf5f68f7a1d431cf15aef73e1d8c2b395882a8091cd40e0c61d30",
+      "license": "not provided; user-supplied method input",
+      "adopted_in": [
+        "references/knowledge/character-body-design/body.md"
+      ],
+      "adaptation": "独立撰写聚焦规则，不复制课程或旧 Skill 原文；成员哈希见 creator-src/knowledge-adoption.json"
+    },
+    {
+      "id": "v020-face",
+      "title": "五官与面部差异化设计知识库.zip",
+      "sha256": "2c322d0bdf76ea3b2dbd17115cf63e0f4f1f2b8ba24565a9e7f790a18bf076cb",
+      "license": "not provided; user-supplied method input",
+      "adopted_in": [
+        "references/knowledge/character-face-design/face.md"
+      ],
+      "adaptation": "独立撰写聚焦规则，不复制课程或旧 Skill 原文；成员哈希见 creator-src/knowledge-adoption.json"
+    },
+    {
+      "id": "v020-face-memory",
+      "title": "面部记忆点与锁骨以上饰品设计.zip",
+      "sha256": "2cfdb5f9f603f779be99ab0c3536c85a27e276165019d51cfbdfbfae813dbb61",
+      "license": "not provided; user-supplied method input",
+      "adopted_in": [
+        "references/knowledge/character-face-signature-design/face-memory.md"
+      ],
+      "adaptation": "独立撰写聚焦规则，不复制课程或旧 Skill 原文；成员哈希见 creator-src/knowledge-adoption.json"
+    },
+    {
+      "id": "v020-skin",
+      "title": "皮肤肌理与质感知识库.zip",
+      "sha256": "b473b4760c0d4bcaf9fd71c1bf4402a6b2dbf57c1e8816fdbc5ff221689e9e42",
+      "license": "not provided; user-supplied method input",
+      "adopted_in": [
+        "references/knowledge/character-skin-design/skin.md"
+      ],
+      "adaptation": "独立撰写聚焦规则，不复制课程或旧 Skill 原文；成员哈希见 creator-src/knowledge-adoption.json"
+    },
+    {
+      "id": "v020-costume-cut",
+      "title": "服饰剪裁设计知识库.zip",
+      "sha256": "f2186d5b7292d5e2f4b5bb8a1a947be08500e08c1b091733fda393229472c03f",
+      "license": "not provided; user-supplied method input",
+      "adopted_in": [
+        "references/knowledge/character-costume-cut-design/costume-cut.md"
+      ],
+      "adaptation": "独立撰写聚焦规则，不复制课程或旧 Skill 原文；成员哈希见 creator-src/knowledge-adoption.json"
+    },
+    {
+      "id": "v020-costume-style",
+      "title": "服饰款式设计知识库.zip",
+      "sha256": "6ee6dd619992bc12808444b1f0fe3d04c3457bbc69c9320815eb78749979a6e2",
+      "license": "not provided; user-supplied method input",
+      "adopted_in": [
+        "references/knowledge/character-costume-style-design/costume-style.md"
+      ],
+      "adaptation": "独立撰写聚焦规则，不复制课程或旧 Skill 原文；成员哈希见 creator-src/knowledge-adoption.json"
+    },
+    {
+      "id": "v020-ensemble",
+      "title": "角色群像差异化设计知识库.zip",
+      "sha256": "964fed322d36899f83014a5f70f642ccedbb3efa9bcf23e2bbf82cf1808113dd",
+      "license": "not provided; user-supplied method input",
+      "adopted_in": [
+        "references/knowledge/character-cast-differentiation/ensemble.md"
+      ],
+      "adaptation": "独立撰写聚焦规则，不复制课程或旧 Skill 原文；成员哈希见 creator-src/knowledge-adoption.json"
+    },
+    {
+      "id": "v020-costume-color",
+      "title": "服饰配色设计知识库.zip",
+      "sha256": "095795ac91aeffbcef8db5e94e207d61e96f123c3b8d0223ed95f989f5c809cc",
+      "license": "not provided; user-supplied method input",
+      "adopted_in": [
+        "references/knowledge/character-costume-color-design/costume-color.md"
+      ],
+      "adaptation": "独立撰写聚焦规则，不复制课程或旧 Skill 原文；成员哈希见 creator-src/knowledge-adoption.json"
+    },
+    {
+      "id": "v020-costume-material",
+      "title": "服饰材质设计知识库.zip",
+      "sha256": "338cb29f9a90ecc4f495a829cd61250850312c136d13d406da0da6cb8e0bbf7e",
+      "license": "not provided; user-supplied method input",
+      "adopted_in": [
+        "references/knowledge/character-costume-material-design/costume-material.md"
+      ],
+      "adaptation": "独立撰写聚焦规则，不复制课程或旧 Skill 原文；成员哈希见 creator-src/knowledge-adoption.json"
+    },
+    {
+      "id": "v020-costume-accessory",
+      "title": "服饰饰品设计知识库.zip",
+      "sha256": "a6cddefd194bedbecd87dd356758facabbd1e6bba6103db3c9869e2092b6e25f",
+      "license": "not provided; user-supplied method input",
+      "adopted_in": [
+        "references/knowledge/character-costume-accessory-design/costume-accessory.md"
+      ],
+      "adaptation": "独立撰写聚焦规则，不复制课程或旧 Skill 原文；成员哈希见 creator-src/knowledge-adoption.json"
+    },
+    {
+      "id": "v020-legacy-visual",
+      "title": "novel-characters-visual.zip",
+      "sha256": "134a1bb8476d8c99338c6c36bac27746f9a2bd9907dfb2dd919a0ad33f224d6c",
+      "license": "not provided; user-supplied method input",
+      "adopted_in": [
+        "references/knowledge/character-cast-differentiation/legacy-visual.md"
+      ],
+      "adaptation": "独立撰写聚焦规则，不复制课程或旧 Skill 原文；成员哈希见 creator-src/knowledge-adoption.json"
+    },
+    {
+      "id": "anti-stereotype-texture",
+      "title": "拒绝脸谱化人物设计-知识库.zip",
+      "sha256": "c352eca853c498c43c5ea3b363d1e83ff9eeadee9150899d3edcade04dd5bc5f",
+      "adopted_in": [
+        "references/design-detail-standard.md",
+        "references/render-texture-standard.md",
+        "references/knowledge/character-design/anti-stereotype-texture.md",
+        "references/knowledge/character-cast-differentiation/anti-stereotype-texture.md",
+        "references/knowledge/character-skin-design/anti-stereotype-texture.md",
+        "references/knowledge/character-costume-material-design/anti-stereotype-texture.md",
+        "references/knowledge/character-image-prompt/anti-stereotype-texture.md",
+        "references/knowledge/character-image-review/anti-stereotype-texture.md",
+        "references/knowledge/character-image-edit/anti-stereotype-texture.md"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "schema_version": "1.0.0",
+  "id": "061",
+  "label": {
+    "name_zh": "塔可夫斯基",
+    "name_en": "AndreiTarkovsky",
+    "category": "04_极简冷构与静观长镜",
+    "source_volume": "第1期_SKILL_冷调与大地_001-080"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "雾灰绿",
+        "name_en": "Mist Gray Green",
+        "hex": "#4A5D52",
+        "source_ratio": 0.22,
+        "normalized_ratio": 0.22,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "苔藓灰",
+        "name_en": "Moss Gray",
+        "hex": "#6B7B6E",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "晨雾绿",
+        "name_en": "Morning Mist Green",
+        "hex": "#8B9A8D",
+        "source_ratio": 0.16,
+        "normalized_ratio": 0.16,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "旧木米",
+        "name_en": "Aged Wood Beige",
+        "hex": "#C4B8A3",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "大地棕灰",
+        "name_en": "Earth Brown Gray",
+        "hex": "#5A5248",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "深林暗绿",
+        "name_en": "Deep Forest Dark Green",
+        "hex": "#2D3A34",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "",
+        "name_en": "Emotional 1",
+        "hex": "#D4CFBE",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "神圣与冥想"
+      },
+      {
+        "code": "E02",
+        "name_zh": "",
+        "name_en": "Emotional 2",
+        "hex": "#3D4F46",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "存在与沉思"
+      },
+      {
+        "code": "E03",
+        "name_zh": "",
+        "name_en": "Emotional 3",
+        "hex": "#8BA395",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "自然与永恒"
+      },
+      {
+        "code": "E04",
+        "name_zh": "",
+        "name_en": "Emotional 4",
+        "hex": "#1F2825",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "时间与消逝"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "柔光散射",
+      "highlight_description": "雾气弥漫",
+      "shadow_description": "窗光神圣",
+      "contrast_description": "中高对比",
+      "overall_tone": "冷调"
+    },
+    "color_keywords": [
+      "雾灰绿调",
+      "自然柔光",
+      "水反光",
+      "大地色系",
+      "低饱和",
+      "空气透视"
+    ],
+    "mood_keywords": [
+      "诗意沉思",
+      "灵魂升华",
+      "时间重量",
+      "自然神性",
+      "存在主义",
+      "梦幻记忆"
+    ],
+    "composition_keywords": [
+      "长镜头静观",
+      "自然风景构图",
+      "水元素意象",
+      "建筑与人物关系",
+      "缓慢平移",
+      "深焦纵深"
+    ],
+    "style_profile": {
+      "definition": "塔可夫斯基的视觉风格以柔光散射为主，雾灰绿调、自然柔光、水反光，营造出诗意沉思的氛围。",
+      "lighting": "柔光散射，高光偏雾气弥漫，阴影偏窗光神圣，整体冷调。",
+      "composition": [],
+      "mood": [],
+      "framing": "长镜头静观、自然风景构图、水元素意象，强调视觉层次感。",
+      "grading": "对比度中高对比，色调冷调，色彩雾灰绿调、自然柔光、水反光。",
+      "avoid": "避免快速剪辑、避免强烈明暗对比、避免色彩杂乱"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "061",
+      "relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/061_AndreiTarkovsky_塔可夫斯基/assets/color_palettes/palette.json",
+      "sha256": "25bdc2f3acf636489b64d3793a4f0f2b18f91bd63454f0eaf471935abb89c515"
+    },
+    "source_entry_relative_dir": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/061_AndreiTarkovsky_塔可夫斯基",
+    "source_records": [
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/061_AndreiTarkovsky_塔可夫斯基/assets/references/reference_director_manifest.json",
+        "sha256": "1c0976918eb620c98be8cf661b82420fb30f44e3040774e68bae45e2d4258d27",
+        "declared_url_count": 20,
+        "externally_verified": false
+      },
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/061_AndreiTarkovsky_塔可夫斯基/assets/references/reference_sources.md",
+        "sha256": "5873e5dafc1fe22e6d62025c594ceda2ee6b8e2b02ac3873078a7718b06df317",
+        "declared_url_count": 20,
+        "externally_verified": false
+      }
+    ],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 0,
+      "source_only": 4
+    }
+  },
+  "film_reference_path": "film-references/061.json"
+}

@@ -1,0 +1,324 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "073",
+  "films": [
+    {
+      "title_zh": "三峡好人",
+      "title_en": "Still Life",
+      "year": 2006,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/2346/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/1McjlKoYhOYYnB3HhSEpt75WGK5.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/7ztSRSFQtDpOh9285yhbP53uvur.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/8TIRO8lxg3yGRqQNIAE11FFfWZS.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/bTyDnRQ9k0ULFt4KcpFmaBBVqFW.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/2346/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/073_JiaZhangke_贾樟柯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/1McjlKoYhOYYnB3HhSEpt75WGK5.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/073_JiaZhangke_贾樟柯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/7ztSRSFQtDpOh9285yhbP53uvur.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/073_JiaZhangke_贾樟柯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/8TIRO8lxg3yGRqQNIAE11FFfWZS.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/073_JiaZhangke_贾樟柯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/bTyDnRQ9k0ULFt4KcpFmaBBVqFW.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/073_JiaZhangke_贾樟柯/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "天注定",
+      "title_en": "A Touch of Sin",
+      "year": 2013,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/187022/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/1hAAM6eHsSXBHkXMYwMrHxzhkc0.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/2uELP0BxvYanlPnszSbJnGXLy4A.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/5lHfcLCL3pNFV5qTX1h3xL92dpN.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/cJOW9fpnGMfT0qZWX9v6ag5NaU7.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/187022/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/073_JiaZhangke_贾樟柯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/1hAAM6eHsSXBHkXMYwMrHxzhkc0.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/073_JiaZhangke_贾樟柯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/2uELP0BxvYanlPnszSbJnGXLy4A.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/073_JiaZhangke_贾樟柯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/5lHfcLCL3pNFV5qTX1h3xL92dpN.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/073_JiaZhangke_贾樟柯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/cJOW9fpnGMfT0qZWX9v6ag5NaU7.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/073_JiaZhangke_贾樟柯/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "山河故人",
+      "title_en": "Mountains May Depart",
+      "year": 2015,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/314388/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/1yWVWs2nrUCd4iDvQfKaaR1xV1c.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/bMwYJlJJVVmU1VOsJDKZLqSEPJK.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/gAJgUS1DfkamTfvwehp0enR8dJ3.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/x86fmN6Ot5gGHiNcOY7lPwfBGKV.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/314388/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/073_JiaZhangke_贾樟柯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/1yWVWs2nrUCd4iDvQfKaaR1xV1c.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/073_JiaZhangke_贾樟柯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/bMwYJlJJVVmU1VOsJDKZLqSEPJK.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/073_JiaZhangke_贾樟柯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/gAJgUS1DfkamTfvwehp0enR8dJ3.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/073_JiaZhangke_贾樟柯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/x86fmN6Ot5gGHiNcOY7lPwfBGKV.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/073_JiaZhangke_贾樟柯/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "江湖儿女",
+      "title_en": "Ash Is Purest White",
+      "year": 2018,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/441393/images/backdrops",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/2Py3NcPP1NzL6JeflswufPQYcUY.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/36mt6Ca5dX5wB7UggmaZKKcuRk8.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/8eHY7S9upDwElJwj8oSZ7TtOICJ.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/9n2xYO3Cj9UEM91nZwZ8qAlvk0.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/441393/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/073_JiaZhangke_贾樟柯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/2Py3NcPP1NzL6JeflswufPQYcUY.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/073_JiaZhangke_贾樟柯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/36mt6Ca5dX5wB7UggmaZKKcuRk8.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/073_JiaZhangke_贾樟柯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/8eHY7S9upDwElJwj8oSZ7TtOICJ.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/073_JiaZhangke_贾樟柯/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/9n2xYO3Cj9UEM91nZwZ8qAlvk0.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/073_JiaZhangke_贾樟柯/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/073_JiaZhangke_贾樟柯/assets/references/reference_director_manifest.json",
+      "sha256": "075cbf154ad56a37327348caa5838a59540d7a0858b36f39c1ff21d3b681c6bd",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/2346/images/backdrops",
+        "https://image.tmdb.org/t/p/original/1McjlKoYhOYYnB3HhSEpt75WGK5.jpg",
+        "https://image.tmdb.org/t/p/original/7ztSRSFQtDpOh9285yhbP53uvur.jpg",
+        "https://image.tmdb.org/t/p/original/8TIRO8lxg3yGRqQNIAE11FFfWZS.jpg",
+        "https://image.tmdb.org/t/p/original/bTyDnRQ9k0ULFt4KcpFmaBBVqFW.jpg",
+        "https://www.themoviedb.org/movie/187022/images/backdrops",
+        "https://image.tmdb.org/t/p/original/1hAAM6eHsSXBHkXMYwMrHxzhkc0.jpg",
+        "https://image.tmdb.org/t/p/original/2uELP0BxvYanlPnszSbJnGXLy4A.jpg",
+        "https://image.tmdb.org/t/p/original/5lHfcLCL3pNFV5qTX1h3xL92dpN.jpg",
+        "https://image.tmdb.org/t/p/original/cJOW9fpnGMfT0qZWX9v6ag5NaU7.jpg",
+        "https://www.themoviedb.org/movie/314388/images/backdrops",
+        "https://image.tmdb.org/t/p/original/1yWVWs2nrUCd4iDvQfKaaR1xV1c.jpg",
+        "https://image.tmdb.org/t/p/original/bMwYJlJJVVmU1VOsJDKZLqSEPJK.jpg",
+        "https://image.tmdb.org/t/p/original/gAJgUS1DfkamTfvwehp0enR8dJ3.jpg",
+        "https://image.tmdb.org/t/p/original/x86fmN6Ot5gGHiNcOY7lPwfBGKV.jpg",
+        "https://www.themoviedb.org/movie/441393/images/backdrops",
+        "https://image.tmdb.org/t/p/original/2Py3NcPP1NzL6JeflswufPQYcUY.jpg",
+        "https://image.tmdb.org/t/p/original/36mt6Ca5dX5wB7UggmaZKKcuRk8.jpg",
+        "https://image.tmdb.org/t/p/original/8eHY7S9upDwElJwj8oSZ7TtOICJ.jpg",
+        "https://image.tmdb.org/t/p/original/9n2xYO3Cj9UEM91nZwZ8qAlvk0.jpg"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/073_JiaZhangke_贾樟柯/assets/references/reference_sources.md",
+      "sha256": "09d3eda6ec5e6256d375fcb8778b226673f55875022bbc128ade2fbb05fb46c0",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/2346/images/backdrops",
+        "https://image.tmdb.org/t/p/original/1McjlKoYhOYYnB3HhSEpt75WGK5.jpg",
+        "https://image.tmdb.org/t/p/original/7ztSRSFQtDpOh9285yhbP53uvur.jpg",
+        "https://image.tmdb.org/t/p/original/8TIRO8lxg3yGRqQNIAE11FFfWZS.jpg",
+        "https://image.tmdb.org/t/p/original/bTyDnRQ9k0ULFt4KcpFmaBBVqFW.jpg",
+        "https://www.themoviedb.org/movie/187022/images/backdrops",
+        "https://image.tmdb.org/t/p/original/1hAAM6eHsSXBHkXMYwMrHxzhkc0.jpg",
+        "https://image.tmdb.org/t/p/original/2uELP0BxvYanlPnszSbJnGXLy4A.jpg",
+        "https://image.tmdb.org/t/p/original/5lHfcLCL3pNFV5qTX1h3xL92dpN.jpg",
+        "https://image.tmdb.org/t/p/original/cJOW9fpnGMfT0qZWX9v6ag5NaU7.jpg",
+        "https://www.themoviedb.org/movie/314388/images/backdrops",
+        "https://image.tmdb.org/t/p/original/1yWVWs2nrUCd4iDvQfKaaR1xV1c.jpg",
+        "https://image.tmdb.org/t/p/original/bMwYJlJJVVmU1VOsJDKZLqSEPJK.jpg",
+        "https://image.tmdb.org/t/p/original/gAJgUS1DfkamTfvwehp0enR8dJ3.jpg",
+        "https://image.tmdb.org/t/p/original/x86fmN6Ot5gGHiNcOY7lPwfBGKV.jpg",
+        "https://www.themoviedb.org/movie/441393/images/backdrops",
+        "https://image.tmdb.org/t/p/original/2Py3NcPP1NzL6JeflswufPQYcUY.jpg",
+        "https://image.tmdb.org/t/p/original/36mt6Ca5dX5wB7UggmaZKKcuRk8.jpg",
+        "https://image.tmdb.org/t/p/original/8eHY7S9upDwElJwj8oSZ7TtOICJ.jpg",
+        "https://image.tmdb.org/t/p/original/9n2xYO3Cj9UEM91nZwZ8qAlvk0.jpg"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

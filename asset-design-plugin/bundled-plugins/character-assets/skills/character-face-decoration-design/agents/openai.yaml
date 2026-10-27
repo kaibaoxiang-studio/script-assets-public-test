@@ -1,0 +1,7 @@
+interface:
+  display_name: 面部装饰与妆容设计
+  short_description: 面部装饰与妆容设计：稳定、施加与临时状态
+  default_prompt: Use $character-face-decoration-design to complete the requested
+    task.
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,4 @@
+interface:
+  display_name: "道具配色设计"
+  short_description: "保留已有道具造型与材质，独立设计整件配色或指定部位的颜色调整方案"
+  default_prompt: "使用 $prop-color-design，只调整这件道具指定部位的配色，保留其他设计。"

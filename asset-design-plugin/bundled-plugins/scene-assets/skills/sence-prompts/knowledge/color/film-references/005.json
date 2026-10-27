@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "005",
+  "films": [
+    {
+      "title_zh": "焦土之城",
+      "title_en": "Incendies",
+      "year": 2010,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#B4AB9C",
+          "source_ratio": 15.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.158,
+          "source_luminance": 0.4123,
+          "source_saturation": 0.1333
+        },
+        {
+          "hex": "#1C2816",
+          "source_ratio": 12.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.128,
+          "source_luminance": 0.0182,
+          "source_saturation": 0.45
+        },
+        {
+          "hex": "#707064",
+          "source_ratio": 12.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.127,
+          "source_luminance": 0.1595,
+          "source_saturation": 0.1071
+        },
+        {
+          "hex": "#B6A389",
+          "source_ratio": 12.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.121,
+          "source_luminance": 0.3795,
+          "source_saturation": 0.2473
+        },
+        {
+          "hex": "#080808",
+          "source_ratio": 12,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12,
+          "source_luminance": 0.0024,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#43453A",
+          "source_ratio": 11.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11800000000000001,
+          "source_luminance": 0.0576,
+          "source_saturation": 0.1594
+        },
+        {
+          "hex": "#5C5E55",
+          "source_ratio": 11.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11599999999999999,
+          "source_luminance": 0.1094,
+          "source_saturation": 0.0957
+        },
+        {
+          "hex": "#CEBAA1",
+          "source_ratio": 11.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11199999999999999,
+          "source_luminance": 0.5081,
+          "source_saturation": 0.2184
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2020/09/24/incendies/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/005_DenisVilleneuve_丹尼斯·维伦纽瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Incendies_001.jpg?bwg=1600070184",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/005_DenisVilleneuve_丹尼斯·维伦纽瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Incendies_018.jpg?bwg=1600070184",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/005_DenisVilleneuve_丹尼斯·维伦纽瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Incendies_036.jpg?bwg=1600070184",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/005_DenisVilleneuve_丹尼斯·维伦纽瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Incendies_053.jpg?bwg=1600070185",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/005_DenisVilleneuve_丹尼斯·维伦纽瓦/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "宿敌",
+      "title_en": "Enemy",
+      "year": 2013,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#070908",
+          "source_ratio": 15.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.158,
+          "source_luminance": 0.0026,
+          "source_saturation": 0.2222
+        },
+        {
+          "hex": "#8A7447",
+          "source_ratio": 14.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14800000000000002,
+          "source_luminance": 0.1835,
+          "source_saturation": 0.4855
+        },
+        {
+          "hex": "#5A582D",
+          "source_ratio": 14.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.142,
+          "source_luminance": 0.0934,
+          "source_saturation": 0.5
+        },
+        {
+          "hex": "#B3AE81",
+          "source_ratio": 13.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.132,
+          "source_luminance": 0.4144,
+          "source_saturation": 0.2793
+        },
+        {
+          "hex": "#2D2711",
+          "source_ratio": 11.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.113,
+          "source_luminance": 0.0205,
+          "source_saturation": 0.6222
+        },
+        {
+          "hex": "#423E1F",
+          "source_ratio": 11.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.111,
+          "source_luminance": 0.047,
+          "source_saturation": 0.5303
+        },
+        {
+          "hex": "#16160B",
+          "source_ratio": 10.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10099999999999999,
+          "source_luminance": 0.0077,
+          "source_saturation": 0.5
+        },
+        {
+          "hex": "#6B551E",
+          "source_ratio": 9.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.095,
+          "source_luminance": 0.0972,
+          "source_saturation": 0.7196
+        }
+      ],
+      "source_ratio_sum": 99.99999999999999,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2015/06/24/enemy/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/005_DenisVilleneuve_丹尼斯·维伦纽瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (346).jpg?bwg=1547215094",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/005_DenisVilleneuve_丹尼斯·维伦纽瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (353).jpg?bwg=1547215094",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/005_DenisVilleneuve_丹尼斯·维伦纽瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (345).jpg?bwg=1547215093",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/005_DenisVilleneuve_丹尼斯·维伦纽瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (236).jpg?bwg=1547215093",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/005_DenisVilleneuve_丹尼斯·维伦纽瓦/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "降临",
+      "title_en": "Arrival",
+      "year": 2016,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#36372B",
+          "source_ratio": 17.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.171,
+          "source_luminance": 0.0369,
+          "source_saturation": 0.2182
+        },
+        {
+          "hex": "#283637",
+          "source_ratio": 14,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14,
+          "source_luminance": 0.0337,
+          "source_saturation": 0.2727
+        },
+        {
+          "hex": "#96A29C",
+          "source_ratio": 13.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.135,
+          "source_luminance": 0.3472,
+          "source_saturation": 0.0741
+        },
+        {
+          "hex": "#060A09",
+          "source_ratio": 13.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.134,
+          "source_luminance": 0.0028,
+          "source_saturation": 0.4
+        },
+        {
+          "hex": "#485558",
+          "source_ratio": 12.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.127,
+          "source_luminance": 0.0858,
+          "source_saturation": 0.1818
+        },
+        {
+          "hex": "#747F7F",
+          "source_ratio": 10.8,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10800000000000001,
+          "source_luminance": 0.2042,
+          "source_saturation": 0.0866
+        },
+        {
+          "hex": "#A8B5AB",
+          "source_ratio": 9.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.094,
+          "source_luminance": 0.4431,
+          "source_saturation": 0.0718
+        },
+        {
+          "hex": "#0E1D20",
+          "source_ratio": 9.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.091,
+          "source_luminance": 0.0108,
+          "source_saturation": 0.5625
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2019/06/28/arrival/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/005_DenisVilleneuve_丹尼斯·维伦纽瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/arrival001.jpg?bwg=1551281539",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/005_DenisVilleneuve_丹尼斯·维伦纽瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/arrival022.jpg?bwg=1551281539",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/005_DenisVilleneuve_丹尼斯·维伦纽瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/arrival044.jpg?bwg=1551281538",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/005_DenisVilleneuve_丹尼斯·维伦纽瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/arrival065.jpg?bwg=1551281538",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/005_DenisVilleneuve_丹尼斯·维伦纽瓦/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "沙丘2",
+      "title_en": "Dune: Part 2",
+      "year": 2024,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#C7C0B5",
+          "source_ratio": 18,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.18,
+          "source_luminance": 0.5318,
+          "source_saturation": 0.0905
+        },
+        {
+          "hex": "#1C1513",
+          "source_ratio": 16.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.163,
+          "source_luminance": 0.0083,
+          "source_saturation": 0.3214
+        },
+        {
+          "hex": "#835B3C",
+          "source_ratio": 13.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.13699999999999998,
+          "source_luminance": 0.1263,
+          "source_saturation": 0.542
+        },
+        {
+          "hex": "#392C26",
+          "source_ratio": 11.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11699999999999999,
+          "source_luminance": 0.0281,
+          "source_saturation": 0.3333
+        },
+        {
+          "hex": "#553F31",
+          "source_ratio": 11.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11599999999999999,
+          "source_luminance": 0.0571,
+          "source_saturation": 0.4235
+        },
+        {
+          "hex": "#6D4931",
+          "source_ratio": 11,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11,
+          "source_luminance": 0.0824,
+          "source_saturation": 0.5505
+        },
+        {
+          "hex": "#272422",
+          "source_ratio": 9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.09,
+          "source_luminance": 0.0181,
+          "source_saturation": 0.1282
+        },
+        {
+          "hex": "#6D5240",
+          "source_ratio": 8.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.087,
+          "source_luminance": 0.0966,
+          "source_saturation": 0.4128
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2024/04/08/dune-part-2/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/005_DenisVilleneuve_丹尼斯·维伦纽瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Dune_Part_2_01.jpg?bwg=1712570147",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/005_DenisVilleneuve_丹尼斯·维伦纽瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Dune_Part_2_22.jpg?bwg=1712570147",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/005_DenisVilleneuve_丹尼斯·维伦纽瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Dune_Part_2_44.jpg?bwg=1712570145",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/005_DenisVilleneuve_丹尼斯·维伦纽瓦/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Dune_Part_2_65.jpg?bwg=1712570145",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/005_DenisVilleneuve_丹尼斯·维伦纽瓦/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/005_DenisVilleneuve_丹尼斯·维伦纽瓦/assets/references/reference_director_manifest.json",
+      "sha256": "fde90f80681e1874d9547b8548f7edc0b5e06caf3f77e8c1fb960ea49bf3f0e8",
+      "declared_urls": [
+        "https://film-grab.com/2020/09/24/incendies/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Incendies_001.jpg?bwg=1600070184",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Incendies_018.jpg?bwg=1600070184",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Incendies_036.jpg?bwg=1600070184",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Incendies_053.jpg?bwg=1600070185",
+        "https://film-grab.com/2015/06/24/enemy/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (346).jpg?bwg=1547215094",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (353).jpg?bwg=1547215094",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (345).jpg?bwg=1547215093",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (236).jpg?bwg=1547215093",
+        "https://film-grab.com/2019/06/28/arrival/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/arrival001.jpg?bwg=1551281539",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/arrival022.jpg?bwg=1551281539",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/arrival044.jpg?bwg=1551281538",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/arrival065.jpg?bwg=1551281538",
+        "https://film-grab.com/2024/04/08/dune-part-2/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Dune_Part_2_01.jpg?bwg=1712570147",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Dune_Part_2_22.jpg?bwg=1712570147",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Dune_Part_2_44.jpg?bwg=1712570145",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Dune_Part_2_65.jpg?bwg=1712570145"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/005_DenisVilleneuve_丹尼斯·维伦纽瓦/assets/references/reference_sources.md",
+      "sha256": "c108f37e408bd3ed9944f03ffe585ed756d655fcbe44e4336d548261429c39dc",
+      "declared_urls": [
+        "https://film-grab.com/2020/09/24/incendies/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Incendies_001.jpg?bwg=1600070184",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Incendies_018.jpg?bwg=1600070184",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Incendies_036.jpg?bwg=1600070184",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Incendies_053.jpg?bwg=1600070185",
+        "https://film-grab.com/2015/06/24/enemy/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (346).jpg?bwg=1547215094",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (353).jpg?bwg=1547215094",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (345).jpg?bwg=1547215093",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (236).jpg?bwg=1547215093",
+        "https://film-grab.com/2019/06/28/arrival/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/arrival001.jpg?bwg=1551281539",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/arrival022.jpg?bwg=1551281539",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/arrival044.jpg?bwg=1551281538",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/arrival065.jpg?bwg=1551281538",
+        "https://film-grab.com/2024/04/08/dune-part-2/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Dune_Part_2_01.jpg?bwg=1712570147",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Dune_Part_2_22.jpg?bwg=1712570147",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Dune_Part_2_44.jpg?bwg=1712570145",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Dune_Part_2_65.jpg?bwg=1712570145"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

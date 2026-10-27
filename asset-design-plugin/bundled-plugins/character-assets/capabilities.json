@@ -1,0 +1,2443 @@
+{
+  "schema_version": "CapabilityCatalogV1",
+  "capabilities": [
+    {
+      "id": "character-assets",
+      "skill_name": "character-assets",
+      "description": "角色资产主控：从剧本依据到可复用角色资产包",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "project_root": {
+            "type": "string",
+            "minLength": 1
+          },
+          "character_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "variant_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "request": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "script_context_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "direction_brief_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "scope": {
+            "type": "string",
+            "minLength": 1
+          },
+          "review_mode": {
+            "type": "string",
+            "enum": [
+              "direction_first",
+              "image_first"
+            ]
+          },
+          "execution_mode": {
+            "type": "string",
+            "enum": [
+              "inline",
+              "independent"
+            ]
+          },
+          "mode": {
+            "type": "string",
+            "enum": [
+              "single",
+              "batch"
+            ]
+          },
+          "character_ids": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "variant_ids": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "target_stages": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "avatar",
+                "expression",
+                "full_body",
+                "costume_design",
+                "execution"
+              ]
+            }
+          }
+        },
+        "required": [
+          "request"
+        ],
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string"
+          },
+          "artifact_path": {
+            "type": "string",
+            "description": "Main output path relative to artifact_dir, for example design.md; never an absolute path."
+          },
+          "summary": {
+            "type": "string"
+          },
+          "questions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "status",
+          "artifact_path",
+          "summary",
+          "questions"
+        ],
+        "additionalProperties": false
+      },
+      "execution": {
+        "kind": "agent",
+        "access": "workspace-write",
+        "network": false
+      },
+      "knowledge_refs": [
+        "knowledge/index.md",
+        "references/workflow.md",
+        "references/interfaces.md",
+        "references/routing-and-integration.md",
+        "references/director-understanding.md",
+        "references/phased-design.md",
+        "references/costume-design-stage.md",
+        "references/costume-designer.md",
+        "references/model-card-baseline.md",
+        "references/evidence.md",
+        "references/source-notes.md",
+        "references/differentiation-framework.md",
+        "references/specialist-contract.md",
+        "references/design-detail-standard.md",
+        "references/render-texture-standard.md",
+        "references/feature-focus-and-body-form.md",
+        "references/group-ensemble.md",
+        "references/final-asset-table.md"
+      ],
+      "explicit_only": true
+    },
+    {
+      "id": "character-evidence",
+      "skill_name": "character-evidence",
+      "description": "核对剧本事实、资产表与场记来源并列冲突",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "project_root": {
+            "type": "string",
+            "minLength": 1
+          },
+          "character_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "variant_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "request": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "script_context_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "direction_brief_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "scope": {
+            "type": "string",
+            "minLength": 1
+          },
+          "review_mode": {
+            "type": "string",
+            "enum": [
+              "direction_first",
+              "image_first"
+            ]
+          },
+          "execution_mode": {
+            "type": "string",
+            "enum": [
+              "inline",
+              "independent"
+            ]
+          }
+        },
+        "required": [
+          "project_root",
+          "request"
+        ],
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string"
+          },
+          "artifact_path": {
+            "type": "string",
+            "description": "Main output path relative to artifact_dir, for example design.md; never an absolute path."
+          },
+          "summary": {
+            "type": "string"
+          },
+          "questions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "status",
+          "artifact_path",
+          "summary",
+          "questions"
+        ],
+        "additionalProperties": false
+      },
+      "execution": {
+        "kind": "agent",
+        "access": "workspace-write",
+        "network": false
+      },
+      "knowledge_refs": [
+        "knowledge/index.md",
+        "references/evidence.md",
+        "references/interfaces.md"
+      ],
+      "explicit_only": true
+    },
+    {
+      "id": "character-design",
+      "skill_name": "character-design",
+      "description": "人物设计总控：全文理解、人物定位与专项设计统筹",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "project_root": {
+            "type": "string",
+            "minLength": 1
+          },
+          "character_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "variant_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "request": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "script_context_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "direction_brief_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "scope": {
+            "type": "string",
+            "minLength": 1
+          },
+          "review_mode": {
+            "type": "string",
+            "enum": [
+              "direction_first",
+              "image_first"
+            ]
+          },
+          "execution_mode": {
+            "type": "string",
+            "enum": [
+              "inline",
+              "independent"
+            ]
+          }
+        },
+        "required": [
+          "request"
+        ],
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string"
+          },
+          "artifact_path": {
+            "type": "string",
+            "description": "Main output path relative to artifact_dir, for example design.md; never an absolute path."
+          },
+          "summary": {
+            "type": "string"
+          },
+          "questions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "status",
+          "artifact_path",
+          "summary",
+          "questions"
+        ],
+        "additionalProperties": false
+      },
+      "execution": {
+        "kind": "agent",
+        "access": "workspace-write",
+        "network": false
+      },
+      "knowledge_refs": [
+        "knowledge/index.md",
+        "references/character-design.md",
+        "references/director-understanding.md",
+        "references/phased-design.md",
+        "references/costume-designer.md",
+        "references/costume-and-morphology.md",
+        "references/interfaces.md",
+        "references/differentiation-framework.md",
+        "references/specialist-contract.md",
+        "references/design-detail-standard.md",
+        "references/feature-focus-and-body-form.md",
+        "references/routing-and-integration.md",
+        "references/knowledge/character-world-appearance-design/world-appearance.md",
+        "references/knowledge/character-face-design/original-face.md",
+        "references/knowledge/character-face-decoration-design/face-decoration.md",
+        "references/knowledge/character-costume-designer/state-makeup.md",
+        "references/knowledge/character-design/feature-focus-design.md",
+        "references/knowledge/character-design/anti-stereotype-texture.md"
+      ],
+      "explicit_only": true
+    },
+    {
+      "id": "character-costume-designer",
+      "skill_name": "character-costume-designer",
+      "description": "服饰设计师：从人物弧线与世界规则建立穿衣风格圣经和状态服饰",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "project_root": {
+            "type": "string",
+            "minLength": 1
+          },
+          "character_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "variant_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "request": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "script_context_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "direction_brief_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "scope": {
+            "type": "string",
+            "minLength": 1
+          },
+          "review_mode": {
+            "type": "string",
+            "enum": [
+              "direction_first",
+              "image_first"
+            ]
+          },
+          "execution_mode": {
+            "type": "string",
+            "enum": [
+              "inline",
+              "independent"
+            ]
+          }
+        },
+        "required": [
+          "request"
+        ],
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string"
+          },
+          "artifact_path": {
+            "type": "string",
+            "description": "Main output path relative to artifact_dir, for example design.md; never an absolute path."
+          },
+          "summary": {
+            "type": "string"
+          },
+          "questions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "status",
+          "artifact_path",
+          "summary",
+          "questions"
+        ],
+        "additionalProperties": false
+      },
+      "execution": {
+        "kind": "agent",
+        "access": "workspace-write",
+        "network": false
+      },
+      "knowledge_refs": [
+        "knowledge/index.md",
+        "references/costume-designer.md",
+        "references/phased-design.md",
+        "references/knowledge/character-costume-designer/costume-deep.md",
+        "references/knowledge/character-costume-designer/state-makeup.md",
+        "references/knowledge/character-costume-style-design/costume-style.md",
+        "references/knowledge/character-costume-cut-design/costume-cut.md",
+        "references/knowledge/character-costume-color-design/costume-color.md",
+        "references/knowledge/character-costume-material-design/costume-material.md",
+        "references/knowledge/character-costume-accessory-design/costume-accessory.md"
+      ],
+      "explicit_only": true
+    },
+    {
+      "id": "character-image-prompt",
+      "skill_name": "character-image-prompt",
+      "description": "把已批准设计转成 GPT Image 2.5 分阶段提示词",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "project_root": {
+            "type": "string",
+            "minLength": 1
+          },
+          "character_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "variant_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "request": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "script_context_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "direction_brief_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "scope": {
+            "type": "string",
+            "minLength": 1
+          },
+          "review_mode": {
+            "type": "string",
+            "enum": [
+              "direction_first",
+              "image_first"
+            ]
+          },
+          "execution_mode": {
+            "type": "string",
+            "enum": [
+              "inline",
+              "independent"
+            ]
+          },
+          "stage": {
+            "type": "string",
+            "enum": [
+              "avatar",
+              "expression",
+              "full_body",
+              "costume_design",
+              "execution"
+            ]
+          }
+        },
+        "required": [
+          "project_root",
+          "character_id",
+          "stage",
+          "request"
+        ],
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string"
+          },
+          "artifact_path": {
+            "type": "string",
+            "description": "Main output path relative to artifact_dir, for example design.md; never an absolute path."
+          },
+          "summary": {
+            "type": "string"
+          },
+          "questions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "status",
+          "artifact_path",
+          "summary",
+          "questions"
+        ],
+        "additionalProperties": false
+      },
+      "execution": {
+        "kind": "agent",
+        "access": "workspace-write",
+        "network": false
+      },
+      "knowledge_refs": [
+        "knowledge/index.md",
+        "references/prompting.md",
+        "references/model-card-baseline.md",
+        "references/expression.md",
+        "references/execution-sheet.md",
+        "references/group-ensemble.md",
+        "references/costume-design-stage.md",
+        "references/interfaces.md",
+        "references/phased-design.md",
+        "references/knowledge/character-costume-designer/state-makeup.md",
+        "references/design-detail-standard.md",
+        "references/render-texture-standard.md",
+        "references/knowledge/character-image-prompt/feature-focus-prompt.md",
+        "references/knowledge/character-image-prompt/hedgehog-2d3d.md",
+        "references/knowledge/character-image-prompt/hedgehog-general-image-skill.md",
+        "references/knowledge/character-image-prompt/anti-stereotype-texture.md"
+      ],
+      "explicit_only": true
+    },
+    {
+      "id": "character-image-review",
+      "skill_name": "character-image-review",
+      "description": "审查回流图片的剧本事实、身份与版式并产报告",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "project_root": {
+            "type": "string",
+            "minLength": 1
+          },
+          "character_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "variant_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "request": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "script_context_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "direction_brief_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "scope": {
+            "type": "string",
+            "minLength": 1
+          },
+          "review_mode": {
+            "type": "string",
+            "enum": [
+              "direction_first",
+              "image_first"
+            ]
+          },
+          "execution_mode": {
+            "type": "string",
+            "enum": [
+              "inline",
+              "independent"
+            ]
+          },
+          "image_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "stage": {
+            "type": "string",
+            "enum": [
+              "avatar",
+              "expression",
+              "full_body",
+              "costume_design",
+              "execution"
+            ]
+          }
+        },
+        "required": [
+          "project_root",
+          "image_path",
+          "stage",
+          "request"
+        ],
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string"
+          },
+          "artifact_path": {
+            "type": "string",
+            "description": "Main output path relative to artifact_dir, for example design.md; never an absolute path."
+          },
+          "summary": {
+            "type": "string"
+          },
+          "questions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "status",
+          "artifact_path",
+          "summary",
+          "questions"
+        ],
+        "additionalProperties": false
+      },
+      "execution": {
+        "kind": "agent",
+        "access": "workspace-write",
+        "network": false
+      },
+      "knowledge_refs": [
+        "knowledge/index.md",
+        "references/review.md",
+        "references/model-card-baseline.md",
+        "references/execution-sheet.md",
+        "references/interfaces.md",
+        "references/render-texture-standard.md",
+        "references/costume-design-stage.md",
+        "references/knowledge/character-costume-designer/state-makeup.md",
+        "references/knowledge/character-image-review/feature-focus-review.md",
+        "references/knowledge/character-image-review/anti-stereotype-texture.md"
+      ],
+      "explicit_only": true
+    },
+    {
+      "id": "character-image-edit",
+      "skill_name": "character-image-edit",
+      "description": "针对回图缺陷编写局部修图指令",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "project_root": {
+            "type": "string",
+            "minLength": 1
+          },
+          "character_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "variant_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "request": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "script_context_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "direction_brief_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "scope": {
+            "type": "string",
+            "minLength": 1
+          },
+          "review_mode": {
+            "type": "string",
+            "enum": [
+              "direction_first",
+              "image_first"
+            ]
+          },
+          "execution_mode": {
+            "type": "string",
+            "enum": [
+              "inline",
+              "independent"
+            ]
+          },
+          "image_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "issue": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "project_root",
+          "image_path",
+          "issue",
+          "request"
+        ],
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string"
+          },
+          "artifact_path": {
+            "type": "string",
+            "description": "Main output path relative to artifact_dir, for example design.md; never an absolute path."
+          },
+          "summary": {
+            "type": "string"
+          },
+          "questions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "status",
+          "artifact_path",
+          "summary",
+          "questions"
+        ],
+        "additionalProperties": false
+      },
+      "execution": {
+        "kind": "agent",
+        "access": "workspace-write",
+        "network": false
+      },
+      "knowledge_refs": [
+        "knowledge/index.md",
+        "references/editing.md",
+        "references/review.md",
+        "references/render-texture-standard.md",
+        "references/knowledge/character-image-edit/hedgehog-general-image-prompting.md",
+        "references/knowledge/character-image-edit/anti-stereotype-texture.md"
+      ],
+      "explicit_only": true
+    },
+    {
+      "id": "character-cast-differentiation",
+      "skill_name": "character-cast-differentiation",
+      "description": "群像差异化总控：比较组、五轴矩阵与回图防撞型复核",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "project_root": {
+            "type": "string",
+            "minLength": 1
+          },
+          "character_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "variant_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "request": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "script_context_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "direction_brief_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "scope": {
+            "type": "string",
+            "minLength": 1
+          },
+          "review_mode": {
+            "type": "string",
+            "enum": [
+              "direction_first",
+              "image_first"
+            ]
+          },
+          "execution_mode": {
+            "type": "string",
+            "enum": [
+              "inline",
+              "independent"
+            ]
+          },
+          "cast_plan_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "comparison_group": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        "required": [
+          "project_root",
+          "request"
+        ],
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string"
+          },
+          "artifact_path": {
+            "type": "string",
+            "description": "Main output path relative to artifact_dir, for example design.md; never an absolute path."
+          },
+          "summary": {
+            "type": "string"
+          },
+          "questions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "status",
+          "artifact_path",
+          "summary",
+          "questions"
+        ],
+        "additionalProperties": false
+      },
+      "execution": {
+        "kind": "agent",
+        "access": "workspace-write",
+        "network": false
+      },
+      "knowledge_refs": [
+        "knowledge/index.md",
+        "references/differentiation-framework.md",
+        "references/specialist-contract.md",
+        "references/knowledge/character-cast-differentiation/ensemble.md",
+        "references/knowledge/character-cast-differentiation/legacy-visual.md",
+        "references/knowledge/character-cast-differentiation/anti-stereotype-texture.md"
+      ],
+      "explicit_only": true
+    },
+    {
+      "id": "character-ensemble-designer",
+      "skill_name": "character-ensemble-designer",
+      "description": "群演单图设计师：有台词单人执行图与无台词群像图",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "project_root": {
+            "type": "string",
+            "minLength": 1
+          },
+          "character_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "variant_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "request": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "script_context_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "direction_brief_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "scope": {
+            "type": "string",
+            "minLength": 1
+          },
+          "review_mode": {
+            "type": "string",
+            "enum": [
+              "direction_first",
+              "image_first"
+            ]
+          },
+          "execution_mode": {
+            "type": "string",
+            "enum": [
+              "inline",
+              "independent"
+            ]
+          }
+        },
+        "required": [
+          "request"
+        ],
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string"
+          },
+          "artifact_path": {
+            "type": "string",
+            "description": "Main output path relative to artifact_dir, for example design.md; never an absolute path."
+          },
+          "summary": {
+            "type": "string"
+          },
+          "questions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "status",
+          "artifact_path",
+          "summary",
+          "questions"
+        ],
+        "additionalProperties": false
+      },
+      "execution": {
+        "kind": "agent",
+        "access": "workspace-write",
+        "network": false
+      },
+      "knowledge_refs": [
+        "knowledge/index.md",
+        "references/group-ensemble.md",
+        "references/differentiation-framework.md",
+        "references/prompting.md",
+        "references/review.md",
+        "references/interfaces.md"
+      ],
+      "explicit_only": true
+    },
+    {
+      "id": "character-world-appearance-design",
+      "skill_name": "character-world-appearance-design",
+      "description": "环境与技术外貌设计：世界压力、资源与可达技术",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "project_root": {
+            "type": "string",
+            "minLength": 1
+          },
+          "character_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "variant_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "request": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "script_context_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "direction_brief_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "scope": {
+            "type": "string",
+            "minLength": 1
+          },
+          "review_mode": {
+            "type": "string",
+            "enum": [
+              "direction_first",
+              "image_first"
+            ]
+          },
+          "execution_mode": {
+            "type": "string",
+            "enum": [
+              "inline",
+              "independent"
+            ]
+          }
+        },
+        "required": [
+          "request"
+        ],
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string"
+          },
+          "artifact_path": {
+            "type": "string",
+            "description": "Main output path relative to artifact_dir, for example design.md; never an absolute path."
+          },
+          "summary": {
+            "type": "string"
+          },
+          "questions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "status",
+          "artifact_path",
+          "summary",
+          "questions"
+        ],
+        "additionalProperties": false
+      },
+      "execution": {
+        "kind": "agent",
+        "access": "workspace-write",
+        "network": false
+      },
+      "knowledge_refs": [
+        "knowledge/index.md",
+        "references/specialist-contract.md",
+        "references/differentiation-framework.md",
+        "references/design-detail-standard.md",
+        "references/knowledge/character-world-appearance-design/world-appearance.md"
+      ],
+      "explicit_only": true
+    },
+    {
+      "id": "character-feature-focus",
+      "skill_name": "character-feature-focus",
+      "description": "特征聚焦：主锚点、安静区与自然不对称",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "project_root": {
+            "type": "string",
+            "minLength": 1
+          },
+          "character_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "variant_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "request": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "script_context_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "direction_brief_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "scope": {
+            "type": "string",
+            "minLength": 1
+          },
+          "review_mode": {
+            "type": "string",
+            "enum": [
+              "direction_first",
+              "image_first"
+            ]
+          },
+          "execution_mode": {
+            "type": "string",
+            "enum": [
+              "inline",
+              "independent"
+            ]
+          }
+        },
+        "required": [
+          "request"
+        ],
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string"
+          },
+          "artifact_path": {
+            "type": "string",
+            "description": "Main output path relative to artifact_dir, for example design.md; never an absolute path."
+          },
+          "summary": {
+            "type": "string"
+          },
+          "questions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "status",
+          "artifact_path",
+          "summary",
+          "questions"
+        ],
+        "additionalProperties": false
+      },
+      "execution": {
+        "kind": "agent",
+        "access": "workspace-write",
+        "network": false
+      },
+      "knowledge_refs": [
+        "knowledge/index.md",
+        "references/specialist-contract.md",
+        "references/differentiation-framework.md",
+        "references/design-detail-standard.md",
+        "references/knowledge/character-feature-focus/feature-focus.md",
+        "references/feature-focus-and-body-form.md"
+      ],
+      "explicit_only": true
+    },
+    {
+      "id": "character-hair-design",
+      "skill_name": "character-hair-design",
+      "description": "发型设计：发流、体积、轮廓与跨视角连续性",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "project_root": {
+            "type": "string",
+            "minLength": 1
+          },
+          "character_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "variant_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "request": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "script_context_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "direction_brief_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "scope": {
+            "type": "string",
+            "minLength": 1
+          },
+          "review_mode": {
+            "type": "string",
+            "enum": [
+              "direction_first",
+              "image_first"
+            ]
+          },
+          "execution_mode": {
+            "type": "string",
+            "enum": [
+              "inline",
+              "independent"
+            ]
+          }
+        },
+        "required": [
+          "request"
+        ],
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string"
+          },
+          "artifact_path": {
+            "type": "string",
+            "description": "Main output path relative to artifact_dir, for example design.md; never an absolute path."
+          },
+          "summary": {
+            "type": "string"
+          },
+          "questions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "status",
+          "artifact_path",
+          "summary",
+          "questions"
+        ],
+        "additionalProperties": false
+      },
+      "execution": {
+        "kind": "agent",
+        "access": "workspace-write",
+        "network": false
+      },
+      "knowledge_refs": [
+        "knowledge/index.md",
+        "references/specialist-contract.md",
+        "references/differentiation-framework.md",
+        "references/design-detail-standard.md",
+        "references/knowledge/character-hair-design/hair.md"
+      ],
+      "explicit_only": true
+    },
+    {
+      "id": "character-body-design",
+      "skill_name": "character-body-design",
+      "description": "形体体态设计：年龄比例、骨架、重心与动作习惯",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "project_root": {
+            "type": "string",
+            "minLength": 1
+          },
+          "character_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "variant_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "request": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "script_context_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "direction_brief_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "scope": {
+            "type": "string",
+            "minLength": 1
+          },
+          "review_mode": {
+            "type": "string",
+            "enum": [
+              "direction_first",
+              "image_first"
+            ]
+          },
+          "execution_mode": {
+            "type": "string",
+            "enum": [
+              "inline",
+              "independent"
+            ]
+          }
+        },
+        "required": [
+          "request"
+        ],
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string"
+          },
+          "artifact_path": {
+            "type": "string",
+            "description": "Main output path relative to artifact_dir, for example design.md; never an absolute path."
+          },
+          "summary": {
+            "type": "string"
+          },
+          "questions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "status",
+          "artifact_path",
+          "summary",
+          "questions"
+        ],
+        "additionalProperties": false
+      },
+      "execution": {
+        "kind": "agent",
+        "access": "workspace-write",
+        "network": false
+      },
+      "knowledge_refs": [
+        "knowledge/index.md",
+        "references/specialist-contract.md",
+        "references/differentiation-framework.md",
+        "references/design-detail-standard.md",
+        "references/knowledge/character-body-design/body.md",
+        "references/knowledge/character-body-design/body-proportion-3d.md"
+      ],
+      "explicit_only": true
+    },
+    {
+      "id": "character-face-design",
+      "skill_name": "character-face-design",
+      "description": "五官面部设计：原创骨相、比例与非模板面孔",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "project_root": {
+            "type": "string",
+            "minLength": 1
+          },
+          "character_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "variant_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "request": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "script_context_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "direction_brief_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "scope": {
+            "type": "string",
+            "minLength": 1
+          },
+          "review_mode": {
+            "type": "string",
+            "enum": [
+              "direction_first",
+              "image_first"
+            ]
+          },
+          "execution_mode": {
+            "type": "string",
+            "enum": [
+              "inline",
+              "independent"
+            ]
+          }
+        },
+        "required": [
+          "request"
+        ],
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string"
+          },
+          "artifact_path": {
+            "type": "string",
+            "description": "Main output path relative to artifact_dir, for example design.md; never an absolute path."
+          },
+          "summary": {
+            "type": "string"
+          },
+          "questions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "status",
+          "artifact_path",
+          "summary",
+          "questions"
+        ],
+        "additionalProperties": false
+      },
+      "execution": {
+        "kind": "agent",
+        "access": "workspace-write",
+        "network": false
+      },
+      "knowledge_refs": [
+        "knowledge/index.md",
+        "references/specialist-contract.md",
+        "references/differentiation-framework.md",
+        "references/design-detail-standard.md",
+        "references/knowledge/character-face-design/face.md",
+        "references/knowledge/character-face-design/original-face.md"
+      ],
+      "explicit_only": true
+    },
+    {
+      "id": "character-face-signature-design",
+      "skill_name": "character-face-signature-design",
+      "description": "面部记忆点与锁骨以上饰品设计",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "project_root": {
+            "type": "string",
+            "minLength": 1
+          },
+          "character_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "variant_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "request": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "script_context_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "direction_brief_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "scope": {
+            "type": "string",
+            "minLength": 1
+          },
+          "review_mode": {
+            "type": "string",
+            "enum": [
+              "direction_first",
+              "image_first"
+            ]
+          },
+          "execution_mode": {
+            "type": "string",
+            "enum": [
+              "inline",
+              "independent"
+            ]
+          }
+        },
+        "required": [
+          "request"
+        ],
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string"
+          },
+          "artifact_path": {
+            "type": "string",
+            "description": "Main output path relative to artifact_dir, for example design.md; never an absolute path."
+          },
+          "summary": {
+            "type": "string"
+          },
+          "questions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "status",
+          "artifact_path",
+          "summary",
+          "questions"
+        ],
+        "additionalProperties": false
+      },
+      "execution": {
+        "kind": "agent",
+        "access": "workspace-write",
+        "network": false
+      },
+      "knowledge_refs": [
+        "knowledge/index.md",
+        "references/specialist-contract.md",
+        "references/differentiation-framework.md",
+        "references/design-detail-standard.md",
+        "references/knowledge/character-face-signature-design/face-memory.md"
+      ],
+      "explicit_only": true
+    },
+    {
+      "id": "character-face-decoration-design",
+      "skill_name": "character-face-decoration-design",
+      "description": "面部装饰与妆容设计：稳定、施加与临时状态",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "project_root": {
+            "type": "string",
+            "minLength": 1
+          },
+          "character_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "variant_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "request": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "script_context_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "direction_brief_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "scope": {
+            "type": "string",
+            "minLength": 1
+          },
+          "review_mode": {
+            "type": "string",
+            "enum": [
+              "direction_first",
+              "image_first"
+            ]
+          },
+          "execution_mode": {
+            "type": "string",
+            "enum": [
+              "inline",
+              "independent"
+            ]
+          }
+        },
+        "required": [
+          "request"
+        ],
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string"
+          },
+          "artifact_path": {
+            "type": "string",
+            "description": "Main output path relative to artifact_dir, for example design.md; never an absolute path."
+          },
+          "summary": {
+            "type": "string"
+          },
+          "questions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "status",
+          "artifact_path",
+          "summary",
+          "questions"
+        ],
+        "additionalProperties": false
+      },
+      "execution": {
+        "kind": "agent",
+        "access": "workspace-write",
+        "network": false
+      },
+      "knowledge_refs": [
+        "knowledge/index.md",
+        "references/specialist-contract.md",
+        "references/differentiation-framework.md",
+        "references/design-detail-standard.md",
+        "references/knowledge/character-face-decoration-design/face-decoration.md",
+        "references/knowledge/character-costume-designer/state-makeup.md"
+      ],
+      "explicit_only": true
+    },
+    {
+      "id": "character-skin-design",
+      "skill_name": "character-skin-design",
+      "description": "皮肤肌理设计：年龄、环境与真实表面",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "project_root": {
+            "type": "string",
+            "minLength": 1
+          },
+          "character_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "variant_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "request": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "script_context_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "direction_brief_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "scope": {
+            "type": "string",
+            "minLength": 1
+          },
+          "review_mode": {
+            "type": "string",
+            "enum": [
+              "direction_first",
+              "image_first"
+            ]
+          },
+          "execution_mode": {
+            "type": "string",
+            "enum": [
+              "inline",
+              "independent"
+            ]
+          }
+        },
+        "required": [
+          "request"
+        ],
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string"
+          },
+          "artifact_path": {
+            "type": "string",
+            "description": "Main output path relative to artifact_dir, for example design.md; never an absolute path."
+          },
+          "summary": {
+            "type": "string"
+          },
+          "questions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "status",
+          "artifact_path",
+          "summary",
+          "questions"
+        ],
+        "additionalProperties": false
+      },
+      "execution": {
+        "kind": "agent",
+        "access": "workspace-write",
+        "network": false
+      },
+      "knowledge_refs": [
+        "knowledge/index.md",
+        "references/specialist-contract.md",
+        "references/differentiation-framework.md",
+        "references/design-detail-standard.md",
+        "references/knowledge/character-skin-design/skin.md",
+        "references/render-texture-standard.md",
+        "references/knowledge/character-skin-design/anti-stereotype-texture.md"
+      ],
+      "explicit_only": true
+    },
+    {
+      "id": "character-costume-style-design",
+      "skill_name": "character-costume-style-design",
+      "description": "服饰款式设计：衣装品类、长度和层次",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "project_root": {
+            "type": "string",
+            "minLength": 1
+          },
+          "character_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "variant_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "request": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "script_context_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "direction_brief_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "scope": {
+            "type": "string",
+            "minLength": 1
+          },
+          "review_mode": {
+            "type": "string",
+            "enum": [
+              "direction_first",
+              "image_first"
+            ]
+          },
+          "execution_mode": {
+            "type": "string",
+            "enum": [
+              "inline",
+              "independent"
+            ]
+          }
+        },
+        "required": [
+          "request"
+        ],
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string"
+          },
+          "artifact_path": {
+            "type": "string",
+            "description": "Main output path relative to artifact_dir, for example design.md; never an absolute path."
+          },
+          "summary": {
+            "type": "string"
+          },
+          "questions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "status",
+          "artifact_path",
+          "summary",
+          "questions"
+        ],
+        "additionalProperties": false
+      },
+      "execution": {
+        "kind": "agent",
+        "access": "workspace-write",
+        "network": false
+      },
+      "knowledge_refs": [
+        "knowledge/index.md",
+        "references/specialist-contract.md",
+        "references/differentiation-framework.md",
+        "references/design-detail-standard.md",
+        "references/knowledge/character-costume-style-design/costume-style.md",
+        "references/knowledge/character-costume-designer/costume-deep.md"
+      ],
+      "explicit_only": true
+    },
+    {
+      "id": "character-costume-cut-design",
+      "skill_name": "character-costume-cut-design",
+      "description": "服饰剪裁设计：结构线、连接与活动余量",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "project_root": {
+            "type": "string",
+            "minLength": 1
+          },
+          "character_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "variant_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "request": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "script_context_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "direction_brief_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "scope": {
+            "type": "string",
+            "minLength": 1
+          },
+          "review_mode": {
+            "type": "string",
+            "enum": [
+              "direction_first",
+              "image_first"
+            ]
+          },
+          "execution_mode": {
+            "type": "string",
+            "enum": [
+              "inline",
+              "independent"
+            ]
+          }
+        },
+        "required": [
+          "request"
+        ],
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string"
+          },
+          "artifact_path": {
+            "type": "string",
+            "description": "Main output path relative to artifact_dir, for example design.md; never an absolute path."
+          },
+          "summary": {
+            "type": "string"
+          },
+          "questions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "status",
+          "artifact_path",
+          "summary",
+          "questions"
+        ],
+        "additionalProperties": false
+      },
+      "execution": {
+        "kind": "agent",
+        "access": "workspace-write",
+        "network": false
+      },
+      "knowledge_refs": [
+        "knowledge/index.md",
+        "references/specialist-contract.md",
+        "references/differentiation-framework.md",
+        "references/design-detail-standard.md",
+        "references/knowledge/character-costume-cut-design/costume-cut.md",
+        "references/knowledge/character-costume-designer/costume-deep.md"
+      ],
+      "explicit_only": true
+    },
+    {
+      "id": "character-costume-color-design",
+      "skill_name": "character-costume-color-design",
+      "description": "服饰配色设计：明度、饱和度与群像色块",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "project_root": {
+            "type": "string",
+            "minLength": 1
+          },
+          "character_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "variant_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "request": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "script_context_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "direction_brief_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "scope": {
+            "type": "string",
+            "minLength": 1
+          },
+          "review_mode": {
+            "type": "string",
+            "enum": [
+              "direction_first",
+              "image_first"
+            ]
+          },
+          "execution_mode": {
+            "type": "string",
+            "enum": [
+              "inline",
+              "independent"
+            ]
+          }
+        },
+        "required": [
+          "request"
+        ],
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string"
+          },
+          "artifact_path": {
+            "type": "string",
+            "description": "Main output path relative to artifact_dir, for example design.md; never an absolute path."
+          },
+          "summary": {
+            "type": "string"
+          },
+          "questions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "status",
+          "artifact_path",
+          "summary",
+          "questions"
+        ],
+        "additionalProperties": false
+      },
+      "execution": {
+        "kind": "agent",
+        "access": "workspace-write",
+        "network": false
+      },
+      "knowledge_refs": [
+        "knowledge/index.md",
+        "references/specialist-contract.md",
+        "references/differentiation-framework.md",
+        "references/design-detail-standard.md",
+        "references/knowledge/character-costume-color-design/costume-color.md",
+        "references/knowledge/character-costume-designer/costume-deep.md"
+      ],
+      "explicit_only": true
+    },
+    {
+      "id": "character-costume-material-design",
+      "skill_name": "character-costume-material-design",
+      "description": "服饰材质设计：重量、光泽、垂坠与磨损",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "project_root": {
+            "type": "string",
+            "minLength": 1
+          },
+          "character_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "variant_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "request": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "script_context_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "direction_brief_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "scope": {
+            "type": "string",
+            "minLength": 1
+          },
+          "review_mode": {
+            "type": "string",
+            "enum": [
+              "direction_first",
+              "image_first"
+            ]
+          },
+          "execution_mode": {
+            "type": "string",
+            "enum": [
+              "inline",
+              "independent"
+            ]
+          }
+        },
+        "required": [
+          "request"
+        ],
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string"
+          },
+          "artifact_path": {
+            "type": "string",
+            "description": "Main output path relative to artifact_dir, for example design.md; never an absolute path."
+          },
+          "summary": {
+            "type": "string"
+          },
+          "questions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "status",
+          "artifact_path",
+          "summary",
+          "questions"
+        ],
+        "additionalProperties": false
+      },
+      "execution": {
+        "kind": "agent",
+        "access": "workspace-write",
+        "network": false
+      },
+      "knowledge_refs": [
+        "knowledge/index.md",
+        "references/specialist-contract.md",
+        "references/differentiation-framework.md",
+        "references/design-detail-standard.md",
+        "references/knowledge/character-costume-material-design/costume-material.md",
+        "references/knowledge/character-costume-designer/costume-deep.md",
+        "references/render-texture-standard.md",
+        "references/knowledge/character-costume-material-design/anti-stereotype-texture.md"
+      ],
+      "explicit_only": true
+    },
+    {
+      "id": "character-costume-accessory-design",
+      "skill_name": "character-costume-accessory-design",
+      "description": "服饰饰品设计：衣身、腰、手与随身穿戴物",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "project_root": {
+            "type": "string",
+            "minLength": 1
+          },
+          "character_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "variant_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "request": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "script_context_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "direction_brief_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "scope": {
+            "type": "string",
+            "minLength": 1
+          },
+          "review_mode": {
+            "type": "string",
+            "enum": [
+              "direction_first",
+              "image_first"
+            ]
+          },
+          "execution_mode": {
+            "type": "string",
+            "enum": [
+              "inline",
+              "independent"
+            ]
+          }
+        },
+        "required": [
+          "request"
+        ],
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string"
+          },
+          "artifact_path": {
+            "type": "string",
+            "description": "Main output path relative to artifact_dir, for example design.md; never an absolute path."
+          },
+          "summary": {
+            "type": "string"
+          },
+          "questions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "status",
+          "artifact_path",
+          "summary",
+          "questions"
+        ],
+        "additionalProperties": false
+      },
+      "execution": {
+        "kind": "agent",
+        "access": "workspace-write",
+        "network": false
+      },
+      "knowledge_refs": [
+        "knowledge/index.md",
+        "references/specialist-contract.md",
+        "references/differentiation-framework.md",
+        "references/design-detail-standard.md",
+        "references/knowledge/character-costume-accessory-design/costume-accessory.md",
+        "references/knowledge/character-costume-designer/costume-deep.md"
+      ],
+      "explicit_only": true
+    }
+  ],
+  "workflows": []
+}

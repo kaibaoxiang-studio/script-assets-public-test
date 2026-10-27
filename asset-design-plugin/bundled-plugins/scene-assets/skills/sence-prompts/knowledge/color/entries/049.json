@@ -1,0 +1,198 @@
+{
+  "schema_version": "1.0.0",
+  "id": "049",
+  "label": {
+    "name_zh": "赵婷",
+    "name_en": "Chloé Zhao",
+    "category": "03_大地暖调与自然光诗意",
+    "source_volume": "第1期_SKILL_冷调与大地_001-080"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "大地金灰",
+        "name_en": "Gold",
+        "hex": "#C4AE78",
+        "source_ratio": 0.25,
+        "normalized_ratio": 0.25,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "枯石褐",
+        "name_en": "Ochre",
+        "hex": "#8A7E66",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "枯草黄",
+        "name_en": "Yellow",
+        "hex": "#D9C8A0",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "旷野灰绿",
+        "name_en": "Green",
+        "hex": "#6B7366",
+        "source_ratio": 0.12,
+        "normalized_ratio": 0.12,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "薄暮肤",
+        "name_en": "Color 5",
+        "hex": "#E8DCC4",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "荒原棕",
+        "name_en": "Brown",
+        "hex": "#A68C6B",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "晨光米",
+        "name_en": "Emotional 1",
+        "hex": "#F2E6CC",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "温柔希望"
+      },
+      {
+        "code": "E02",
+        "name_zh": "旧铁灰",
+        "name_en": "Gray",
+        "hex": "#70685A",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "漂泊孤独"
+      },
+      {
+        "code": "E03",
+        "name_zh": "落日砂",
+        "name_en": "Emotional 3",
+        "hex": "#B8956A",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "尊严暖意"
+      },
+      {
+        "code": "E04",
+        "name_zh": "苔原青",
+        "name_en": "Cyan",
+        "hex": "#4A5145",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "静默沉思"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "magic hour natural light, soft side lighting, minimal fill",
+      "highlight_description": "warm golden dust / pale yellow",
+      "shadow_description": "cool blue-gray / desaturated green",
+      "contrast_description": "low-medium 40-55%, soft cinematic rolloff",
+      "overall_tone": "warm dusty earth, 60% warm + 40% cool, low saturation"
+    },
+    "color_keywords": [
+      "dusty earth palette",
+      "desert golden hour",
+      "sagebrush green",
+      "prairie wheat yellow",
+      "muted skin tone",
+      "overcast soft grey",
+      "twilight lavender",
+      "dust motes in sunlight"
+    ],
+    "mood_keywords": [
+      "quiet dignity of nomads",
+      "meditative stillness",
+      "american west elegy",
+      "transient life poetry",
+      "spiritual landscape",
+      "gentle melancholy",
+      "vastness and solitude",
+      "human connection in wilderness"
+    ],
+    "composition_keywords": [
+      "static long takes",
+      "wide open landscapes",
+      "golden hour magic light",
+      "shallow depth of field portrait",
+      "naturalistic non-professional cast",
+      "road movie framing",
+      "dust and haze",
+      "horizon composition"
+    ],
+    "style_profile": {
+      "definition": "真实地貌、非职业表演和流动生活在自然时间中互相倾听",
+      "lighting": "黄金时刻、阴天漫射和实景火光；肤色保持自然可读，高光和黑位保留材质。",
+      "framing": "宽阔地貌远景与贴近人物的轻手持中景",
+      "grading": "沙土、旧车灰、牛仔蓝、落日金和夜火橙；局部强调色不污染整幅画面。",
+      "avoid": "统一滤镜替代真实材质、无动机环绕和随机变焦、人物身份与空间轴漂移、肤色污染、死黑和爆白、只模仿颜色不执行镜头语言。"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "049",
+      "relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/049_ChloeZhao_赵婷/assets/color_palettes/palette.json",
+      "sha256": "79adddd3bc7677191a60be5a8bb94aa7313b75752d9f7bb89844826616650716"
+    },
+    "source_entry_relative_dir": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/049_ChloeZhao_赵婷",
+    "source_records": [
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/049_ChloeZhao_赵婷/assets/references/reference_director_manifest.json",
+        "sha256": "4b7f77e6847dfd768fe13a366873657879d51d7ae5ac01bab60c4f7eef743e32",
+        "declared_url_count": 20,
+        "externally_verified": false
+      },
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/049_ChloeZhao_赵婷/assets/references/reference_sources.md",
+        "sha256": "20039d4e93f4d47fc322d2bf2774569db491c9bb12b051377e12b75e249bcee0",
+        "declared_url_count": 20,
+        "externally_verified": false
+      }
+    ],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 4,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": "film-references/049.json"
+}

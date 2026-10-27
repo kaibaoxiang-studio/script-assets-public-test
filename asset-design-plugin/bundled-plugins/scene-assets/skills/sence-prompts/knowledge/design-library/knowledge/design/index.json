@@ -1,0 +1,797 @@
+{
+  "schema_version": 2,
+  "status": "pilot",
+  "updated_on": "2026-10-22",
+  "categories": {
+    "sacred": "礼仪/圣堂空间",
+    "assembly": "议事空间",
+    "reading": "书房/阅览空间",
+    "exterior": "院落与室外项目案例"
+  },
+  "retrieval": "空格分词、受控同义词、索引字段优先与低权重正文补检；不进行自然语言理解或艺术适配评分",
+  "entries": [
+    {
+      "id": "DES-001",
+      "title": "礼仪空间：分层光域与唯一主位",
+      "category": "sacred",
+      "summary": "从不同功能对应不同光域的案例中，提炼主位、行进与背景的亮度分工；适合修复无视觉中心或全场灰亮。",
+      "tags": [
+        "圣堂",
+        "圣火拜堂",
+        "礼仪",
+        "视觉中心",
+        "光域",
+        "主次",
+        "威严",
+        "主位"
+      ],
+      "entry_path": "knowledge/design/entries/DES-001.md",
+      "source_ids": [
+        "S001"
+      ],
+      "prerequisites": [
+        "项目已确认礼仪功能与核心设施。",
+        "主光使用已有或本轮任务允许的普通光源；明确唯一光源保持，特殊能力须有项目依据。"
+      ],
+      "limitations": [
+        "不因参考案例新增天窗、彩玻璃或宗教符号。",
+        "小型礼拜堂参考不能证明大型圣堂的尺度。"
+      ],
+      "verification": {
+        "source_text_reviewed": true,
+        "source_review_scope": "少量可读取文字与摘要；非全文或图纸复原",
+        "adaptation": "提炼者条件式方案",
+        "image_tested": false,
+        "spatially_tested": false,
+        "independent_reviewed": false
+      },
+      "search_terms": [
+        "锚点",
+        "圣火",
+        "火盆",
+        "主位净空",
+        "柱列节奏",
+        "单光源",
+        "大空间"
+      ],
+      "case_reference": "Chapel of St. Ignatius"
+    },
+    {
+      "id": "DES-002",
+      "title": "礼仪空间：厚壁缝隙与克制框景",
+      "category": "sacred",
+      "summary": "由围护与错出墙体的缝隙启发门槛、遮挡和框景的关系；转折入场为自拟方案，适合需要空间揭示的场景。",
+      "tags": [
+        "圣堂",
+        "礼拜堂",
+        "入口",
+        "转折",
+        "框景",
+        "门槛",
+        "厚壁",
+        "遮挡"
+      ],
+      "entry_path": "knowledge/design/entries/DES-002.md",
+      "source_ids": [
+        "S002"
+      ],
+      "prerequisites": [
+        "已有出入口及围护边界可用于组织框景。",
+        "新增隔墙、门洞或开口需要项目许可。"
+      ],
+      "limitations": [
+        "原案例近海、现代建筑条件不自动迁移。",
+        "转折路线是本库提炼者方案，非原平面的核验结论。"
+      ],
+      "verification": {
+        "source_text_reviewed": true,
+        "source_review_scope": "少量可读取文字与摘要；非全文或图纸复原",
+        "adaptation": "提炼者条件式方案",
+        "image_tested": false,
+        "spatially_tested": false,
+        "independent_reviewed": false
+      },
+      "search_terms": [
+        "锚点",
+        "入口转折",
+        "厚墙",
+        "墙垛",
+        "框景",
+        "门槛侧光"
+      ],
+      "case_reference": "Seashore Chapel"
+    },
+    {
+      "id": "DES-003",
+      "title": "议事空间：双侧对置与中间发言带",
+      "category": "assembly",
+      "summary": "提炼双侧相向布局的关系可读性；利用席位边界与通道安排对话和站位，不默认圆桌或政治制度。",
+      "tags": [
+        "议事厅",
+        "议事室",
+        "对置",
+        "双侧",
+        "对话",
+        "走戏",
+        "通道",
+        "站位"
+      ],
+      "entry_path": "knowledge/design/entries/DES-003.md",
+      "source_ids": [
+        "S003"
+      ],
+      "prerequisites": [
+        "剧情确有双侧关系或对面发言需求。",
+        "席位及中央行动区属于已确认资产或可设计范围。"
+      ],
+      "limitations": [
+        "不适用于必须环坐或所有人面向单一讲台的情节。",
+        "不移植英国议会制度、身份色、人数或设备。"
+      ],
+      "verification": {
+        "source_text_reviewed": true,
+        "source_review_scope": "少量可读取文字与摘要；非全文或图纸复原",
+        "adaptation": "提炼者条件式方案",
+        "image_tested": false,
+        "spatially_tested": false,
+        "independent_reviewed": false
+      },
+      "search_terms": [
+        "锚点",
+        "平级",
+        "协商",
+        "谈判",
+        "对置",
+        "席位端头",
+        "中央发言带"
+      ],
+      "case_reference": "Commons Chamber"
+    },
+    {
+      "id": "DES-004",
+      "title": "议事空间：主位、前场与等级边界",
+      "category": "assembly",
+      "summary": "由王座与前方设施的位置关系启发主位和前场的分离；适合已确认有主持、觐见或宣告功能的空间。",
+      "tags": [
+        "议事厅",
+        "主位",
+        "高位",
+        "仪式区",
+        "权威",
+        "等级",
+        "台阶",
+        "觐见"
+      ],
+      "entry_path": "knowledge/design/entries/DES-004.md",
+      "source_ids": [
+        "S004",
+        "S008"
+      ],
+      "prerequisites": [
+        "项目明确存在主位与接近/发言的前场。",
+        "抬高主位、台阶或栏界需在设计许可内。"
+      ],
+      "limitations": [
+        "不把王座当作所有议事空间的日常主持座。",
+        "不自动新增王权、红色身份色、宗教纹样或Woolsack。"
+      ],
+      "verification": {
+        "source_text_reviewed": true,
+        "source_review_scope": "少量可读取文字与摘要；非全文或图纸复原",
+        "adaptation": "提炼者条件式方案",
+        "image_tested": false,
+        "spatially_tested": false,
+        "independent_reviewed": false
+      },
+      "search_terms": [
+        "锚点",
+        "高位主位",
+        "等级边界",
+        "觐见",
+        "前场",
+        "基座包边"
+      ],
+      "case_reference": "Lords Chamber"
+    },
+    {
+      "id": "DES-005",
+      "title": "阅览空间：共享区域与柔和任务光",
+      "category": "reading",
+      "summary": "从开放阅览与开口配合活动的资料提炼功能分区和任务光；天窗仅在项目已有时使用。",
+      "tags": [
+        "书房",
+        "阅览室",
+        "图书馆",
+        "阅读",
+        "漫射",
+        "任务光",
+        "分区",
+        "眩光"
+      ],
+      "entry_path": "knowledge/design/entries/DES-005.md",
+      "source_ids": [
+        "S005",
+        "S007"
+      ],
+      "prerequisites": [
+        "阅读功能及桌、书架等已有资产已确认。",
+        "窗/天窗是否存在、昼夜和天气需要先核对。"
+      ],
+      "limitations": [
+        "公共阅览室不等于私人书房。",
+        "不凭案例自动增加天窗、现代理性主义建筑或恒定均匀照度。"
+      ],
+      "verification": {
+        "source_text_reviewed": true,
+        "source_review_scope": "少量可读取文字与摘要；非全文或图纸复原",
+        "adaptation": "提炼者条件式方案",
+        "image_tested": false,
+        "spatially_tested": false,
+        "independent_reviewed": false
+      },
+      "search_terms": [
+        "锚点",
+        "阅读照明",
+        "私人书房",
+        "窗侧阅读",
+        "取书",
+        "椅后净空"
+      ],
+      "case_reference": "Alvar Aalto Library / Viipuri Library"
+    },
+    {
+      "id": "DES-006",
+      "title": "阅读空间：粗细材料与使用部位分工",
+      "category": "reading",
+      "summary": "以粗纹砖的官方材料事实为出发点，自拟结构、触碰面和精细节点的材料分工；适合修复材质单调。",
+      "tags": [
+        "书房",
+        "图书馆",
+        "阅览室",
+        "材质",
+        "工艺",
+        "粗细对比",
+        "砖",
+        "细节",
+        "朴素"
+      ],
+      "entry_path": "knowledge/design/entries/DES-006.md",
+      "source_ids": [
+        "S006"
+      ],
+      "prerequisites": [
+        "项目世界观允许所选材料、加工方法及连接方式。",
+        "具体桌、架、结构分区以资产表为准。"
+      ],
+      "limitations": [
+        "唯一核对的材料事实是Eno粗纹水打砖。",
+        "本库不声称原建筑一定采用所写的分区、木种或节点。"
+      ],
+      "verification": {
+        "source_text_reviewed": true,
+        "source_review_scope": "少量可读取文字与摘要；非全文或图纸复原",
+        "adaptation": "提炼者条件式方案",
+        "image_tested": false,
+        "spatially_tested": false,
+        "independent_reviewed": false
+      },
+      "search_terms": [
+        "锚点",
+        "大理石",
+        "既定材质",
+        "材料保留",
+        "材料组合",
+        "节点",
+        "低光泽",
+        "石木连接"
+      ],
+      "case_reference": "Phillips Exeter Academy Library"
+    },
+    {
+      "id": "DES-007",
+      "title": "项目版本：区分定稿、旧稿与天气状态",
+      "category": "exterior",
+      "summary": "从同名v1覆写和无雨、细雨、大雨并存的记录，提炼按正文、范围和用户选择匹配版本的方法。",
+      "tags": [
+        "版本",
+        "状态",
+        "定稿",
+        "旧稿",
+        "覆写"
+      ],
+      "search_terms": [
+        "天气版本",
+        "单扇门",
+        "双扇门",
+        "无雨",
+        "细雨",
+        "大雨",
+        "历史"
+      ],
+      "entry_path": "knowledge/design/entries/DES-007.md",
+      "source_ids": [
+        "S009"
+      ],
+      "prerequisites": [
+        "有可辨识版本与状态的项目资料；用户选择仅作用于明确范围。"
+      ],
+      "limitations": [
+        "文件时间或版本号不等于定案；跨状态新文件不全面替代旧文件。"
+      ],
+      "case_reference": "匿名院落案例 001 下人院落项目迭代",
+      "evidence_refs": [
+        {
+          "source_id": "S009",
+          "document": "concept-design-notes/courtyard-case-001/storyboard-reference/loc-servant-courtyard-exterior/courtyard-reverse-angle-from-final-master.md",
+          "section": "版本说明；定稿图已经锁定的事实"
+        },
+        {
+          "source_id": "S009",
+          "document": "screenplay-concept-director/courtyard-case-001/storyboard-reference/assets/loc-servant-courtyard-exterior/v3/decision-log.md",
+          "section": "来源、参考限权与版本关系"
+        },
+        {
+          "source_id": "S009",
+          "document": "concept-design-notes/courtyard-case-001/storyboard-reference/loc-servant-courtyard-exterior/courtyard-reverse-material-color-lighting-v1.md",
+          "section": "正反打与天气版本的连续性"
+        }
+      ],
+      "verification": {
+        "source_text_reviewed": true,
+        "source_review_scope": "本地文档与可定位用户反馈；历史图像未恢复，未复核原始DOCX",
+        "adaptation": "真实反馈与修订记录＋本轮条件式方法归纳",
+        "image_tested": false,
+        "spatially_tested": false,
+        "independent_reviewed": false
+      }
+    },
+    {
+      "id": "DES-008",
+      "title": "院落反打：固定实体与视点投影",
+      "category": "exterior",
+      "summary": "由早期独立院门方案被取代的记录，提炼保留实体、重建视点与限制不可见区域的原则。",
+      "tags": [
+        "反打",
+        "换视角",
+        "固定锚点",
+        "出口",
+        "遮挡"
+      ],
+      "search_terms": [
+        "机位",
+        "院门",
+        "单扇门",
+        "左右翻转",
+        "檐框",
+        "通道"
+      ],
+      "entry_path": "knowledge/design/entries/DES-008.md",
+      "source_ids": [
+        "S009"
+      ],
+      "prerequisites": [
+        "有可靠基准图或足以定位实体的记录；遮挡区仍可能未知。"
+      ],
+      "limitations": [
+        "低檐杂役廊、树位和出口不移植到别的院落；文字不能证明三维一致。"
+      ],
+      "case_reference": "匿名院落案例 001 下人院落项目迭代",
+      "evidence_refs": [
+        {
+          "source_id": "S009",
+          "log": "private-source-log-003.jsonl",
+          "ordinal": 1219
+        },
+        {
+          "source_id": "S009",
+          "document": "concept-design-notes/courtyard-case-001/storyboard-reference/loc-servant-courtyard-exterior/courtyard-reverse-angle-from-final-master.md",
+          "section": "反打视角与空间对应；低檐杂役廊"
+        },
+        {
+          "source_id": "S009",
+          "document": "screenplay-concept-director/courtyard-case-001/storyboard-reference/assets/loc-servant-courtyard-exterior/v3/decision-log.md",
+          "section": "D02、D03、D07"
+        }
+      ],
+      "verification": {
+        "source_text_reviewed": true,
+        "source_review_scope": "本地文档与可定位用户反馈；历史图像未恢复，未复核原始DOCX",
+        "adaptation": "真实反馈与修订记录＋本轮条件式方法归纳",
+        "image_tested": false,
+        "spatially_tested": false,
+        "independent_reviewed": false
+      }
+    },
+    {
+      "id": "DES-009",
+      "title": "功能构件：朝向、尺度与活动面",
+      "category": "exterior",
+      "summary": "从晾衣杆太小且方向错误的用户反馈，归纳主轴、相对尺度、承托和通路共同描述的方法。",
+      "tags": [
+        "功能构件",
+        "尺度",
+        "朝向",
+        "晾衣杆",
+        "支撑"
+      ],
+      "search_terms": [
+        "太小",
+        "尺寸",
+        "垂直",
+        "纵向",
+        "衣架",
+        "通路",
+        "相对尺度"
+      ],
+      "entry_path": "knowledge/design/entries/DES-009.md",
+      "source_ids": [
+        "S009"
+      ],
+      "prerequisites": [
+        "用户允许调整目标构件尺度或朝向；已有通路和支撑条件保留。"
+      ],
+      "limitations": [
+        "院深二分之一至三分之二是项目修订值，不设为通用比例。"
+      ],
+      "case_reference": "匿名院落案例 001 下人院落项目迭代",
+      "evidence_refs": [
+        {
+          "source_id": "S009",
+          "log": "private-source-log-002.jsonl",
+          "ordinal": 1036
+        },
+        {
+          "source_id": "S009",
+          "document": "screenplay-concept-director/courtyard-case-001/storyboard-reference/assets/loc-servant-courtyard-exterior/v2/asset-description.md",
+          "section": "晾衣杆核心修订；人物通路"
+        }
+      ],
+      "verification": {
+        "source_text_reviewed": true,
+        "source_review_scope": "本地文档与可定位用户反馈；历史图像未恢复，未复核原始DOCX",
+        "adaptation": "真实反馈与修订记录＋本轮条件式方法归纳",
+        "image_tested": false,
+        "spatially_tested": false,
+        "independent_reviewed": false
+      }
+    },
+    {
+      "id": "DES-010",
+      "title": "自然纹理：生长结构与制造秩序",
+      "category": "exterior",
+      "summary": "从树皮重复和枝叶规整的反馈，区分生长、加工、磨损与受湿，避免用噪点或浓雾掩盖重复。",
+      "tags": [
+        "树皮",
+        "树叶",
+        "自然纹理",
+        "重复",
+        "材质"
+      ],
+      "search_terms": [
+        "枝叶",
+        "叶簇",
+        "树干",
+        "规整",
+        "木纹",
+        "织物",
+        "纹理修复"
+      ],
+      "entry_path": "knowledge/design/entries/DES-010.md",
+      "source_ids": [
+        "S009"
+      ],
+      "prerequisites": [
+        "基准中的树形、材料身份和修改范围已明确。"
+      ],
+      "limitations": [
+        "自然差异不等于无规则；窗格、瓦行和织物保留制作秩序。"
+      ],
+      "case_reference": "匿名院落案例 001 下人院落项目迭代",
+      "evidence_refs": [
+        {
+          "source_id": "S009",
+          "log": "private-source-log-004.jsonl",
+          "ordinal": 1409
+        },
+        {
+          "source_id": "S009",
+          "document": "concept-design-notes/courtyard-case-001/storyboard-reference/loc-servant-courtyard-exterior/courtyard-front-material-naturalism-drizzle-v1.md",
+          "section": "树皮与枝叶；建筑和用品"
+        },
+        {
+          "source_id": "S009",
+          "document": "concept-design-notes/courtyard-case-001/storyboard-reference/loc-servant-courtyard-exterior/courtyard-reverse-material-color-lighting-v1.md",
+          "section": "树干树皮；枝叶"
+        }
+      ],
+      "verification": {
+        "source_text_reviewed": true,
+        "source_review_scope": "本地文档与可定位用户反馈；历史图像未恢复，未复核原始DOCX",
+        "adaptation": "真实反馈与修订记录＋本轮条件式方法归纳",
+        "image_tested": false,
+        "spatially_tested": false,
+        "independent_reviewed": false
+      }
+    },
+    {
+      "id": "DES-011",
+      "title": "雨景真实感：水路、湿态与远近层次",
+      "category": "exterior",
+      "summary": "从细雨和大雨文档归纳降雨、汇水、遮雨、材质响应与空气透视，作为视觉提案而非实测光学结论。",
+      "tags": [
+        "雨景",
+        "大雨",
+        "细雨",
+        "水路",
+        "湿态"
+      ],
+      "search_terms": [
+        "雨感",
+        "暴雨",
+        "滂沱大雨",
+        "檐水",
+        "散射",
+        "折射",
+        "空气透视",
+        "雨幕",
+        "反射"
+      ],
+      "entry_path": "knowledge/design/entries/DES-011.md",
+      "source_ids": [
+        "S009"
+      ],
+      "prerequisites": [
+        "已选定单一雨态、现有光源和场地关系。"
+      ],
+      "limitations": [
+        "只归纳已读文档的视觉控制；未核验其外部研究引用，不认证光学精度。"
+      ],
+      "case_reference": "匿名院落案例 001 下人院落项目迭代",
+      "evidence_refs": [
+        {
+          "source_id": "S009",
+          "log": "private-source-log-005.jsonl",
+          "ordinal": 1460
+        },
+        {
+          "source_id": "S009",
+          "document": "concept-design-notes/courtyard-case-001/storyboard-reference/loc-servant-courtyard-exterior/courtyard-front-material-naturalism-drizzle-v1.md",
+          "section": "建筑和用品的细雨表现"
+        },
+        {
+          "source_id": "S009",
+          "document": "concept-design-notes/courtyard-case-001/storyboard-reference/loc-servant-courtyard-exterior/courtyard-reverse-material-color-lighting-v1.md",
+          "section": "清晨大雨的光线、空气与摄影真实感；雨态真实性"
+        }
+      ],
+      "verification": {
+        "source_text_reviewed": true,
+        "source_review_scope": "本地文档与可定位用户反馈；历史图像未恢复，未复核原始DOCX",
+        "adaptation": "真实反馈与修订记录＋本轮条件式方法归纳",
+        "image_tested": false,
+        "spatially_tested": false,
+        "independent_reviewed": false
+      }
+    }
+  ],
+  "revision": 4,
+  "problem_library": [
+    {
+      "id": "staging-anchors",
+      "title": "空间调度与实体锚点",
+      "summary": "从动作链组织可用面，定义固定场景方向、实体参照与换视角邻接关系。",
+      "search_terms": [
+        "锚点",
+        "定位点",
+        "走戏",
+        "站位",
+        "通路",
+        "换视角",
+        "遮挡",
+        "多人对峙"
+      ],
+      "resource_path": "knowledge/design/problems/staging-anchors.md",
+      "related_case_ids": [
+        "DES-001",
+        "DES-002",
+        "DES-003",
+        "DES-004",
+        "DES-005",
+        "DES-008",
+        "DES-009"
+      ]
+    },
+    {
+      "id": "form-identity",
+      "title": "主形、视觉中心与定位识别",
+      "summary": "分开身份、注意中心与定位职责，按轮廓、结构和节点组织设计细节。",
+      "search_terms": [
+        "主形",
+        "特征点",
+        "普通",
+        "视觉中心",
+        "空间显小",
+        "轮廓",
+        "构图",
+        "识别"
+      ],
+      "resource_path": "knowledge/design/problems/form-identity.md",
+      "related_case_ids": [
+        "DES-001",
+        "DES-002",
+        "DES-004",
+        "DES-005"
+      ]
+    },
+    {
+      "id": "material-craft",
+      "title": "材料、工艺节点与使用痕迹",
+      "summary": "以构件职责组织加工、承托、收口和维护痕迹，不依赖稀有材质堆叠。",
+      "search_terms": [
+        "材质",
+        "材料",
+        "工艺",
+        "节点",
+        "大理石",
+        "朴素",
+        "接合",
+        "磨损",
+        "同材异工艺"
+      ],
+      "resource_path": "knowledge/design/problems/material-craft.md",
+      "related_case_ids": [
+        "DES-006",
+        "DES-001",
+        "DES-004",
+        "DES-010"
+      ]
+    },
+    {
+      "id": "color-light",
+      "title": "配色、材质与光域联动",
+      "summary": "把配色分配到实体载体，区分固有色与光色，排查全灰、抢眼和无依据光源。",
+      "search_terms": [
+        "色彩",
+        "配色",
+        "色卡",
+        "比例",
+        "光域",
+        "光影",
+        "灰扑扑",
+        "过曝",
+        "光源"
+      ],
+      "resource_path": "knowledge/design/problems/color-light.md",
+      "related_case_ids": [
+        "DES-001",
+        "DES-005",
+        "DES-006",
+        "DES-011"
+      ]
+    },
+    {
+      "id": "failure-validation",
+      "title": "失败诊断与验证记录",
+      "summary": "分开症状、观察与原因假设，保存对照和复测证据；附未执行记录模板。",
+      "search_terms": [
+        "失败",
+        "验证",
+        "测试",
+        "复测",
+        "记录",
+        "空间显小",
+        "锚点失效",
+        "灰扑扑",
+        "模板"
+      ],
+      "resource_path": "knowledge/design/problems/failure-validation.md",
+      "related_case_ids": [
+        "DES-001",
+        "DES-002",
+        "DES-003",
+        "DES-004",
+        "DES-005",
+        "DES-006",
+        "DES-007",
+        "DES-008",
+        "DES-009",
+        "DES-010",
+        "DES-011"
+      ]
+    },
+    {
+      "id": "state-version",
+      "title": "项目版本与单一状态",
+      "summary": "从当前要求和资料范围匹配基准，区分覆写、被取代的布局和并存天气。",
+      "search_terms": [
+        "定稿",
+        "版本",
+        "旧稿",
+        "状态",
+        "互斥",
+        "覆写",
+        "天气版本"
+      ],
+      "resource_path": "knowledge/design/problems/state-version.md",
+      "related_case_ids": [
+        "DES-007"
+      ]
+    },
+    {
+      "id": "weather-water",
+      "title": "雨景水路与湿态层次",
+      "summary": "分别处理降雨、汇水、遮雨、材质响应和雨幕，检查水的来源、落点与去向。",
+      "search_terms": [
+        "雨景",
+        "雨感",
+        "大雨",
+        "细雨",
+        "湿态",
+        "水路",
+        "檐水",
+        "雨幕",
+        "散射",
+        "折射"
+      ],
+      "resource_path": "knowledge/design/problems/weather-water.md",
+      "related_case_ids": [
+        "DES-011",
+        "DES-010"
+      ]
+    }
+  ],
+  "alias_groups": [
+    [
+      "锚点",
+      "定位点",
+      "固定参照",
+      "实体参照"
+    ],
+    [
+      "走戏",
+      "行动空间",
+      "表演空间"
+    ],
+    [
+      "视觉中心",
+      "视觉焦点",
+      "视觉重心"
+    ],
+    [
+      "对置",
+      "相向席位"
+    ],
+    [
+      "协商",
+      "商议"
+    ],
+    [
+      "任务光",
+      "阅读照明"
+    ],
+    [
+      "三分之四侧",
+      "四分之三侧"
+    ],
+    [
+      "反打",
+      "反向视角"
+    ],
+    [
+      "晾衣杆",
+      "晾衣架",
+      "衣架"
+    ],
+    [
+      "树叶",
+      "枝叶",
+      "叶簇"
+    ],
+    [
+      "大雨",
+      "暴雨",
+      "滂沱大雨"
+    ]
+  ]
+}
+

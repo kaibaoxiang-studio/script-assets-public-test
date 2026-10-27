@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "043",
+  "films": [
+    {
+      "title_zh": "Great Expectations",
+      "title_en": "Great Expectations",
+      "year": 1998,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#5E5253",
+          "source_ratio": 14.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.149,
+          "source_luminance": 0.0904,
+          "source_saturation": 0.1277
+        },
+        {
+          "hex": "#968F8E",
+          "source_ratio": 14.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.146,
+          "source_luminance": 0.2808,
+          "source_saturation": 0.0533
+        },
+        {
+          "hex": "#7F6E73",
+          "source_ratio": 13.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.13699999999999998,
+          "source_luminance": 0.169,
+          "source_saturation": 0.1339
+        },
+        {
+          "hex": "#173421",
+          "source_ratio": 13.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.135,
+          "source_luminance": 0.0275,
+          "source_saturation": 0.5577
+        },
+        {
+          "hex": "#727575",
+          "source_ratio": 12.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.122,
+          "source_luminance": 0.1758,
+          "source_saturation": 0.0256
+        },
+        {
+          "hex": "#423C3E",
+          "source_ratio": 10.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.109,
+          "source_luminance": 0.0474,
+          "source_saturation": 0.0909
+        },
+        {
+          "hex": "#2E2625",
+          "source_ratio": 10.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10099999999999999,
+          "source_luminance": 0.021,
+          "source_saturation": 0.1957
+        },
+        {
+          "hex": "#030905",
+          "source_ratio": 10.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10099999999999999,
+          "source_luminance": 0.0023,
+          "source_saturation": 0.6667
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2018/04/12/great-expectations/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/043_AlfonsoCuaron_阿方索·卡隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/greatexp001.jpg?bwg=1546979354",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/043_AlfonsoCuaron_阿方索·卡隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/greatexp022.jpg?bwg=1546979353",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/043_AlfonsoCuaron_阿方索·卡隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/greatexp044.jpg?bwg=1546979352",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/043_AlfonsoCuaron_阿方索·卡隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/greatexp065.jpg?bwg=1546979352",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/043_AlfonsoCuaron_阿方索·卡隆/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Harry Potter and the Prisoner of Azkaban",
+      "title_en": "Harry Potter and the Prisoner of Azkaban",
+      "year": 2004,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#000201",
+          "source_ratio": 38.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.389,
+          "source_luminance": 0.0005,
+          "source_saturation": 1
+        },
+        {
+          "hex": "#354746",
+          "source_ratio": 9.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.09300000000000001,
+          "source_luminance": 0.0571,
+          "source_saturation": 0.2535
+        },
+        {
+          "hex": "#6C8280",
+          "source_ratio": 9.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.091,
+          "source_luminance": 0.2071,
+          "source_saturation": 0.1692
+        },
+        {
+          "hex": "#252823",
+          "source_ratio": 8.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.08900000000000001,
+          "source_luminance": 0.0203,
+          "source_saturation": 0.125
+        },
+        {
+          "hex": "#646F6D",
+          "source_ratio": 8.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.087,
+          "source_luminance": 0.1518,
+          "source_saturation": 0.0991
+        },
+        {
+          "hex": "#615D59",
+          "source_ratio": 8.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.085,
+          "source_luminance": 0.1109,
+          "source_saturation": 0.0825
+        },
+        {
+          "hex": "#B1CBC0",
+          "source_ratio": 8.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.085,
+          "source_luminance": 0.5586,
+          "source_saturation": 0.1281
+        },
+        {
+          "hex": "#1D1A14",
+          "source_ratio": 8.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.081,
+          "source_luminance": 0.0105,
+          "source_saturation": 0.3103
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2016/07/07/harry-potter-and-the-prisoner-of-azkaban/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/043_AlfonsoCuaron_阿方索·卡隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/prisonerofazkaban01.jpg?bwg=1547034852",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/043_AlfonsoCuaron_阿方索·卡隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/prisonerofazkaban22.jpg?bwg=1547034851",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/043_AlfonsoCuaron_阿方索·卡隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/prisonerofazkaban44.jpg?bwg=1547034851",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/043_AlfonsoCuaron_阿方索·卡隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/prisonerofazkaban65.jpg?bwg=1547034851",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/043_AlfonsoCuaron_阿方索·卡隆/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Paris, Je T’Aime",
+      "title_en": "Paris, Je T’Aime",
+      "year": 2006,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#00030A",
+          "source_ratio": 15.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.152,
+          "source_luminance": 0.0009,
+          "source_saturation": 1
+        },
+        {
+          "hex": "#4B321A",
+          "source_ratio": 14.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14300000000000002,
+          "source_luminance": 0.0385,
+          "source_saturation": 0.6533
+        },
+        {
+          "hex": "#BE8621",
+          "source_ratio": 12.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.129,
+          "source_luminance": 0.2811,
+          "source_saturation": 0.8263
+        },
+        {
+          "hex": "#E5E3BC",
+          "source_ratio": 12.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.124,
+          "source_luminance": 0.7523,
+          "source_saturation": 0.179
+        },
+        {
+          "hex": "#182527",
+          "source_ratio": 11.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11900000000000001,
+          "source_luminance": 0.0166,
+          "source_saturation": 0.3846
+        },
+        {
+          "hex": "#19170D",
+          "source_ratio": 11.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11900000000000001,
+          "source_luminance": 0.0085,
+          "source_saturation": 0.48
+        },
+        {
+          "hex": "#2D2614",
+          "source_ratio": 11.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.114,
+          "source_luminance": 0.0199,
+          "source_saturation": 0.5556
+        },
+        {
+          "hex": "#C5A544",
+          "source_ratio": 10,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.1,
+          "source_luminance": 0.392,
+          "source_saturation": 0.6548
+        }
+      ],
+      "source_ratio_sum": 100.00000000000001,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2017/01/18/paris-je-taime/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/043_AlfonsoCuaron_阿方索·卡隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/paris001.jpg?bwg=1546900760",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/043_AlfonsoCuaron_阿方索·卡隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/paris022.jpg?bwg=1546900758",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/043_AlfonsoCuaron_阿方索·卡隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/paris044.jpg?bwg=1546900758",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/043_AlfonsoCuaron_阿方索·卡隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/paris065.jpg?bwg=1546900758",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/043_AlfonsoCuaron_阿方索·卡隆/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Roma",
+      "title_en": "Roma",
+      "year": 2018,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#1D1D1D",
+          "source_ratio": 13.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.13699999999999998,
+          "source_luminance": 0.0123,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#999999",
+          "source_ratio": 13.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.133,
+          "source_luminance": 0.3185,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#727272",
+          "source_ratio": 13.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.131,
+          "source_luminance": 0.1683,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#2D2D2D",
+          "source_ratio": 12.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.126,
+          "source_luminance": 0.0262,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#5E5E5E",
+          "source_ratio": 12.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.122,
+          "source_luminance": 0.1119,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#B1B1B1",
+          "source_ratio": 12.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.121,
+          "source_luminance": 0.4397,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#4A4A4A",
+          "source_ratio": 11.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.115,
+          "source_luminance": 0.0685,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#C8C8C8",
+          "source_ratio": 11.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.115,
+          "source_luminance": 0.5776,
+          "source_saturation": 0
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2020/08/12/roma-2/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/043_AlfonsoCuaron_阿方索·卡隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Roma_001.jpg?bwg=1596553484",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/043_AlfonsoCuaron_阿方索·卡隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Roma_018.jpg?bwg=1596553484",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/043_AlfonsoCuaron_阿方索·卡隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Roma_035.jpg?bwg=1596553484",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/043_AlfonsoCuaron_阿方索·卡隆/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Roma_052.jpg?bwg=1596553486",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/043_AlfonsoCuaron_阿方索·卡隆/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/043_AlfonsoCuaron_阿方索·卡隆/assets/references/reference_director_manifest.json",
+      "sha256": "1518c3bedf9ea85044c1c596a57a0eca55ac174fa1959c3cbcaacc6b087e9f3f",
+      "declared_urls": [
+        "https://film-grab.com/2018/04/12/great-expectations/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/greatexp001.jpg?bwg=1546979354",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/greatexp022.jpg?bwg=1546979353",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/greatexp044.jpg?bwg=1546979352",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/greatexp065.jpg?bwg=1546979352",
+        "https://film-grab.com/2016/07/07/harry-potter-and-the-prisoner-of-azkaban/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/prisonerofazkaban01.jpg?bwg=1547034852",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/prisonerofazkaban22.jpg?bwg=1547034851",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/prisonerofazkaban44.jpg?bwg=1547034851",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/prisonerofazkaban65.jpg?bwg=1547034851",
+        "https://film-grab.com/2017/01/18/paris-je-taime/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/paris001.jpg?bwg=1546900760",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/paris022.jpg?bwg=1546900758",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/paris044.jpg?bwg=1546900758",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/paris065.jpg?bwg=1546900758",
+        "https://film-grab.com/2020/08/12/roma-2/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Roma_001.jpg?bwg=1596553484",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Roma_018.jpg?bwg=1596553484",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Roma_035.jpg?bwg=1596553484",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Roma_052.jpg?bwg=1596553486"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/043_AlfonsoCuaron_阿方索·卡隆/assets/references/reference_sources.md",
+      "sha256": "b39826aa55b5c4a6cd85bda7493d1712da1ecd0a18ed54b3a86cc2c46671e541",
+      "declared_urls": [
+        "https://film-grab.com/2018/04/12/great-expectations/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/greatexp001.jpg?bwg=1546979354",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/greatexp022.jpg?bwg=1546979353",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/greatexp044.jpg?bwg=1546979352",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/greatexp065.jpg?bwg=1546979352",
+        "https://film-grab.com/2016/07/07/harry-potter-and-the-prisoner-of-azkaban/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/prisonerofazkaban01.jpg?bwg=1547034852",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/prisonerofazkaban22.jpg?bwg=1547034851",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/prisonerofazkaban44.jpg?bwg=1547034851",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/prisonerofazkaban65.jpg?bwg=1547034851",
+        "https://film-grab.com/2017/01/18/paris-je-taime/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/paris001.jpg?bwg=1546900760",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/paris022.jpg?bwg=1546900758",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/paris044.jpg?bwg=1546900758",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/paris065.jpg?bwg=1546900758",
+        "https://film-grab.com/2020/08/12/roma-2/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Roma_001.jpg?bwg=1596553484",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Roma_018.jpg?bwg=1596553484",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Roma_035.jpg?bwg=1596553484",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Roma_052.jpg?bwg=1596553486"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

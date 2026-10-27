@@ -1,0 +1,6 @@
+interface:
+  display_name: 角色群像差异化
+  short_description: 群像差异化总控：比较组、五轴矩阵与回图防撞型复核
+  default_prompt: Use $character-cast-differentiation to complete the requested task.
+policy:
+  allow_implicit_invocation: false

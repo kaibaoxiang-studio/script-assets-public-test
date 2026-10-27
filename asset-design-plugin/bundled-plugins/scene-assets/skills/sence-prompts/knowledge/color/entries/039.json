@@ -1,0 +1,191 @@
+{
+  "schema_version": "1.0.0",
+  "id": "039",
+  "label": {
+    "name_zh": "丹尼·博伊尔",
+    "name_en": "Danny Boyle",
+    "category": "02_霓虹黑色与赛博未来",
+    "source_volume": "第1期_SKILL_冷调与大地_001-080"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "迷幻脏绿",
+        "name_en": "Psychedelic Dirty Green",
+        "hex": "#3D5C28",
+        "source_ratio": 0.22,
+        "normalized_ratio": 0.22,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "孟买暖黄",
+        "name_en": "Mumbai Warm Yellow",
+        "hex": "#D4A020",
+        "source_ratio": 0.2,
+        "normalized_ratio": 0.2,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "霓虹橙红",
+        "name_en": "Neon Orange-Red",
+        "hex": "#E04020",
+        "source_ratio": 0.16,
+        "normalized_ratio": 0.16,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "毒幻蓝紫",
+        "name_en": "Narcotic Blue-Purple",
+        "hex": "#3A2E5C",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "废弃灰",
+        "name_en": "Abandoned Gray",
+        "hex": "#707068",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "皮肤暖棕",
+        "name_en": "Skin Warm Brown",
+        "hex": "#A07048",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "末日冷绿",
+        "name_en": "Apocalypse Cold Green",
+        "hex": "#507050",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "病毒感染、末日荒凉、被遗弃的世界、死寂"
+      },
+      {
+        "code": "E02",
+        "name_zh": "孟买红粉",
+        "name_en": "Mumbai Pink-Red",
+        "hex": "#C84060",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "生命能量、印度色彩、节日、贫民窟生命力"
+      },
+      {
+        "code": "E03",
+        "name_zh": "狂喜金黄",
+        "name_en": "Ecstasy Gold Yellow",
+        "hex": "#E8C830",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "毒品狂喜、太阳崇拜、生命力爆发、希望"
+      },
+      {
+        "code": "E04",
+        "name_zh": "病毒血红",
+        "name_en": "Virus Blood Red",
+        "hex": "#8B1A1A",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "狂暴病毒、暴力血腥、毒瘾深渊、死亡"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "狂乱手持+快速跳切光，极端冷暖交替，自然光与色光混用",
+      "highlight_description": "暖黄/霓虹橙（阳光、毒品狂躁、印度暖光）",
+      "shadow_description": "脏绿/蓝紫（毒幻、末日、病态暗部）",
+      "contrast_description": "高对比但饱和度跳跃（60-90%两极），从极度去饱和到极度饱和",
+      "overall_tone": "迷幻两极，50%暖黄橙红 + 50%冷绿蓝紫，快速剪辑跳跃"
+    },
+    "color_keywords": [
+      "迷幻脏绿",
+      "孟买暖黄",
+      "霓虹橙红",
+      "毒幻蓝紫",
+      "末日冷绿",
+      "狂喜金黄",
+      "病毒血红",
+      "高饱和跳跃",
+      "极端冷暖",
+      "色光染色"
+    ],
+    "mood_keywords": [
+      "狂躁能量",
+      "毒品迷幻",
+      "底层生命力",
+      "末日恐惧",
+      "黑色幽默",
+      "爱与救赎",
+      "英国愤怒",
+      "印度喧嚣",
+      "肾上腺素",
+      "存在荒诞"
+    ],
+    "composition_keywords": [
+      "快速跳切",
+      "手持狂晃",
+      "鱼眼畸变",
+      "低角度扭曲",
+      "主观毒幻视角",
+      "奔跑跟拍",
+      "字幕插入",
+      "分割画面",
+      "极速推拉",
+      "超现实插入"
+    ],
+    "style_profile": {
+      "definition": "丹尼·博伊尔的视觉风格以狂乱手持+快速跳切光，极端冷暖交替，自然光与色光混用为主，迷幻脏绿、孟买暖黄，营造出狂躁能量的氛围。",
+      "lighting": "狂乱手持+快速跳切光，极端冷暖交替，自然光与色光混用，高光偏暖黄/霓虹橙（阳光、毒品狂躁、印度暖光），阴影偏脏绿/蓝紫（毒幻、末日、病态暗部），整体迷幻两极，50%暖黄橙红 + 50%冷绿蓝紫，快速剪辑跳跃。",
+      "framing": "快速跳切、手持狂晃、鱼眼畸变。",
+      "grading": "对比度高对比但饱和度跳跃（60-90%两极），从极度去饱和到极度饱和，色调迷幻两极，50%暖黄橙红 + 50%冷绿蓝紫，快速剪辑跳跃。",
+      "avoid": "避免平光照明、避免色彩杂乱、避免构图失衡。"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "039",
+      "relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/039_DannyBoyle_丹尼·博伊尔/assets/color_palettes/palette.json",
+      "sha256": "8282f89064664828e5be9bb3f47243ee37eb1a356f2355dabb2776c415cd5aa5"
+    },
+    "source_entry_relative_dir": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/039_DannyBoyle_丹尼·博伊尔",
+    "source_records": [],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 0,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": null
+}

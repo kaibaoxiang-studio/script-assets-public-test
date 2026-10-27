@@ -1,0 +1,6 @@
+interface:
+  display_name: 资产设计总控
+  short_description: 跨角色、场景、道具的全文理解、统一设计与交付
+  default_prompt: 请使用 $asset-design 完成本次已指定范围的资产设计任务。
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "006",
+  "films": [
+    {
+      "title_zh": "Pusher",
+      "title_en": "Pusher",
+      "year": 1996,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#000200",
+          "source_ratio": 62.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.625,
+          "source_luminance": 0.0004,
+          "source_saturation": 1
+        },
+        {
+          "hex": "#392E26",
+          "source_ratio": 7.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.07200000000000001,
+          "source_luminance": 0.0296,
+          "source_saturation": 0.3333
+        },
+        {
+          "hex": "#756252",
+          "source_ratio": 6.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.065,
+          "source_luminance": 0.1313,
+          "source_saturation": 0.2991
+        },
+        {
+          "hex": "#26261B",
+          "source_ratio": 5.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.053,
+          "source_luminance": 0.0188,
+          "source_saturation": 0.2895
+        },
+        {
+          "hex": "#180501",
+          "source_ratio": 4.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.049,
+          "source_luminance": 0.003,
+          "source_saturation": 0.9583
+        },
+        {
+          "hex": "#3C1506",
+          "source_ratio": 4.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.047,
+          "source_luminance": 0.0151,
+          "source_saturation": 0.9
+        },
+        {
+          "hex": "#423D2E",
+          "source_ratio": 4.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.044000000000000004,
+          "source_luminance": 0.0469,
+          "source_saturation": 0.303
+        },
+        {
+          "hex": "#642C10",
+          "source_ratio": 4.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.045,
+          "source_luminance": 0.0455,
+          "source_saturation": 0.84
+        }
+      ],
+      "source_ratio_sum": 100.00000000000001,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2020/01/29/pusher/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/006_NicolasWindingRefn_尼古拉斯·雷弗恩/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Pusher_001.jpg?bwg=1569601286",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/006_NicolasWindingRefn_尼古拉斯·雷弗恩/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Pusher_013.jpg?bwg=1569601286",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/006_NicolasWindingRefn_尼古拉斯·雷弗恩/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Pusher_026.jpg?bwg=1569601286",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/006_NicolasWindingRefn_尼古拉斯·雷弗恩/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Pusher_038.jpg?bwg=1569601286",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/006_NicolasWindingRefn_尼古拉斯·雷弗恩/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Pusher II",
+      "title_en": "Pusher II",
+      "year": 2004,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#060902",
+          "source_ratio": 15,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.15,
+          "source_luminance": 0.0024,
+          "source_saturation": 0.7778
+        },
+        {
+          "hex": "#1F270D",
+          "source_ratio": 14.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.141,
+          "source_luminance": 0.0177,
+          "source_saturation": 0.6667
+        },
+        {
+          "hex": "#1C282F",
+          "source_ratio": 12.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.129,
+          "source_luminance": 0.0197,
+          "source_saturation": 0.4043
+        },
+        {
+          "hex": "#565F34",
+          "source_ratio": 12.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.121,
+          "source_luminance": 0.1041,
+          "source_saturation": 0.4526
+        },
+        {
+          "hex": "#7B4706",
+          "source_ratio": 11.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11699999999999999,
+          "source_luminance": 0.0873,
+          "source_saturation": 0.9512
+        },
+        {
+          "hex": "#6E857A",
+          "source_ratio": 11.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11699999999999999,
+          "source_luminance": 0.215,
+          "source_saturation": 0.1729
+        },
+        {
+          "hex": "#855D07",
+          "source_ratio": 11.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.114,
+          "source_luminance": 0.1283,
+          "source_saturation": 0.9474
+        },
+        {
+          "hex": "#2D1405",
+          "source_ratio": 11.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.111,
+          "source_luminance": 0.0107,
+          "source_saturation": 0.8889
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2020/04/14/pusher-ii/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/006_NicolasWindingRefn_尼古拉斯·雷弗恩/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Pusher_II_001.jpg?bwg=1587043954",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/006_NicolasWindingRefn_尼古拉斯·雷弗恩/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Pusher_II_015.jpg?bwg=1569601324",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/006_NicolasWindingRefn_尼古拉斯·雷弗恩/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Pusher_II_028.jpg?bwg=1569601321",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/006_NicolasWindingRefn_尼古拉斯·雷弗恩/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Pusher_II_042.jpg?bwg=1569601321",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/006_NicolasWindingRefn_尼古拉斯·雷弗恩/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Valhalla Rising",
+      "title_en": "Valhalla Rising",
+      "year": 2009,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#FFFFFF",
+          "source_ratio": 19,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.19,
+          "source_luminance": 1,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#9EA0AF",
+          "source_ratio": 12.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.125,
+          "source_luminance": 0.3551,
+          "source_saturation": 0.0971
+        },
+        {
+          "hex": "#3E362D",
+          "source_ratio": 12.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.125,
+          "source_luminance": 0.0385,
+          "source_saturation": 0.2742
+        },
+        {
+          "hex": "#7A808E",
+          "source_ratio": 12.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12300000000000001,
+          "source_luminance": 0.2153,
+          "source_saturation": 0.1408
+        },
+        {
+          "hex": "#61707E",
+          "source_ratio": 12.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.122,
+          "source_luminance": 0.1564,
+          "source_saturation": 0.2302
+        },
+        {
+          "hex": "#4A5C67",
+          "source_ratio": 11.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11599999999999999,
+          "source_luminance": 0.1009,
+          "source_saturation": 0.2816
+        },
+        {
+          "hex": "#2B2A20",
+          "source_ratio": 10.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.102,
+          "source_luminance": 0.0227,
+          "source_saturation": 0.2558
+        },
+        {
+          "hex": "#434E53",
+          "source_ratio": 9.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.09699999999999999,
+          "source_luminance": 0.0727,
+          "source_saturation": 0.1928
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2013/10/30/valhalla-rising/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/006_NicolasWindingRefn_尼古拉斯·雷弗恩/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1266).jpg?bwg=1547478921",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/006_NicolasWindingRefn_尼古拉斯·雷弗恩/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1290).jpg?bwg=1547478919",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/006_NicolasWindingRefn_尼古拉斯·雷弗恩/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1270).jpg?bwg=1547478919",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/006_NicolasWindingRefn_尼古拉斯·雷弗恩/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (872).jpg?bwg=1547478919",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/006_NicolasWindingRefn_尼古拉斯·雷弗恩/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "The Neon Demon",
+      "title_en": "The Neon Demon",
+      "year": 2016,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#000000",
+          "source_ratio": 25.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.255,
+          "source_luminance": 0,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#322B23",
+          "source_ratio": 13.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.134,
+          "source_luminance": 0.0253,
+          "source_saturation": 0.3
+        },
+        {
+          "hex": "#635D63",
+          "source_ratio": 11.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.113,
+          "source_luminance": 0.1138,
+          "source_saturation": 0.0606
+        },
+        {
+          "hex": "#EDF7F7",
+          "source_ratio": 11.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11199999999999999,
+          "source_luminance": 0.9124,
+          "source_saturation": 0.0405
+        },
+        {
+          "hex": "#3D5157",
+          "source_ratio": 11,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11,
+          "source_luminance": 0.0757,
+          "source_saturation": 0.2989
+        },
+        {
+          "hex": "#041423",
+          "source_ratio": 9.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.094,
+          "source_luminance": 0.0065,
+          "source_saturation": 0.8857
+        },
+        {
+          "hex": "#1F4252",
+          "source_ratio": 9.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.092,
+          "source_luminance": 0.048,
+          "source_saturation": 0.622
+        },
+        {
+          "hex": "#092332",
+          "source_ratio": 9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.09,
+          "source_luminance": 0.0149,
+          "source_saturation": 0.82
+        }
+      ],
+      "source_ratio_sum": 100.00000000000001,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2016/11/25/the-neon-demon/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/006_NicolasWindingRefn_尼古拉斯·雷弗恩/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/neondemon001.jpg?bwg=1546975044",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/006_NicolasWindingRefn_尼古拉斯·雷弗恩/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/neondemon022.jpg?bwg=1546975043",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/006_NicolasWindingRefn_尼古拉斯·雷弗恩/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/neondemon044.jpg?bwg=1546975043",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/006_NicolasWindingRefn_尼古拉斯·雷弗恩/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/neondemon065.jpg?bwg=1546975043",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/006_NicolasWindingRefn_尼古拉斯·雷弗恩/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/006_NicolasWindingRefn_尼古拉斯·雷弗恩/assets/references/reference_director_manifest.json",
+      "sha256": "d0ee2353fbbe8b7857f46cbf45c05a5fa2e03dbcd7a2a4580ee255d6cd7df111",
+      "declared_urls": [
+        "https://film-grab.com/2020/01/29/pusher/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Pusher_001.jpg?bwg=1569601286",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Pusher_013.jpg?bwg=1569601286",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Pusher_026.jpg?bwg=1569601286",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Pusher_038.jpg?bwg=1569601286",
+        "https://film-grab.com/2020/04/14/pusher-ii/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Pusher_II_001.jpg?bwg=1587043954",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Pusher_II_015.jpg?bwg=1569601324",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Pusher_II_028.jpg?bwg=1569601321",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Pusher_II_042.jpg?bwg=1569601321",
+        "https://film-grab.com/2013/10/30/valhalla-rising/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1266).jpg?bwg=1547478921",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1290).jpg?bwg=1547478919",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1270).jpg?bwg=1547478919",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (872).jpg?bwg=1547478919",
+        "https://film-grab.com/2016/11/25/the-neon-demon/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/neondemon001.jpg?bwg=1546975044",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/neondemon022.jpg?bwg=1546975043",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/neondemon044.jpg?bwg=1546975043",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/neondemon065.jpg?bwg=1546975043"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/01_黑色悬疑与冷调惊悚/006_NicolasWindingRefn_尼古拉斯·雷弗恩/assets/references/reference_sources.md",
+      "sha256": "a2eeef9c48bffec6e7ac142b5f4038741a63b7c0f991f03af953d219f77e0342",
+      "declared_urls": [
+        "https://film-grab.com/2020/01/29/pusher/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Pusher_001.jpg?bwg=1569601286",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Pusher_013.jpg?bwg=1569601286",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Pusher_026.jpg?bwg=1569601286",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Pusher_038.jpg?bwg=1569601286",
+        "https://film-grab.com/2020/04/14/pusher-ii/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Pusher_II_001.jpg?bwg=1587043954",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Pusher_II_015.jpg?bwg=1569601324",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Pusher_II_028.jpg?bwg=1569601321",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Pusher_II_042.jpg?bwg=1569601321",
+        "https://film-grab.com/2013/10/30/valhalla-rising/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1266).jpg?bwg=1547478921",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1290).jpg?bwg=1547478919",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1270).jpg?bwg=1547478919",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (872).jpg?bwg=1547478919",
+        "https://film-grab.com/2016/11/25/the-neon-demon/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/neondemon001.jpg?bwg=1546975044",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/neondemon022.jpg?bwg=1546975043",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/neondemon044.jpg?bwg=1546975043",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/neondemon065.jpg?bwg=1546975043"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

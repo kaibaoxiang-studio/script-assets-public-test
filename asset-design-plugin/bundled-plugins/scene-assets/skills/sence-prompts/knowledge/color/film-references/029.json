@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "029",
+  "films": [
+    {
+      "title_zh": "阿基拉",
+      "title_en": "Akira",
+      "year": 1988,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#9B5E31",
+          "source_ratio": 15.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.151,
+          "source_luminance": 0.152,
+          "source_saturation": 0.6839
+        },
+        {
+          "hex": "#485B65",
+          "source_ratio": 14.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14300000000000002,
+          "source_luminance": 0.098,
+          "source_saturation": 0.2871
+        },
+        {
+          "hex": "#1A1F22",
+          "source_ratio": 13.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.133,
+          "source_luminance": 0.0132,
+          "source_saturation": 0.2353
+        },
+        {
+          "hex": "#103A51",
+          "source_ratio": 12.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.125,
+          "source_luminance": 0.0373,
+          "source_saturation": 0.8025
+        },
+        {
+          "hex": "#060503",
+          "source_ratio": 11.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11599999999999999,
+          "source_luminance": 0.0015,
+          "source_saturation": 0.5
+        },
+        {
+          "hex": "#1A0306",
+          "source_ratio": 11.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.113,
+          "source_luminance": 0.003,
+          "source_saturation": 0.8846
+        },
+        {
+          "hex": "#343B41",
+          "source_ratio": 11.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11199999999999999,
+          "source_luminance": 0.0424,
+          "source_saturation": 0.2
+        },
+        {
+          "hex": "#C21308",
+          "source_ratio": 10.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.107,
+          "source_luminance": 0.1195,
+          "source_saturation": 0.9588
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/149/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/029_KatsuhiroOtomo_大友克洋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/029_KatsuhiroOtomo_大友克洋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/y1WyYC0noCSTf9nuS5Sh5hA9uZ1.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/029_KatsuhiroOtomo_大友克洋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/oruy89fQqxb0LPVgiIj70PUNGBo.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/029_KatsuhiroOtomo_大友克洋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/usgwLGHxxd9Tp7zT1GPEEHrNm3q.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/029_KatsuhiroOtomo_大友克洋/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "蒸汽男孩",
+      "title_en": "Steamboy",
+      "year": 2004,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#1E1A16",
+          "source_ratio": 15.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.159,
+          "source_luminance": 0.0107,
+          "source_saturation": 0.2667
+        },
+        {
+          "hex": "#B7695E",
+          "source_ratio": 15,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.15,
+          "source_luminance": 0.2098,
+          "source_saturation": 0.4863
+        },
+        {
+          "hex": "#CACFCA",
+          "source_ratio": 14.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14300000000000002,
+          "source_luminance": 0.6145,
+          "source_saturation": 0.0242
+        },
+        {
+          "hex": "#9BBBB8",
+          "source_ratio": 12.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.124,
+          "source_luminance": 0.4597,
+          "source_saturation": 0.1711
+        },
+        {
+          "hex": "#5B4442",
+          "source_ratio": 11.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11199999999999999,
+          "source_luminance": 0.0675,
+          "source_saturation": 0.2747
+        },
+        {
+          "hex": "#7D7063",
+          "source_ratio": 10.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.107,
+          "source_luminance": 0.1685,
+          "source_saturation": 0.208
+        },
+        {
+          "hex": "#928E80",
+          "source_ratio": 10.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10300000000000001,
+          "source_luminance": 0.2702,
+          "source_saturation": 0.1233
+        },
+        {
+          "hex": "#5D5D58",
+          "source_ratio": 10.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.102,
+          "source_luminance": 0.1086,
+          "source_saturation": 0.0538
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/8953/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/029_KatsuhiroOtomo_大友克洋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/c31SAQjVMeVGv7mZsrw5BKGXj2P.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/029_KatsuhiroOtomo_大友克洋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/xEXojxR2GX40mSuCtA5IzR4Ev8a.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/029_KatsuhiroOtomo_大友克洋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/zjFvc7tjCV8u2AfrkO1JKfJHVK9.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/029_KatsuhiroOtomo_大友克洋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/zp9aRcwEQhIq45K1HARiaB78IiQ.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/029_KatsuhiroOtomo_大友克洋/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "短暂和平",
+      "title_en": "Short Peace",
+      "year": 2013,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#CBC69C",
+          "source_ratio": 17.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.177,
+          "source_luminance": 0.5548,
+          "source_saturation": 0.2315
+        },
+        {
+          "hex": "#2D2019",
+          "source_ratio": 14.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.14300000000000002,
+          "source_luminance": 0.0166,
+          "source_saturation": 0.4444
+        },
+        {
+          "hex": "#BBB485",
+          "source_ratio": 13.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.139,
+          "source_luminance": 0.449,
+          "source_saturation": 0.2888
+        },
+        {
+          "hex": "#B39F72",
+          "source_ratio": 11.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11599999999999999,
+          "source_luminance": 0.3559,
+          "source_saturation": 0.3631
+        },
+        {
+          "hex": "#D5DDC0",
+          "source_ratio": 11.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11199999999999999,
+          "source_luminance": 0.6966,
+          "source_saturation": 0.1312
+        },
+        {
+          "hex": "#F5F5E0",
+          "source_ratio": 11,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11,
+          "source_luminance": 0.901,
+          "source_saturation": 0.0857
+        },
+        {
+          "hex": "#9E7F54",
+          "source_ratio": 10.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.102,
+          "source_luminance": 0.2309,
+          "source_saturation": 0.4684
+        },
+        {
+          "hex": "#6C6144",
+          "source_ratio": 10.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10099999999999999,
+          "source_luminance": 0.1215,
+          "source_saturation": 0.3704
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/252520/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/029_KatsuhiroOtomo_大友克洋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/vPFphxxLyKXTlIaUW6N6egSrc78.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/029_KatsuhiroOtomo_大友克洋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/dfPI4rSgmoBE08FyedQNsm7jmq5.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/029_KatsuhiroOtomo_大友克洋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/6KsvLmGu3J5aWqzhzEjGooDCEYb.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/029_KatsuhiroOtomo_大友克洋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/2TNZcHlbLGVzJE1J4DOoRnkQeBj.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/029_KatsuhiroOtomo_大友克洋/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "机器人嘉年华",
+      "title_en": "Robot Carnival",
+      "year": 1987,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#9FB1D3",
+          "source_ratio": 16.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.163,
+          "source_luminance": 0.4352,
+          "source_saturation": 0.2464
+        },
+        {
+          "hex": "#010032",
+          "source_ratio": 15.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.154,
+          "source_luminance": 0.0024,
+          "source_saturation": 1
+        },
+        {
+          "hex": "#BDAC65",
+          "source_ratio": 13.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.139,
+          "source_luminance": 0.4126,
+          "source_saturation": 0.4656
+        },
+        {
+          "hex": "#C3B793",
+          "source_ratio": 12.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.121,
+          "source_luminance": 0.4758,
+          "source_saturation": 0.2462
+        },
+        {
+          "hex": "#0E1220",
+          "source_ratio": 11,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11,
+          "source_luminance": 0.0063,
+          "source_saturation": 0.5625
+        },
+        {
+          "hex": "#0A0A0D",
+          "source_ratio": 10.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.109,
+          "source_luminance": 0.0031,
+          "source_saturation": 0.2308
+        },
+        {
+          "hex": "#838C9C",
+          "source_ratio": 10.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10300000000000001,
+          "source_luminance": 0.2598,
+          "source_saturation": 0.1603
+        },
+        {
+          "hex": "#313D4F",
+          "source_ratio": 10.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10099999999999999,
+          "source_luminance": 0.0455,
+          "source_saturation": 0.3797
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/33441/images/backdrops",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/029_KatsuhiroOtomo_大友克洋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/iV6G3qnnEsZ1CsHXjxoXNBeKMw6.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/029_KatsuhiroOtomo_大友克洋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/sfwVDloVVCp8qjKjO7j67E7jECV.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/029_KatsuhiroOtomo_大友克洋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/lAGVw2w74JXE46EkdYxpjHTGXNb.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/029_KatsuhiroOtomo_大友克洋/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/rRf6QZAZaKp9iP6v0S90KXcWQqp.jpg",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/029_KatsuhiroOtomo_大友克洋/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/029_KatsuhiroOtomo_大友克洋/assets/references/reference_director_manifest.json",
+      "sha256": "4efa3795aa29bffdb68f08c8173a0485bde3b4fee4d752ebca9f9c880bce544c",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/149/images/backdrops",
+        "https://image.tmdb.org/t/p/original/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
+        "https://image.tmdb.org/t/p/original/y1WyYC0noCSTf9nuS5Sh5hA9uZ1.jpg",
+        "https://image.tmdb.org/t/p/original/oruy89fQqxb0LPVgiIj70PUNGBo.jpg",
+        "https://image.tmdb.org/t/p/original/usgwLGHxxd9Tp7zT1GPEEHrNm3q.jpg",
+        "https://www.themoviedb.org/movie/8953/images/backdrops",
+        "https://image.tmdb.org/t/p/original/c31SAQjVMeVGv7mZsrw5BKGXj2P.jpg",
+        "https://image.tmdb.org/t/p/original/xEXojxR2GX40mSuCtA5IzR4Ev8a.jpg",
+        "https://image.tmdb.org/t/p/original/zjFvc7tjCV8u2AfrkO1JKfJHVK9.jpg",
+        "https://image.tmdb.org/t/p/original/zp9aRcwEQhIq45K1HARiaB78IiQ.jpg",
+        "https://www.themoviedb.org/movie/252520/images/backdrops",
+        "https://image.tmdb.org/t/p/original/vPFphxxLyKXTlIaUW6N6egSrc78.jpg",
+        "https://image.tmdb.org/t/p/original/dfPI4rSgmoBE08FyedQNsm7jmq5.jpg",
+        "https://image.tmdb.org/t/p/original/6KsvLmGu3J5aWqzhzEjGooDCEYb.jpg",
+        "https://image.tmdb.org/t/p/original/2TNZcHlbLGVzJE1J4DOoRnkQeBj.jpg",
+        "https://www.themoviedb.org/movie/33441/images/backdrops",
+        "https://image.tmdb.org/t/p/original/iV6G3qnnEsZ1CsHXjxoXNBeKMw6.jpg",
+        "https://image.tmdb.org/t/p/original/sfwVDloVVCp8qjKjO7j67E7jECV.jpg",
+        "https://image.tmdb.org/t/p/original/lAGVw2w74JXE46EkdYxpjHTGXNb.jpg",
+        "https://image.tmdb.org/t/p/original/rRf6QZAZaKp9iP6v0S90KXcWQqp.jpg"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/02_霓虹黑色与赛博未来/029_KatsuhiroOtomo_大友克洋/assets/references/reference_sources.md",
+      "sha256": "7670746426905a34b7d599c5c2679fcb5af605c1ff98647d0dd764b050d5918d",
+      "declared_urls": [
+        "https://www.themoviedb.org/movie/149/images/backdrops",
+        "https://image.tmdb.org/t/p/original/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
+        "https://image.tmdb.org/t/p/original/y1WyYC0noCSTf9nuS5Sh5hA9uZ1.jpg",
+        "https://image.tmdb.org/t/p/original/oruy89fQqxb0LPVgiIj70PUNGBo.jpg",
+        "https://image.tmdb.org/t/p/original/usgwLGHxxd9Tp7zT1GPEEHrNm3q.jpg",
+        "https://www.themoviedb.org/movie/8953/images/backdrops",
+        "https://image.tmdb.org/t/p/original/c31SAQjVMeVGv7mZsrw5BKGXj2P.jpg",
+        "https://image.tmdb.org/t/p/original/xEXojxR2GX40mSuCtA5IzR4Ev8a.jpg",
+        "https://image.tmdb.org/t/p/original/zjFvc7tjCV8u2AfrkO1JKfJHVK9.jpg",
+        "https://image.tmdb.org/t/p/original/zp9aRcwEQhIq45K1HARiaB78IiQ.jpg",
+        "https://www.themoviedb.org/movie/252520/images/backdrops",
+        "https://image.tmdb.org/t/p/original/vPFphxxLyKXTlIaUW6N6egSrc78.jpg",
+        "https://image.tmdb.org/t/p/original/dfPI4rSgmoBE08FyedQNsm7jmq5.jpg",
+        "https://image.tmdb.org/t/p/original/6KsvLmGu3J5aWqzhzEjGooDCEYb.jpg",
+        "https://image.tmdb.org/t/p/original/2TNZcHlbLGVzJE1J4DOoRnkQeBj.jpg",
+        "https://www.themoviedb.org/movie/33441/images/backdrops",
+        "https://image.tmdb.org/t/p/original/iV6G3qnnEsZ1CsHXjxoXNBeKMw6.jpg",
+        "https://image.tmdb.org/t/p/original/sfwVDloVVCp8qjKjO7j67E7jECV.jpg",
+        "https://image.tmdb.org/t/p/original/lAGVw2w74JXE46EkdYxpjHTGXNb.jpg",
+        "https://image.tmdb.org/t/p/original/rRf6QZAZaKp9iP6v0S90KXcWQqp.jpg"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

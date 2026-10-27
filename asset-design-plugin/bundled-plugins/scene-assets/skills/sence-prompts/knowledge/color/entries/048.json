@@ -1,0 +1,185 @@
+{
+  "schema_version": "1.0.0",
+  "id": "048",
+  "label": {
+    "name_zh": "安德烈·阿诺德",
+    "name_en": "Andrea Arnold",
+    "category": "03_大地暖调与自然光诗意",
+    "source_volume": "第1期_SKILL_冷调与大地_001-080"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "荒原褐",
+        "name_en": "Ochre",
+        "hex": "#8B7355",
+        "source_ratio": 0.22,
+        "normalized_ratio": 0.22,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "黄昏金",
+        "name_en": "Yellow",
+        "hex": "#C9A24A",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "野草绿",
+        "name_en": "Green",
+        "hex": "#5A6B4A",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "肌肤麦",
+        "name_en": "Color 4",
+        "hex": "#E8C090",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "烟煤灰",
+        "name_en": "Gray",
+        "hex": "#4A4A44",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "落日橙",
+        "name_en": "Orange",
+        "hex": "#D97A3C",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "暖麦金",
+        "name_en": "Gold",
+        "hex": "#F5DEB3",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "青春希望"
+      },
+      {
+        "code": "E02",
+        "name_zh": "旧木褐",
+        "name_en": "Ochre",
+        "hex": "#6B5D4E",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "困顿压抑"
+      },
+      {
+        "code": "E03",
+        "name_zh": "琥珀火",
+        "name_en": "Emotional 3",
+        "hex": "#B5651D",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "欲望躁动"
+      },
+      {
+        "code": "E04",
+        "name_zh": "苔原绿",
+        "name_en": "Green",
+        "hex": "#2F3A2A",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "孤独疏离"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "natural daylight, golden hour side light, handheld documentary style",
+      "highlight_description": "golden amber / warm yellow",
+      "shadow_description": "earthy brown-gray, no fill light",
+      "contrast_description": "medium 50-65%, soft natural rolloff",
+      "overall_tone": "warm earthy natural, 70% warm + 30% cool"
+    },
+    "color_keywords": [
+      "golden hour amber",
+      "natural earth tones",
+      "moorland heather green",
+      "council estate grey",
+      "skin tone warmth",
+      "overcast soft daylight",
+      "firelight orange",
+      "wet pavement sheen"
+    ],
+    "mood_keywords": [
+      "working-class intimacy",
+      "raw youth vulnerability",
+      "social realism poetry",
+      "feral tenderness",
+      "british social landscape",
+      "transient freedom",
+      "quiet desperation",
+      "tactile warmth"
+    ],
+    "composition_keywords": [
+      "handheld cinéma vérité",
+      "golden hour natural light",
+      "tight close-up intimacy",
+      "aspect ratio 4:3",
+      "shallow depth of field",
+      "dirty frame",
+      "natural location",
+      "unscripted movement"
+    ],
+    "style_profile": {
+      "definition": "荒原褐、黄昏金和野草绿包裹底层人物，手持摄影机把粗糙现实拍出温柔诗意。",
+      "lighting": "自然光为主，黄金时刻侧光，阴天柔光；不用补光模拟真实环境，阴影保留脏感。",
+      "framing": "4:3窄画幅挤压人物空间，手持贴身跟随，极端特写切入肌肤纹理和微表情；脏构图增强真实感。",
+      "grading": "略欠曝，高光暖调柔化，阴影偏褐绿；保持肤色自然，环境色不抢夺面部主导。",
+      "avoid": "棚内三点布光、高饱和滤镜、稳定器丝滑运动、好莱坞式金调美化、用统一滤镜替代真实环境光质感"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "048",
+      "relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/048_AndreaArnold_安德烈·阿诺德/assets/color_palettes/palette.json",
+      "sha256": "ff3b7bb8fb8c874744f14c242001319525cd4c0798f3c7047aad8fe075a29d7e"
+    },
+    "source_entry_relative_dir": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/048_AndreaArnold_安德烈·阿诺德",
+    "source_records": [],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 0,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": null
+}

@@ -1,0 +1,6 @@
+interface:
+  display_name: 角色证据核对
+  short_description: 核对剧本事实、资产表与场记来源并列冲突
+  default_prompt: Use $character-evidence to complete the requested task.
+policy:
+  allow_implicit_invocation: false

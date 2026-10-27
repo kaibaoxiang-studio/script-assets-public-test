@@ -1,0 +1,6 @@
+interface:
+  display_name: 服饰款式设计
+  short_description: 服饰款式设计：衣装品类、长度和层次
+  default_prompt: Use $character-costume-style-design to complete the requested task.
+policy:
+  allow_implicit_invocation: false

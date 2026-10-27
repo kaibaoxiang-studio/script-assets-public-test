@@ -1,0 +1,159 @@
+{
+  "schema_version": "CharacterStageDesignV1",
+  "character_id": "CHR-001",
+  "variant_id": "base",
+  "scope": "identity",
+  "parent_refs": {
+    "design-brief:CHR-001:base": "0548d388777df71b71ea943baa9100e04ccfd83663d6f99992ed1fffe1a42808"
+  },
+  "payload": {
+    "morphology": "human",
+    "appearance": {},
+    "feature_focus": {
+      "core_sentence": "总在收住急促的表情",
+      "primary_anchors": [
+        {
+          "part": "眉眼",
+          "geometry": "左眉尾略低",
+          "basis": "待审选择",
+          "visible_views": [
+            "front",
+            "avatar"
+          ]
+        },
+        {
+          "part": "发际",
+          "geometry": "右额角短发束",
+          "basis": "待审选择",
+          "visible_views": [
+            "front",
+            "side"
+          ]
+        }
+      ],
+      "quiet_features": [
+        {
+          "part": "鼻唇",
+          "decision": "维持普通比例，不争焦点"
+        }
+      ],
+      "imperfection_policy": {
+        "status": "existing",
+        "detail": "眉尾轻微不对称",
+        "basis": "已选方案"
+      },
+      "view_checks": {
+        "silhouette": {
+          "status": "not_tested",
+          "evidence": "尚未成图"
+        },
+        "occlusion": {
+          "status": "not_tested",
+          "evidence": "尚未成图"
+        }
+      }
+    },
+    "differentiation_review": {
+      "closest_character_ids": [],
+      "shared_features": [],
+      "distinct_features": [],
+      "realism_check": "与比较组并排审查"
+    },
+    "identity_invariants": [
+      "右眉旧伤位置固定"
+    ],
+    "visual_details": {
+      "face": {
+        "contour": "face 的 contour 采用可复现的具体结构",
+        "brow_eyes": "face 的 brow_eyes 采用可复现的具体结构",
+        "nose_mouth": "face 的 nose_mouth 采用可复现的具体结构"
+      },
+      "hair": {
+        "hairline_part": "hair 的 hairline_part 采用可复现的具体结构",
+        "volume_flow": "hair 的 volume_flow 采用可复现的具体结构",
+        "length_texture_color": "hair 的 length_texture_color 采用可复现的具体结构"
+      },
+      "skin": {
+        "tone_variation": "skin 的 tone_variation 采用可复现的具体结构",
+        "surface_distribution": "skin 的 surface_distribution 采用可复现的具体结构"
+      },
+      "adornments": {
+        "head_neck": "adornments 的 head_neck 采用可复现的具体结构"
+      }
+    },
+    "recognition_axes": {
+      "face_structure": "具体可见的识别关系",
+      "hair_structure": "具体可见的识别关系"
+    },
+    "world_influences": {
+      "environment": "维修机舱",
+      "technology": "可维护飞船",
+      "resources_and_access": "常用维修资源可得",
+      "appearance_effects": [
+        {
+          "feature": "短发束收在耳后",
+          "mechanism": "避免维修时遮挡视线",
+          "basis": "维修行为与可用固定方式",
+          "evidence_status": "inference"
+        }
+      ]
+    },
+    "facial_surface": {
+      "stable_marks": [],
+      "applied_decoration": [],
+      "temporary_effects": [],
+      "absence_or_focus_decision": "本轮不新增装饰"
+    }
+  },
+  "specialist_execution": {
+    "character-face-design": {
+      "mode": "not_needed",
+      "decision": "本阶段保留已定的留白，不额外添物"
+    },
+    "character-world-appearance-design": {
+      "mode": "not_needed",
+      "decision": "本阶段保留已定的留白，不额外添物"
+    },
+    "character-skin-design": {
+      "mode": "not_needed",
+      "decision": "本阶段保留已定的留白，不额外添物"
+    },
+    "character-face-decoration-design": {
+      "mode": "not_needed",
+      "decision": "本阶段保留已定的留白，不额外添物"
+    },
+    "character-hair-design": {
+      "mode": "inline",
+      "decision": "采用当前阶段的一套推荐设计",
+      "rules_applied": [
+        "说明部位与可复现结构，不把提案伪称事实"
+      ],
+      "knowledge_refs": [
+        {
+          "path": "references/evidence.md",
+          "sha256": "63b7a9de6765028b2e2c359a03f38ffcf744ff460f537bc7df5d5d2af0d86bb7"
+        }
+      ],
+      "results": [
+        {
+          "field": "visual_details.hair.hairline_part",
+          "visible_result": "hair 的 hairline_part 采用可复现的具体结构",
+          "basis": "已读剧本与人物设计命题",
+          "evidence_status": "creative_choice"
+        }
+      ]
+    },
+    "character-feature-focus": {
+      "mode": "not_needed",
+      "decision": "本阶段保留已定的留白，不额外添物"
+    },
+    "character-face-signature-design": {
+      "mode": "not_needed",
+      "decision": "本阶段保留已定的留白，不额外添物"
+    }
+  },
+  "deferred_dimensions": [
+    "其他画幅的细节后续深化"
+  ],
+  "unresolved": []
+}

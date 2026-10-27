@@ -1,0 +1,324 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "066",
+  "films": [
+    {
+      "title_zh": "爱神",
+      "title_en": "Eros",
+      "year": 2004,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/02/03/eros/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_01.jpg?bwg=1724143047",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_22.jpg?bwg=1724143045",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_44.jpg?bwg=1724143045",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_65.jpg?bwg=1724143045",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/02/03/eros/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/066_MichelangeloAntonioni_安东尼奥尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_01.jpg?bwg=1724143047",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/066_MichelangeloAntonioni_安东尼奥尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_22.jpg?bwg=1724143045",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/066_MichelangeloAntonioni_安东尼奥尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_44.jpg?bwg=1724143045",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/066_MichelangeloAntonioni_安东尼奥尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_65.jpg?bwg=1724143045",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/066_MichelangeloAntonioni_安东尼奥尼/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "奇遇",
+      "title_en": "L’Avventura",
+      "year": 1960,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/03/25/lavventura/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (587).jpg?bwg=1547227069",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (599).jpg?bwg=1547227069",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (588).jpg?bwg=1547227068",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (409).jpg?bwg=1547227068",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/03/25/lavventura/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/066_MichelangeloAntonioni_安东尼奥尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (587).jpg?bwg=1547227069",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/066_MichelangeloAntonioni_安东尼奥尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (599).jpg?bwg=1547227069",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/066_MichelangeloAntonioni_安东尼奥尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (588).jpg?bwg=1547227068",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/066_MichelangeloAntonioni_安东尼奥尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (409).jpg?bwg=1547227068",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/066_MichelangeloAntonioni_安东尼奥尼/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "放大",
+      "title_en": "Blow-Up",
+      "year": 1966,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/02/07/blow-up/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (161).jpg?bwg=1547151120",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (164).jpg?bwg=1547151119",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (163).jpg?bwg=1547151119",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (112).jpg?bwg=1547151119",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/02/07/blow-up/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/066_MichelangeloAntonioni_安东尼奥尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (161).jpg?bwg=1547151120",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/066_MichelangeloAntonioni_安东尼奥尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (164).jpg?bwg=1547151119",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/066_MichelangeloAntonioni_安东尼奥尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (163).jpg?bwg=1547151119",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/066_MichelangeloAntonioni_安东尼奥尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (112).jpg?bwg=1547151119",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/066_MichelangeloAntonioni_安东尼奥尼/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "过客",
+      "title_en": "The Passenger",
+      "year": 1975,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/08/25/the-passenger/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1132).jpg?bwg=1547469117",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1155).jpg?bwg=1547469117",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1136).jpg?bwg=1547469116",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (776).jpg?bwg=1547469116",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/08/25/the-passenger/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/066_MichelangeloAntonioni_安东尼奥尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1132).jpg?bwg=1547469117",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/066_MichelangeloAntonioni_安东尼奥尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1155).jpg?bwg=1547469117",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/066_MichelangeloAntonioni_安东尼奥尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1136).jpg?bwg=1547469116",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/066_MichelangeloAntonioni_安东尼奥尼/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (776).jpg?bwg=1547469116",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/066_MichelangeloAntonioni_安东尼奥尼/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/066_MichelangeloAntonioni_安东尼奥尼/assets/references/reference_director_manifest.json",
+      "sha256": "87c04685e062e41e50e04329aced919a7e113d983592330fc1aacf6d50c04e36",
+      "declared_urls": [
+        "https://film-grab.com/2025/02/03/eros/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_01.jpg?bwg=1724143047",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_22.jpg?bwg=1724143045",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_44.jpg?bwg=1724143045",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_65.jpg?bwg=1724143045",
+        "https://film-grab.com/2014/03/25/lavventura/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (587).jpg?bwg=1547227069",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (599).jpg?bwg=1547227069",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (588).jpg?bwg=1547227068",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (409).jpg?bwg=1547227068",
+        "https://film-grab.com/2014/02/07/blow-up/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (161).jpg?bwg=1547151120",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (164).jpg?bwg=1547151119",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (163).jpg?bwg=1547151119",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (112).jpg?bwg=1547151119",
+        "https://film-grab.com/2014/08/25/the-passenger/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1132).jpg?bwg=1547469117",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1155).jpg?bwg=1547469117",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1136).jpg?bwg=1547469116",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (776).jpg?bwg=1547469116"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/066_MichelangeloAntonioni_安东尼奥尼/assets/references/reference_sources.md",
+      "sha256": "bc5be4cb638a8b57a07b6f1f3e7a79f6dc70123ddfa582757d24b70a1296188c",
+      "declared_urls": [
+        "https://film-grab.com/2025/02/03/eros/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_01.jpg?bwg=1724143047",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_22.jpg?bwg=1724143045",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_44.jpg?bwg=1724143045",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_65.jpg?bwg=1724143045",
+        "https://film-grab.com/2014/03/25/lavventura/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (587).jpg?bwg=1547227069",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (599).jpg?bwg=1547227069",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (588).jpg?bwg=1547227068",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (409).jpg?bwg=1547227068",
+        "https://film-grab.com/2014/02/07/blow-up/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (161).jpg?bwg=1547151120",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (164).jpg?bwg=1547151119",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (163).jpg?bwg=1547151119",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (112).jpg?bwg=1547151119",
+        "https://film-grab.com/2014/08/25/the-passenger/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1132).jpg?bwg=1547469117",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1155).jpg?bwg=1547469117",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1136).jpg?bwg=1547469116",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (776).jpg?bwg=1547469116"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

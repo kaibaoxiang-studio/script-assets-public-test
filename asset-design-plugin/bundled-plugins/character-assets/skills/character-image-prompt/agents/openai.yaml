@@ -1,0 +1,6 @@
+interface:
+  display_name: 角色出图提示词
+  short_description: 把已批准设计转成 GPT Image 2.5 分阶段提示词
+  default_prompt: Use $character-image-prompt to complete the requested task.
+policy:
+  allow_implicit_invocation: false

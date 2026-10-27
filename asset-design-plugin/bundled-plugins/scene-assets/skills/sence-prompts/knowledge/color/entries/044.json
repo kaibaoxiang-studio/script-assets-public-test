@@ -1,0 +1,198 @@
+{
+  "schema_version": "1.0.0",
+  "id": "044",
+  "label": {
+    "name_zh": "吉尔莫·德尔·托罗",
+    "name_en": "Guillermo del Toro",
+    "category": "03_大地暖调与自然光诗意",
+    "source_volume": "第1期_SKILL_冷调与大地_001-080"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "深棕琥珀",
+        "name_en": "Deep Amber Brown",
+        "hex": "#3B220F",
+        "source_ratio": 0.25,
+        "normalized_ratio": 0.25,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "暗金神话",
+        "name_en": "Dark Gold Mythic",
+        "hex": "#B8860B",
+        "source_ratio": 0.2,
+        "normalized_ratio": 0.2,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "暖黑哥特",
+        "name_en": "Warm Black Gothic",
+        "hex": "#1C1C1C",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "大地金棕",
+        "name_en": "Earth Golden Brown",
+        "hex": "#D4A574",
+        "source_ratio": 0.15,
+        "normalized_ratio": 0.15,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "赭石红木",
+        "name_en": "Sienna Wood",
+        "hex": "#8B4513",
+        "source_ratio": 0.12,
+        "normalized_ratio": 0.12,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "蜜光黄",
+        "name_en": "Honey Light Yellow",
+        "hex": "#F0E68C",
+        "source_ratio": 0.1,
+        "normalized_ratio": 0.1,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "童话金",
+        "name_en": "Fairy Tale Gold",
+        "hex": "#FFD700",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "纯真奇幻"
+      },
+      {
+        "code": "E02",
+        "name_zh": "深海蓝",
+        "name_en": "Deep Sea Blue",
+        "hex": "#4682B4",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "孤寂爱意"
+      },
+      {
+        "code": "E03",
+        "name_zh": "暗红血",
+        "name_en": "Dark Blood Red",
+        "hex": "#8B0000",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "战争残酷"
+      },
+      {
+        "code": "E04",
+        "name_zh": "苔藓绿",
+        "name_en": "Moss Green",
+        "hex": "#556B2F",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "神秘自然"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "warm side lighting, amber practicals, soft fairy tale diffusion",
+      "highlight_description": "honey gold / amber yellow",
+      "shadow_description": "warm black / deep brown (never pure cool black)",
+      "contrast_description": "high 70-85%, amber detail preserved in darkness",
+      "overall_tone": "warm amber gothic, 80% warm + 20% cool"
+    },
+    "color_keywords": [
+      "amber fairy tale palette",
+      "warm black gothic",
+      "dark gold mythic tones",
+      "honey light diffusion",
+      "teal laboratory contrast",
+      "moss green forest magic",
+      "blood red violence",
+      "sepia memory glow"
+    ],
+    "mood_keywords": [
+      "dark fairy tale wonder",
+      "sympathetic monsters",
+      "gothic romance",
+      "childhood imagination",
+      "anti-fascist resistance",
+      "love across difference",
+      "magical realism",
+      "melancholic beauty"
+    ],
+    "composition_keywords": [
+      "fairy tale symmetry",
+      "creature feature framing",
+      "gothic architecture",
+      "low angle monster reveal",
+      "warm candlelit interior",
+      "fantasy portal",
+      "symmetrical wide shot",
+      "creature close-up empathy"
+    ],
+    "style_profile": {
+      "definition": "古金、血红、海洋青绿与潮湿黑让怪物童话既温暖又危险。",
+      "lighting": "烛光、月光、潮湿反射、体积光；肤色保持可读，不让环境偏色吞没面部层次。",
+      "framing": "童话对称、缓慢揭示、怪物细节；先交代颜色承载的空间，再进入人物与关键物件。",
+      "grading": "暖金对冷青绿，材质湿润，红色克制；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+      "avoid": "糖果奇幻、干净塑料怪物、蓝光糊脸、无动机环绕和随机变焦、用统一滤镜替代色彩比例、光源和材质。"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "044",
+      "relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/044_GuillermodelToro_吉尔莫·德尔·托罗/assets/color_palettes/palette.json",
+      "sha256": "a3316021696e8d02ebc4dbfb5fb30b6bacaade1475a5081b35671bc7825d3f7c"
+    },
+    "source_entry_relative_dir": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/044_GuillermodelToro_吉尔莫·德尔·托罗",
+    "source_records": [
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/044_GuillermodelToro_吉尔莫·德尔·托罗/assets/references/reference_director_manifest.json",
+        "sha256": "e7a1ea0083359d7cf73dfc19bdb8fbe39cbc5b1df2185ec103173bc96a850950",
+        "declared_url_count": 20,
+        "externally_verified": false
+      },
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/044_GuillermodelToro_吉尔莫·德尔·托罗/assets/references/reference_sources.md",
+        "sha256": "54e9f8289037736c60ec5b4d2ca71018158ae3ad3475f86863bfa9733c7f275e",
+        "declared_url_count": 20,
+        "externally_verified": false
+      }
+    ],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 4,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": "film-references/044.json"
+}

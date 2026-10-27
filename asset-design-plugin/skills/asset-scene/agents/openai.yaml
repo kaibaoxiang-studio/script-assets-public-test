@@ -1,0 +1,6 @@
+interface:
+  display_name: 场景资产
+  short_description: 静态场景设计、光影色卡与反打提示词
+  default_prompt: 请使用 $asset-scene 完成本次已指定范围的资产设计任务。
+policy:
+  allow_implicit_invocation: false

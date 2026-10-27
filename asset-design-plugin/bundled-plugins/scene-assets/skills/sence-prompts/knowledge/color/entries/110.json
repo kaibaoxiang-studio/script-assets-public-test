@@ -1,0 +1,179 @@
+{
+  "schema_version": "1.0.0",
+  "id": "110",
+  "label": {
+    "name_zh": "杨·史云梅耶",
+    "name_en": "JanSvankmajer",
+    "category": "06_超现实梦幻与心理畸变",
+    "source_volume": "第2期_SKILL_浓彩与梦幻_081-140"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "旧木棕",
+        "name_en": "Old Wood Brown",
+        "hex": "#6D4C41",
+        "source_ratio": 0.2,
+        "normalized_ratio": 0.2,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "橄榄黄",
+        "name_en": "Olive Yellow",
+        "hex": "#827717",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "暗青灰",
+        "name_en": "Dark Cyan Gray",
+        "hex": "#37474F",
+        "source_ratio": 0.16,
+        "normalized_ratio": 0.16,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "锈红",
+        "name_en": "Rust Red",
+        "hex": "#BF360C",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "尘土棕",
+        "name_en": "Dusty Brown",
+        "hex": "#A1887F",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "墨黑",
+        "name_en": "Ink Black",
+        "hex": "#1B1B1B",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "物质记忆",
+        "name_en": "物质记忆",
+        "hex": "#6D4C41",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "物质记忆"
+      },
+      {
+        "code": "E02",
+        "name_zh": "肉身焦虑",
+        "name_en": "肉身焦虑",
+        "hex": "#BF360C",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "肉身焦虑"
+      },
+      {
+        "code": "E03",
+        "name_zh": "自然荒诞",
+        "name_en": "自然荒诞",
+        "hex": "#827717",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "自然荒诞"
+      },
+      {
+        "code": "E04",
+        "name_zh": "暗黑童话",
+        "name_en": "暗黑童话",
+        "hex": "#37474F",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "暗黑童话"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "柔光写实",
+      "highlight_description": "静物侧光",
+      "shadow_description": "自然天光",
+      "contrast_description": "高对比",
+      "overall_tone": "暖调"
+    },
+    "color_keywords": [
+      "旧物棕黄",
+      "暗黑童话色",
+      "物质色彩",
+      "泥土色调",
+      "低饱和",
+      "质感色彩"
+    ],
+    "mood_keywords": [
+      "暗黑童话",
+      "物质恋物",
+      "身体恐怖",
+      "捷克超现实",
+      "触感电影",
+      "荒诞不经"
+    ],
+    "composition_keywords": [
+      "定格动画",
+      "物件拟人",
+      "食物变形",
+      "身体恐怖",
+      "捷克超现实",
+      "触觉质感"
+    ],
+    "style_profile": {
+      "definition": "杨·史云梅耶的视觉风格：柔光写实，旧物棕黄, 暗黑童话色, 物质色彩。",
+      "lighting": "柔光写实，静物侧光，自然天光",
+      "framing": "定格动画、物件拟人、食物变形。",
+      "grading": "整体色调暖调，对比度高对比。",
+      "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "110",
+      "relative_path": "第2期_SKILL_浓彩与梦幻_081-140/06_超现实梦幻与心理畸变/110_JanSvankmajer_杨·史云梅耶/assets/color_palettes/palette.json",
+      "sha256": "5c50a1c1620c3c8623252ad6c1bc41215dc95bc4db84fe739017eee0aa7310c7"
+    },
+    "source_entry_relative_dir": "第2期_SKILL_浓彩与梦幻_081-140/06_超现实梦幻与心理畸变/110_JanSvankmajer_杨·史云梅耶",
+    "source_records": [],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 0,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": null
+}

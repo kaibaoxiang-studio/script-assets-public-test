@@ -1,0 +1,194 @@
+{
+  "schema_version": "1.0.0",
+  "id": "082",
+  "label": {
+    "name_zh": "费里尼",
+    "name_en": "FedericoFellini",
+    "category": "05_巴洛克华丽与浓墨重彩",
+    "source_volume": "第2期_SKILL_浓彩与梦幻_081-140"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "银灰白",
+        "name_en": "Silver Gray White",
+        "hex": "#E8E0D0",
+        "source_ratio": 0.2,
+        "normalized_ratio": 0.2,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "暖金",
+        "name_en": "Warm Gold",
+        "hex": "#D4A058",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "深红",
+        "name_en": "Deep Crimson",
+        "hex": "#8B0000",
+        "source_ratio": 0.16,
+        "normalized_ratio": 0.16,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "暗青灰",
+        "name_en": "Dark Slate Gray",
+        "hex": "#2F4F4F",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "金菊黄",
+        "name_en": "Goldenrod",
+        "hex": "#DAA520",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "炭黑",
+        "name_en": "Charcoal Black",
+        "hex": "#1C1C1C",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "",
+        "name_en": "Emotional 1",
+        "hex": "#F5E6C8",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "梦幻回忆"
+      },
+      {
+        "code": "E02",
+        "name_zh": "",
+        "name_en": "Emotional 2",
+        "hex": "#B22222",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "热情与欲望"
+      },
+      {
+        "code": "E03",
+        "name_zh": "",
+        "name_en": "Emotional 3",
+        "hex": "#D2B48C",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "怀旧温暖"
+      },
+      {
+        "code": "E04",
+        "name_zh": "",
+        "name_en": "Emotional 4",
+        "hex": "#2C2C2C",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "荒诞与迷思"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "柔光梦幻",
+      "highlight_description": "舞台聚光",
+      "shadow_description": "暖金回忆",
+      "contrast_description": "高对比",
+      "overall_tone": "暖调"
+    },
+    "color_keywords": [
+      "银白梦幻",
+      "暖金回忆",
+      "马戏团色",
+      "高饱和装饰",
+      "黑白/彩色交替",
+      "罗马暖调"
+    ],
+    "mood_keywords": [
+      "梦幻荒诞",
+      "记忆迷宫",
+      "意式狂欢",
+      "自传色彩",
+      "马戏团美学",
+      "生命热情"
+    ],
+    "composition_keywords": [
+      "马戏团构图",
+      "夸张广角",
+      "梦幻场景",
+      "记忆碎片",
+      "小丑意象",
+      "人群涌动"
+    ],
+    "style_profile": {
+      "definition": "费里尼的视觉风格以柔光梦幻为主，银白梦幻、暖金回忆、马戏团色，营造出梦幻荒诞的氛围。",
+      "lighting": "柔光梦幻，高光偏舞台聚光，阴影偏暖金回忆，整体暖调。",
+      "composition": [],
+      "mood": [],
+      "framing": "马戏团构图、夸张广角、梦幻场景，强调视觉层次感。",
+      "grading": "对比度高对比，色调暖调，色彩银白梦幻、暖金回忆、马戏团色。",
+      "avoid": "避免平淡无奇、避免低饱和度、避免构图简单"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "082",
+      "relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/082_FedericoFellini_费里尼/assets/color_palettes/palette.json",
+      "sha256": "681130b955e0cc2c0494c0dd4ce9d224c46fd837ed9ff4a06c918981e454ef40"
+    },
+    "source_entry_relative_dir": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/082_FedericoFellini_费里尼",
+    "source_records": [
+      {
+        "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/082_FedericoFellini_费里尼/assets/references/reference_director_manifest.json",
+        "sha256": "56ed6c867f969f4cf09b7ee6f114177b2115a120b9ed8ca15fbb19d356fe5500",
+        "declared_url_count": 20,
+        "externally_verified": false
+      },
+      {
+        "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/082_FedericoFellini_费里尼/assets/references/reference_sources.md",
+        "sha256": "6d166b8ea935afbbf762fb39ebe0ea90c7aa157ac589005ce8f1755c6c123f60",
+        "declared_url_count": 20,
+        "externally_verified": false
+      }
+    ],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 0,
+      "source_only": 4
+    }
+  },
+  "film_reference_path": "film-references/082.json"
+}

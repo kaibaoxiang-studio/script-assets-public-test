@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "053",
+  "films": [
+    {
+      "title_zh": "Duel",
+      "title_en": "Duel",
+      "year": 1971,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#514131",
+          "source_ratio": 13.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.139,
+          "source_luminance": 0.0575,
+          "source_saturation": 0.3951
+        },
+        {
+          "hex": "#3D4245",
+          "source_ratio": 13.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.13699999999999998,
+          "source_luminance": 0.0532,
+          "source_saturation": 0.1159
+        },
+        {
+          "hex": "#340501",
+          "source_ratio": 13.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.136,
+          "source_luminance": 0.0084,
+          "source_saturation": 0.9808
+        },
+        {
+          "hex": "#5D5349",
+          "source_ratio": 13.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.133,
+          "source_luminance": 0.0899,
+          "source_saturation": 0.2151
+        },
+        {
+          "hex": "#CBCACD",
+          "source_ratio": 13.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.132,
+          "source_luminance": 0.5935,
+          "source_saturation": 0.0146
+        },
+        {
+          "hex": "#726961",
+          "source_ratio": 11.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11699999999999999,
+          "source_luminance": 0.1454,
+          "source_saturation": 0.1491
+        },
+        {
+          "hex": "#C9A881",
+          "source_ratio": 10.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.105,
+          "source_luminance": 0.4201,
+          "source_saturation": 0.3582
+        },
+        {
+          "hex": "#737477",
+          "source_ratio": 10.1,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10099999999999999,
+          "source_luminance": 0.1747,
+          "source_saturation": 0.0336
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/12/04/duel/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/053_StevenSpielberg_史蒂文·斯皮尔伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Duel_01.jpg?bwg=1712269329",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/053_StevenSpielberg_史蒂文·斯皮尔伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Duel_21.jpg?bwg=1712269328",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/053_StevenSpielberg_史蒂文·斯皮尔伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Duel_42.jpg?bwg=1712269328",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/053_StevenSpielberg_史蒂文·斯皮尔伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Duel_62.jpg?bwg=1712269328",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/053_StevenSpielberg_史蒂文·斯皮尔伯格/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Jurassic Park",
+      "title_en": "Jurassic Park",
+      "year": 1993,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#241C1E",
+          "source_ratio": 15.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.157,
+          "source_luminance": 0.013,
+          "source_saturation": 0.2222
+        },
+        {
+          "hex": "#653C38",
+          "source_ratio": 13.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.134,
+          "source_luminance": 0.0628,
+          "source_saturation": 0.4455
+        },
+        {
+          "hex": "#050405",
+          "source_ratio": 12.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.127,
+          "source_luminance": 0.0013,
+          "source_saturation": 0.2
+        },
+        {
+          "hex": "#336C86",
+          "source_ratio": 12.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.12300000000000001,
+          "source_luminance": 0.1315,
+          "source_saturation": 0.6194
+        },
+        {
+          "hex": "#072947",
+          "source_ratio": 12.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.122,
+          "source_luminance": 0.0209,
+          "source_saturation": 0.9014
+        },
+        {
+          "hex": "#562C27",
+          "source_ratio": 11.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11599999999999999,
+          "source_luminance": 0.0393,
+          "source_saturation": 0.5465
+        },
+        {
+          "hex": "#BFB8B0",
+          "source_ratio": 11.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11199999999999999,
+          "source_luminance": 0.4849,
+          "source_saturation": 0.0785
+        },
+        {
+          "hex": "#9B6D63",
+          "source_ratio": 10.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.109,
+          "source_luminance": 0.1881,
+          "source_saturation": 0.3613
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2015/05/11/jurassic-park/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/053_StevenSpielberg_史蒂文·斯皮尔伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (542).jpg?bwg=1547224757",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/053_StevenSpielberg_史蒂文·斯皮尔伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (552).jpg?bwg=1547224757",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/053_StevenSpielberg_史蒂文·斯皮尔伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (542).jpg?bwg=1547224757",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/053_StevenSpielberg_史蒂文·斯皮尔伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (374).jpg?bwg=1547224757",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/053_StevenSpielberg_史蒂文·斯皮尔伯格/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Minority Report",
+      "title_en": "Minority Report",
+      "year": 2002,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#040404",
+          "source_ratio": 22.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.22899999999999998,
+          "source_luminance": 0.0012,
+          "source_saturation": 0
+        },
+        {
+          "hex": "#837354",
+          "source_ratio": 13.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.135,
+          "source_luminance": 0.1773,
+          "source_saturation": 0.3588
+        },
+        {
+          "hex": "#C59A69",
+          "source_ratio": 11.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11900000000000001,
+          "source_luminance": 0.36,
+          "source_saturation": 0.467
+        },
+        {
+          "hex": "#F7EDD4",
+          "source_ratio": 11.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11699999999999999,
+          "source_luminance": 0.851,
+          "source_saturation": 0.1417
+        },
+        {
+          "hex": "#3B2917",
+          "source_ratio": 11.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11199999999999999,
+          "source_luminance": 0.0258,
+          "source_saturation": 0.6102
+        },
+        {
+          "hex": "#3B382C",
+          "source_ratio": 10.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.10400000000000001,
+          "source_luminance": 0.0394,
+          "source_saturation": 0.2542
+        },
+        {
+          "hex": "#202721",
+          "source_ratio": 9.4,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.094,
+          "source_luminance": 0.0187,
+          "source_saturation": 0.1795
+        },
+        {
+          "hex": "#46514D",
+          "source_ratio": 9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.09,
+          "source_luminance": 0.0772,
+          "source_saturation": 0.1358
+        }
+      ],
+      "source_ratio_sum": 100.00000000000001,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2013/09/03/minority-report/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/053_StevenSpielberg_史蒂文·斯皮尔伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (692).jpg?bwg=1547236886",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/053_StevenSpielberg_史蒂文·斯皮尔伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (705).jpg?bwg=1547236886",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/053_StevenSpielberg_史蒂文·斯皮尔伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (692).jpg?bwg=1547236885",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/053_StevenSpielberg_史蒂文·斯皮尔伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (475).jpg?bwg=1547236885",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/053_StevenSpielberg_史蒂文·斯皮尔伯格/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "The Fabelmans",
+      "title_en": "The Fabelmans",
+      "year": 2022,
+      "reference_type": "sampling_claim_unverified",
+      "sampled_colors": [
+        {
+          "hex": "#ACCAC1",
+          "source_ratio": 15.3,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.153,
+          "source_luminance": 0.5486,
+          "source_saturation": 0.1485
+        },
+        {
+          "hex": "#E5E4C8",
+          "source_ratio": 13.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.136,
+          "source_luminance": 0.7631,
+          "source_saturation": 0.1266
+        },
+        {
+          "hex": "#312C25",
+          "source_ratio": 12.7,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.127,
+          "source_luminance": 0.0259,
+          "source_saturation": 0.2449
+        },
+        {
+          "hex": "#898161",
+          "source_ratio": 12.6,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.126,
+          "source_luminance": 0.2188,
+          "source_saturation": 0.292
+        },
+        {
+          "hex": "#0B090C",
+          "source_ratio": 12.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.122,
+          "source_luminance": 0.0029,
+          "source_saturation": 0.25
+        },
+        {
+          "hex": "#515045",
+          "source_ratio": 11.9,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11900000000000001,
+          "source_luminance": 0.0792,
+          "source_saturation": 0.1481
+        },
+        {
+          "hex": "#1D2A2D",
+          "source_ratio": 11.2,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.11199999999999999,
+          "source_luminance": 0.0211,
+          "source_saturation": 0.3556
+        },
+        {
+          "hex": "#A39876",
+          "source_ratio": 10.5,
+          "ratio_unit": "percent",
+          "normalized_ratio": 0.105,
+          "source_luminance": 0.3155,
+          "source_saturation": 0.2761
+        }
+      ],
+      "source_ratio_sum": 100,
+      "source_ratio_unit": "percent",
+      "ratios_normalized": true,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2023/04/14/the-fabelmans/",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/053_StevenSpielberg_史蒂文·斯皮尔伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Fabelmans_01.jpg?bwg=1680016950",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/053_StevenSpielberg_史蒂文·斯皮尔伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Fabelmans_21.jpg?bwg=1680016948",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/053_StevenSpielberg_史蒂文·斯皮尔伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Fabelmans_42.jpg?bwg=1680016948",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/053_StevenSpielberg_史蒂文·斯皮尔伯格/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Fabelmans_62.jpg?bwg=1680016948",
+          "provenance": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/053_StevenSpielberg_史蒂文·斯皮尔伯格/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 0,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/053_StevenSpielberg_史蒂文·斯皮尔伯格/assets/references/reference_director_manifest.json",
+      "sha256": "5a7a94ac2b8910579d72e8f78350645b964cfaf5e31378a59ba325cd3b5fcff9",
+      "declared_urls": [
+        "https://film-grab.com/2025/12/04/duel/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Duel_01.jpg?bwg=1712269329",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Duel_21.jpg?bwg=1712269328",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Duel_42.jpg?bwg=1712269328",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Duel_62.jpg?bwg=1712269328",
+        "https://film-grab.com/2015/05/11/jurassic-park/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (542).jpg?bwg=1547224757",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (552).jpg?bwg=1547224757",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (542).jpg?bwg=1547224757",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (374).jpg?bwg=1547224757",
+        "https://film-grab.com/2013/09/03/minority-report/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (692).jpg?bwg=1547236886",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (705).jpg?bwg=1547236886",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (692).jpg?bwg=1547236885",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (475).jpg?bwg=1547236885",
+        "https://film-grab.com/2023/04/14/the-fabelmans/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Fabelmans_01.jpg?bwg=1680016950",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Fabelmans_21.jpg?bwg=1680016948",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Fabelmans_42.jpg?bwg=1680016948",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Fabelmans_62.jpg?bwg=1680016948"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/03_大地暖调与自然光诗意/053_StevenSpielberg_史蒂文·斯皮尔伯格/assets/references/reference_sources.md",
+      "sha256": "a70580af1baac27f8d936e7c66005729b2a33cc9072e8d0dfe0c366b8a191429",
+      "declared_urls": [
+        "https://film-grab.com/2025/12/04/duel/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Duel_01.jpg?bwg=1712269329",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Duel_21.jpg?bwg=1712269328",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Duel_42.jpg?bwg=1712269328",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/Duel_62.jpg?bwg=1712269328",
+        "https://film-grab.com/2015/05/11/jurassic-park/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (542).jpg?bwg=1547224757",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (552).jpg?bwg=1547224757",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (542).jpg?bwg=1547224757",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (374).jpg?bwg=1547224757",
+        "https://film-grab.com/2013/09/03/minority-report/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (692).jpg?bwg=1547236886",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (705).jpg?bwg=1547236886",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (692).jpg?bwg=1547236885",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (475).jpg?bwg=1547236885",
+        "https://film-grab.com/2023/04/14/the-fabelmans/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Fabelmans_01.jpg?bwg=1680016950",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Fabelmans_21.jpg?bwg=1680016948",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Fabelmans_42.jpg?bwg=1680016948",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Fabelmans_62.jpg?bwg=1680016948"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

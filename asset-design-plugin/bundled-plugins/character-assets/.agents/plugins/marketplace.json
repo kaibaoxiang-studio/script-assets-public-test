@@ -1,0 +1,12 @@
+{
+  "name": "zichan-local",
+  "interface": {"displayName": "ZiChan 资产插件"},
+  "plugins": [
+    {
+      "name": "character-assets",
+      "source": {"source": "local", "path": "./"},
+      "policy": {"installation": "AVAILABLE", "authentication": "ON_INSTALL"},
+      "category": "Productivity"
+    }
+  ]
+}

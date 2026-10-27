@@ -1,0 +1,276 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "081",
+  "films": [
+    {
+      "title_zh": "情慾色香味",
+      "title_en": "The Cook, the Thief, His Wife and Her Lover",
+      "year": 1989,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/rzaf3eCT8pVCGvuS7P8g2nPitqC.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/iiZHqF0BfD7UI7vZXhmaD2MFBNu.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/tiJ6FupEHWyK5w7uSH5Hsje3B0V.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/3k3NJpXQSLL3UYqpuD9GweTPO61.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/rzaf3eCT8pVCGvuS7P8g2nPitqC.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/081_PeterGreenaway_彼得·格林纳威/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/iiZHqF0BfD7UI7vZXhmaD2MFBNu.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/081_PeterGreenaway_彼得·格林纳威/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/tiJ6FupEHWyK5w7uSH5Hsje3B0V.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/081_PeterGreenaway_彼得·格林纳威/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/3k3NJpXQSLL3UYqpuD9GweTPO61.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/081_PeterGreenaway_彼得·格林纳威/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 4,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "姓科的人",
+      "title_en": "The Falls",
+      "year": 1980,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/stLzTxfpbQbzX5OYDY9F4u4gYuf.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/2B8hjmMuFGHBZoyr0l7D2BZv5w6.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/d9WEF4y3GfRzkkJsteDXHqPvzjg.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/3ZsQ578GsY7i4061cj9SFsjOUWg.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/stLzTxfpbQbzX5OYDY9F4u4gYuf.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/081_PeterGreenaway_彼得·格林纳威/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/2B8hjmMuFGHBZoyr0l7D2BZv5w6.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/081_PeterGreenaway_彼得·格林纳威/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/d9WEF4y3GfRzkkJsteDXHqPvzjg.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/081_PeterGreenaway_彼得·格林纳威/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/3ZsQ578GsY7i4061cj9SFsjOUWg.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/081_PeterGreenaway_彼得·格林纳威/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 4,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "逐个淹死",
+      "title_en": "Drowning by Numbers",
+      "year": 1988,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/8HiCwYGET0rHwAQnMridjgPD2uk.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/h9ndC0gPubKlcxCYDHr1Zxt2XyF.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/j9P7QPsZQNYBjWplYhWzfX9af1J.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/gLBbeubWhWYgpVNUSfjhiuiqhLU.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/8HiCwYGET0rHwAQnMridjgPD2uk.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/081_PeterGreenaway_彼得·格林纳威/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/h9ndC0gPubKlcxCYDHr1Zxt2XyF.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/081_PeterGreenaway_彼得·格林纳威/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/j9P7QPsZQNYBjWplYhWzfX9af1J.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/081_PeterGreenaway_彼得·格林纳威/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/gLBbeubWhWYgpVNUSfjhiuiqhLU.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/081_PeterGreenaway_彼得·格林纳威/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 4,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "繪圖師的合約",
+      "title_en": "The Draughtsman's Contract",
+      "year": 1982,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/4cExyNONv6JNlOuBH1qcUvIyd8O.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/6cfgXv2jEDTwTNlJyrkgEtPzxqz.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/msusQKLwl0CqoAc8Txlr0X4ZCe3.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/1HvreNCmPs4606utmHugRYhS5uz.jpg",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/4cExyNONv6JNlOuBH1qcUvIyd8O.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/081_PeterGreenaway_彼得·格林纳威/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/6cfgXv2jEDTwTNlJyrkgEtPzxqz.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/081_PeterGreenaway_彼得·格林纳威/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/msusQKLwl0CqoAc8Txlr0X4ZCe3.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/081_PeterGreenaway_彼得·格林纳威/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/1HvreNCmPs4606utmHugRYhS5uz.jpg",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/081_PeterGreenaway_彼得·格林纳威/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 4,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/081_PeterGreenaway_彼得·格林纳威/assets/references/reference_director_manifest.json",
+      "sha256": "f4a8d70db629ffa901c7cc59b406886265ed503820d1c74d643611aa0cfa68bf",
+      "declared_urls": [
+        "https://image.tmdb.org/t/p/original/rzaf3eCT8pVCGvuS7P8g2nPitqC.jpg",
+        "https://image.tmdb.org/t/p/original/iiZHqF0BfD7UI7vZXhmaD2MFBNu.jpg",
+        "https://image.tmdb.org/t/p/original/tiJ6FupEHWyK5w7uSH5Hsje3B0V.jpg",
+        "https://image.tmdb.org/t/p/original/3k3NJpXQSLL3UYqpuD9GweTPO61.jpg",
+        "https://image.tmdb.org/t/p/original/stLzTxfpbQbzX5OYDY9F4u4gYuf.jpg",
+        "https://image.tmdb.org/t/p/original/2B8hjmMuFGHBZoyr0l7D2BZv5w6.jpg",
+        "https://image.tmdb.org/t/p/original/d9WEF4y3GfRzkkJsteDXHqPvzjg.jpg",
+        "https://image.tmdb.org/t/p/original/3ZsQ578GsY7i4061cj9SFsjOUWg.jpg",
+        "https://image.tmdb.org/t/p/original/8HiCwYGET0rHwAQnMridjgPD2uk.jpg",
+        "https://image.tmdb.org/t/p/original/h9ndC0gPubKlcxCYDHr1Zxt2XyF.jpg",
+        "https://image.tmdb.org/t/p/original/j9P7QPsZQNYBjWplYhWzfX9af1J.jpg",
+        "https://image.tmdb.org/t/p/original/gLBbeubWhWYgpVNUSfjhiuiqhLU.jpg",
+        "https://image.tmdb.org/t/p/original/4cExyNONv6JNlOuBH1qcUvIyd8O.jpg",
+        "https://image.tmdb.org/t/p/original/6cfgXv2jEDTwTNlJyrkgEtPzxqz.jpg",
+        "https://image.tmdb.org/t/p/original/msusQKLwl0CqoAc8Txlr0X4ZCe3.jpg",
+        "https://image.tmdb.org/t/p/original/1HvreNCmPs4606utmHugRYhS5uz.jpg"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/081_PeterGreenaway_彼得·格林纳威/assets/references/reference_sources.md",
+      "sha256": "6fa8273ec070fe6fab16ab5e5cbfc51f7fde7c4894e8de4549de6ad6e2ad375c",
+      "declared_urls": [
+        "https://image.tmdb.org/t/p/original/rzaf3eCT8pVCGvuS7P8g2nPitqC.jpg",
+        "https://image.tmdb.org/t/p/original/iiZHqF0BfD7UI7vZXhmaD2MFBNu.jpg",
+        "https://image.tmdb.org/t/p/original/tiJ6FupEHWyK5w7uSH5Hsje3B0V.jpg",
+        "https://image.tmdb.org/t/p/original/3k3NJpXQSLL3UYqpuD9GweTPO61.jpg",
+        "https://image.tmdb.org/t/p/original/stLzTxfpbQbzX5OYDY9F4u4gYuf.jpg",
+        "https://image.tmdb.org/t/p/original/2B8hjmMuFGHBZoyr0l7D2BZv5w6.jpg",
+        "https://image.tmdb.org/t/p/original/d9WEF4y3GfRzkkJsteDXHqPvzjg.jpg",
+        "https://image.tmdb.org/t/p/original/3ZsQ578GsY7i4061cj9SFsjOUWg.jpg",
+        "https://image.tmdb.org/t/p/original/8HiCwYGET0rHwAQnMridjgPD2uk.jpg",
+        "https://image.tmdb.org/t/p/original/h9ndC0gPubKlcxCYDHr1Zxt2XyF.jpg",
+        "https://image.tmdb.org/t/p/original/j9P7QPsZQNYBjWplYhWzfX9af1J.jpg",
+        "https://image.tmdb.org/t/p/original/gLBbeubWhWYgpVNUSfjhiuiqhLU.jpg",
+        "https://image.tmdb.org/t/p/original/4cExyNONv6JNlOuBH1qcUvIyd8O.jpg",
+        "https://image.tmdb.org/t/p/original/6cfgXv2jEDTwTNlJyrkgEtPzxqz.jpg",
+        "https://image.tmdb.org/t/p/original/msusQKLwl0CqoAc8Txlr0X4ZCe3.jpg",
+        "https://image.tmdb.org/t/p/original/1HvreNCmPs4606utmHugRYhS5uz.jpg"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

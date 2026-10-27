@@ -1,0 +1,324 @@
+{
+  "schema_version": "1.0.0",
+  "entry_id": "084",
+  "films": [
+    {
+      "title_zh": "The Conformist",
+      "title_en": "The Conformist",
+      "year": 1970,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2013/02/23/the-conformist/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1020).jpg?bwg=1547462986",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1042).jpg?bwg=1547462986",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/43 (1025).jpg?bwg=1547462984",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/64 (769).jpg?bwg=1547462985",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2013/02/23/the-conformist/",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/084_BernardoBertolucci_贝托鲁奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1020).jpg?bwg=1547462986",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/084_BernardoBertolucci_贝托鲁奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1042).jpg?bwg=1547462986",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/084_BernardoBertolucci_贝托鲁奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/43 (1025).jpg?bwg=1547462984",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/084_BernardoBertolucci_贝托鲁奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/64 (769).jpg?bwg=1547462985",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/084_BernardoBertolucci_贝托鲁奇/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "The Last Emperor",
+      "title_en": "The Last Emperor",
+      "year": 1987,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2024/08/13/the-last-emperor/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Last_Emperor_01.jpg?bwg=1715934760",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Last_Emperor_22.jpg?bwg=1715934758",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Last_Emperor_44.jpg?bwg=1715934758",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Last_Emperor_65.jpg?bwg=1715934758",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2024/08/13/the-last-emperor/",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/084_BernardoBertolucci_贝托鲁奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Last_Emperor_01.jpg?bwg=1715934760",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/084_BernardoBertolucci_贝托鲁奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Last_Emperor_22.jpg?bwg=1715934758",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/084_BernardoBertolucci_贝托鲁奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Last_Emperor_44.jpg?bwg=1715934758",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/084_BernardoBertolucci_贝托鲁奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Last_Emperor_65.jpg?bwg=1715934758",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/084_BernardoBertolucci_贝托鲁奇/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "Stealing Beauty",
+      "title_en": "Stealing Beauty",
+      "year": 1996,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2024/04/06/stealing-beauty/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/stealing001.jpg?bwg=1551289316",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/stealing022.jpg?bwg=1551289315",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/stealing044.jpg?bwg=1551289315",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/stealing065.jpg?bwg=1551289315",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2024/04/06/stealing-beauty/",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/084_BernardoBertolucci_贝托鲁奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/stealing001.jpg?bwg=1551289316",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/084_BernardoBertolucci_贝托鲁奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/stealing022.jpg?bwg=1551289315",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/084_BernardoBertolucci_贝托鲁奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/stealing044.jpg?bwg=1551289315",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/084_BernardoBertolucci_贝托鲁奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/stealing065.jpg?bwg=1551289315",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/084_BernardoBertolucci_贝托鲁奇/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    },
+    {
+      "title_zh": "The Dreamers",
+      "title_en": "The Dreamers",
+      "year": 2003,
+      "reference_type": "source_only",
+      "sampled_colors": [],
+      "source_ratio_sum": null,
+      "source_ratio_unit": null,
+      "ratios_normalized": false,
+      "declared_sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2017/05/25/the-dreamers/",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1039).jpg?bwg=1547463863",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1061).jpg?bwg=1547463863",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1043).jpg?bwg=1547463862",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (710).jpg?bwg=1547463862",
+          "provenance": "palette.json_inline"
+        },
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2017/05/25/the-dreamers/",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/084_BernardoBertolucci_贝托鲁奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1039).jpg?bwg=1547463863",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/084_BernardoBertolucci_贝托鲁奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1061).jpg?bwg=1547463863",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/084_BernardoBertolucci_贝托鲁奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1043).jpg?bwg=1547463862",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/084_BernardoBertolucci_贝托鲁奇/assets/references/reference_director_manifest.json"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (710).jpg?bwg=1547463862",
+          "provenance": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/084_BernardoBertolucci_贝托鲁奇/assets/references/reference_director_manifest.json"
+        }
+      ],
+      "inline_source_count": 5,
+      "externally_verified": false,
+      "frame_to_palette_verified": false
+    }
+  ],
+  "source_records": [
+    {
+      "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/084_BernardoBertolucci_贝托鲁奇/assets/references/reference_director_manifest.json",
+      "sha256": "b5265540ffec959e3276bffe23260d4daf1d6e51137352c029062180f1701ed2",
+      "declared_urls": [
+        "https://film-grab.com/2013/02/23/the-conformist/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1020).jpg?bwg=1547462986",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1042).jpg?bwg=1547462986",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/43 (1025).jpg?bwg=1547462984",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/64 (769).jpg?bwg=1547462985",
+        "https://film-grab.com/2024/08/13/the-last-emperor/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Last_Emperor_01.jpg?bwg=1715934760",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Last_Emperor_22.jpg?bwg=1715934758",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Last_Emperor_44.jpg?bwg=1715934758",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Last_Emperor_65.jpg?bwg=1715934758",
+        "https://film-grab.com/2024/04/06/stealing-beauty/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/stealing001.jpg?bwg=1551289316",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/stealing022.jpg?bwg=1551289315",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/stealing044.jpg?bwg=1551289315",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/stealing065.jpg?bwg=1551289315",
+        "https://film-grab.com/2017/05/25/the-dreamers/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1039).jpg?bwg=1547463863",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1061).jpg?bwg=1547463863",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1043).jpg?bwg=1547463862",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (710).jpg?bwg=1547463862"
+      ],
+      "externally_verified": false
+    },
+    {
+      "origin_relative_path": "第2期_SKILL_浓彩与梦幻_081-140/05_巴洛克华丽与浓墨重彩/084_BernardoBertolucci_贝托鲁奇/assets/references/reference_sources.md",
+      "sha256": "ba91bb8fe91fb071005e9baac2b983a0db285d38da19827b6f08e2866a79b86d",
+      "declared_urls": [
+        "https://film-grab.com/2013/02/23/the-conformist/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1020).jpg?bwg=1547462986",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1042).jpg?bwg=1547462986",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/43 (1025).jpg?bwg=1547462984",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/64 (769).jpg?bwg=1547462985",
+        "https://film-grab.com/2024/08/13/the-last-emperor/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Last_Emperor_01.jpg?bwg=1715934760",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Last_Emperor_22.jpg?bwg=1715934758",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Last_Emperor_44.jpg?bwg=1715934758",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/The_Last_Emperor_65.jpg?bwg=1715934758",
+        "https://film-grab.com/2024/04/06/stealing-beauty/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/stealing001.jpg?bwg=1551289316",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/stealing022.jpg?bwg=1551289315",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/stealing044.jpg?bwg=1551289315",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/stealing065.jpg?bwg=1551289315",
+        "https://film-grab.com/2017/05/25/the-dreamers/",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1039).jpg?bwg=1547463863",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1061).jpg?bwg=1547463863",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1043).jpg?bwg=1547463862",
+        "https://film-grab.com/wp-content/uploads/photo-gallery/65 (710).jpg?bwg=1547463862"
+      ],
+      "externally_verified": false
+    }
+  ],
+  "external_verification_performed": false,
+  "warning": "影片色值为原库采样声明，不是本次复核的原片色卡；无采样的来源占位不能用于色值匹配。"
+}

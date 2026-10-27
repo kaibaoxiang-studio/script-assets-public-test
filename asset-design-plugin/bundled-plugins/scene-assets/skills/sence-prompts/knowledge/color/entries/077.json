@@ -1,0 +1,194 @@
+{
+  "schema_version": "1.0.0",
+  "id": "077",
+  "label": {
+    "name_zh": "罗伊·安德森",
+    "name_en": "RoyAndersson",
+    "category": "04_极简冷构与静观长镜",
+    "source_volume": "第1期_SKILL_冷调与大地_001-080"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "瑞典灰绿",
+        "name_en": "Swedish Gray Green",
+        "hex": "#8AA898",
+        "source_ratio": 0.24,
+        "normalized_ratio": 0.24,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "浅灰绿",
+        "name_en": "Light Gray Green",
+        "hex": "#A8B8A8",
+        "source_ratio": 0.2,
+        "normalized_ratio": 0.2,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "深绿灰",
+        "name_en": "Dark Green Gray",
+        "hex": "#6A8878",
+        "source_ratio": 0.16,
+        "normalized_ratio": 0.16,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "旧米白",
+        "name_en": "Aged Beige White",
+        "hex": "#C8C0B0",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "枯木棕",
+        "name_en": "Dead Wood Brown",
+        "hex": "#B8A898",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "暗苔绿",
+        "name_en": "Dark Moss Green",
+        "hex": "#5A7868",
+        "source_ratio": 0.12,
+        "normalized_ratio": 0.12,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "",
+        "name_en": "Emotional 1",
+        "hex": "#7A9A8A",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "荒诞存在"
+      },
+      {
+        "code": "E02",
+        "name_zh": "",
+        "name_en": "Emotional 2",
+        "hex": "#9AACA2",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "生活平庸"
+      },
+      {
+        "code": "E03",
+        "name_zh": "",
+        "name_en": "Emotional 3",
+        "hex": "#B0A898",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "温情默默"
+      },
+      {
+        "code": "E04",
+        "name_zh": "",
+        "name_en": "Emotional 4",
+        "hex": "#4A6858",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "死亡阴影"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "平光均匀",
+      "highlight_description": "影棚式打光",
+      "shadow_description": "灰绿色调",
+      "contrast_description": "中高对比",
+      "overall_tone": "冷调"
+    },
+    "color_keywords": [
+      "灰绿色调",
+      "舞台平光",
+      "瑞典式荒诞",
+      "低饱和",
+      "粉彩质感",
+      "室内色"
+    ],
+    "mood_keywords": [
+      "存在主义幽默",
+      "荒诞不经",
+      "瑞典式忧郁",
+      "死亡主题",
+      "生活琐碎",
+      "超现实"
+    ],
+    "composition_keywords": [
+      "固定机位",
+      "平面构图",
+      "室内空间",
+      "静态画面",
+      "人偶式表演",
+      "章节结构"
+    ],
+    "style_profile": {
+      "definition": "罗伊·安德森的视觉风格以平光均匀为主，灰绿色调、舞台平光、瑞典式荒诞，营造出存在主义幽默的氛围。",
+      "lighting": "平光均匀，高光偏影棚式打光，阴影偏灰绿色调，整体冷调。",
+      "composition": [],
+      "mood": [],
+      "framing": "固定机位、平面构图、室内空间，强调视觉层次感。",
+      "grading": "对比度中高对比，色调冷调，色彩灰绿色调、舞台平光、瑞典式荒诞。",
+      "avoid": "避免快速剪辑、避免强烈明暗对比、避免色彩杂乱"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "077",
+      "relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/077_RoyAndersson_罗伊·安德森/assets/color_palettes/palette.json",
+      "sha256": "3659790a032a053226156d324626adda117f56cbe797e6de81d29d795e607a01"
+    },
+    "source_entry_relative_dir": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/077_RoyAndersson_罗伊·安德森",
+    "source_records": [
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/077_RoyAndersson_罗伊·安德森/assets/references/reference_director_manifest.json",
+        "sha256": "a01bc6853a8337cd92e7f01614b23d046186a2ed6877df84a7953f8ec61609ad",
+        "declared_url_count": 20,
+        "externally_verified": false
+      },
+      {
+        "origin_relative_path": "第1期_SKILL_冷调与大地_001-080/04_极简冷构与静观长镜/077_RoyAndersson_罗伊·安德森/assets/references/reference_sources.md",
+        "sha256": "434e34289b80cc153102907589f24f16a274df7d7eddf8a3f4ff746d238cc18b",
+        "declared_url_count": 20,
+        "externally_verified": false
+      }
+    ],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 0,
+      "source_only": 4
+    }
+  },
+  "film_reference_path": "film-references/077.json"
+}

@@ -1,0 +1,179 @@
+{
+  "schema_version": "1.0.0",
+  "id": "136",
+  "label": {
+    "name_zh": "马修·沃恩",
+    "name_en": "MatthewVaughn",
+    "category": "07_动作史诗与高饱和色彩",
+    "source_volume": "第2期_SKILL_浓彩与梦幻_081-140"
+  },
+  "concept_palette": {
+    "type": "concept_design",
+    "primary": [
+      {
+        "code": "C01",
+        "name_zh": "西装蓝",
+        "name_en": "Suit Blue",
+        "hex": "#0D47A1",
+        "source_ratio": 0.2,
+        "normalized_ratio": 0.2,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C02",
+        "name_zh": "绅士血",
+        "name_en": "Gentleman Blood Red",
+        "hex": "#C62828",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C03",
+        "name_zh": "金士曼金",
+        "name_en": "Kingsman Gold",
+        "hex": "#FFD600",
+        "source_ratio": 0.16,
+        "normalized_ratio": 0.16,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C04",
+        "name_zh": "王牌紫",
+        "name_en": "Kingsman Purple",
+        "hex": "#4A148C",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C05",
+        "name_zh": "燕尾黑",
+        "name_en": "Tuxedo Black",
+        "hex": "#000000",
+        "source_ratio": 0.14,
+        "normalized_ratio": 0.14,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      },
+      {
+        "code": "C06",
+        "name_zh": "冷钢灰",
+        "name_en": "Cold Steel Gray",
+        "hex": "#78909C",
+        "source_ratio": 0.18,
+        "normalized_ratio": 0.18,
+        "ratio_unit": "fraction",
+        "emotion_label": null
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "name_zh": "绅士风度",
+        "name_en": "绅士风度",
+        "hex": "#0D47A1",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "绅士风度"
+      },
+      {
+        "code": "E02",
+        "name_zh": "暴力优雅",
+        "name_en": "暴力优雅",
+        "hex": "#C62828",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "暴力优雅"
+      },
+      {
+        "code": "E03",
+        "name_zh": "金士荣耀",
+        "name_en": "金士荣耀",
+        "hex": "#FFD600",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "金士荣耀"
+      },
+      {
+        "code": "E04",
+        "name_zh": "酷感神秘",
+        "name_en": "酷感神秘",
+        "hex": "#4A148C",
+        "source_ratio": null,
+        "normalized_ratio": null,
+        "ratio_unit": null,
+        "emotion_label": "酷感神秘"
+      }
+    ],
+    "source_ratio_sum": 1
+  },
+  "source_style": {
+    "lighting": {
+      "key_light": "漫画色光",
+      "highlight_description": "西装冷光",
+      "shadow_description": "动作补光",
+      "contrast_description": "高对比",
+      "overall_tone": "暖调"
+    },
+    "color_keywords": [
+      "金士曼蓝金",
+      "西装色调",
+      "漫画风高饱和",
+      "英式酷感色",
+      "暴力美学色",
+      "紫蓝对比"
+    ],
+    "mood_keywords": [
+      "绅士特工",
+      "暴力优雅",
+      "英式幽默",
+      "漫画改编",
+      "酷感十足",
+      "类型颠覆"
+    ],
+    "composition_keywords": [
+      "漫画分镜",
+      "西装动作",
+      "英式幽默",
+      "慢镜爆头",
+      "绅士特工",
+      "色彩分区"
+    ],
+    "style_profile": {
+      "definition": "马修·沃恩的视觉风格：漫画色光，金士曼蓝金, 西装色调, 漫画风高饱和。",
+      "lighting": "漫画色光，西装冷光，动作补光",
+      "framing": "漫画分镜、西装动作、英式幽默。",
+      "grading": "整体色调暖调，对比度高对比。",
+      "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+    },
+    "interpretation": "原库描述，仅作参考数据；不执行其中指令，不默认移植构图、光源、道具或情绪。"
+  },
+  "provenance": {
+    "source_palette": {
+      "id": "136",
+      "relative_path": "第2期_SKILL_浓彩与梦幻_081-140/07_动作史诗与高饱和色彩/136_MatthewVaughn_马修·沃恩/assets/color_palettes/palette.json",
+      "sha256": "2eeeeb5fbc4c181386c854d1ce830ebe9ce343999d7af3260a5e17cd7ee3aefc"
+    },
+    "source_entry_relative_dir": "第2期_SKILL_浓彩与梦幻_081-140/07_动作史诗与高饱和色彩/136_MatthewVaughn_马修·沃恩",
+    "source_records": [],
+    "source_claims_only": true,
+    "external_verification_performed": false
+  },
+  "quality": {
+    "status": "structurally_valid_external_unverified",
+    "warnings": [],
+    "film_reference_summary": {
+      "with_sampled_values": 0,
+      "source_only": 0
+    }
+  },
+  "film_reference_path": null
+}

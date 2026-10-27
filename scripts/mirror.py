@@ -15,7 +15,7 @@ import tempfile
 import zipfile
 
 ROOT=Path(__file__).resolve().parents[1]
-TAG='public-test-2026-10-27-r3'
+TAG='public-test-2026-10-27-r4'
 EXCLUDED={'.git','__pycache__','.venv','.pytest_cache','.harness','dist','reports'}
 
 def read(p):return json.loads(Path(p).read_text(encoding='utf-8'))
@@ -66,7 +66,7 @@ def validate(root=ROOT,run_components=True):
         if p.suffix=='.py':ast.parse(text,filename=str(rel));python_count+=1
     authority=source_lock['authoritative_capabilities']
     if authority['script_suite']['repository']!='kaibaoxiang-studio/script-plugins':raise ValueError('Wrong screenplay authority')
-    expected_children={'character-assets':'0.2.6.4-local','scene-assets':'0.9.5','prop-assets':'0.2.5'}
+    expected_children={'character-assets':'0.2.13','scene-assets':'0.9.5','prop-assets':'0.2.5'}
     child_lock=read(root/'asset-design-plugin/bundle-lock.json')
     child_versions={}
     for domain,name in [('character','character-assets'),('scene','scene-assets'),('prop','prop-assets')]:
@@ -90,14 +90,14 @@ def validate(root=ROOT,run_components=True):
             checks.append({'component':item['name'],'validation':data})
     export=read(root/'asset-design-plugin/validation/public-export-checks.json')
     if export.get('status') != 'passed' or not export.get('checks') or any(c.get('status') != 'passed' for c in export['checks']):
-        raise ValueError('Current r3 validation evidence is pending or failed; record actual checks before packaging')
+        raise ValueError('Current r4 validation evidence is pending or failed; record actual checks before packaging')
     return {'schema_version':'PublicMirrorValidationV1','snapshot_tag':TAG,'date':'2026-10-27',
         'valid':True,'source_files_checked':count,'documentation_and_provenance_overlays':changed,
         'python_files_parsed':python_count,'components':comps,'component_checks':checks,
         'asset_regressions':export,'credential_or_personal_source_locator_matches':0,
         'authoritative_capabilities':authority,'child_versions':child_versions,
         'business_code_changes':True,
-        'business_change_source':'Canonical screenplay completion repair and ZiChan role update; scene/prop source bytes unchanged.',
+        'business_change_source':'Canonical ZiChan character 0.2.13 update; screenplay/scene/prop business bytes unchanged.',
         'packaging_integration_changes':['asset-design-plugin/scripts/bundle.py','asset-design-plugin/scripts/validate_package.py'],
         'new_model_or_image_calls':bool(export.get('fresh_model_calls')),
         'scope':'Public export integrity, syntax, component Skill/reference validation, and documented local regression results; user business and visual testing remain the purpose of this release.'}

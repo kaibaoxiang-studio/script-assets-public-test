@@ -1,7 +1,7 @@
 {
   "schema_version": "PublicExportManifestV1",
   "distribution": "public-test-export",
-  "snapshot_tag": "public-test-2026-10-27-r3",
+  "snapshot_tag": "public-test-2026-10-27-r4",
   "plugin_version": "0.1.0",
   "exported_on": "2026-10-27",
   "orchestration_shell_source": {
@@ -10,30 +10,30 @@
   },
   "authoritative_asset_source": {
     "repository": "kaibaoxiang-studio/ZiChan",
-    "commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
+    "commit": "e089d1287c1499f08c42e75aca093131e9d3fbc0",
     "versions": {
-      "character-assets": "0.2.6.4-local",
+      "character-assets": "0.2.13",
       "scene-assets": "0.9.5",
       "prop-assets": "0.2.5"
     }
   },
-  "scope": "Current canonical screenplay completion repair and role avatar update; scene/prop bytes preserve their prior verified snapshot. Historical model records retain their historical scope.",
+  "scope": "Character 0.2.13 synchronization; screenplay business, scene and prop bytes retain r3. Only existing screenplay install-tag overlays change. Prior model validations remain historical.",
   "transforms": [
     {
       "path": "script-plugins/README.md",
       "source_repository": "kaibaoxiang-studio/script-plugins",
       "source_commit": "b1f232c743a927a4f7c94f02c1dede2fab4e49a0",
       "source_sha256": "9b76c6b625d00cba776ea8b31c5bc3d7e0befd6d4e94cc821af0c165b765f0b0",
-      "export_sha256": "57cf4c1d2c983732c8061db11245fee9b3e2e97f08c2d1b7015cc85adbbe6e71",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+      "export_sha256": "9089d2234b1d50ee876ea13fdfd2438aaeda57adb7f8d2bf840ad573592f814d",
+      "reason": "Existing public installation overlay: current public test tag refreshed; canonical capability unchanged."
     },
     {
       "path": "script-plugins/docs/installation.md",
       "source_repository": "kaibaoxiang-studio/script-plugins",
       "source_commit": "b1f232c743a927a4f7c94f02c1dede2fab4e49a0",
       "source_sha256": "02facae6e202df31233c4910523f6286a5b81a491697614222b398c98ceef7a7",
-      "export_sha256": "bd7835a19ba139d59f89d35ecceeb82b3f1c3f994395dcdf4086ec3f51f60eb0",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+      "export_sha256": "e7e212a48d9decbc9649decbd0fc0bf2989addcefa97604952910fe25f9b8935",
+      "reason": "Existing public installation overlay: current public test tag refreshed; canonical capability unchanged."
     },
     {
       "path": "script-plugins/docs/validation/business-evidence.json",
@@ -46,180 +46,180 @@
     {
       "path": "asset-design-plugin/bundled-plugins/character-assets/examples/reference-images.md",
       "source_repository": "kaibaoxiang-studio/ZiChan",
-      "source_commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
+      "source_commit": "e089d1287c1499f08c42e75aca093131e9d3fbc0",
       "source_sha256": "eb8565b31ce93f6285f4afb0f018d6b46eefa1e8fe05938168bb8186d9dd637e",
       "export_sha256": "a9f07741a300ddc03952a256b38be744d911aca403f76f4ae31285bd17957160",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+      "reason": "Public source-locator anonymization or explicit bundle-pin integration; canonical business source retained."
     },
     {
       "path": "asset-design-plugin/bundled-plugins/character-assets/generation-lock.json",
       "source_repository": "kaibaoxiang-studio/ZiChan",
-      "source_commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
-      "source_sha256": "bda38e992f0896ed25ffd137cb9bcbb8004d16b01f9051be414ab87f6d8b5f5d",
-      "export_sha256": "f7d34a19460794510c7321962d5e92e81c85572a08979e20446e19a0712ccab5",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+      "source_commit": "e089d1287c1499f08c42e75aca093131e9d3fbc0",
+      "source_sha256": "323628aaec09452ab69fba18bc22f495e690966d8cd4462793eb368691cfff5f",
+      "export_sha256": "26db5674ece2c849c68bd7853d5bfe3ab317ade72ee686698575a2b68d36f4c1",
+      "reason": "Public source-locator anonymization or explicit bundle-pin integration; canonical business source retained."
     },
     {
       "path": "asset-design-plugin/bundled-plugins/character-assets/harness-blueprint.json",
       "source_repository": "kaibaoxiang-studio/ZiChan",
-      "source_commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
-      "source_sha256": "e6927d6f4d1e12acbec4036870c5b0974a6d49016ddc35c2292c5fe51f43ae40",
-      "export_sha256": "db33af3dab154441b9922aac93e10a6887ae88ccfa8ddc9297a6ca6390627e89",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+      "source_commit": "e089d1287c1499f08c42e75aca093131e9d3fbc0",
+      "source_sha256": "a368691913aed65d3a592af83234797c6c226b788b31f4d1f6a330df25a94f45",
+      "export_sha256": "c5d2bbcd06add915f8aa0ba0aa02f4efd0e263b30d8debe59642a08e578e4215",
+      "reason": "Public source-locator anonymization or explicit bundle-pin integration; canonical business source retained."
     },
     {
       "path": "asset-design-plugin/bundled-plugins/character-assets/references/group-ensemble.md",
       "source_repository": "kaibaoxiang-studio/ZiChan",
-      "source_commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
+      "source_commit": "e089d1287c1499f08c42e75aca093131e9d3fbc0",
       "source_sha256": "e6a81fe7dde6b6138739d2577309fe552b1df4d5574895e38331f9ef1cfc2fc8",
       "export_sha256": "d77d604e43e582a0a0d0eea19a0f5e57b6613ba760a7fcea7b836e1087527d10",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+      "reason": "Public source-locator anonymization or explicit bundle-pin integration; canonical business source retained."
     },
     {
       "path": "asset-design-plugin/bundled-plugins/scene-assets/skills/sence-prompts/knowledge/design-library/GUIDE.md",
       "source_repository": "kaibaoxiang-studio/ZiChan",
-      "source_commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
+      "source_commit": "e089d1287c1499f08c42e75aca093131e9d3fbc0",
       "source_sha256": "574568f1f42fa3b7f572159d24953824e750b0c0ba4c0a29c0c17a166dddadb6",
       "export_sha256": "4ac59c752582e2948e56a4b45a3300f60b7756e111e8f5751cdda8310dce7e86",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+      "reason": "Public source-locator anonymization or explicit bundle-pin integration; canonical business source retained."
     },
     {
       "path": "asset-design-plugin/bundled-plugins/scene-assets/skills/sence-prompts/knowledge/design-library/knowledge/design/entries/DES-007.md",
       "source_repository": "kaibaoxiang-studio/ZiChan",
-      "source_commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
+      "source_commit": "e089d1287c1499f08c42e75aca093131e9d3fbc0",
       "source_sha256": "099bea1d6e8f2a0927c50e6e32e11adcd57e3715bbf5af9ce6b928f99cc23616",
       "export_sha256": "39288f4f9c268174f984cde211091d7da490dcb7c65e15071551521d1de40afc",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+      "reason": "Public source-locator anonymization or explicit bundle-pin integration; canonical business source retained."
     },
     {
       "path": "asset-design-plugin/bundled-plugins/scene-assets/skills/sence-prompts/knowledge/design-library/knowledge/design/entries/DES-008.md",
       "source_repository": "kaibaoxiang-studio/ZiChan",
-      "source_commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
+      "source_commit": "e089d1287c1499f08c42e75aca093131e9d3fbc0",
       "source_sha256": "dcfe7e8f37659543b9c3e2b137c9e3a50af691638842781cc3e8970e7da6c72f",
       "export_sha256": "2ee1b4df8950ba99a5f3b087f892b592677f36011c58d2460a2c34aa5ba597f3",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+      "reason": "Public source-locator anonymization or explicit bundle-pin integration; canonical business source retained."
     },
     {
       "path": "asset-design-plugin/bundled-plugins/scene-assets/skills/sence-prompts/knowledge/design-library/knowledge/design/entries/DES-009.md",
       "source_repository": "kaibaoxiang-studio/ZiChan",
-      "source_commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
+      "source_commit": "e089d1287c1499f08c42e75aca093131e9d3fbc0",
       "source_sha256": "65420f5646d5d992102a6e6afa43c6749e27bb9072aa83662da8ef6180faeb81",
       "export_sha256": "415a2accf447a296f799a8d3acb363602377f08ca4c1d0e1f3901054bfc985b6",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+      "reason": "Public source-locator anonymization or explicit bundle-pin integration; canonical business source retained."
     },
     {
       "path": "asset-design-plugin/bundled-plugins/scene-assets/skills/sence-prompts/knowledge/design-library/knowledge/design/entries/DES-010.md",
       "source_repository": "kaibaoxiang-studio/ZiChan",
-      "source_commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
+      "source_commit": "e089d1287c1499f08c42e75aca093131e9d3fbc0",
       "source_sha256": "5794f724628116316f60be578544bd16be3cd2a32a791d54e22c0bed06dfe430",
       "export_sha256": "196b5f6a0589bf252a30ad270eb92d7cab932a13396db6f5d624450dd1da578e",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+      "reason": "Public source-locator anonymization or explicit bundle-pin integration; canonical business source retained."
     },
     {
       "path": "asset-design-plugin/bundled-plugins/scene-assets/skills/sence-prompts/knowledge/design-library/knowledge/design/entries/DES-011.md",
       "source_repository": "kaibaoxiang-studio/ZiChan",
-      "source_commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
+      "source_commit": "e089d1287c1499f08c42e75aca093131e9d3fbc0",
       "source_sha256": "2b3ad862cb8a0914e41e8158e03a64ca9b01cb3b6dae7a601ad025b7f5c01eae",
       "export_sha256": "ce1bf9d1f68f462d03f5d08efd1391a374db6a90b37eb9031b6c1d173eb21bc4",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+      "reason": "Public source-locator anonymization or explicit bundle-pin integration; canonical business source retained."
     },
     {
       "path": "asset-design-plugin/bundled-plugins/scene-assets/skills/sence-prompts/knowledge/design-library/knowledge/design/index.json",
       "source_repository": "kaibaoxiang-studio/ZiChan",
-      "source_commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
+      "source_commit": "e089d1287c1499f08c42e75aca093131e9d3fbc0",
       "source_sha256": "361e048f8ac0e8e21894ce1089ac5b86190e20b6bc7a48886a98acab63698508",
       "export_sha256": "5605468f52d7d551406cc263fd6b0e76ef7abbe4d7c47798453d356dd9c199b1",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+      "reason": "Public source-locator anonymization or explicit bundle-pin integration; canonical business source retained."
     },
     {
       "path": "asset-design-plugin/bundled-plugins/scene-assets/skills/sence-prompts/knowledge/design-library/knowledge/design/provenance/courtyard-case-001.json",
       "source_repository": "kaibaoxiang-studio/ZiChan",
-      "source_commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
+      "source_commit": "e089d1287c1499f08c42e75aca093131e9d3fbc0",
       "source_sha256": "a72e656bfb40240b2141e896355065e92356453185b48a0b8fb446e11af7ae3a",
       "export_sha256": "c1171f78fe121c65da866b77078b06058ee95ef7b283d0bc6e79a9f832359bdc",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit.",
+      "reason": "Public source-locator anonymization or explicit bundle-pin integration; canonical business source retained.",
       "source_path_redacted": true,
       "source_path_sha256": "778192d3ad92992392e1bd298d47569aae226f463a94fc37439de8faeda5ec2d"
     },
     {
       "path": "asset-design-plugin/bundled-plugins/scene-assets/skills/sence-prompts/knowledge/design-library/knowledge/design/sources.json",
       "source_repository": "kaibaoxiang-studio/ZiChan",
-      "source_commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
+      "source_commit": "e089d1287c1499f08c42e75aca093131e9d3fbc0",
       "source_sha256": "8db31a2d0bfe9fea79201dec146db41ec0e72cc4d32d57f40c40a7ffe4ab4790",
       "export_sha256": "15d4cc2b5a997f192e0260cc09589b2814d14f1ab0a5f3957db93dd121dbfd6b",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+      "reason": "Public source-locator anonymization or explicit bundle-pin integration; canonical business source retained."
     },
     {
       "path": "asset-design-plugin/bundled-plugins/scene-assets/skills/sence-prompts/knowledge/design-library/tests/project-regression.mjs",
       "source_repository": "kaibaoxiang-studio/ZiChan",
-      "source_commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
+      "source_commit": "e089d1287c1499f08c42e75aca093131e9d3fbc0",
       "source_sha256": "7c0f001c8006038a3cc0bca44c8129c67e36bb3f79a0cdf2bd9945af8766f0bc",
       "export_sha256": "028b904612b8843ff454a32bd0155fefd7305bf72cdcf5b588d0bd6b251322fa",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+      "reason": "Public source-locator anonymization or explicit bundle-pin integration; canonical business source retained."
     },
     {
       "path": "asset-design-plugin/bundled-plugins/scene-assets/skills/sence-prompts/references/knowledge-base-guide.md",
       "source_repository": "kaibaoxiang-studio/ZiChan",
-      "source_commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
+      "source_commit": "e089d1287c1499f08c42e75aca093131e9d3fbc0",
       "source_sha256": "1f15f867344b6f34eed9ce8d91cbb72d93e8977996066d322bd7d1055a643ff8",
       "export_sha256": "eb488d794bd11866d6c836ebf006a934be070246197261dbc08f25b96ed8bedf",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+      "reason": "Public source-locator anonymization or explicit bundle-pin integration; canonical business source retained."
     },
     {
       "path": "asset-design-plugin/README.md",
       "source_repository": "kaibaoxiang-studio/asset-design-plugin",
       "source_commit": "2c4a66669ced1d2ee2cc8cd1c1636c09e67599bf",
       "source_sha256": "2250b492067858a738ff0285b2642c987bbe87f5d9dc65e216cab4909b2681a6",
-      "export_sha256": "abd3b333e138cb86c97ea27fa2e1533d4f4a2694813b38e04751c70e0d1e2dec",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+      "export_sha256": "800dcc787b8c251aee3af4a9f2256399ca46d92d202699adb5d43bc23c279e7a",
+      "reason": "Public source-locator anonymization or explicit bundle-pin integration; canonical business source retained."
     },
     {
       "path": "asset-design-plugin/THIRD_PARTY_NOTICES.md",
       "source_repository": "kaibaoxiang-studio/asset-design-plugin",
       "source_commit": "2c4a66669ced1d2ee2cc8cd1c1636c09e67599bf",
       "source_sha256": "ac312f02c65fe788fda3144280a4a12b6f30e0157c355d5327391fefaddbc768",
-      "export_sha256": "ea218d8c03e4a439040d64f7af0fb016cb580dc6bb4179c34cb4301e4c757e73",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+      "export_sha256": "a28a8f50e1894376d0171d706dceaeab636fa5a3176174c3d360e177adfab419",
+      "reason": "Public source-locator anonymization or explicit bundle-pin integration; canonical business source retained."
     },
     {
       "path": "asset-design-plugin/bundle-lock.json",
       "source_repository": "kaibaoxiang-studio/asset-design-plugin",
       "source_commit": "2c4a66669ced1d2ee2cc8cd1c1636c09e67599bf",
       "source_sha256": "34fce1d68430d78d08282442aee353f838470d882fc64f7eca40546c18cc80bc",
-      "export_sha256": "1a90030a793233dda8ca8074ea966a7789e0cad60a87f94b33df1601ed546317",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+      "export_sha256": "51fb86eb720634fdae0fb7f39e249911c5c1847081c7b81399b2f52a9bc22adb",
+      "reason": "Public source-locator anonymization or explicit bundle-pin integration; canonical business source retained."
     },
     {
       "path": "asset-design-plugin/references/package-provenance.md",
       "source_repository": "kaibaoxiang-studio/asset-design-plugin",
       "source_commit": "2c4a66669ced1d2ee2cc8cd1c1636c09e67599bf",
       "source_sha256": "33c2e93d0349903a74b6b82dcabddbd24e696f004bb8f37e94146274e4ea42d9",
-      "export_sha256": "d32598c649bfb1c9386f00a4cb834cb0414fd8e94ce6963da7bea6c252cfcd88",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+      "export_sha256": "788a244ca7a8ae0a9da5dd9c3d3b59a0a5ad96092f6a5f26431799af70254abd",
+      "reason": "Public source-locator anonymization or explicit bundle-pin integration; canonical business source retained."
     },
     {
       "path": "asset-design-plugin/release-notes.md",
       "source_repository": "kaibaoxiang-studio/asset-design-plugin",
       "source_commit": "2c4a66669ced1d2ee2cc8cd1c1636c09e67599bf",
       "source_sha256": "7890172d27b030b68972ea6598f97715a39d433c5f54502c8699d30604f00a93",
-      "export_sha256": "cb2c110ba54835143c457a48cc3500b108934290b4d460eb60eec1e1d37b05a1",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+      "export_sha256": "4f464ce19b77d32a5717167d61f2bfbec24e4fedadf7117cc23303d10b01379e",
+      "reason": "Public source-locator anonymization or explicit bundle-pin integration; canonical business source retained."
     },
     {
       "path": "asset-design-plugin/scripts/bundle.py",
       "source_repository": "kaibaoxiang-studio/asset-design-plugin",
       "source_commit": "2c4a66669ced1d2ee2cc8cd1c1636c09e67599bf",
       "source_sha256": "30e488e5c90a832fcc15eaf4bf28c4b3ff7c89a84cfd750f6c8c15c4b4a34e49",
-      "export_sha256": "e978ade25a64a5c35ae76e0a54f8a629508e5d119363ddd2f7bfa1411658c323",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+      "export_sha256": "8af14c8bb5d1997a10ce2133efbbe78092e17730f5df7e0e9356889e8dab1728",
+      "reason": "Public source-locator anonymization or explicit bundle-pin integration; canonical business source retained."
     },
     {
       "path": "asset-design-plugin/scripts/validate_package.py",
       "source_repository": "kaibaoxiang-studio/asset-design-plugin",
       "source_commit": "2c4a66669ced1d2ee2cc8cd1c1636c09e67599bf",
       "source_sha256": "5704651c1184787bc368c9c960cc3b21b977c1391c2a24b1bb508727403e3951",
-      "export_sha256": "13ce0af2302ed13cf8e7bb1f5d60801993567337a884cd720bd99eaaee04a8b3",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+      "export_sha256": "2f380f7a65d41decffa85d0c42af68e8d43cd07f5a5782e6674222279843732e",
+      "reason": "Public source-locator anonymization or explicit bundle-pin integration; canonical business source retained."
     },
     {
       "path": "asset-design-plugin/validation/doctor.json",
@@ -227,7 +227,7 @@
       "source_commit": "2c4a66669ced1d2ee2cc8cd1c1636c09e67599bf",
       "source_sha256": "05dc72d9d1d7f383f3ab4c36f358c3a63623082e7f7d30cc3ceea6f4e6254388",
       "export_sha256": "20532bcc0f479b93d1b9d6683557a2b1b54a45ecf5865c55b5dd13fc1cfc54e6",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+      "reason": "Public source-locator anonymization or explicit bundle-pin integration; canonical business source retained."
     },
     {
       "path": "asset-design-plugin/validation/real-call-report.json",
@@ -235,7 +235,7 @@
       "source_commit": "2c4a66669ced1d2ee2cc8cd1c1636c09e67599bf",
       "source_sha256": "a2b148100e46a7d77fafb4eba8d1a8b9942053a0c490b409c3bd359651aa6b9a",
       "export_sha256": "26787be104afb6236c8781ee1dea9ab9500c984cb3a802f867c58c33284e7d51",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+      "reason": "Public source-locator anonymization or explicit bundle-pin integration; canonical business source retained."
     },
     {
       "path": "asset-design-plugin/validation/real-calls/character/transport.json",
@@ -243,7 +243,7 @@
       "source_commit": "2c4a66669ced1d2ee2cc8cd1c1636c09e67599bf",
       "source_sha256": "a67538b8eaa2d3bdeb493926c39b752d1650a6c03b17c3dc3c5555f786f47d63",
       "export_sha256": "12102e58ccc8960f06bba26e86d9e30238e6f24322d3c126a262397d26355b9a",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+      "reason": "Public source-locator anonymization or explicit bundle-pin integration; canonical business source retained."
     },
     {
       "path": "asset-design-plugin/validation/real-calls/prop/transport.json",
@@ -251,7 +251,7 @@
       "source_commit": "2c4a66669ced1d2ee2cc8cd1c1636c09e67599bf",
       "source_sha256": "496379446504f0d7bfed32373386b446dc596f89f8c6b5563560d40f9b29b044",
       "export_sha256": "d0fe7ed2a760b257fd9401eabff3847fa985764e94f4c67fdb2a6198589c9bd0",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+      "reason": "Public source-locator anonymization or explicit bundle-pin integration; canonical business source retained."
     },
     {
       "path": "asset-design-plugin/validation/real-calls/scene/transport.json",
@@ -259,7 +259,7 @@
       "source_commit": "2c4a66669ced1d2ee2cc8cd1c1636c09e67599bf",
       "source_sha256": "efc71984728cb6e7816f7fea4a0e1a2535cc4e4397c312a6eafeffc074c49687",
       "export_sha256": "1fc85f969ba020b87106bc746ec6d7f0a877e27d1b2e1e0af42a4d7c6a915cd4",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+      "reason": "Public source-locator anonymization or explicit bundle-pin integration; canonical business source retained."
     },
     {
       "path": "asset-design-plugin/validation/v0.1.0.md",
@@ -267,11 +267,11 @@
       "source_commit": "2c4a66669ced1d2ee2cc8cd1c1636c09e67599bf",
       "source_sha256": "6ae0cb16c7f7a965922e8105606a4c2deda26ba9347333690aefd8582dc600f0",
       "export_sha256": "910b3bfe1e3a63a35759e11f94b152f32c13060acc42725aaa6c41c2db2caeee",
-      "reason": "Public installation/provenance integration or source-locator anonymization; business capability follows the pinned canonical commit."
+      "reason": "Public source-locator anonymization or explicit bundle-pin integration; canonical business source retained."
     }
   ],
   "public_validation": {
     "path": "validation/public-export-checks.json",
-    "sha256": "3b38798e2a8004417387511bd6c70db736aaa8efcb571c19d588c7efe7ff22bf"
+    "sha256": "ac101593a857f093ac7f9a01a4f47c0cf698b58f4efb22619d1c4da401fe6743"
   }
 }

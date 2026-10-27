@@ -148,7 +148,10 @@
         "references/render-texture-standard.md",
         "references/feature-focus-and-body-form.md",
         "references/group-ensemble.md",
-        "references/final-asset-table.md"
+        "references/final-asset-table.md",
+        "references/costume-wearable-zones.md",
+        "references/costume-component-design.md",
+        "references/scene-styling-needs.md"
       ],
       "explicit_only": true
     },
@@ -368,7 +371,9 @@
         "references/knowledge/character-face-decoration-design/face-decoration.md",
         "references/knowledge/character-costume-designer/state-makeup.md",
         "references/knowledge/character-design/feature-focus-design.md",
-        "references/knowledge/character-design/anti-stereotype-texture.md"
+        "references/knowledge/character-design/anti-stereotype-texture.md",
+        "references/costume-wearable-zones.md",
+        "references/scene-styling-needs.md"
       ],
       "explicit_only": true
     },
@@ -477,7 +482,10 @@
         "references/knowledge/character-costume-cut-design/costume-cut.md",
         "references/knowledge/character-costume-color-design/costume-color.md",
         "references/knowledge/character-costume-material-design/costume-material.md",
-        "references/knowledge/character-costume-accessory-design/costume-accessory.md"
+        "references/knowledge/character-costume-accessory-design/costume-accessory.md",
+        "references/costume-wearable-zones.md",
+        "references/costume-component-design.md",
+        "references/scene-styling-needs.md"
       ],
       "explicit_only": true
     },
@@ -605,7 +613,10 @@
         "references/knowledge/character-image-prompt/feature-focus-prompt.md",
         "references/knowledge/character-image-prompt/hedgehog-2d3d.md",
         "references/knowledge/character-image-prompt/hedgehog-general-image-skill.md",
-        "references/knowledge/character-image-prompt/anti-stereotype-texture.md"
+        "references/knowledge/character-image-prompt/anti-stereotype-texture.md",
+        "references/costume-wearable-zones.md",
+        "references/costume-component-design.md",
+        "references/scene-styling-needs.md"
       ],
       "explicit_only": true
     },
@@ -731,7 +742,8 @@
         "references/costume-design-stage.md",
         "references/knowledge/character-costume-designer/state-makeup.md",
         "references/knowledge/character-image-review/feature-focus-review.md",
-        "references/knowledge/character-image-review/anti-stereotype-texture.md"
+        "references/knowledge/character-image-review/anti-stereotype-texture.md",
+        "references/scene-styling-needs.md"
       ],
       "explicit_only": true
     },
@@ -1383,7 +1395,8 @@
         "references/differentiation-framework.md",
         "references/design-detail-standard.md",
         "references/knowledge/character-hair-design/hair.md",
-        "references/knowledge/character-hair-design/avatar-hair-names-07.md"
+        "references/knowledge/character-hair-design/avatar-hair-names-07.md",
+        "references/scene-styling-needs.md"
       ],
       "explicit_only": true
     },
@@ -1488,7 +1501,9 @@
         "references/differentiation-framework.md",
         "references/design-detail-standard.md",
         "references/knowledge/character-body-design/body.md",
-        "references/knowledge/character-body-design/body-proportion-3d.md"
+        "references/knowledge/character-body-design/body-proportion-3d.md",
+        "references/knowledge/character-body-design/wearable-lower-morphology-31.md",
+        "references/costume-wearable-zones.md"
       ],
       "explicit_only": true
     },
@@ -1704,7 +1719,13 @@
         "references/differentiation-framework.md",
         "references/design-detail-standard.md",
         "references/knowledge/character-face-signature-design/face-memory.md",
-        "references/knowledge/character-face-signature-design/avatar-head-ear-neck-16.md"
+        "references/knowledge/character-face-signature-design/avatar-head-ear-neck-16.md",
+        "references/knowledge/character-face-signature-design/wearable-headwear-17.md",
+        "references/knowledge/character-face-signature-design/wearable-face-jewelry-18.md",
+        "references/knowledge/character-face-signature-design/wearable-neck-20.md",
+        "references/costume-wearable-zones.md",
+        "references/costume-component-design.md",
+        "references/scene-styling-needs.md"
       ],
       "explicit_only": true
     },
@@ -1810,7 +1831,10 @@
         "references/design-detail-standard.md",
         "references/knowledge/character-face-decoration-design/face-decoration.md",
         "references/knowledge/character-costume-designer/state-makeup.md",
-        "references/knowledge/character-face-decoration-design/avatar-makeup-13.md"
+        "references/knowledge/character-face-decoration-design/avatar-makeup-13.md",
+        "references/knowledge/character-face-decoration-design/wearable-face-paint-19.md",
+        "references/costume-wearable-zones.md",
+        "references/scene-styling-needs.md"
       ],
       "explicit_only": true
     },
@@ -1925,7 +1949,7 @@
     {
       "id": "character-costume-style-design",
       "skill_name": "character-costume-style-design",
-      "description": "服饰款式设计：衣装品类、长度和层次",
+      "description": "服饰款式设计：主衣、外套、内层、下装、袜鞋品类与穿搭层次",
       "input_schema": {
         "type": "object",
         "properties": {
@@ -2023,14 +2047,21 @@
         "references/differentiation-framework.md",
         "references/design-detail-standard.md",
         "references/knowledge/character-costume-style-design/costume-style.md",
-        "references/knowledge/character-costume-designer/costume-deep.md"
+        "references/knowledge/character-costume-designer/costume-deep.md",
+        "references/knowledge/character-costume-style-design/wearable-upper-21.md",
+        "references/knowledge/character-costume-style-design/wearable-close-chest-26.md",
+        "references/knowledge/character-costume-style-design/wearable-lower-main-27.md",
+        "references/knowledge/character-costume-style-design/wearable-knee-sock-29.md",
+        "references/knowledge/character-costume-style-design/wearable-footwear-30.md",
+        "references/costume-wearable-zones.md",
+        "references/costume-component-design.md"
       ],
       "explicit_only": true
     },
     {
       "id": "character-costume-cut-design",
       "skill_name": "character-costume-cut-design",
-      "description": "服饰剪裁设计：结构线、连接与活动余量",
+      "description": "服饰剪裁设计：主衣前后、领肩袖腰摆与鞋履连接及活动余量",
       "input_schema": {
         "type": "object",
         "properties": {
@@ -2128,7 +2159,9 @@
         "references/differentiation-framework.md",
         "references/design-detail-standard.md",
         "references/knowledge/character-costume-cut-design/costume-cut.md",
-        "references/knowledge/character-costume-designer/costume-deep.md"
+        "references/knowledge/character-costume-designer/costume-deep.md",
+        "references/costume-wearable-zones.md",
+        "references/costume-component-design.md"
       ],
       "explicit_only": true
     },
@@ -2340,14 +2373,15 @@
         "references/knowledge/character-costume-material-design/costume-material.md",
         "references/knowledge/character-costume-designer/costume-deep.md",
         "references/render-texture-standard.md",
-        "references/knowledge/character-costume-material-design/anti-stereotype-texture.md"
+        "references/knowledge/character-costume-material-design/anti-stereotype-texture.md",
+        "references/costume-component-design.md"
       ],
       "explicit_only": true
     },
     {
       "id": "character-costume-accessory-design",
       "skill_name": "character-costume-accessory-design",
-      "description": "服饰饰品设计：衣身、腰、手与随身穿戴物",
+      "description": "服饰附加物设计：肩胸背、臂手腕腰腿的装饰与挂载",
       "input_schema": {
         "type": "object",
         "properties": {
@@ -2445,7 +2479,14 @@
         "references/differentiation-framework.md",
         "references/design-detail-standard.md",
         "references/knowledge/character-costume-accessory-design/costume-accessory.md",
-        "references/knowledge/character-costume-designer/costume-deep.md"
+        "references/knowledge/character-costume-designer/costume-deep.md",
+        "references/knowledge/character-costume-accessory-design/wearable-hand-wrist-22.md",
+        "references/knowledge/character-costume-accessory-design/wearable-waist-23.md",
+        "references/knowledge/character-costume-accessory-design/wearable-arm-24.md",
+        "references/knowledge/character-costume-accessory-design/wearable-back-25.md",
+        "references/knowledge/character-costume-accessory-design/wearable-leg-mount-28.md",
+        "references/costume-wearable-zones.md",
+        "references/costume-component-design.md"
       ],
       "explicit_only": true
     }

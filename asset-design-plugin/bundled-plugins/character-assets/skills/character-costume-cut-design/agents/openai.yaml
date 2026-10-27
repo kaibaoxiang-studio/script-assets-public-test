@@ -1,6 +1,6 @@
 interface:
   display_name: 服饰剪裁设计
-  short_description: 服饰剪裁设计：结构线、连接与活动余量
+  short_description: 服饰剪裁设计：衣片、鞋履连接与活动余量
   default_prompt: Use $character-costume-cut-design to complete the requested task.
 policy:
   allow_implicit_invocation: false

@@ -1,141 +1,149 @@
 {
   "schema_version": "PublicExportChecksV1",
-  "snapshot_tag": "public-test-2026-10-27-r3",
+  "snapshot_tag": "public-test-2026-10-27-r4",
   "date": "2026-10-27",
   "status": "passed",
   "plugin_version": "0.1.0",
   "capability_source": "kaibaoxiang-studio/ZiChan",
-  "capability_commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
+  "capability_commit": "e089d1287c1499f08c42e75aca093131e9d3fbc0",
   "script_source_commit": "b1f232c743a927a4f7c94f02c1dede2fab4e49a0",
   "child_versions": {
-    "character-assets": "0.2.6.4-local",
+    "character-assets": "0.2.13",
     "scene-assets": "0.9.5",
     "prop-assets": "0.2.5"
   },
   "checks": [
     {
-      "name": "script-json-regressions",
+      "name": "character-regressions",
       "status": "passed",
       "returncode": 0,
-      "tests": 16,
-      "ephemeral_dispatch_tests": 2,
-      "delivery_postcondition_tests": 4,
-      "business_acceptance": "passed"
-    },
-    {
-      "name": "script-docx-regressions",
-      "status": "passed",
-      "returncode": 0,
-      "tests": 96
+      "tests": 27,
+      "reused_regressions": 14,
+      "new_functional_checks": 13,
+      "plugin_version": "0.2.13",
+      "metadata_version_assertion": {
+        "field": "character_project.PLUGIN_VERSION",
+        "expected": "0.2.13",
+        "passed": true,
+        "impact": "Version recorded in generated character asset package manifest."
+      },
+      "covered": [
+        "Model-card attire, measurable body proportions and 9:16 full-body contract.",
+        "Ephemeral dispatcher and reentry behavior via protocol test stubs.",
+        "V1.1 scene-visible design needs and reasoned explicit_none choices.",
+        "State activation of makeup/hair/head-ear-neck/wearables when base brief marked not_needed.",
+        "Selected cues must originate in mapped visible fields and retain specialist results.",
+        "All execution prompt alternatives retain selected jewelry; acceptance checks inspect it.",
+        "Historical V1 stage bypasses the newly introduced V1.1 prompt-coverage requirement."
+      ],
+      "test_sources": {
+        "test_body_proportion_gate.py": "9c0330a7facf781cfd6c79e73409ff126094037be00eae5f634b1a5de26b68a7",
+        "test_dispatcher_isolation.py": "7500c89f7b6204b8768b24cf0e681b88458a9b9d317dff6a7f5689f076950e50",
+        "test_model_card_attire.py": "c71b2d9d1376fcc41008169128caf5857205db20eef9448e14867c067663a37e",
+        "test_v0213_scene_needs.py": "bafd5653984b027839c9d697a270e5c2f9807ea60d57cf762456ceff555b314c"
+      },
+      "limitations": [
+        "Synthetic function-level fixtures, not real model or image outputs.",
+        "Prompt coverage tests stub approved-record lookup to isolate coverage rules; they do not validate complete approval workflows.",
+        "No new picture aesthetic acceptance, no UI interaction."
+      ],
+      "source_mutations": false
     },
     {
       "name": "mother-regressions",
       "status": "passed",
       "returncode": 0,
-      "tests": 32
+      "command": [
+        "python3.12",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "asset-design-plugin/tests",
+        "-v"
+      ],
+      "duration_seconds": 0.783,
+      "tests_run": 32,
+      "failures": 0,
+      "errors": 0
     },
     {
-      "name": "character-regressions",
+      "name": "mother-harness-validation",
       "status": "passed",
       "returncode": 0,
-      "tests": 14,
-      "scope": "Historical applicable model-card/body/dispatcher assertions against the new isolated source; no image quality claim"
+      "command": [
+        "python3.12",
+        "asset-design-plugin/harness.py",
+        "validate"
+      ],
+      "duration_seconds": 0.116,
+      "result": {
+        "valid": true,
+        "checked_bundle_files": 559,
+        "source_commit": "e089d1287c1499f08c42e75aca093131e9d3fbc0",
+        "public_skills": [
+          "asset-design",
+          "asset-character",
+          "asset-scene",
+          "asset-prop"
+        ],
+        "errors": []
+      }
+    },
+    {
+      "name": "mother-package-validation",
+      "status": "passed",
+      "returncode": 0,
+      "command": [
+        "python3.12",
+        "asset-design-plugin/scripts/validate_package.py"
+      ],
+      "duration_seconds": 0.062,
+      "result": {
+        "valid": true,
+        "checked_bundle_files": 559,
+        "source_commit": "e089d1287c1499f08c42e75aca093131e9d3fbc0",
+        "public_skills": [
+          "asset-design",
+          "asset-character",
+          "asset-scene",
+          "asset-prop"
+        ],
+        "errors": []
+      }
+    },
+    {
+      "name": "source-integrity",
+      "status": "passed",
+      "returncode": 0,
+      "canonical_commit": "e089d1287c1499f08c42e75aca093131e9d3fbc0",
+      "role_version": "0.2.13",
+      "role_files": 177,
+      "role_privacy_overlays": [
+        "examples/reference-images.md",
+        "generation-lock.json",
+        "harness-blueprint.json",
+        "references/group-ensemble.md"
+      ],
+      "role_generation_lock_mismatches": 0,
+      "script_unchanged_files": 298,
+      "script_byte_differences": 0,
+      "extractor_unchanged_files": 65,
+      "scene_prop_files": {
+        "scene-assets": 355,
+        "prop-assets": 27
+      },
+      "scene_prop_byte_differences": 0
     }
   ],
-  "scope": "Current extraction completion/source binding and source synchronization; four fresh text Skill cases, no new image generation or image aesthetic approval.",
-  "historical_validation": {
-    "snapshot_tag": "public-test-2026-10-27-r2",
-    "note": "Prior checks remain historical, not new r3 results."
-  },
-  "fresh_model_calls": [
-    {
-      "case": "json-props",
-      "invocation": "Real Codex AppServer, ephemeral server acknowledgment required",
-      "status": "passed",
-      "counts": {
-        "characters": 2,
-        "locations": 1,
-        "props": 2,
-        "effects": 0,
-        "scenes": 2,
-        "findings": 0
-      },
-      "reviewed_scenes": 2,
-      "plugin_fingerprint": "90e13475f81bf863e5d6c1a942abb32f5370e50f568dc4c83a5fd79ce5b37474",
-      "output_sha256": {
-        "assets.json": "3df57044f250204b4f38f52d48e5eed48e43974322d15b46e180bda0ca6d6d52",
-        "screenplay-asset-table.xlsx": "06e9fd56a28db0c0668382d2ff6e9a0619d69dcbc3bf3ab6e84b3cd2f0ebc4b2",
-        "asset_findings.json": "32e3b89e468c2f9365aee278d3f05df4eece5b1f698cabc172d81b3bcefac64f",
-        "asset_findings.md": "4b260824cd4d59ef474c5a2ce13b38244a4579ed525b4ea24495395e794c9e8a"
-      },
-      "duration_seconds": 254.642,
-      "entry": "extract-asset-table",
-      "source_commit": "b1f232c743a927a4f7c94f02c1dede2fab4e49a0"
-    },
-    {
-      "case": "json-no-props",
-      "invocation": "Real Codex AppServer, ephemeral server acknowledgment required",
-      "status": "passed",
-      "counts": {
-        "characters": 1,
-        "locations": 1,
-        "props": 0,
-        "effects": 0,
-        "scenes": 1,
-        "findings": 0
-      },
-      "reviewed_scenes": 1,
-      "plugin_fingerprint": "90e13475f81bf863e5d6c1a942abb32f5370e50f568dc4c83a5fd79ce5b37474",
-      "output_sha256": {
-        "assets.json": "fb1245ae8b02d8915677c5ab76c9763e071b4513515c740ef8aab0ce66b4f92b",
-        "screenplay-asset-table.xlsx": "e3d531c6e3a50d650e391484997cf3b6f99731c3d52a560084f994795d1faadd",
-        "asset_findings.json": "8534f11f2bcbaf99b569e3eb466eb557a3e51b9fadecc1ece53e7d74560fab29",
-        "asset_findings.md": "4b260824cd4d59ef474c5a2ce13b38244a4579ed525b4ea24495395e794c9e8a"
-      },
-      "duration_seconds": 240.412,
-      "entry": "extract-asset-table",
-      "source_commit": "b1f232c743a927a4f7c94f02c1dede2fab4e49a0"
-    },
-    {
-      "case": "docx-props-case",
-      "invocation": "Real codex exec --ephemeral with exact Skill file, default user model settings",
-      "status": "passed",
-      "counts": {
-        "characters": 2,
-        "scenes": 1,
-        "props": 2
-      },
-      "reviewed_scenes": 1,
-      "data_and_saved_workbook_check": "zero errors, zero unconfirmed warnings",
-      "output_sha256": {
-        "道具使用小样-资产表.xlsx": "07d2ccd05c911e9bc40e38543f5f00c8d1faf4bbea0929349059e34208a28795",
-        "assets.json": "d55596a43bd45f986cc7b1cd291c88fc7638d34ca3c2531db32afc2e98eac3b3"
-      },
-      "manual_application_visual_check": "not performed",
-      "entry": "script-asset-extractor",
-      "source_commit": "b1f232c743a927a4f7c94f02c1dede2fab4e49a0"
-    },
-    {
-      "case": "docx-no-props-case",
-      "invocation": "Real codex exec --ephemeral with exact Skill file, default user model settings",
-      "status": "passed",
-      "counts": {
-        "characters": 0,
-        "scenes": 1,
-        "props": 0
-      },
-      "reviewed_scenes": 1,
-      "data_and_saved_workbook_check": "zero errors, zero unconfirmed warnings",
-      "output_sha256": {
-        "空房间小样-资产表.xlsx": "0d4ed3c8a1cf906b71fe591a9047fb5b6f46e56b6ba7bd004b4b01ecdd5de770",
-        "assets.json": "886bd650b83c3cd55593e97a84be654c1bfa1f2e12e4c0a3f4538f4f373d8f2f"
-      },
-      "manual_application_visual_check": "not performed",
-      "entry": "script-asset-extractor",
-      "source_commit": "b1f232c743a927a4f7c94f02c1dede2fab4e49a0"
-    }
-  ],
-  "validated_model_cases": 4,
+  "fresh_model_calls": [],
   "image_calls": 0,
-  "evidence_sha256": "155de162f2f98fb6299a569b6bac520a679202577290f786d622a35ef16a0321"
+  "scope": "Role 0.2.13 source synchronization: current role and mother regression checks, integrity and package checks. Prior extraction model cases retain their r3 historical scope. No image aesthetic claim.",
+  "historical_validation": {
+    "snapshot_tag": "public-test-2026-10-27-r3",
+    "path": "validation/history/r3-public-validation.json",
+    "note": "The four r3 extraction Skill cases remain historical; no current fresh-call claim."
+  },
+  "validated_model_cases": 0,
+  "evidence_sha256": "f8498e8fd9bf27ae3d131f7fd0020ec43a7c9cb91293ff6dc14d70c169c80834"
 }

@@ -5,7 +5,7 @@
 剧本业务以 [script-plugins](https://github.com/kaibaoxiang-studio/script-plugins) 为权威来源。本目录是来源提交 `b1f232c743a927a4f7c94f02c1dede2fab4e49a0` 的公开测试快照。统一安装、资产设计插件和反馈说明见[测试仓库首页](../../README.md)。使用支持插件功能的 Codex：
 
 ```sh
-codex plugin marketplace add https://github.com/kaibaoxiang-studio/script-assets-public-test.git --ref public-test-2026-10-27-r3
+codex plugin marketplace add https://github.com/kaibaoxiang-studio/script-assets-public-test.git --ref public-test-2026-10-27-r4
 codex plugin add screenplay-standardizer@script-assets-public-test
 codex plugin add scene-log-extractor@script-assets-public-test
 codex plugin add screenplay-asset-extractor@script-assets-public-test
@@ -13,7 +13,7 @@ codex plugin add screenplay-asset-extractor@script-assets-public-test
 
 也可以在 Codex 插件目录中打开统一公开测试市场并逐项安装。本轮市场只注册三个剧本业务插件与资产设计总控；Creator 工程资料保留用于源码维护，未注册为本轮公开安装项。
 
-固定标签 `public-test-2026-10-27-r3` 对应当前公开测试；旧标签保持历史内容。旧版市场注册的更新和同版本资产插件缓存处理见[测试仓库首页](../../README.md#安装)。跟随后续测试镜像时可显式改用 `--ref main`。来源组件版本保持原值，镜像标签单独标识测试批次。市场结构与 Git 引用参数遵循 [Codex 官方插件文档](https://developers.openai.com/plugins/build/plugins)。
+固定标签 `public-test-2026-10-27-r4` 对应当前公开测试；旧标签保持历史内容。旧版市场注册的更新和同版本资产插件缓存处理见[测试仓库首页](../../README.md#安装)。跟随后续测试镜像时可显式改用 `--ref main`。来源组件版本保持原值，镜像标签单独标识测试批次。市场结构与 Git 引用参数遵循 [Codex 官方插件文档](https://developers.openai.com/plugins/build/plugins)。
 
 ## 在聊天中使用
 
@@ -102,7 +102,7 @@ plugin_root="/absolute/path/script-plugins/level-2/asset-extraction/screenplay-a
 
 ## 独立下载
 
-[公开测试 Release](https://github.com/kaibaoxiang-studio/script-assets-public-test/releases/tag/public-test-2026-10-27-r3) 提供本轮独立 ZIP、文件清单和 SHA256SUMS.txt。ZIP 顶层是插件名，解压后包含完整运行文件；无需回到 creator-src 或另装 Harness Creator。源码和测试材料保存在仓库，独立 ZIP 侧重安装运行。组件来源与内容差异见[测试仓库首页](../../README.md)。
+[公开测试 Release](https://github.com/kaibaoxiang-studio/script-assets-public-test/releases/tag/public-test-2026-10-27-r4) 提供本轮独立 ZIP、文件清单和 SHA256SUMS.txt。ZIP 顶层是插件名，解压后包含完整运行文件；无需回到 creator-src 或另装 Harness Creator。源码和测试材料保存在仓库，独立 ZIP 侧重安装运行。组件来源与内容差异见[测试仓库首页](../../README.md)。
 
 ## 资产提取完成检查
 

@@ -1,0 +1,101 @@
+{
+  "schema_version": "PublicIntegrationChecksV1",
+  "snapshot_tag": "public-test-2026-10-27-r4",
+  "date": "2026-10-27",
+  "status": "passed",
+  "scope": "Actual current public-tree deterministic integration and source checks; no fresh model or image calls. Mirror validation intentionally not run while pending.",
+  "source_commits": {
+    "script-plugins": "b1f232c743a927a4f7c94f02c1dede2fab4e49a0",
+    "ZiChan": "e089d1287c1499f08c42e75aca093131e9d3fbc0"
+  },
+  "checks": [
+    {
+      "name": "mother-regressions",
+      "status": "passed",
+      "returncode": 0,
+      "command": [
+        "python3.12",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "asset-design-plugin/tests",
+        "-v"
+      ],
+      "duration_seconds": 0.783,
+      "tests_run": 32,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "name": "mother-harness-validation",
+      "status": "passed",
+      "returncode": 0,
+      "command": [
+        "python3.12",
+        "asset-design-plugin/harness.py",
+        "validate"
+      ],
+      "duration_seconds": 0.116,
+      "result": {
+        "valid": true,
+        "checked_bundle_files": 559,
+        "source_commit": "e089d1287c1499f08c42e75aca093131e9d3fbc0",
+        "public_skills": [
+          "asset-design",
+          "asset-character",
+          "asset-scene",
+          "asset-prop"
+        ],
+        "errors": []
+      }
+    },
+    {
+      "name": "mother-package-validation",
+      "status": "passed",
+      "returncode": 0,
+      "command": [
+        "python3.12",
+        "asset-design-plugin/scripts/validate_package.py"
+      ],
+      "duration_seconds": 0.062,
+      "result": {
+        "valid": true,
+        "checked_bundle_files": 559,
+        "source_commit": "e089d1287c1499f08c42e75aca093131e9d3fbc0",
+        "public_skills": [
+          "asset-design",
+          "asset-character",
+          "asset-scene",
+          "asset-prop"
+        ],
+        "errors": []
+      }
+    },
+    {
+      "name": "source-integrity",
+      "status": "passed",
+      "returncode": 0,
+      "canonical_commit": "e089d1287c1499f08c42e75aca093131e9d3fbc0",
+      "role_version": "0.2.13",
+      "role_files": 177,
+      "role_privacy_overlays": [
+        "examples/reference-images.md",
+        "generation-lock.json",
+        "harness-blueprint.json",
+        "references/group-ensemble.md"
+      ],
+      "role_generation_lock_mismatches": 0,
+      "script_unchanged_files": 298,
+      "script_byte_differences": 0,
+      "extractor_unchanged_files": 65,
+      "scene_prop_files": {
+        "scene-assets": 355,
+        "prop-assets": 27
+      },
+      "scene_prop_byte_differences": 0
+    }
+  ],
+  "model_calls": 0,
+  "image_calls": 0
+}

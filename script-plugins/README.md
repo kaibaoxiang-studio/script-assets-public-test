@@ -1,6 +1,6 @@
 # 开宝箱工作室 · 剧本插件 1.0.2
 
-> 公开测试镜像：剧本业务权威来源为 [script-plugins](https://github.com/kaibaoxiang-studio/script-plugins)，本目录固定其 `main` 提交 `b1f232c743a927a4f7c94f02c1dede2fab4e49a0`。统一测试仓库为 [script-assets-public-test](https://github.com/kaibaoxiang-studio/script-assets-public-test)，本轮固定标签为 `public-test-2026-10-27-r3`；安装与反馈入口见[统一测试说明](../README.md)。保留来源组件版本，以下历史测试数据不代表本轮重新执行了模型测试。
+> 公开测试镜像：剧本业务权威来源为 [script-plugins](https://github.com/kaibaoxiang-studio/script-plugins)，本目录固定其 `main` 提交 `b1f232c743a927a4f7c94f02c1dede2fab4e49a0`。统一测试仓库为 [script-assets-public-test](https://github.com/kaibaoxiang-studio/script-assets-public-test)，本轮固定标签为 `public-test-2026-10-27-r4`；安装与反馈入口见[统一测试说明](../README.md)。保留来源组件版本，以下历史测试数据不代表本轮重新执行了模型测试。
 
 团队共建的三个业务插件：**剧本标准化（一级）**、**场记表提取（二级）**、**剧本资产表提取（二级）**。两项二级能力可读取同一份一级标准 JSON 并分别运行，资产表还提供标准 DOCX 主入口；节拍归入场记表。
 
@@ -36,7 +36,7 @@ flowchart TD
 添加本轮统一公开测试市场：
 
 ```sh
-codex plugin marketplace add https://github.com/kaibaoxiang-studio/script-assets-public-test.git --ref public-test-2026-10-27-r3
+codex plugin marketplace add https://github.com/kaibaoxiang-studio/script-assets-public-test.git --ref public-test-2026-10-27-r4
 codex plugin add screenplay-standardizer@script-assets-public-test
 codex plugin add scene-log-extractor@script-assets-public-test
 codex plugin add screenplay-asset-extractor@script-assets-public-test

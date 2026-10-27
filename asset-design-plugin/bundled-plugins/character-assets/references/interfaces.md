@@ -8,7 +8,7 @@
 
 ## v0.2.6 / pipeline_version 3 接口覆盖
 
-新项目默认 `pipeline_version:3`，图像阶段为 `avatar,expression,full_body,execution`；旧 v2 仍是五图、v1 四图。新增记录 `CostumeStyleBibleV1`，键 `costume-bible:CHR:base`，须绑定获批 brief/identity/body SHA，含完整穿衣规则与重点角色状态矩阵。每状态 `CharacterStageDesignV1(scope:costume)` 的 `parent_refs` 再引用当前风格圣经；`payload.costume_direction` 须写剧本约束、剧情作用、前后结构、裁剪闭合、衣层、色块、材料行为、视觉焦点、行动/镜头、状态延续、妆面发饰、来源性质与原文引用。款式、剪裁、配色、材质四专项必须有实际应用结果；饰品可有理由不用。`execution` 提示词 `design_basis` 含 brief、identity、body、costume-bible、当前状态 costume、合成 design-card；图片锚点只含 avatar/expression/full_body。人形四格图默认 9:16 竖版，`aspect_ratio`、每条提示词、验收项都写比例；改画幅须明确用户要求。`variant_name` 与资产表一致。逐状态只有一张执行图，批准一次后打包 `CharacterAssetPackV3`。`upgrade-pipeline` 用于无已批准服饰/执行图的 v2 项目，旧项目仍按原合同。下文 v2 五阶段字段只适用历史项目。
+新项目默认 `pipeline_version:3`，图像阶段为 `avatar,expression,full_body,execution`；旧 v2 仍是五图、v1 四图。新增记录 `CostumeStyleBibleV1`，键 `costume-bible:CHR:base`，须绑定获批 brief/identity/body SHA，含完整穿衣规则与重点角色状态矩阵。每个新状态 `CharacterStageDesignV1.1(scope:costume)`（历史 V1 继续可读） 的 `parent_refs` 再引用当前风格圣经；`payload.costume_direction` 须写剧本约束、剧情作用、前后结构、裁剪闭合、衣层、色块、材料行为、视觉焦点、行动/镜头、状态延续、妆面发饰、来源性质与原文引用。款式、剪裁、配色、材质四专项必须有实际应用结果；饰品可有理由不用。`execution` 提示词 `design_basis` 含 brief、identity、body、costume-bible、当前状态 costume、合成 design-card；图片锚点只含 avatar/expression/full_body。人形四格图默认 9:16 竖版，`aspect_ratio`、每条提示词、验收项都写比例；改画幅须明确用户要求。`variant_name` 与资产表一致。逐状态只有一张执行图，批准一次后打包 `CharacterAssetPackV3`。`upgrade-pipeline` 用于无已批准服饰/执行图的 v2 项目，旧项目仍按原合同。下文 v2 五阶段字段只适用历史项目。
 
 
 文件为 UTF-8 JSON，含 `schema_version`，角色/状态 ID 沿用资产表。`source_refs` 使用标准剧本位置、JSON 集场 ID 或保留的 `文件名:L行号`、`文件名:工作表!R行号`。合同校验不证明人物理解或画面质量。

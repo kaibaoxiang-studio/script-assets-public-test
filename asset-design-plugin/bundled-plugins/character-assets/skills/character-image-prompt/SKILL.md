@@ -13,6 +13,14 @@ description: "把已批准设计转成 GPT Image 2.5 分阶段提示词"
 
 完整头像请求须把眉、眼、可见耳、鼻、唇分别核对，显式承接稳定标记与头耳颈饰的存在或留空决定；本能力先交文字，不把省略部位或图像模型随机补出的部位当作已设计。用户另外要求生成预览时，由角色主控在文字展示之后按当前可用工具处理，预览标未批准。
 
+正式服饰执行图按 [穿戴部位拆解](../../references/costume-wearable-zones.md) 从已确认状态稿提取可见件：连体主衣只描述一次，按领肩胸腰、下摆、背部和鞋的画面顺序细化；头面颈只用当前状态已确认物件。内部部位清单的“明确无/不适用”不逐项塞进提示词，也不凭词表新增装饰。配色与面料沿当前已批方案，确保上右45°和下右背面沿用相同开合、挂载、鞋与耳饰。
+
+新状态稿先读 [剧情状态可见需求](../../references/scene-styling-needs.md) 的五项决定；凡 `design` 的 `prompt_cues` 逐字进入最终正文，并在验收项覆盖该项。妆面不可压缩为“自然肤质”，必须把已设计的底妆、眉眼、颊、唇中当前可见的具体颜色、边界和强度放入上方两格；发型与头耳颈饰同样逐件承接。若状态稿只有旧版概述、缺少需求或实际设计，退回状态设计，不在提示词里临时编妆。服装关键部件的轮廓与连接 cue 均需保留；按最终格位尺寸判断能否被看见，微小同色部件需回设计稿调整尺度或分界，不能只堆更多微纹样词。
+
+婚礼等仪式状态须核对已选饰品是否逐件进入相应格位；旧执行图用作身份或版式参考时，其饰品缺席不是保留约束。按原文的准确范围写禁令，不能把“禁皇冠、大型珠宝”改写成全体饰品缺席；未确认的戒指候选不可偷偷加进正式提示词。
+
+重点服装按 [物件级细节规则](../../references/costume-component-design.md) 从已选部件稿提取轮廓、起止、片数/相对尺度、叠压、固定、纹样路径与正背接续，不能把“腰扣锁住翻页式外裙”压缩成“精致腰饰和层叠薄纱”。用户只完成半份设计时，预览也保持原 9:16 竖版 2×2 执行图，除非用户明确改版式；提示词先交完整可复制正文，再用同一正文生成预览，不临时追加另一套未展示的设计。
+
 ## Packaged references
 
 - [knowledge/index.md](../../knowledge/index.md)
@@ -26,6 +34,9 @@ description: "把已批准设计转成 GPT Image 2.5 分阶段提示词"
 - [references/phased-design.md](../../references/phased-design.md)
 - [references/knowledge/character-costume-designer/state-makeup.md](../../references/knowledge/character-costume-designer/state-makeup.md)
 - [references/design-detail-standard.md](../../references/design-detail-standard.md)
+- [references/costume-wearable-zones.md](../../references/costume-wearable-zones.md)
+- [references/costume-component-design.md](../../references/costume-component-design.md)
+- [references/scene-styling-needs.md](../../references/scene-styling-needs.md)
 - [references/render-texture-standard.md](../../references/render-texture-standard.md)
 - [references/knowledge/character-image-prompt/feature-focus-prompt.md](../../references/knowledge/character-image-prompt/feature-focus-prompt.md)
 - [references/knowledge/character-image-prompt/hedgehog-2d3d.md](../../references/knowledge/character-image-prompt/hedgehog-2d3d.md)

@@ -1,6 +1,6 @@
 # 本轮测试指南
 
-快照：`public-test-2026-10-27-r3`。优先用短稿跑通流程，再选择一份完整稿测试覆盖和续做。单项插件可独立测试。剧本能力以 [script-plugins](https://github.com/kaibaoxiang-studio/script-plugins) 为来源，角色／场景／道具以 [ZiChan](https://github.com/kaibaoxiang-studio/ZiChan) 为来源；本轮资产业务固定提交 `c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2`，场景为 **0.9.5**。旧快照更新安装见[首页](README.md#安装)。
+快照：`public-test-2026-10-27-r4`。优先用短稿跑通流程，再选择一份完整稿测试覆盖和续做。单项插件可独立测试。剧本能力以 [script-plugins](https://github.com/kaibaoxiang-studio/script-plugins) 为来源，角色／场景／道具以 [ZiChan](https://github.com/kaibaoxiang-studio/ZiChan) 为来源；本轮资产业务固定提交 `e089d1287c1499f08c42e75aca093131e9d3fbc0`，场景为 **0.9.5**。旧快照更新安装见[首页](README.md#安装)。
 
 ## 1. 剧本标准化
 
@@ -40,3 +40,7 @@ DOCX 资产提取独立调用 `$script-asset-extractor`。重点检查同场换�
 提交入口：[Issues](https://github.com/kaibaoxiang-studio/script-assets-public-test/issues/new/choose)。
 
 本轮已做的镜像完整性、源码／引用与回归检查见 `public-validation.json`。历史真实模型验证保存在原组件目录，其子版本以当时记录为准，不能作为本轮更新场景 0.9.5 的新模型验证。公开镜像本轮不重复生成整剧或新图，完整业务效果通过本轮反馈核对。
+
+## r4 验证范围
+
+本轮角色为 0.2.13，不代表重新执行 r3 的剧本提取模型验收。按当前状态核对妆发饰需求重新激活、重点服装部件与 9:16 四格执行图；结构回归和图片审美分别反馈。

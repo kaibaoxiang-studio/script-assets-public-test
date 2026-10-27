@@ -9,6 +9,10 @@ description: "面部装饰与妆容设计：稳定、施加与临时状态"
 
 基础头像按 [头像命名与颗粒度规则](../../references/avatar-identity-granularity.md) 明确素颜与低覆盖裸妆的区别，分别描述已选妆面在眉、眼、颊、唇的覆盖和光泽；未添加稳定标记或头耳颈饰时可直接留空。
 
+剧情状态按 [状态可见需求](../../references/scene-styling-needs.md) 重新判妆，不继承基础头像“无需面部装饰”的结论。公开仪式或近景若需要妆面，先定底妆覆盖与哑光/局部微光，再逐项交眉的填色边界、眼影位置和晕染范围、睫毛/眼线、颊色落点、唇色与边缘；写正面与45°都应看见的强度、与原生肤色和已批五官的边界、持妆及起止。可克制但须有真正施加的可见妆层；若选择素颜，给该状态明确依据。不能用“自然皮肤”“清透妆感”替代具体部位设计。
+
+服饰状态的面部彩绘按 [穿戴部位拆解](../../references/costume-wearable-zones.md) 独立于常规底妆和面部穿戴物判断。只有剧本、世界规则或已批准方向触发时才设计图案，并写左右位置、形状边界、覆盖面积、可卸/稳定层及状态起止；未经批准的族纹、宗教、组织或法术含义不得从词表直接进入角色。
+
 ## Packaged references
 
 - [knowledge/index.md](../../knowledge/index.md)
@@ -16,6 +20,10 @@ description: "面部装饰与妆容设计：稳定、施加与临时状态"
 - [references/differentiation-framework.md](../../references/differentiation-framework.md)
 - [references/design-detail-standard.md](../../references/design-detail-standard.md)
 - [references/knowledge/character-face-decoration-design/face-decoration.md](../../references/knowledge/character-face-decoration-design/face-decoration.md)
+- [references/costume-wearable-zones.md](../../references/costume-wearable-zones.md)
+- [references/scene-styling-needs.md](../../references/scene-styling-needs.md)
 - [references/knowledge/character-costume-designer/state-makeup.md](../../references/knowledge/character-costume-designer/state-makeup.md)
 
 Read [avatar-makeup-13](../../references/knowledge/character-face-decoration-design/avatar-makeup-13.md) when this capability needs the supplied knowledge.
+
+Read [wearable-face-paint-19](../../references/knowledge/character-face-decoration-design/wearable-face-paint-19.md) when this capability needs the supplied knowledge.

@@ -1,10 +1,10 @@
 # 来源与许可说明
 
-本安装包包含开宝箱工作室 `ZiChan` 仓库中三个子插件的固定快照，本轮领域来源提交为 `c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2`。逐文件来源、Git blob、SHA-256 和文件权限记载在 `bundle-lock.json`。
+本安装包包含开宝箱工作室 `ZiChan` 仓库中三个子插件的固定快照，本轮领域来源提交为 `e089d1287c1499f08c42e75aca093131e9d3fbc0`。逐文件来源、Git blob、SHA-256 和文件权限记载在 `bundle-lock.json`。
 
 | 子插件 | 版本 | 保留位置 |
 | --- | --- | --- |
-| 角色资产插件 | 0.2.6.4-local | `bundled-plugins/character-assets/` |
+| 角色资产插件 | 0.2.13 | `bundled-plugins/character-assets/` |
 | 场景资产插件 | 0.9.5 | `bundled-plugins/scene-assets/` |
 | 道具资产插件 | 0.2.5 | `bundled-plugins/prop-assets/` |
 

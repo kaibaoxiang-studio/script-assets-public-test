@@ -23,6 +23,13 @@ SCOPE_SPECIALISTS = {
     "costume": {"character-costume-style-design", "character-costume-cut-design", "character-costume-color-design",
                 "character-costume-material-design", "character-costume-accessory-design"},
 }
+STATE_STYLING_SPECIALISTS = {
+    "makeup": ("character-face-decoration-design", "costume_direction.state_makeup"),
+    "hair": ("character-hair-design", "costume_direction.state_hair"),
+    "head_ear_neck": ("character-face-signature-design", "costume_direction.head_ear_neck"),
+    "wearable_accessories": ("character-costume-accessory-design", "costume_direction.wearable_accessories"),
+}
+SCENE_NEED_NAMES = (*STATE_STYLING_SPECIALISTS, "garment")
 COMMON_PAYLOAD = {"facts", "inferences", "approved_choices", "recognition_axes", "world_influences", "morphology", "morphology_details"}
 SCOPE_PAYLOAD = {
     "identity": {"appearance", "feature_focus", "facial_surface", "differentiation_review", "execution_layout", "identity_invariants"},
@@ -261,11 +268,18 @@ def validate_execution(cp, root, data, state=None):
         cp.ensure(mode in {"inline", "independent", "not_needed"}, "Unknown specialist execution mode")
         if brief is not None and mode != "not_needed":
             planned = brief["specialist_plan"][specialist]
-            cp.ensure(planned["status"] != "not_needed", "An excluded specialist needs an updated direction brief before activation")
+            state_activation = (data["scope"] == "costume" and
+                                specialist in {pair[0] for pair in STATE_STYLING_SPECIALISTS.values()} and
+                                data.get("schema_version") == "CharacterStageDesignV1.1")
+            if planned["status"] == "not_needed" and state_activation:
+                _task(cp, work.get("task"))
+                cp.require_text(work, "state_activation_reason")
+            else:
+                cp.ensure(planned["status"] != "not_needed", "An excluded specialist needs an updated direction brief before activation")
             if planned["status"] == "defer":
                 _task(cp, work.get("task"))
                 cp.require_text(work, "activation_reason")
-            elif planned["status"] != mode:
+            elif planned["status"] != mode and planned["status"] != "not_needed":
                 cp.require_text(work, "execution_change_reason")
         if mode == "not_needed":
             continue
@@ -382,6 +396,80 @@ def validate_costume_direction(cp, root, state, data):
         else:
             cp.ensure(any(mapping.get("field") in fields for mapping in work.get("applied_elements", [])),
                       f"Independent costume proposal needs an applied garment field: {specialist}")
+    if data["schema_version"] == "CharacterStageDesignV1.1":
+        validate_scene_needs(cp, data)
+
+
+def validate_scene_needs(cp, data):
+    """A state-specific needs pass is mandatory for new costume submissions.
+
+    Base identity exclusions do not decide temporary makeup, hair or jewelry.
+    Historical V1 records remain readable without retroactive requirements.
+    """
+    direction = data["payload"]["costume_direction"]
+    needs = direction.get("scene_needs")
+    cp.ensure(isinstance(needs, dict), "V1.1 costume needs scene_needs")
+    for name in ("occasion", "shot_and_action", "constraint_scope"):
+        cp.require_text(needs, name)
+    requirements = needs.get("requirements")
+    cp.ensure(isinstance(requirements, dict) and set(requirements) == set(SCENE_NEED_NAMES),
+              "Scene needs must decide makeup, hair, head/ear/neck, garment and wearable accessories")
+    execution = data["specialist_execution"]
+    for name, item in requirements.items():
+        cp.ensure(isinstance(item, dict), f"Scene need {name} must be an object")
+        cp.ensure(item.get("decision") in {"design", "inherit", "explicit_none"},
+                  f"Scene need {name} needs design, inherit or explicit_none")
+        cp.require_text(item, "reason")
+        cp.ensure(len(item["reason"].strip()) >= 16, f"Scene need {name} has a vague reason")
+        cp.require_list(item, "source_refs")
+        cp.ensure(item["source_refs"] and all(isinstance(ref, str) and ref.strip() for ref in item["source_refs"]),
+                  f"Scene need {name} needs traceable scene or approved-direction refs")
+        if item["decision"] != "design":
+            continue
+        cues = item.get("prompt_cues")
+        cp.ensure(isinstance(cues, list) and cues and all(isinstance(cue, str) and len(cue.strip()) >= 4 for cue in cues),
+                  f"Designed scene need {name} needs visible prompt_cues")
+        source_text = (" ".join(str(direction.get(field, "")) for field in
+                        ("front_structure", "back_structure", "cut_and_fastening", "layering", "recognition_focus"))
+                       if name == "garment" else str(direction.get(STATE_STYLING_SPECIALISTS[name][1].rsplit(".", 1)[-1], "")))
+        cp.ensure(all(cue in source_text for cue in cues),
+                  f"Scene need {name} prompt_cues must come from mapped visible design")
+        if name == "garment":
+            for specialist in ("character-costume-style-design", "character-costume-cut-design",
+                               "character-costume-color-design", "character-costume-material-design"):
+                cp.ensure(execution[specialist]["mode"] in {"inline", "independent"},
+                          f"Garment scene need requires {specialist}")
+            continue
+        specialist, field = STATE_STYLING_SPECIALISTS[name]
+        work = execution.get(specialist, {})
+        cp.ensure(work.get("mode") in {"inline", "independent"},
+                  f"Designed scene need {name} requires active {specialist}")
+        cp.require_text(direction, field.rsplit(".", 1)[-1])
+        if work["mode"] == "inline":
+            cp.ensure(any(result.get("field") == field for result in work.get("results", [])),
+                      f"Scene need {name} has no mapped specialist result")
+        else:
+            cp.ensure(any(mapping.get("field") == field for mapping in work.get("applied_elements", [])),
+                      f"Scene need {name} has no mapped independent result")
+
+
+def validate_scene_prompt_coverage(cp, root, state, package, character, variant):
+    """Guard the design-to-prompt handoff for V1.1 state work."""
+    record = cp._checked_record(root, state, key("stage-design", character, variant, "costume"))
+    stage = cp.read_json(root / record["path"])
+    if stage.get("schema_version") != "CharacterStageDesignV1.1":
+        return
+    requirements = stage["payload"]["costume_direction"]["scene_needs"]["requirements"]
+    checks = "\n".join(package["acceptance_checks"])
+    for name, item in requirements.items():
+        if item["decision"] != "design":
+            continue
+        for prompt in package["prompts"]:
+            for cue in item["prompt_cues"]:
+                cp.ensure(cue in prompt["text"],
+                          f"Execution prompt {prompt['id']} dropped {name} cue: {cue}")
+        cp.ensure(any(cue in checks for cue in item["prompt_cues"]),
+                  f"Execution checks do not inspect designed {name}")
 
 
 def required_parents(state, character, scope, variant):
@@ -396,7 +484,8 @@ def required_parents(state, character, scope, variant):
 
 
 def validate_stage(cp, root, state, data, character, variant, scope):
-    cp.ensure(scope in SCOPES and data.get("schema_version") == "CharacterStageDesignV1", "Expected CharacterStageDesignV1 and a design scope")
+    cp.ensure(scope in SCOPES and data.get("schema_version") in {"CharacterStageDesignV1", "CharacterStageDesignV1.1"},
+              "Expected CharacterStageDesignV1/V1.1 and a design scope")
     cp.ensure(data.get("character_id") == character and data.get("scope") == scope and data.get("variant_id") == variant,
               "Stage design target mismatch")
     cp.ensure(variant == "base" or scope == "costume", "Identity and body scopes belong to base")
@@ -546,6 +635,9 @@ def submit(cp, args, root, state):
             cp.ensure(variant == "base", "Costume bible belongs to base")
             validate_bible(cp, root, state, data, character)
         else:
+            if scope == "costume" and state.get("pipeline_version", 1) >= 3:
+                cp.ensure(data.get("schema_version") == "CharacterStageDesignV1.1",
+                          "New pipeline 3 costume submissions require CharacterStageDesignV1.1 scene needs")
             validate_stage(cp, root, state, data, character, variant, scope)
     record_key = key(args.kind, character, variant, scope)
     incoming = cp.digest(data)

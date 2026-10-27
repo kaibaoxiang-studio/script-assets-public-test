@@ -1,6 +1,6 @@
 {
   "name": "character-assets",
-  "version": "0.2.6.4-local",
+  "version": "0.2.13",
   "description": "从剧本依据建设可追溯的角色视觉资产包与 GPT Image 2.5 提示词",
   "author": {
     "name": "开宝箱工作室"

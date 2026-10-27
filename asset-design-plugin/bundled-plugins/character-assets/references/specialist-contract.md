@@ -10,7 +10,7 @@
 - **independent**：跨专项冲突、重要身份/信息取舍、复杂形体工艺或反复失败时真实委派会诊。保存返回提案，在阶段记录 `mode:independent`、`decision`、`proposal_ref`、`proposal_sha256`、`selected_option_id`、`applied_elements[{field,element_index}]`；目标角色、状态与专项匹配。仅写已调用、自己编造外部返回物或只记录名称不成立。
 - **not_needed**：本阶段不适用或已有充分决定，写具体 `decision`。尚待身体或服饰阶段深化属于 `defer` 规划和 `deferred_dimensions`，不伪装成永不需要。
 
-方向稿的 `specialist_plan` 覆盖十三项，状态为 `inline|independent|defer|not_needed`；inline/independent 项另有 `task{objective,character_context,constraints[],expected_result}`，把人物理解和设计意图变成具体委派目标。阶段只记录本阶段实际执行的项；从 defer 激活时在 work 写同结构 task 和 activation_reason，更改既定执行方式须 execution_change_reason，原 not_needed 不能悄悄激活，应先修订方向稿。十三项不是十三轮询问或十三次独立会诊。复杂性看真实矛盾与返工风险，不按字段数量机械判断。
+方向稿的 `specialist_plan` 覆盖十三项，状态为 `inline|independent|defer|not_needed`；inline/independent 项另有 `task{objective,character_context,constraints[],expected_result}`，把人物理解和设计意图变成具体委派目标。阶段只记录本阶段实际执行的项；从 defer 激活时在 work 写同结构 task 和 activation_reason，更改既定执行方式须 execution_change_reason，原 not_needed 不能悄悄激活；唯一例外是新服饰状态稿按 [剧情状态可见需求](scene-styling-needs.md) 为妆、发、头耳颈或其他穿戴提供具体 `work.task` 和 `state_activation_reason`，只改变本场施加层，不改基础身份方向。其他领域仍先修订方向稿。十三项不是十三轮询问或十三次独立会诊。复杂性看真实矛盾与返工风险，不按字段数量机械判断。
 
 ## 独立提案
 

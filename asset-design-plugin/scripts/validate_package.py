@@ -23,11 +23,11 @@ def validate(root: Path, require_public: bool = True) -> dict:
     lock = json.loads((root / "bundle-lock.json").read_text(encoding="utf-8"))
     if lock.get("schema_version") != "BundledPluginsLockV1":
         errors.append("Unknown bundle lock schema")
-    if lock.get("source_commit") != "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2":
+    if lock.get("source_commit") != "e089d1287c1499f08c42e75aca093131e9d3fbc0":
         errors.append("Unexpected source commit; this release must use the approved ZiChan snapshot")
     if lock.get("source_repository") != "https://github.com/kaibaoxiang-studio/ZiChan":
         errors.append("Unexpected source repository")
-    expected_versions = {"character-assets": "0.2.6.4-local", "scene-assets": "0.9.5", "prop-assets": "0.2.5"}
+    expected_versions = {"character-assets": "0.2.13", "scene-assets": "0.9.5", "prop-assets": "0.2.5"}
     if set(lock.get("plugins", {})) != set(expected_versions):
         errors.append("Bundle must contain exactly character-assets, scene-assets and prop-assets")
     checked = 0

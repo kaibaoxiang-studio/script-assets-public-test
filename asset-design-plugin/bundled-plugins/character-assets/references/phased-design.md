@@ -19,7 +19,7 @@
 
 ## 2. 三类阶段设计快照
 
-`CharacterStageDesignV1` 保存 `character_id`、`variant_id`、`scope`、`parent_refs`、`payload`、`specialist_execution`、`deferred_dimensions`、`unresolved`。`parent_refs` 用实际记录键映射当前 SHA；采用 [专项执行合同](specialist-contract.md) 的 inline/independent 结果，未深化部分放 deferred，不写成无需求。从defer激活补 work.task和activation_reason；改变执行方式记execution_change_reason，not_needed改为执行须先改方向稿。
+`CharacterStageDesignV1` 保存 `character_id`、`variant_id`、`scope`、`parent_refs`、`payload`、`specialist_execution`、`deferred_dimensions`、`unresolved`。`parent_refs` 用实际记录键映射当前 SHA；采用 [专项执行合同](specialist-contract.md) 的 inline/independent 结果，未深化部分放 deferred，不写成无需求。从defer激活补 work.task和activation_reason；改变执行方式记execution_change_reason，基础身份的 not_needed 不跨状态继承；新服饰状态使用兼容的 `CharacterStageDesignV1.1` 和 [剧情状态可见需求](scene-styling-needs.md)，可凭具体任务及 `state_activation_reason` 激活妆、发、头耳颈或其他穿戴专项。旧 V1 保持可读，其余领域 not_needed 改为执行仍须先改方向稿。
 
 | scope | 所属状态 | payload 的当前阶段设计 |
 | --- | --- | --- |

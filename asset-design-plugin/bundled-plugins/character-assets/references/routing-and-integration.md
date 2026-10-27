@@ -30,7 +30,7 @@
 
 常规任务由主控加载并执行对应 Skill 规范，记录 inline 成果；复杂冲突真实独立会诊并保存返回物。加载 knowledge/reference 与执行 Skill 分开记录，不把读取名称当成执行。详情见 [专项合同](specialist-contract.md)。现有知识可按问题读全文，不新增知识采集工程。
 
-`DesignDirectionBriefV1.specialist_plan` 覆盖十三项的 `inline|independent|defer|not_needed`，阶段稿的 `specialist_execution` 记录实际工作。active规划须有 task；defer激活补task和activation_reason，执行方式改变须说明，not_needed变为执行先修方向。默认一套推荐，重要分歧才备选。原文与用户明确改编决定优先，批准依据决定当前范围；模型创作推荐不能伪装事实，专家不能相互覆盖。冲突由主控合成，影响人物或剧情的选择集中交用户决定。
+`DesignDirectionBriefV1.specialist_plan` 覆盖十三项的 `inline|independent|defer|not_needed`，阶段稿的 `specialist_execution` 记录实际工作。active规划须有 task；defer激活补task和activation_reason，执行方式改变须说明，基础身份中 not_needed 的妆、发饰和头耳颈判断不跨剧情状态继承。新 `CharacterStageDesignV1.1(scope:costume)` 可凭当前场次的专项任务与 `state_activation_reason` 激活相应专项，见 [剧情状态需求](scene-styling-needs.md)；其他阶段或旧 V1 的 not_needed 改为执行仍须先修方向。默认一套推荐，重要分歧才备选。原文与用户明确改编决定优先，批准依据决定当前范围；模型创作推荐不能伪装事实，专家不能相互覆盖。冲突由主控合成，影响人物或剧情的选择集中交用户决定。
 
 ## 默认阶段与首图快看
 

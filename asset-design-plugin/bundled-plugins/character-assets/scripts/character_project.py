@@ -27,7 +27,7 @@ import phased_design as phased
 import ensemble_assets as ensemble
 
 SCHEMA = "CharacterProjectV1"
-PLUGIN_VERSION = "0.2.6.2"
+PLUGIN_VERSION = json.loads((Path(__file__).resolve().parents[1] / ".codex-plugin/plugin.json").read_text(encoding="utf-8"))["version"]
 IDENTITY_STAGES = ("avatar", "expression", "full_body")
 STAGES = (*IDENTITY_STAGES, "costume_design", "execution")
 LEGACY_STAGES = (*IDENTITY_STAGES, "execution")
@@ -1236,6 +1236,8 @@ def cmd_submit(args):
             if asset_mode == "individual" and args.stage == "full_body" and (phased.enabled(state) or card.get("schema_version") in {"CharacterDesignCardV2.2", "CharacterDesignCardV2.4"}) and card.get("morphology") in {"human", "humanoid"}:
                 validate_full_body_prompt_proportions(content, card)
             if asset_mode == "individual" and args.stage == "execution":
+                if phased.enabled(state) and state.get("pipeline_version", 1) >= 3:
+                    phased.validate_scene_prompt_coverage(_runtime(), root, state, content, character_id, variant_id)
                 ensure(content.get("morphology") == card["morphology"],
                        "Execution prompt morphology must match the approved design card")
                 if card["morphology"] != "human":

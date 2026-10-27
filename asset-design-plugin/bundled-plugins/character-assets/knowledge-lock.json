@@ -430,6 +430,156 @@
       "capability_ids": [
         "character-face-signature-design"
       ]
+    },
+    {
+      "source_id": "wearable-headwear-17",
+      "source_sha256": "6e4108f10c7b52b701db0bc3f9749ce0d7f5be0f1088e4d5913ceac7063242a1",
+      "origin": "用户提供的本地知识库 17",
+      "path": "references/knowledge/character-face-signature-design/wearable-headwear-17.md",
+      "rules_sha256": "fea245b90fcec22c43131173b7c232449ea9499694505ba3b1749f47f0f7738f",
+      "capability_ids": [
+        "character-face-signature-design"
+      ]
+    },
+    {
+      "source_id": "wearable-face-jewelry-18",
+      "source_sha256": "8d4e51b2af2485cb81018e4e39ae3a5205db97f73d1767705e63010641e2f50f",
+      "origin": "用户提供的本地知识库 18",
+      "path": "references/knowledge/character-face-signature-design/wearable-face-jewelry-18.md",
+      "rules_sha256": "2baabc50cd7a3e5d19d99253cfe3fd39b33bdea4e4a2b8fbb162d15c875efe9e",
+      "capability_ids": [
+        "character-face-signature-design"
+      ]
+    },
+    {
+      "source_id": "wearable-face-paint-19",
+      "source_sha256": "995dea74a2eade56360315425d8baa0f878b6c0e6f49a51cb812ddd4337e454b",
+      "origin": "用户提供的本地知识库 19",
+      "path": "references/knowledge/character-face-decoration-design/wearable-face-paint-19.md",
+      "rules_sha256": "2d0a7a7e0357c3ec76440033c465c4ef005449dda8df344458135cc29f2a0fa4",
+      "capability_ids": [
+        "character-face-decoration-design"
+      ]
+    },
+    {
+      "source_id": "wearable-neck-20",
+      "source_sha256": "76abce91683f3cf5c10745b9f5841447dffcc672b821f7553922f3ee44692752",
+      "origin": "用户提供的本地知识库 20",
+      "path": "references/knowledge/character-face-signature-design/wearable-neck-20.md",
+      "rules_sha256": "d18c295489e9f55b5e3b454a21f850fcdee5703f90f7a4d56fc22280d7c1ee93",
+      "capability_ids": [
+        "character-face-signature-design"
+      ]
+    },
+    {
+      "source_id": "wearable-upper-21",
+      "source_sha256": "f7ce4ad47532658e62b6d58a4a5abd12240b04a42436b30a3be4edff947183b9",
+      "origin": "用户提供的本地知识库 21",
+      "path": "references/knowledge/character-costume-style-design/wearable-upper-21.md",
+      "rules_sha256": "ba050824b26d8f7d332f89f4e0ba529bab72d4a9b5f8be50c0f14fe21a3af51c",
+      "capability_ids": [
+        "character-costume-style-design"
+      ]
+    },
+    {
+      "source_id": "wearable-hand-wrist-22",
+      "source_sha256": "cd28fc1f8a0e0c2c55cbac53bb76e3374d71ae715c18a0e51f1ad5228f3258cd",
+      "origin": "用户提供的本地知识库 22",
+      "path": "references/knowledge/character-costume-accessory-design/wearable-hand-wrist-22.md",
+      "rules_sha256": "2b9bcea044cfb47a49fedbcbe9d7b6a5604dc5f6f52d2b8ff9aca7e9305e35d6",
+      "capability_ids": [
+        "character-costume-accessory-design"
+      ]
+    },
+    {
+      "source_id": "wearable-waist-23",
+      "source_sha256": "c0c359c4d39afcdbd7e37c623eafac76f5f7bb15ab3c3f506883d6e634e6ce36",
+      "origin": "用户提供的本地知识库 23",
+      "path": "references/knowledge/character-costume-accessory-design/wearable-waist-23.md",
+      "rules_sha256": "4daf6baf797ca5d46b044da5a8c942e2f53b3772fa3591ddd38a13fd1cfd5df3",
+      "capability_ids": [
+        "character-costume-accessory-design"
+      ]
+    },
+    {
+      "source_id": "wearable-arm-24",
+      "source_sha256": "1e625dbbca3b1bd3fc4476a38daaf6028967d7747f13030f27701f29e08fff10",
+      "origin": "用户提供的本地知识库 24",
+      "path": "references/knowledge/character-costume-accessory-design/wearable-arm-24.md",
+      "rules_sha256": "126b8966be8f4d2e2f76dc83125aca3491f7b1737d1325c87215882cda903e4b",
+      "capability_ids": [
+        "character-costume-accessory-design"
+      ]
+    },
+    {
+      "source_id": "wearable-back-25",
+      "source_sha256": "59f3bc1e27cd4c44ae1791a6e4f8f7198548fad416a5cb87d973130d8f61ffdf",
+      "origin": "用户提供的本地知识库 25",
+      "path": "references/knowledge/character-costume-accessory-design/wearable-back-25.md",
+      "rules_sha256": "2d94f797e5295e1899c743de3914fc081e2e45e76f93134672f8d476e4b1a7d6",
+      "capability_ids": [
+        "character-costume-accessory-design"
+      ]
+    },
+    {
+      "source_id": "wearable-close-chest-26",
+      "source_sha256": "7f395852852554f0d73613a42d655c485709d68555b206476e682b8815a1646f",
+      "origin": "用户提供的本地知识库 26",
+      "path": "references/knowledge/character-costume-style-design/wearable-close-chest-26.md",
+      "rules_sha256": "282d7f5780f53a2d990822e4c06a50b01592da866a4897ed264711b218905bf6",
+      "capability_ids": [
+        "character-costume-style-design"
+      ]
+    },
+    {
+      "source_id": "wearable-lower-main-27",
+      "source_sha256": "9585889839c7cfb997b456c8598625cdf630f4d6a36e94742b59a967804d355d",
+      "origin": "用户提供的本地知识库 27",
+      "path": "references/knowledge/character-costume-style-design/wearable-lower-main-27.md",
+      "rules_sha256": "b609d2432dd4f2053bb085fa23dd385b986ffe49bbddda2059d05056febcfdab",
+      "capability_ids": [
+        "character-costume-style-design"
+      ]
+    },
+    {
+      "source_id": "wearable-leg-mount-28",
+      "source_sha256": "c5126841d3c7e60a4832e03fc562f1ae6b165d4224a532c6a4fda66c46c278c9",
+      "origin": "用户提供的本地知识库 28",
+      "path": "references/knowledge/character-costume-accessory-design/wearable-leg-mount-28.md",
+      "rules_sha256": "404fa394e81fda594e6712a5dd239db93a2b511f010cc531ac294df06205cbc4",
+      "capability_ids": [
+        "character-costume-accessory-design"
+      ]
+    },
+    {
+      "source_id": "wearable-knee-sock-29",
+      "source_sha256": "a373e8194e2fc7a4b7907ad2c9ec49e1c91ca4c7c451dc4101947b7696920c26",
+      "origin": "用户提供的本地知识库 29",
+      "path": "references/knowledge/character-costume-style-design/wearable-knee-sock-29.md",
+      "rules_sha256": "62f7a608c565d96ffdd42458aaf4f45990bb595b114d4d74b6252aed905e0da1",
+      "capability_ids": [
+        "character-costume-style-design"
+      ]
+    },
+    {
+      "source_id": "wearable-footwear-30",
+      "source_sha256": "7f3a3ae1c751ca91a1f9657ba78a5f1018d2eace5bab40d3dc85d5b56d46d584",
+      "origin": "用户提供的本地知识库 30",
+      "path": "references/knowledge/character-costume-style-design/wearable-footwear-30.md",
+      "rules_sha256": "18c17397b478c14483c4d789ab489faba68d26ffb8cace5707823455db598ae6",
+      "capability_ids": [
+        "character-costume-style-design"
+      ]
+    },
+    {
+      "source_id": "wearable-lower-morphology-31",
+      "source_sha256": "199f9834d74573b380fcbd03ccbed4428db1df0d1026d3876b4f5d53c20ca9dc",
+      "origin": "用户提供的本地知识库 31",
+      "path": "references/knowledge/character-body-design/wearable-lower-morphology-31.md",
+      "rules_sha256": "7118150768b4935e1360c39e2601b6eafb027165a7d0073fcbd24851f637a942",
+      "capability_ids": [
+        "character-body-design"
+      ]
     }
   ]
 }

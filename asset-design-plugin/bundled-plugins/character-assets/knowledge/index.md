@@ -1,4 +1,10 @@
-# 角色资产知识索引 v0.2.6.4-local
+# 角色资产知识索引 v0.2.13（本地候选）
+
+服饰阶段在总控已理解人物与场次后，先读 [服饰与穿戴部位拆解](../references/costume-wearable-zones.md) 建立主衣物件和部位任务；再按下表只加载实际涉及的 17–31 号知识快照。配色与面料仍由原有专项承接当前已确认方案。
+
+婚礼等仪式场景先触发上述拆解中的饰品判断闸门，再按头戴/发饰/耳颈和手指/腕/腰等实际可见部位加载 16、17、20、22、23 号快照。总控不能把“无大型珠宝”“旧首饰已摘”或旧图无首饰扩展成全面禁饰；须拿到跨部位候选和采用/舍弃理由，戒指还要核对仪式时点。只有有具体剧本或已批方向理由，才能把全部留空列为待确认选择。
+
+用户要求服饰细节达到道具设计颗粒度时，先读 [服饰重点细节的物件级设计](../references/costume-component-design.md)，用“主轮廓与部件→相对尺度→叠压固定→材质分区与纹样路径→正背/动作一致”拆解重点件，再按下表路由款式、剪裁、饰品、材质及必要的头耳颈专项。借用道具方法不改变角色执行图的 9:16 四格合同，也不要求加载整套道具插件。
 
 人形基础头像在主控完成全文理解与比较组之后，读取 [头像命名、颗粒度与材质边界](../references/avatar-identity-granularity.md)。按当前问题调用脸型与五官、发型、皮肤、妆容、头耳颈饰专项；用户提供的 06–16 资料已分别精炼成对应能力的独立快照，按需加载，不把单一角色试验的外观设为全员默认。头耳颈饰在剧本留白时仍可提出候选，但必须说明设计锚点、物理佩戴与待审状态；允许无饰品。
 
@@ -6,11 +12,30 @@
 
 无台词群演／群像先由 `plan.asset_mode=ensemble` 路由 `$character-ensemble-designer`，加载 `references/group-ensemble.md`：剧本明确人数照数、未明确标代表人数；按获批世界美术基准做一张全身同画布执行图。有指定台词者走 `speaking_extra`，每状态只做一张独立 9:16 四格执行图。下文服饰设计师与四图链路只适用于常规 `individual`。
 
-新项目独立人物服饰阶段必须调用 `$character-costume-designer`，先读 `references/costume-designer.md`，再按当前设计问题读 `references/knowledge/character-costume-designer/costume-deep.md`。它从人物总控已验证的全文理解与方向建立穿衣风格圣经和逐状态文字设计，统筹款式、剪裁、配色、材质、饰品五专项；前四项须有实际部位成果。头像身份阶段可用 `references/knowledge/character-face-design/original-face.md` 固定原创骨相与比例；服饰状态妆造用 `references/knowledge/character-costume-designer/state-makeup.md`，不改变已批准的脸。三份新增知识快照分别溯源用户 ZIP 与两份 DOCX，原文件成员哈希见 `knowledge/archive-manifest.json`。
+新项目独立人物服饰阶段必须调用 `$character-costume-designer`，先读 `references/costume-designer.md` 与 `references/costume-wearable-zones.md`，再按当前设计问题读 `references/knowledge/character-costume-designer/costume-deep.md`。它从人物总控已验证的全文理解与方向建立穿衣风格圣经和逐状态文字设计，统筹款式、剪裁、配色、材质、饰品五专项；前四项须有实际部位成果。头像身份阶段可用 `references/knowledge/character-face-design/original-face.md` 固定原创骨相与比例；服饰状态妆造用 `references/knowledge/character-costume-designer/state-makeup.md`，不改变已批准的脸。三份新增知识快照分别溯源用户 ZIP 与两份 DOCX，原文件成员哈希见 `knowledge/archive-manifest.json`。
 
 `pipeline_version:3` 的独立人物采用头像、九宫格、全身模卡、逐状态 9:16 四格执行图四类图片；无台词群像每状态一张全身单图。旧 `costume_design` 图仅适用 v2 项目。
 
 先读 [人物总控](../references/director-understanding.md)：全文理解人物与故事、定位、解析细节、形成设计意图后，再决定 Skill 执行和知识加载。先读用户全文或复用有效context，再按当前任务读取必要知识。references是目录，不是全读清单；可按问题读相关知识全文，但不机械全读，也不为了省时省略人物理解。knowledge/reference 是方法，当前人物事实与已确认决定优先；本次不新增知识采集工程。
+
+## 服饰与穿戴知识路由（17–31）
+
+这些文件是名称与位置检索库，不要求每人有全套饰品。按剧本时代、人物状态、已批身份/身体、场合和画幅选择；性别、职业、阶级或阵营的固定搭配不能代替人物证据。连衣裙等跨部位主衣共享一个物件，剪裁与附加物指定唯一主责。下表的精炼快照均位于所列能力自己的 `references/knowledge/<能力名>/` 目录，具体链接见该能力 `SKILL.md`。
+
+| 当前设计问题 | 路由与按需加载的快照 |
+| --- | --- |
+| 帽、额饰、发饰、遮面或头盔 | `$character-face-signature-design` → `wearable-headwear-17.md` |
+| 面部穿戴、颈部物件、耳饰 | `$character-face-signature-design` → 分别取 `wearable-face-jewelry-18.md`、`wearable-neck-20.md`、既有 `avatar-head-ear-neck-16.md` |
+| 面部彩绘或状态图案 | `$character-face-decoration-design` → `wearable-face-paint-19.md`；普通妆面仍取 `avatar-makeup-13.md` |
+| 主衣上身、外套、可见中层、贴身层 | `$character-costume-style-design` → 按需取 `wearable-upper-21.md`、`wearable-close-chest-26.md`；剪裁和附加物另交相应专项 |
+| 手指手腕、腰、臂、背和腿部独立挂载 | `$character-costume-accessory-design` → 按部位取 `wearable-hand-wrist-22.md`、`wearable-waist-23.md`、`wearable-arm-24.md`、`wearable-back-25.md`、`wearable-leg-mount-28.md` |
+| 裤、裙、裙裤或连体裙身 | `$character-costume-style-design` → `wearable-lower-main-27.md`；剪裁专项解决连接和活动量 |
+| 膝胫护具、可见袜品、鞋履 | 款式专项按需取 `wearable-knee-sock-29.md`、`wearable-footwear-30.md`；护具交饰品、鞋结构交剪裁 |
+| 获批的非人或机械下肢 | `$character-body-design` → `wearable-lower-morphology-31.md`，身体定形后服饰适配；普通人形不加载 |
+
+主衣本体、附加穿戴、道具本体和身体形态不可互相冒名；来源原文保存在用户工作区集中源库，插件只打包精炼规则。
+
+## 通用情景
 
 | 情景 | 加载 | 用途 |
 | --- | --- | --- |
@@ -27,7 +52,7 @@
 | 新建重点人形设计卡过于概括 | `references/design-detail-standard.md`、`references/knowledge/character-design/anti-stereotype-texture.md` | 对应阶段具象细节、十三项规划及实际执行收据；最终V2.5合成卡 |
 | 剧本与三份输入冲突 | `references/evidence.md` | 按原文证据优先列疑点，不暗改事实 |
 | 头像、九宫格、全身模卡提示词 | `references/prompting.md`、`references/model-card-baseline.md`、`references/avatar-identity-granularity.md` | 从当前阶段已确认依据抽取可见锚点；人形头像正文无板块标题，preview冻结草案，指定参考职责和模卡衣着 |
-| 每状态服饰设计图 | `references/costume-design-stage.md`、`references/prompting.md` | 一状态一图，绑定三张已批准身份图及状态卡 |
+| 每状态服饰文字与执行图 | `references/costume-designer.md`、`references/costume-wearable-zones.md`、`references/prompting.md` | v3 一状态一份服饰文字快照与一张执行图；v2 历史项目沿原服饰图链路 |
 | 油亮、蜡感、材质空泛、皮肤压印纹或发际乱丝 | `references/render-texture-standard.md`、`references/avatar-identity-granularity.md`，再按设计/提示词/审查/修图的对应 `anti-stereotype-texture.md` 快照加载 | 分开设计层与渲染层；正常头像尺度不主动强调全脸毛孔/绒毛和逐根额前细丝，实际回图复核 |
 | 外部出图的通用提示词结构与原样中文 | `references/knowledge/character-image-prompt/hedgehog-general-image-skill.md`、`references/prompting.md` | 区分新图/编辑，控制补充细节，逐张标注参考图职责 |
 | 已批准的 2D→3D 呈现 | `references/knowledge/character-image-prompt/hedgehog-2d3d.md`、`references/prompting.md` | 保留身份与服装，只转换已批准的媒介、材质和光照 |
@@ -70,3 +95,5 @@
 
 
 0.2.5 复用已有知识，新增人物总控与阶段深化方法：全文理解→定位→细节解析→设计意图→Skill/knowledge路由；方向稿规划十三项，常规inline执行、复杂independent会诊，当前阶段产出可画设计。新默认phased，最终V2.5卡由已批快照合成；旧complete和批准记录兼容。
+
+剧情服饰状态先读 [可见需求与专项派发](../references/scene-styling-needs.md)，再按所选部位加载妆、发、头耳颈、服饰及重点部件资料。基础头像不需要的专项不得跨状态视为永久无需求。

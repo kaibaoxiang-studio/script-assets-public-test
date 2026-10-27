@@ -1,0 +1,255 @@
+{
+  "schema_version": "PublicMirrorValidationV1",
+  "snapshot_tag": "public-test-2026-10-27-r3",
+  "date": "2026-10-27",
+  "valid": true,
+  "source_files_checked": 905,
+  "documentation_and_provenance_overlays": 31,
+  "python_files_parsed": 148,
+  "components": [
+    {
+      "name": "screenplay-standardizer",
+      "version": "0.1.2",
+      "path": "script-plugins/level-1/screenplay-standardization/screenplay-standardizer"
+    },
+    {
+      "name": "scene-log-extractor",
+      "version": "0.1.0",
+      "path": "script-plugins/level-2/scene-log-extraction/scene-log-extractor"
+    },
+    {
+      "name": "screenplay-asset-extractor",
+      "version": "0.1.1",
+      "path": "script-plugins/level-2/asset-extraction/screenplay-asset-extractor"
+    },
+    {
+      "name": "asset-design",
+      "version": "0.1.0",
+      "path": "asset-design-plugin"
+    }
+  ],
+  "component_checks": [
+    {
+      "component": "screenplay-standardizer",
+      "validation": {
+        "valid": true,
+        "errors": [],
+        "capabilities": 2,
+        "skills": 3
+      }
+    },
+    {
+      "component": "scene-log-extractor",
+      "validation": {
+        "valid": true,
+        "errors": [],
+        "capabilities": 6,
+        "skills": 14
+      }
+    },
+    {
+      "component": "screenplay-asset-extractor",
+      "validation": {
+        "valid": true,
+        "errors": [],
+        "capabilities": 1,
+        "skills": 3
+      }
+    },
+    {
+      "component": "asset-design",
+      "validation": {
+        "valid": true,
+        "checked_bundle_files": 541,
+        "source_commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
+        "public_skills": [
+          "asset-design",
+          "asset-character",
+          "asset-scene",
+          "asset-prop"
+        ],
+        "errors": []
+      }
+    }
+  ],
+  "asset_regressions": {
+    "schema_version": "PublicExportChecksV1",
+    "snapshot_tag": "public-test-2026-10-27-r3",
+    "date": "2026-10-27",
+    "status": "passed",
+    "plugin_version": "0.1.0",
+    "capability_source": "kaibaoxiang-studio/ZiChan",
+    "capability_commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
+    "script_source_commit": "b1f232c743a927a4f7c94f02c1dede2fab4e49a0",
+    "child_versions": {
+      "character-assets": "0.2.6.4-local",
+      "scene-assets": "0.9.5",
+      "prop-assets": "0.2.5"
+    },
+    "checks": [
+      {
+        "name": "script-json-regressions",
+        "status": "passed",
+        "returncode": 0,
+        "tests": 16,
+        "ephemeral_dispatch_tests": 2,
+        "delivery_postcondition_tests": 4,
+        "business_acceptance": "passed"
+      },
+      {
+        "name": "script-docx-regressions",
+        "status": "passed",
+        "returncode": 0,
+        "tests": 96
+      },
+      {
+        "name": "mother-regressions",
+        "status": "passed",
+        "returncode": 0,
+        "tests": 32
+      },
+      {
+        "name": "character-regressions",
+        "status": "passed",
+        "returncode": 0,
+        "tests": 14,
+        "scope": "Historical applicable model-card/body/dispatcher assertions against the new isolated source; no image quality claim"
+      }
+    ],
+    "scope": "Current extraction completion/source binding and source synchronization; four fresh text Skill cases, no new image generation or image aesthetic approval.",
+    "historical_validation": {
+      "snapshot_tag": "public-test-2026-10-27-r2",
+      "note": "Prior checks remain historical, not new r3 results."
+    },
+    "fresh_model_calls": [
+      {
+        "case": "json-props",
+        "invocation": "Real Codex AppServer, ephemeral server acknowledgment required",
+        "status": "passed",
+        "counts": {
+          "characters": 2,
+          "locations": 1,
+          "props": 2,
+          "effects": 0,
+          "scenes": 2,
+          "findings": 0
+        },
+        "reviewed_scenes": 2,
+        "plugin_fingerprint": "90e13475f81bf863e5d6c1a942abb32f5370e50f568dc4c83a5fd79ce5b37474",
+        "output_sha256": {
+          "assets.json": "3df57044f250204b4f38f52d48e5eed48e43974322d15b46e180bda0ca6d6d52",
+          "screenplay-asset-table.xlsx": "06e9fd56a28db0c0668382d2ff6e9a0619d69dcbc3bf3ab6e84b3cd2f0ebc4b2",
+          "asset_findings.json": "32e3b89e468c2f9365aee278d3f05df4eece5b1f698cabc172d81b3bcefac64f",
+          "asset_findings.md": "4b260824cd4d59ef474c5a2ce13b38244a4579ed525b4ea24495395e794c9e8a"
+        },
+        "duration_seconds": 254.642,
+        "entry": "extract-asset-table",
+        "source_commit": "b1f232c743a927a4f7c94f02c1dede2fab4e49a0"
+      },
+      {
+        "case": "json-no-props",
+        "invocation": "Real Codex AppServer, ephemeral server acknowledgment required",
+        "status": "passed",
+        "counts": {
+          "characters": 1,
+          "locations": 1,
+          "props": 0,
+          "effects": 0,
+          "scenes": 1,
+          "findings": 0
+        },
+        "reviewed_scenes": 1,
+        "plugin_fingerprint": "90e13475f81bf863e5d6c1a942abb32f5370e50f568dc4c83a5fd79ce5b37474",
+        "output_sha256": {
+          "assets.json": "fb1245ae8b02d8915677c5ab76c9763e071b4513515c740ef8aab0ce66b4f92b",
+          "screenplay-asset-table.xlsx": "e3d531c6e3a50d650e391484997cf3b6f99731c3d52a560084f994795d1faadd",
+          "asset_findings.json": "8534f11f2bcbaf99b569e3eb466eb557a3e51b9fadecc1ece53e7d74560fab29",
+          "asset_findings.md": "4b260824cd4d59ef474c5a2ce13b38244a4579ed525b4ea24495395e794c9e8a"
+        },
+        "duration_seconds": 240.412,
+        "entry": "extract-asset-table",
+        "source_commit": "b1f232c743a927a4f7c94f02c1dede2fab4e49a0"
+      },
+      {
+        "case": "docx-props-case",
+        "invocation": "Real codex exec --ephemeral with exact Skill file, default user model settings",
+        "status": "passed",
+        "counts": {
+          "characters": 2,
+          "scenes": 1,
+          "props": 2
+        },
+        "reviewed_scenes": 1,
+        "data_and_saved_workbook_check": "zero errors, zero unconfirmed warnings",
+        "output_sha256": {
+          "道具使用小样-资产表.xlsx": "07d2ccd05c911e9bc40e38543f5f00c8d1faf4bbea0929349059e34208a28795",
+          "assets.json": "d55596a43bd45f986cc7b1cd291c88fc7638d34ca3c2531db32afc2e98eac3b3"
+        },
+        "manual_application_visual_check": "not performed",
+        "entry": "script-asset-extractor",
+        "source_commit": "b1f232c743a927a4f7c94f02c1dede2fab4e49a0"
+      },
+      {
+        "case": "docx-no-props-case",
+        "invocation": "Real codex exec --ephemeral with exact Skill file, default user model settings",
+        "status": "passed",
+        "counts": {
+          "characters": 0,
+          "scenes": 1,
+          "props": 0
+        },
+        "reviewed_scenes": 1,
+        "data_and_saved_workbook_check": "zero errors, zero unconfirmed warnings",
+        "output_sha256": {
+          "空房间小样-资产表.xlsx": "0d4ed3c8a1cf906b71fe591a9047fb5b6f46e56b6ba7bd004b4b01ecdd5de770",
+          "assets.json": "886bd650b83c3cd55593e97a84be654c1bfa1f2e12e4c0a3f4538f4f373d8f2f"
+        },
+        "manual_application_visual_check": "not performed",
+        "entry": "script-asset-extractor",
+        "source_commit": "b1f232c743a927a4f7c94f02c1dede2fab4e49a0"
+      }
+    ],
+    "validated_model_cases": 4,
+    "image_calls": 0,
+    "evidence_sha256": "155de162f2f98fb6299a569b6bac520a679202577290f786d622a35ef16a0321"
+  },
+  "credential_or_personal_source_locator_matches": 0,
+  "authoritative_capabilities": {
+    "script_suite": {
+      "repository": "kaibaoxiang-studio/script-plugins",
+      "commit": "b1f232c743a927a4f7c94f02c1dede2fab4e49a0",
+      "target": "script-plugins"
+    },
+    "character": {
+      "repository": "kaibaoxiang-studio/ZiChan",
+      "commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
+      "version": "0.2.6.4-local",
+      "target": "asset-design-plugin/bundled-plugins/character-assets"
+    },
+    "scene": {
+      "repository": "kaibaoxiang-studio/ZiChan",
+      "commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
+      "version": "0.9.5",
+      "target": "asset-design-plugin/bundled-plugins/scene-assets"
+    },
+    "prop": {
+      "repository": "kaibaoxiang-studio/ZiChan",
+      "commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
+      "version": "0.2.5",
+      "target": "asset-design-plugin/bundled-plugins/prop-assets"
+    }
+  },
+  "child_versions": {
+    "character-assets": "0.2.6.4-local",
+    "scene-assets": "0.9.5",
+    "prop-assets": "0.2.5"
+  },
+  "business_code_changes": true,
+  "business_change_source": "Canonical screenplay completion repair and ZiChan role update; scene/prop source bytes unchanged.",
+  "packaging_integration_changes": [
+    "asset-design-plugin/scripts/bundle.py",
+    "asset-design-plugin/scripts/validate_package.py"
+  ],
+  "new_model_or_image_calls": true,
+  "scope": "Public export integrity, syntax, component Skill/reference validation, and documented local regression results; user business and visual testing remain the purpose of this release."
+}

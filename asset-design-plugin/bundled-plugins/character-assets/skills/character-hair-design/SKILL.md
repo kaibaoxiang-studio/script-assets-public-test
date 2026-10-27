@@ -9,6 +9,8 @@ description: "发型设计：发流、体积、轮廓与跨视角连续性"
 
 头像身份阶段按 [头像命名与颗粒度规则](../../references/avatar-identity-granularity.md) 从发型主名细化发际、分缝、人物自身左右和发束体积；正常头像尺度不把逐根碎发与额前胎毛设为必须可见的身份特征。
 
+剧情服饰状态按 [状态可见需求](../../references/scene-styling-needs.md) 单独决定打理与盘/束发：保留已批发际、长度和发色，交前侧发片、收束位置、后脑体积、固定结构和正面/45°/背面连续性。头纱梳、发夹与发束的接口要与头耳颈专项核对；仪式需要固定时不能只复制基础披发句子。
+
 ## Packaged references
 
 - [knowledge/index.md](../../knowledge/index.md)
@@ -16,5 +18,6 @@ description: "发型设计：发流、体积、轮廓与跨视角连续性"
 - [references/differentiation-framework.md](../../references/differentiation-framework.md)
 - [references/design-detail-standard.md](../../references/design-detail-standard.md)
 - [references/knowledge/character-hair-design/hair.md](../../references/knowledge/character-hair-design/hair.md)
+- [references/scene-styling-needs.md](../../references/scene-styling-needs.md)
 
 Read [avatar-hair-names-07](../../references/knowledge/character-hair-design/avatar-hair-names-07.md) when this capability needs the supplied knowledge.

@@ -1,13 +1,13 @@
 {
   "schema_version": "BundledPluginsLockV1",
   "source_repository": "https://github.com/kaibaoxiang-studio/ZiChan",
-  "source_commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
+  "source_commit": "e089d1287c1499f08c42e75aca093131e9d3fbc0",
   "plugins": {
     "character-assets": {
-      "version": "0.2.6.4-local",
+      "version": "0.2.13",
       "root": "bundled-plugins/character-assets",
       "source_repository": "https://github.com/kaibaoxiang-studio/ZiChan",
-      "source_commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
+      "source_commit": "e089d1287c1499f08c42e75aca093131e9d3fbc0",
       "files": [
         {
           "path": ".agents/plugins/marketplace.json",
@@ -18,14 +18,14 @@
         {
           "path": ".codex-plugin/plugin.json",
           "mode": "100644",
-          "git_blob": "9467188279106afb9ce7bbc22cf6f36500a41cba",
-          "sha256": "c7d68233a6a788d4a3028284d0814f8b884ca97ed72571519e5003f5ae288c4f"
+          "git_blob": "c315a0c46ae4971bac13a68011056176c2f9a3c7",
+          "sha256": "861365ef0a2bd20ddadb17ae39e49b6b6fff712145d42f1c1665a54e8223d271"
         },
         {
           "path": "README.md",
           "mode": "100644",
-          "git_blob": "2e3d50d003408a04c7d18f5dea2df78cd6fa6a95",
-          "sha256": "29b75b440c725fb0d3f4e11a53e139855c33d0c95ba1da20c3d5287d07e8147c"
+          "git_blob": "12791d2cf20a874a1aeda524a7117ac3d13d9220",
+          "sha256": "346e52f152324157a093c91991cc28af97bb59fd27079ac704fd5f4ca2446199"
         },
         {
           "path": "RUNTIME.md",
@@ -42,8 +42,8 @@
         {
           "path": "capabilities.json",
           "mode": "100644",
-          "git_blob": "517f9b19ed643648c41e46dc3b3d9f9282a8d30a",
-          "sha256": "f2eac75e1f02e4f24e3f4ff9ce5a444dcbf3abec417b5acfec48786db22d9c6b"
+          "git_blob": "180fe7719577d64041f21738e43f295ed4b7e8e3",
+          "sha256": "323a4a3c016dcead428cb7a47447541a4af9932354a4f791021ebee622e7b46b"
         },
         {
           "path": "examples/body-proportion-contract.md",
@@ -69,7 +69,7 @@
           "git_blob": "952782b50dd4bd17cd50d525b7666a977c2802da",
           "sha256": "a9f07741a300ddc03952a256b38be744d911aca403f76f4ae31285bd17957160",
           "upstream_sha256": "eb8565b31ce93f6285f4afb0f018d6b46eefa1e8fe05938168bb8186d9dd637e",
-          "public_overlay": "Public source-locator anonymization and corresponding generation lock."
+          "public_overlay": "Private source locator anonymization and corresponding blueprint/generation-lock adjustment."
         },
         {
           "path": "examples/sample-assets.json",
@@ -110,18 +110,18 @@
         {
           "path": "generation-lock.json",
           "mode": "100644",
-          "git_blob": "1e5e963b27cd99c3d0870b132c2f5285c305a8d5",
-          "sha256": "f7d34a19460794510c7321962d5e92e81c85572a08979e20446e19a0712ccab5",
-          "upstream_sha256": "bda38e992f0896ed25ffd137cb9bcbb8004d16b01f9051be414ab87f6d8b5f5d",
-          "public_overlay": "Public source-locator anonymization and corresponding generation lock."
+          "git_blob": "84a9ca842881e290a8f105a2fa96b1faa61262bd",
+          "sha256": "26db5674ece2c849c68bd7853d5bfe3ab317ade72ee686698575a2b68d36f4c1",
+          "upstream_sha256": "323628aaec09452ab69fba18bc22f495e690966d8cd4462793eb368691cfff5f",
+          "public_overlay": "Private source locator anonymization and corresponding blueprint/generation-lock adjustment."
         },
         {
           "path": "harness-blueprint.json",
           "mode": "100644",
-          "git_blob": "bc72ff4e64d01eaa77ab45725199e572e3e08066",
-          "sha256": "db33af3dab154441b9922aac93e10a6887ae88ccfa8ddc9297a6ca6390627e89",
-          "upstream_sha256": "e6927d6f4d1e12acbec4036870c5b0974a6d49016ddc35c2292c5fe51f43ae40",
-          "public_overlay": "Public source-locator anonymization and corresponding generation lock."
+          "git_blob": "597e48ac7bb33f858566f0c5c51cb97292e39892",
+          "sha256": "c5d2bbcd06add915f8aa0ba0aa02f4efd0e263b30d8debe59642a08e578e4215",
+          "upstream_sha256": "a368691913aed65d3a592af83234797c6c226b788b31f4d1f6a330df25a94f45",
+          "public_overlay": "Private source locator anonymization and corresponding blueprint/generation-lock adjustment."
         },
         {
           "path": "harness.py",
@@ -132,8 +132,8 @@
         {
           "path": "knowledge-lock.json",
           "mode": "100644",
-          "git_blob": "a14e8760071abf1a86a5098f4c9e2324d272948b",
-          "sha256": "5ac737153fe16a7bcc1cf450567f8215812afad285018498062c397faeff2d1c"
+          "git_blob": "24a310ebcccb47411dc3474cbd0d00555cafce53",
+          "sha256": "6995bf8b76ceb057fe5c7f3028b501e4624918fa7c9bf17bebe8a60f21f7289b"
         },
         {
           "path": "knowledge/archive-manifest.json",
@@ -144,8 +144,8 @@
         {
           "path": "knowledge/index.md",
           "mode": "100644",
-          "git_blob": "d60cf879770c78fcd55cc1a1187c10400d20a828",
-          "sha256": "61794b920f4a40ef39251148733b3f47f03ec9fb9db9fc681b6a200bec919221"
+          "git_blob": "cfdbcbe497960d2b9c3a7aabd62d71c872c203dd",
+          "sha256": "369a237e7718cbc683b87a34e752acf17765252411b1e5cdb507a0b9ae8c9af7"
         },
         {
           "path": "knowledge/source-register.json",
@@ -174,8 +174,8 @@
         {
           "path": "plugin.json",
           "mode": "100644",
-          "git_blob": "f8eed3923f1abfcf4fae86ad842dc35487c603d2",
-          "sha256": "8b6807c82aed8ca93b77086bda6c0d2e3a1ca44304dc98a170c65f88d2d60457"
+          "git_blob": "9934e3d3e72e21a56260cd49719f136cf6ba6754",
+          "sha256": "08d7729e4a8faef6dd173e07234961ba3377e1eab8afcf5e5199119e0b02e026"
         },
         {
           "path": "references/avatar-identity-granularity.md",
@@ -196,6 +196,12 @@
           "sha256": "782d2ea6b8714fdbcdc1053cdca5dc9e086ad3c79143b23ec74c7ff1c40d2610"
         },
         {
+          "path": "references/costume-component-design.md",
+          "mode": "100644",
+          "git_blob": "f04b07151359895e81da46514d9e2d05da6b57eb",
+          "sha256": "f31589e606b0c358814c0071965e31bbef6e8a7a9dce84c2a37f15a5de3f6f13"
+        },
+        {
           "path": "references/costume-design-stage.md",
           "mode": "100644",
           "git_blob": "93d428dbfd2ff8c1ce2844fa4afb2f57b1541986",
@@ -204,8 +210,14 @@
         {
           "path": "references/costume-designer.md",
           "mode": "100644",
-          "git_blob": "bcf4be24cc509a0780b184d79ab80079118a8d48",
-          "sha256": "6c718f5cf9b90d6cdfb56fc0b18a561bc81049233cf2432d8aaa51b83937b6f4"
+          "git_blob": "e5aba38f7263bd94fc2873723b9cddae926f8f7b",
+          "sha256": "0ec9e194e589c52fadd55904212e4526f26c68eeb3bd04eb2fe29732b3ca90b5"
+        },
+        {
+          "path": "references/costume-wearable-zones.md",
+          "mode": "100644",
+          "git_blob": "89afb3721cc9d71353e75a8e1570f46ad9511cf7",
+          "sha256": "b4b97574275c04584533b02b380ca82f13eeb630b3d65da272ba17de506ee8b4"
         },
         {
           "path": "references/design-detail-standard.md",
@@ -246,8 +258,8 @@
         {
           "path": "references/execution-sheet.md",
           "mode": "100644",
-          "git_blob": "6dfe9f070d44843f5e8c465290e28e3d3de3c897",
-          "sha256": "a47067bf236ecc4bdeffddb3ec5747cea1196d8f6cd0270bb50f69f2a7897370"
+          "git_blob": "53a040751308fbbe07d8d4684f50beeac05d1eb3",
+          "sha256": "085cc22acd9042d26ae8438936ddb50d0e4b1e524466164c5214b4f235844c93"
         },
         {
           "path": "references/expression.md",
@@ -273,13 +285,13 @@
           "git_blob": "8c8d110c9dd6bb63388abe3ebd137b905fcc6980",
           "sha256": "d77d604e43e582a0a0d0eea19a0f5e57b6613ba760a7fcea7b836e1087527d10",
           "upstream_sha256": "e6a81fe7dde6b6138739d2577309fe552b1df4d5574895e38331f9ef1cfc2fc8",
-          "public_overlay": "Public source-locator anonymization and corresponding generation lock."
+          "public_overlay": "Private source locator anonymization and corresponding blueprint/generation-lock adjustment."
         },
         {
           "path": "references/interfaces.md",
           "mode": "100644",
-          "git_blob": "555ff48abb5579ce81a67deb2865bd6017726607",
-          "sha256": "a83e848bde99dd962139ccecadcd4072fa8220889cae0c8dd222f7288f856f5d"
+          "git_blob": "e92228debe23acb02369e9afa10dad22773d3878",
+          "sha256": "86a92e8838ed1a89fe3849df98d90f2dfbf847ffc48183cb37a41c5eedf7c3b1"
         },
         {
           "path": "references/knowledge/character-body-design/body-proportion-3d.md",
@@ -292,6 +304,12 @@
           "mode": "100644",
           "git_blob": "8fed6228150b0451de0af7ba6adc9960ad9301cb",
           "sha256": "16176406e94b1e968c215e0bf32fc30826420cf0cbc581c25711c8719d40404b"
+        },
+        {
+          "path": "references/knowledge/character-body-design/wearable-lower-morphology-31.md",
+          "mode": "100644",
+          "git_blob": "6f6c1ef0b79c9d94a51d300b676e94c26fd05d39",
+          "sha256": "7118150768b4935e1360c39e2601b6eafb027165a7d0073fcbd24851f637a942"
         },
         {
           "path": "references/knowledge/character-cast-differentiation/anti-stereotype-texture.md",
@@ -316,6 +334,36 @@
           "mode": "100644",
           "git_blob": "1c9cdd22a89841429fe6e0dd2d1410505a826f20",
           "sha256": "02bfae07d291764448673b13ecc6630ceb9f4a6af713de58bc8fc800820a4592"
+        },
+        {
+          "path": "references/knowledge/character-costume-accessory-design/wearable-arm-24.md",
+          "mode": "100644",
+          "git_blob": "45298d6f53017a0510cb4352b36cab0327fe386d",
+          "sha256": "126b8966be8f4d2e2f76dc83125aca3491f7b1737d1325c87215882cda903e4b"
+        },
+        {
+          "path": "references/knowledge/character-costume-accessory-design/wearable-back-25.md",
+          "mode": "100644",
+          "git_blob": "1ff1fd3c2f11caba440b819d2d2bc49503ac25df",
+          "sha256": "2d94f797e5295e1899c743de3914fc081e2e45e76f93134672f8d476e4b1a7d6"
+        },
+        {
+          "path": "references/knowledge/character-costume-accessory-design/wearable-hand-wrist-22.md",
+          "mode": "100644",
+          "git_blob": "fedd77a8452046067d5621d591bb5ef0db2c22bb",
+          "sha256": "2b9bcea044cfb47a49fedbcbe9d7b6a5604dc5f6f52d2b8ff9aca7e9305e35d6"
+        },
+        {
+          "path": "references/knowledge/character-costume-accessory-design/wearable-leg-mount-28.md",
+          "mode": "100644",
+          "git_blob": "f5b38fa52635620afbd6a9bef0dca96a30214d05",
+          "sha256": "404fa394e81fda594e6712a5dd239db93a2b511f010cc531ac294df06205cbc4"
+        },
+        {
+          "path": "references/knowledge/character-costume-accessory-design/wearable-waist-23.md",
+          "mode": "100644",
+          "git_blob": "78132a66d3ad6a8363ae63aae9366b91609e3ced",
+          "sha256": "4daf6baf797ca5d46b044da5a8c942e2f53b3772fa3591ddd38a13fd1cfd5df3"
         },
         {
           "path": "references/knowledge/character-costume-color-design/costume-color.md",
@@ -360,6 +408,36 @@
           "sha256": "e2453a4efcdc0312751f4ee07428dc7ec128f3fe91df0dfe68083578f1b17014"
         },
         {
+          "path": "references/knowledge/character-costume-style-design/wearable-close-chest-26.md",
+          "mode": "100644",
+          "git_blob": "a5597f87229e55a5552b685ab8068899fa71d893",
+          "sha256": "282d7f5780f53a2d990822e4c06a50b01592da866a4897ed264711b218905bf6"
+        },
+        {
+          "path": "references/knowledge/character-costume-style-design/wearable-footwear-30.md",
+          "mode": "100644",
+          "git_blob": "f4b5ab9772ff8ebffa1ad57f1a41184a0325584f",
+          "sha256": "18c17397b478c14483c4d789ab489faba68d26ffb8cace5707823455db598ae6"
+        },
+        {
+          "path": "references/knowledge/character-costume-style-design/wearable-knee-sock-29.md",
+          "mode": "100644",
+          "git_blob": "e93fb5ec83611c714d2d2ea799d17a352f9afb43",
+          "sha256": "62f7a608c565d96ffdd42458aaf4f45990bb595b114d4d74b6252aed905e0da1"
+        },
+        {
+          "path": "references/knowledge/character-costume-style-design/wearable-lower-main-27.md",
+          "mode": "100644",
+          "git_blob": "7b13e4ffc7f4c9d25058e80bf7cbd60e4a339de4",
+          "sha256": "b609d2432dd4f2053bb085fa23dd385b986ffe49bbddda2059d05056febcfdab"
+        },
+        {
+          "path": "references/knowledge/character-costume-style-design/wearable-upper-21.md",
+          "mode": "100644",
+          "git_blob": "32bec165eddbd2e11394f0441214ef0deb0272e4",
+          "sha256": "ba050824b26d8f7d332f89f4e0ba529bab72d4a9b5f8be50c0f14fe21a3af51c"
+        },
+        {
           "path": "references/knowledge/character-design/anti-stereotype-texture.md",
           "mode": "100644",
           "git_blob": "9d37fb1b1a7d480e5a0269d7dd94197e3a6f1866",
@@ -382,6 +460,12 @@
           "mode": "100644",
           "git_blob": "80338a41e2f23ca923bd8d0ab1625cc3450d1079",
           "sha256": "3fc90db8d09b976f8519a27b9da7d169f4336978e6daf75ebd2b527b0fc4b937"
+        },
+        {
+          "path": "references/knowledge/character-face-decoration-design/wearable-face-paint-19.md",
+          "mode": "100644",
+          "git_blob": "2a15567d5b737405e1c3ecb351338edffd3ca355",
+          "sha256": "2d0a7a7e0357c3ec76440033c465c4ef005449dda8df344458135cc29f2a0fa4"
         },
         {
           "path": "references/knowledge/character-face-design/avatar-brows-08.md",
@@ -442,6 +526,24 @@
           "mode": "100644",
           "git_blob": "d2662dd36f4a669a988d9c39359b391b3f72892b",
           "sha256": "4df2bcebbd98ccb09fbbcbfcbe383461fc9f760e7bd7e9cda70f8b5ce31b967d"
+        },
+        {
+          "path": "references/knowledge/character-face-signature-design/wearable-face-jewelry-18.md",
+          "mode": "100644",
+          "git_blob": "86c4ebf00e62b147e8cf5d3843332bc3f3b92d39",
+          "sha256": "2baabc50cd7a3e5d19d99253cfe3fd39b33bdea4e4a2b8fbb162d15c875efe9e"
+        },
+        {
+          "path": "references/knowledge/character-face-signature-design/wearable-headwear-17.md",
+          "mode": "100644",
+          "git_blob": "24ecf5944a8b5f0139bf9d9c54e6e080cd3cf552",
+          "sha256": "fea245b90fcec22c43131173b7c232449ea9499694505ba3b1749f47f0f7738f"
+        },
+        {
+          "path": "references/knowledge/character-face-signature-design/wearable-neck-20.md",
+          "mode": "100644",
+          "git_blob": "b403c11609712d992676d053db13889000f57f46",
+          "sha256": "d18c295489e9f55b5e3b454a21f850fcdee5703f90f7a4d56fc22280d7c1ee93"
         },
         {
           "path": "references/knowledge/character-feature-focus/feature-focus.md",
@@ -548,14 +650,14 @@
         {
           "path": "references/phased-design.md",
           "mode": "100644",
-          "git_blob": "28e228096e81236d1c4c89a5960c1e417cda2097",
-          "sha256": "43f5521ba71e396d033eed0ee8135a344ff8f4757ef27abb973a2498b00e1fb4"
+          "git_blob": "85a1a75f42c4213ac6a3342230edf17cc1b9e094",
+          "sha256": "6df7c29710af68a0e9689b5315560778b90edd9865bf658ee551f28ac4efd772"
         },
         {
           "path": "references/prompting.md",
           "mode": "100644",
-          "git_blob": "7271c18d542eafe16cd3c4ea07b6fd987e4ecae5",
-          "sha256": "3653389c1992277e736af42c508e5b63baaa1c1190891b2dbf35733392daffea"
+          "git_blob": "da0627d1e8d0ba1550bb19d441f634cdc13c1259",
+          "sha256": "0194b26fe5cb6da564addd748e2573cc90fe645d17ef12446af77b586f0b2a74"
         },
         {
           "path": "references/render-texture-standard.md",
@@ -566,14 +668,20 @@
         {
           "path": "references/review.md",
           "mode": "100644",
-          "git_blob": "68fd4036d3f071d7934e9e05371cc3d443dea5f0",
-          "sha256": "9888645506f0111f005239fa4d6a25c4a5ecb10b9385d86afae230cf397366c4"
+          "git_blob": "5ad78111ef554eb189852ca9710b5051f12eedfb",
+          "sha256": "91c4d61adbcb15300408031b5dbf23d2b1fab0618f4bd99f79336a8cfb2c7bc1"
         },
         {
           "path": "references/routing-and-integration.md",
           "mode": "100644",
-          "git_blob": "84c08f3c6999bab2df4931a7a4fd85599f97ddaf",
-          "sha256": "411e75766f5df0483d3d989bd9e8b2ef94db39e31eda0aa51c738b73de372900"
+          "git_blob": "a342d0cad2c1e8ea0846d9d5430b40050255865e",
+          "sha256": "5e096fd876d6cbd47403783bde3f60a15e181da4c8f4276d287e227f46fcbc5a"
+        },
+        {
+          "path": "references/scene-styling-needs.md",
+          "mode": "100644",
+          "git_blob": "efe5b05631700415037c6e8df1d13ddd13d17f59",
+          "sha256": "5c8d8fe1721eeb82cc94a5306c7bdf63756cb61291feae5e4456c2237d6bfe5a"
         },
         {
           "path": "references/source-notes.md",
@@ -584,8 +692,8 @@
         {
           "path": "references/specialist-contract.md",
           "mode": "100644",
-          "git_blob": "cf44dbc3d3dd57226e9752545679b504f2a8eced",
-          "sha256": "e867c4b3cdac747ba907755b86d3b25bc8aaaff31a7902f2e5de39a9a087c8e3"
+          "git_blob": "7c1c1a1c9b2ecc633b8a88d392c16cf2801ebfdf",
+          "sha256": "fdfffd5e327dddde42ec4e5319fa33062fb752b932821101e77c14f5afd797a2"
         },
         {
           "path": "references/workflow.md",
@@ -680,8 +788,8 @@
         {
           "path": "scripts/character_project.py",
           "mode": "100644",
-          "git_blob": "fd6ec34beaf02fa12cd4cbbcb56dcbd5a39951c9",
-          "sha256": "552f2ca67ecb73c20fdcf33df10250908837016ef75f9929f86271025aa6d261"
+          "git_blob": "719c144f66f486229ca150d415f2b1a38946ac65",
+          "sha256": "a89b4c9cf730cdea164a95708f0351cf3dab594cded9b2f335d856410525d620"
         },
         {
           "path": "scripts/ensemble_assets.py",
@@ -692,8 +800,8 @@
         {
           "path": "scripts/phased_design.py",
           "mode": "100644",
-          "git_blob": "2c2405b628c879e06f619db906614481815b7b76",
-          "sha256": "6a59c5edce773b978c276d0192b48b67eb3b7e28f81408e7f785ff3327ea9c08"
+          "git_blob": "3aee433f5e5c937ae45bc8a062550a6fd91cfdc6",
+          "sha256": "2171b5de66f87f834b501324c3b031b96e47215be78076a87e1e8e321bb61531"
         },
         {
           "path": "scripts/validate_specialist_proposal.py",
@@ -704,8 +812,8 @@
         {
           "path": "skills/character-assets/SKILL.md",
           "mode": "100644",
-          "git_blob": "5fdf349a1c205772633200b7e78e888cbb293798",
-          "sha256": "81fe72ed36e83b0a95f6c20ddfe7ee41d275c17546d0b15776e9a0e1f1e31751"
+          "git_blob": "3a24f4f1f3531957b0ebf9a5546ee5a18964d6ab",
+          "sha256": "7c3bf7f3fb88fc594aa6b3c7ca88cca80978eefd77db36b4f50b4e3b798ad0a5"
         },
         {
           "path": "skills/character-assets/agents/openai.yaml",
@@ -716,8 +824,8 @@
         {
           "path": "skills/character-body-design/SKILL.md",
           "mode": "100644",
-          "git_blob": "e404b57cbb92701985596e6819c63740d6d16f56",
-          "sha256": "428d359e900e166f5f152ef4c1cee0a5e722eba9de4e5dd9e90c9516b9e73c84"
+          "git_blob": "0435493bc4e9f984ecb502e51718e5e6932b2a09",
+          "sha256": "9a3dddad5e44f2daa7c0de962b0426476acc2c0286f926393ad1dd15cccec850"
         },
         {
           "path": "skills/character-body-design/agents/openai.yaml",
@@ -740,14 +848,14 @@
         {
           "path": "skills/character-costume-accessory-design/SKILL.md",
           "mode": "100644",
-          "git_blob": "b660c569b80bb3bddd187e44da5d02327a0a20a2",
-          "sha256": "770c6af0c7639fa1e4643c4c8651ae07284057f0195edc997e17517a31d58525"
+          "git_blob": "3bc466f7606c9da4c1d8af829891575bfd293cb6",
+          "sha256": "63ab3cfddedc1c31647f47a9fc5a48f3cb8c278ca37f2bc2f20989d032748e8b"
         },
         {
           "path": "skills/character-costume-accessory-design/agents/openai.yaml",
           "mode": "100644",
-          "git_blob": "2ab329a888ab1a24da302aba997d2e5858468b37",
-          "sha256": "02603df0516f1262a0304ffda9c035cd1fe695b97e527931fd3d4a5efec1556b"
+          "git_blob": "9fdb6e3919c261b85df841f59784baadc962fbe9",
+          "sha256": "e089eb8f9c97d91bad757c67c1b3a3ed161d684512eb76ec9601e104d7fb673a"
         },
         {
           "path": "skills/character-costume-color-design/SKILL.md",
@@ -764,20 +872,20 @@
         {
           "path": "skills/character-costume-cut-design/SKILL.md",
           "mode": "100644",
-          "git_blob": "646d0f7011b0d0d435d4a8d30f9e837f243f3e36",
-          "sha256": "8decb9cd54283af50a06fc6d8bceaff230afd05a88c4e4baaff61513298a25c6"
+          "git_blob": "9fe7d8ca1bd2df34f78d064f4806e8ac85a8c947",
+          "sha256": "c6834f81b1c470ddebd6353602aa1d4f2a8ef2187bc92e1e885d5d0f8949f5f8"
         },
         {
           "path": "skills/character-costume-cut-design/agents/openai.yaml",
           "mode": "100644",
-          "git_blob": "5c82b6addd0346ab9e8edfad6029e8602dd89d1f",
-          "sha256": "7ce26de73d67b926bb0a1b5c5652fe2a43254d4f2ad5cd66d7158e7e958a06f2"
+          "git_blob": "2e8d80517a8c1dd437a55e22a7f5cd8eb331e4c1",
+          "sha256": "bb3c66c5bcb88f45775f6a879af69aada0ada1c69ca5c68a687ab092cb95cc32"
         },
         {
           "path": "skills/character-costume-designer/SKILL.md",
           "mode": "100644",
-          "git_blob": "15f150217e7c4c03b3b47c3465b5a6c55ba43ba9",
-          "sha256": "91e2fcbb6e8b84389fcaa460c38e628990b0a5e6efaf3e3e9a22cc9923131ea7"
+          "git_blob": "4b99cb9e5c1f1844d6d8e1fb5e785fd688e8f7c0",
+          "sha256": "41eecb0c01c6b28873c12674ee133e6469290544f661d33ee6059774f5f45245"
         },
         {
           "path": "skills/character-costume-designer/agents/openai.yaml",
@@ -788,8 +896,8 @@
         {
           "path": "skills/character-costume-material-design/SKILL.md",
           "mode": "100644",
-          "git_blob": "58e383149f547fd4149069ea75bc87d8386ae9a5",
-          "sha256": "a15619f23b83a8f5cd222fef91eca783e07a6521950b15f77a0783e161231b7e"
+          "git_blob": "953258c810a59a706a7b78fa45a96d12bb2d6358",
+          "sha256": "6a0724cd2dc1a3e10a9acbd5285884483b8249705d31000afc20d2246d31c88e"
         },
         {
           "path": "skills/character-costume-material-design/agents/openai.yaml",
@@ -800,20 +908,20 @@
         {
           "path": "skills/character-costume-style-design/SKILL.md",
           "mode": "100644",
-          "git_blob": "fb3a6d7dc5578687bcedf32999226cf8f510962c",
-          "sha256": "f1ba42b8d59535d517242843f626a452f42fbb59a61c3d79c9d3480522b6133b"
+          "git_blob": "a22958ea89625db711219555273346d02c8d9741",
+          "sha256": "428e8f723b10410dc7ff4654d45e6fdce67b9d965bcabf1ecd46ee3ecc8e8d31"
         },
         {
           "path": "skills/character-costume-style-design/agents/openai.yaml",
           "mode": "100644",
-          "git_blob": "2dc1e922b54087f026b6b1821ca6ef4ff1d26ae7",
-          "sha256": "6b0ac9e444538e8afa801b35e85f052df1a54c8302b2a852f948e8616b489fde"
+          "git_blob": "b7fac5d5dbae480f88b48d9c023fa1de7b748eac",
+          "sha256": "f7be514f2a06b120a6af1b25e39b4709fe10045434ec703270c701e8bb024ede"
         },
         {
           "path": "skills/character-design/SKILL.md",
           "mode": "100644",
-          "git_blob": "36f3c57cd356bbb853558b08e17bc056d0302670",
-          "sha256": "5408082a476fe132d97d4949d268a622aeed7630cd465464f9cc3d70aca74500"
+          "git_blob": "b03fd8a793688f1cebf6ebef77b8bdb9dbe02dbd",
+          "sha256": "08e002d1615c1595b500ce6d07d6a34940477e2aaa4f9841aba845df346101fd"
         },
         {
           "path": "skills/character-design/agents/openai.yaml",
@@ -848,8 +956,8 @@
         {
           "path": "skills/character-face-decoration-design/SKILL.md",
           "mode": "100644",
-          "git_blob": "47107da6527707524047fd7116727407634ec425",
-          "sha256": "c8eff1946e5d9b7e45670c676bc4a856a7097f9abbaf88d6062930d19525b01e"
+          "git_blob": "0e6f7a5c07ab2cda444f961886027ba3994606d0",
+          "sha256": "cbc784de1b1f33b812d3d71ce29f9cbe61caef2ef97882a25dc6ab1a8ac95f31"
         },
         {
           "path": "skills/character-face-decoration-design/agents/openai.yaml",
@@ -872,8 +980,8 @@
         {
           "path": "skills/character-face-signature-design/SKILL.md",
           "mode": "100644",
-          "git_blob": "aab907cb0d394d197ff617accec7b06e416c9153",
-          "sha256": "3c700bab85c2688ac975728024028998490faafc6c9601b1e0108dc9fdac54b6"
+          "git_blob": "ce0bc0630a631a71805f25ad765c206c29ac3a61",
+          "sha256": "74c498f89c9a18adbc75a2bc8e1943e1108ab62f4efc8d9839e04a65dd914aa6"
         },
         {
           "path": "skills/character-face-signature-design/agents/openai.yaml",
@@ -896,8 +1004,8 @@
         {
           "path": "skills/character-hair-design/SKILL.md",
           "mode": "100644",
-          "git_blob": "32bc1eafa985fefb08fdcf491f01583a5525c548",
-          "sha256": "ffec61774ff3eadf5b41b463483aad7a80d7cc4184f4dcafb266419b93db7d05"
+          "git_blob": "066bd01de830980811605e5e6715e6b14c0bd6a8",
+          "sha256": "c8ab847671b92c88c2deccdf76537f9443201469b6c28fa1fae789af46e86338"
         },
         {
           "path": "skills/character-hair-design/agents/openai.yaml",
@@ -920,8 +1028,8 @@
         {
           "path": "skills/character-image-prompt/SKILL.md",
           "mode": "100644",
-          "git_blob": "1700d68704274bd02dee81bb23d52016823b6db7",
-          "sha256": "6de52951611dad56657740be54d8628a1590e859ae794839fde96b143bd49555"
+          "git_blob": "c969300d7db56586657babc8c2dbaba4266cd797",
+          "sha256": "7f5d3a0996220b9876cf4a447655629e6943d19ac1a13c4b8f866f44da5b275c"
         },
         {
           "path": "skills/character-image-prompt/agents/openai.yaml",
@@ -932,8 +1040,8 @@
         {
           "path": "skills/character-image-review/SKILL.md",
           "mode": "100644",
-          "git_blob": "55a624bf84935293b310a316c8bd8eac35f9af4a",
-          "sha256": "98a22cb121980f488d20968a4378c3f3a11ad46008dfb2fee99beb06852d5916"
+          "git_blob": "bb0cc78ba7ff2691c4f482606fb50e7c01eae15b",
+          "sha256": "d8d11bfa4ea6ce30777f0a87df935300c777628c8a8b72ffd49712fee7ee5457"
         },
         {
           "path": "skills/character-image-review/agents/openai.yaml",
@@ -977,7 +1085,7 @@
       "version": "0.9.5",
       "root": "bundled-plugins/scene-assets",
       "source_repository": "https://github.com/kaibaoxiang-studio/ZiChan",
-      "source_commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
+      "source_commit": "e089d1287c1499f08c42e75aca093131e9d3fbc0",
       "files": [
         {
           "path": ".codex-plugin/plugin.json",
@@ -3139,7 +3247,7 @@
       "version": "0.2.5",
       "root": "bundled-plugins/prop-assets",
       "source_repository": "https://github.com/kaibaoxiang-studio/ZiChan",
-      "source_commit": "c271ae2bfa6665eb4ccdde4565d9cb6a0f2b5fb2",
+      "source_commit": "e089d1287c1499f08c42e75aca093131e9d3fbc0",
       "files": [
         {
           "path": ".codex-plugin/plugin.json",
@@ -3308,7 +3416,7 @@
   },
   "distribution": {
     "kind": "public-test-export",
-    "snapshot_tag": "public-test-2026-10-27-r3",
+    "snapshot_tag": "public-test-2026-10-27-r4",
     "mother_shell_source": "kaibaoxiang-studio/asset-design-plugin",
     "mother_shell_commit": "2c4a66669ced1d2ee2cc8cd1c1636c09e67599bf",
     "capability_authority": "kaibaoxiang-studio/ZiChan",

@@ -1,11 +1,13 @@
 {
   "schema_version": "BundledPluginsLockV1",
   "source_repository": "https://github.com/kaibaoxiang-studio/ZiChan",
-  "source_commit": "8b91d1470d7a90af23a08734b6e7a1e089a57cae",
+  "source_commit": "b9bb60204d5aaa3b11d998b096dbb7c746b1038f",
   "plugins": {
     "character-assets": {
       "version": "0.2.6.2",
       "root": "bundled-plugins/character-assets",
+      "source_repository": "https://github.com/kaibaoxiang-studio/ZiChan",
+      "source_commit": "b9bb60204d5aaa3b11d998b096dbb7c746b1038f",
       "files": [
         {
           "path": ".agents/plugins/marketplace.json",
@@ -67,7 +69,7 @@
           "git_blob": "952782b50dd4bd17cd50d525b7666a977c2802da",
           "sha256": "a9f07741a300ddc03952a256b38be744d911aca403f76f4ae31285bd17957160",
           "upstream_sha256": "eb8565b31ce93f6285f4afb0f018d6b46eefa1e8fe05938168bb8186d9dd637e",
-          "public_export_reason": "Replace unavailable development-machine image locations with portable reference-purpose labels; preserve all design rules."
+          "public_overlay": "Source-locator anonymization; original design guidance preserved."
         },
         {
           "path": "examples/sample-assets.json",
@@ -111,7 +113,7 @@
           "git_blob": "80a9890979794013ffd873640e03c4f20db2ed6c",
           "sha256": "e91ae8eb6cbb709e36411cb0f25d23cb09dc390deb9e14d3b6b9cdb8cb5c6bcc",
           "upstream_sha256": "42f95d0aff529611a3cfea60491c36991aa83f3cbfeb0f1367d02697cde055b1",
-          "public_export_reason": "Recalculate child generated-file hashes for documented public documentation overlays."
+          "public_overlay": "Source-locator anonymization; original design guidance preserved."
         },
         {
           "path": "harness-blueprint.json",
@@ -119,7 +121,7 @@
           "git_blob": "7f51bbae09bcb86828d21f79915a658ed02963ca",
           "sha256": "0110291f0f38a6bd1c881277ff6785af1418c89c2abb676db6b3cc09c23088dc",
           "upstream_sha256": "2af89a99dd592bfa09c4ba26d304c30589535e76246314d283445b4aec028fbf",
-          "public_export_reason": "Synchronize embedded source-reference documentation so regeneration retains the public documentation overlay."
+          "public_overlay": "Source-locator anonymization; original design guidance preserved."
         },
         {
           "path": "harness.py",
@@ -265,7 +267,7 @@
           "git_blob": "8c8d110c9dd6bb63388abe3ebd137b905fcc6980",
           "sha256": "d77d604e43e582a0a0d0eea19a0f5e57b6613ba760a7fcea7b836e1087527d10",
           "upstream_sha256": "e6a81fe7dde6b6138739d2577309fe552b1df4d5574895e38331f9ef1cfc2fc8",
-          "public_export_reason": "Remove source document absolute path; retain basename, source digest and method-only adoption scope."
+          "public_overlay": "Source-locator anonymization; original design guidance preserved."
         },
         {
           "path": "references/interfaces.md",
@@ -900,32 +902,34 @@
       ]
     },
     "scene-assets": {
-      "version": "1.0.0",
+      "version": "0.9.5",
       "root": "bundled-plugins/scene-assets",
+      "source_repository": "https://github.com/kaibaoxiang-studio/ZiChan",
+      "source_commit": "b9bb60204d5aaa3b11d998b096dbb7c746b1038f",
       "files": [
         {
           "path": ".codex-plugin/plugin.json",
           "mode": "100644",
-          "git_blob": "ac0b666d930356e6a81f2075957e64119822b939",
-          "sha256": "83b7e64755bc6ec504d064ce4866cd4a113d225c283960f79fd90ee5aad0d5e6"
+          "git_blob": "91ca4718a63ddde50c38df78717be66c19a9666d",
+          "sha256": "84647d451d5d4180a1f436326de1e9e8f7cde78cc9c4a5016c093192e7b92df0"
         },
         {
           "path": "README.md",
           "mode": "100644",
-          "git_blob": "ef3a84258843ba8f57fc9abcbde9b47d526dd856",
-          "sha256": "2ef80920ad1376eb92358425009f0de761e18e3aa0870e029d987854174bffa0"
+          "git_blob": "8e2ccb6308c746ec3a2e8e38e597d8fdc024d110",
+          "sha256": "a7c2abbfebb26825388afdace9a55b58ee044147e073b946855d1bcc162712c4"
         },
         {
           "path": "plugin.json",
           "mode": "100644",
-          "git_blob": "2b04d975c999ea0261b812d9978103ac7e85b188",
-          "sha256": "2a5051a61272ffc6b669086f1524011ad8e8335eb89da7388c8a2259f036b2f4"
+          "git_blob": "331e634db43ba1bcf05367f7c3ca90825d310023",
+          "sha256": "bcd0761c59eb4d3d43df60aa8c3610015c7b90147e53e24ef5aaf60fe268cf9b"
         },
         {
           "path": "skills/sence-prompts/SKILL.md",
           "mode": "100644",
-          "git_blob": "50e99a5639fdca415431e247cd1da03e88284f1e",
-          "sha256": "f3b347125a03054776709435bbf1a506bef6d9cbe1f2d70d8ab9f9eab8aacd67"
+          "git_blob": "dccc65cd92ded75597e8fb48a9a952636ca25484",
+          "sha256": "5a9945f60dfeaf0bed2f7bb77649c7f8921ddd960834db92f8d18a546ce98b66"
         },
         {
           "path": "skills/sence-prompts/agents/openai.yaml",
@@ -2109,7 +2113,7 @@
           "git_blob": "1e8a77b8884a661e30ba8e49a5ad3cddb6d1a8fa",
           "sha256": "4ac59c752582e2948e56a4b45a3300f60b7756e111e8f5751cdda8310dce7e86",
           "upstream_sha256": "574568f1f42fa3b7f572159d24953824e750b0c0ba4c0a29c0c17a166dddadb6",
-          "public_export_reason": "Anonymize production-case label, source locators and historical session IDs while retaining method, reference relationships and original evidence hashes."
+          "public_overlay": "Source-locator anonymization; original design guidance preserved."
         },
         {
           "path": "skills/sence-prompts/knowledge/design-library/knowledge/design/entries/DES-001.md",
@@ -2153,7 +2157,7 @@
           "git_blob": "245edb1cc941dff72228b1c18eeb0053c033a806",
           "sha256": "39288f4f9c268174f984cde211091d7da490dcb7c65e15071551521d1de40afc",
           "upstream_sha256": "099bea1d6e8f2a0927c50e6e32e11adcd57e3715bbf5af9ce6b928f99cc23616",
-          "public_export_reason": "Anonymize production-case label, source locators and historical session IDs while retaining method, reference relationships and original evidence hashes."
+          "public_overlay": "Source-locator anonymization; original design guidance preserved."
         },
         {
           "path": "skills/sence-prompts/knowledge/design-library/knowledge/design/entries/DES-008.md",
@@ -2161,7 +2165,7 @@
           "git_blob": "820b1210a28d069eb4650ee1d6f0ac521ea87507",
           "sha256": "2ee1b4df8950ba99a5f3b087f892b592677f36011c58d2460a2c34aa5ba597f3",
           "upstream_sha256": "dcfe7e8f37659543b9c3e2b137c9e3a50af691638842781cc3e8970e7da6c72f",
-          "public_export_reason": "Anonymize production-case label, source locators and historical session IDs while retaining method, reference relationships and original evidence hashes."
+          "public_overlay": "Source-locator anonymization; original design guidance preserved."
         },
         {
           "path": "skills/sence-prompts/knowledge/design-library/knowledge/design/entries/DES-009.md",
@@ -2169,7 +2173,7 @@
           "git_blob": "b57bc191118d7fb125fa9f949447ede61169a1d8",
           "sha256": "415a2accf447a296f799a8d3acb363602377f08ca4c1d0e1f3901054bfc985b6",
           "upstream_sha256": "65420f5646d5d992102a6e6afa43c6749e27bb9072aa83662da8ef6180faeb81",
-          "public_export_reason": "Anonymize production-case label, source locators and historical session IDs while retaining method, reference relationships and original evidence hashes."
+          "public_overlay": "Source-locator anonymization; original design guidance preserved."
         },
         {
           "path": "skills/sence-prompts/knowledge/design-library/knowledge/design/entries/DES-010.md",
@@ -2177,7 +2181,7 @@
           "git_blob": "bdcfe5b1b65893896d5a494a90e12fa42c6e0134",
           "sha256": "196b5f6a0589bf252a30ad270eb92d7cab932a13396db6f5d624450dd1da578e",
           "upstream_sha256": "5794f724628116316f60be578544bd16be3cd2a32a791d54e22c0bed06dfe430",
-          "public_export_reason": "Anonymize production-case label, source locators and historical session IDs while retaining method, reference relationships and original evidence hashes."
+          "public_overlay": "Source-locator anonymization; original design guidance preserved."
         },
         {
           "path": "skills/sence-prompts/knowledge/design-library/knowledge/design/entries/DES-011.md",
@@ -2185,7 +2189,7 @@
           "git_blob": "af1f301122a0b8fc633ac5025c0771314acc6ce6",
           "sha256": "ce1bf9d1f68f462d03f5d08efd1391a374db6a90b37eb9031b6c1d173eb21bc4",
           "upstream_sha256": "2b3ad862cb8a0914e41e8158e03a64ca9b01cb3b6dae7a601ad025b7f5c01eae",
-          "public_export_reason": "Anonymize production-case label, source locators and historical session IDs while retaining method, reference relationships and original evidence hashes."
+          "public_overlay": "Source-locator anonymization; original design guidance preserved."
         },
         {
           "path": "skills/sence-prompts/knowledge/design-library/knowledge/design/index.json",
@@ -2193,7 +2197,7 @@
           "git_blob": "55d8fa11d9a3cadd04820fa35918bd9148afd59d",
           "sha256": "5605468f52d7d551406cc263fd6b0e76ef7abbe4d7c47798453d356dd9c199b1",
           "upstream_sha256": "361e048f8ac0e8e21894ce1089ac5b86190e20b6bc7a48886a98acab63698508",
-          "public_export_reason": "Anonymize production-case label, source locators and historical session IDs while retaining method, reference relationships and original evidence hashes."
+          "public_overlay": "Source-locator anonymization; original design guidance preserved."
         },
         {
           "path": "skills/sence-prompts/knowledge/design-library/knowledge/design/problems/color-light.md",
@@ -2242,10 +2246,10 @@
           "mode": "100644",
           "git_blob": "3d9883b98a2ecba98dbc3fde3b9c3fa0e124afc9",
           "sha256": "c1171f78fe121c65da866b77078b06058ee95ef7b283d0bc6e79a9f832359bdc",
-          "upstream_sha256": "a72e656bfb40240b2141e896355065e92356453185b48a0b8fb446e11af7ae3a",
           "upstream_path_redacted": true,
-          "upstream_path_sha256": "8e3e6548c437a90f7d0e45e15e1e2e4a917ca212c2b717108352965d5c6507f9",
-          "public_export_reason": "Anonymize real production metadata and paraphrase four private feedback quotes; preserve honest source dates, ordinals, roles, source hashes and verification limits."
+          "upstream_path_sha256": "5dd810915bf031dd20cc4a11ad0ccd22cffa4d8177d3c74003a21793bfb5532a",
+          "upstream_sha256": "a72e656bfb40240b2141e896355065e92356453185b48a0b8fb446e11af7ae3a",
+          "public_overlay": "Source-locator anonymization; original design guidance preserved."
         },
         {
           "path": "skills/sence-prompts/knowledge/design-library/knowledge/design/sources.json",
@@ -2253,7 +2257,7 @@
           "git_blob": "365210712475077aee1296b7093fc80d4da24bda",
           "sha256": "15d4cc2b5a997f192e0260cc09589b2814d14f1ab0a5f3957db93dd121dbfd6b",
           "upstream_sha256": "8db31a2d0bfe9fea79201dec146db41ec0e72cc4d32d57f40c40a7ffe4ab4790",
-          "public_export_reason": "Clarify anonymous public case provenance and distribution boundary without adding license to original private material."
+          "public_overlay": "Source-locator anonymization; original design guidance preserved."
         },
         {
           "path": "skills/sence-prompts/knowledge/design-library/knowledge/design/templates/validation-record.md",
@@ -2291,7 +2295,7 @@
           "git_blob": "bb014ffdcdd20b7d7c2a8417cd7df93594d60af7",
           "sha256": "028b904612b8843ff454a32bd0155fefd7305bf72cdcf5b588d0bd6b251322fa",
           "upstream_sha256": "7c0f001c8006038a3cc0bca44c8129c67e36bb3f79a0cdf2bd9945af8766f0bc",
-          "public_export_reason": "Anonymize production-case label, source locators and historical session IDs while retaining method, reference relationships and original evidence hashes."
+          "public_overlay": "Source-locator anonymization; original design guidance preserved."
         },
         {
           "path": "skills/sence-prompts/knowledge/lighting/living-room-atmospheres.md",
@@ -2302,14 +2306,14 @@
         {
           "path": "skills/sence-prompts/references/architecture-language.md",
           "mode": "100644",
-          "git_blob": "9459e6397cf2ab4d258b2558dc28bbab59ae9a3d",
-          "sha256": "265d668aed8c8d60036895fb9ea718a6ad451ebdbbe1ea0a21317eeb7fa1d8bc"
+          "git_blob": "f7a6fdf0e41fe63b32e5a831fbd7ead50346ccbc",
+          "sha256": "f49933c55a4f4aa87909b4c3c5982b6661139ddefe369a3f3f823b8a3f7ad3cd"
         },
         {
           "path": "skills/sence-prompts/references/art-direction.md",
           "mode": "100644",
-          "git_blob": "bd68c89e567c6b63a67f80a4c6b4ed5cbc9eebff",
-          "sha256": "c1a7b54df9dcaac87dca8e178adb7e419d08a9905bbe1e17126b32a456bb27d7"
+          "git_blob": "642e50898add70fe754de833e6fee8241f8bb7b7",
+          "sha256": "fc1cd426dbcb61b82748cc18ffb5f6ae8d6d47f047b920c5fc463f30afb78eaf"
         },
         {
           "path": "skills/sence-prompts/references/asset-input.md",
@@ -2320,20 +2324,20 @@
         {
           "path": "skills/sence-prompts/references/atmosphere-palette.md",
           "mode": "100644",
-          "git_blob": "9ab1f5a95b5e51994815150bb10225b1a0b54daf",
-          "sha256": "451d2804c547b23a50891f367746f0c3d71d19c69a197d0b64d3472119092c45"
+          "git_blob": "40b39485b6c379d68234838d937d6e91970e75c9",
+          "sha256": "5e02d2a090a65c99570089810b77c1e2c115ff251b57274a9f9d5d4c5f015f5d"
         },
         {
           "path": "skills/sence-prompts/references/atmosphere-relighting.md",
           "mode": "100644",
-          "git_blob": "d6200156018c909252b1e08d70ae6641a03d0623",
-          "sha256": "1a6f12bb0c64050bc90f9d96b45a610d47e878b07a3af3b0534bc4b2352ae755"
+          "git_blob": "ba42379bdc3ec800c44d92b5e6a1e671da6cba6a",
+          "sha256": "e1c969d00f40a5fc20872c63ba56dea56a897c58fa53aa346ec1101843f9670a"
         },
         {
           "path": "skills/sence-prompts/references/color-light-atmosphere.md",
           "mode": "100644",
-          "git_blob": "55525618195ebe88f1ee82d890b71adcc0189b24",
-          "sha256": "a1598938091d1b857220bbf0bea0d3d05a55de9c2935732da9fbb626d1813bc4"
+          "git_blob": "4122fe0c117fd16fb48861d4d25498d2cd228b7e",
+          "sha256": "b90fe44bfecae39d9d6c2cee8b74849a24ede9407c74b4155f5737650455befb"
         },
         {
           "path": "skills/sence-prompts/references/composition-and-identity.md",
@@ -2350,8 +2354,8 @@
         {
           "path": "skills/sence-prompts/references/daily-life-system.md",
           "mode": "100644",
-          "git_blob": "9e745075274199c392f53ef048623f25e145d8a5",
-          "sha256": "fb210d1d34000d5a0dc8f17b24e11d571a9ea8d413eed1595507d542431365b4"
+          "git_blob": "079670474857c40e6d0ed044d9fd979e15d2e37f",
+          "sha256": "ff521994020f0c4b15fcd77b0347dacc406f8530a001b3837f158aedc76de929"
         },
         {
           "path": "skills/sence-prompts/references/design-brief.md",
@@ -2371,13 +2375,19 @@
           "git_blob": "29f0621b02619eee7f65d0a6d852e3c22735832a",
           "sha256": "eb488d794bd11866d6c836ebf006a934be070246197261dbc08f25b96ed8bedf",
           "upstream_sha256": "1f15f867344b6f34eed9ce8d91cbb72d93e8977996066d322bd7d1055a643ff8",
-          "public_export_reason": "Anonymize production-case label, source locators and historical session IDs while retaining method, reference relationships and original evidence hashes."
+          "public_overlay": "Source-locator anonymization; original design guidance preserved."
+        },
+        {
+          "path": "skills/sence-prompts/references/maintenance-entry.md",
+          "mode": "100644",
+          "git_blob": "ca654451927d1cda7b324c18d158ff038cf6fe6c",
+          "sha256": "55d28f2321ed5187f8c97da7c2b832507ca90889589861e26ab425bf82c6cb42"
         },
         {
           "path": "skills/sence-prompts/references/material-and-craft.md",
           "mode": "100644",
-          "git_blob": "882458bdecc991eb9207adaa79a5229893cd93f8",
-          "sha256": "68da2e41eff6de405f06cb9e0bb44aeeb7694d034318f8ab5d39770aa448019b"
+          "git_blob": "900f0bd51d95dca632d04bda56c306d5fc3e856a",
+          "sha256": "d0fb261a8819ee32e637f2aff19ee17fa696a556839e16b9743526ae87465e79"
         },
         {
           "path": "skills/sence-prompts/references/model-reference.md",
@@ -2394,8 +2404,8 @@
         {
           "path": "skills/sence-prompts/references/palette-selection.md",
           "mode": "100644",
-          "git_blob": "be57b7da76f4fa9f7c887f2bcb2a7cba3e60594e",
-          "sha256": "2ee28daba46972992b2f0b56f61b34dbcb188d62e7e70cc7b7e8a2afb9d006bc"
+          "git_blob": "8f1c880c0c99f87f48f205b04a6f0ff83a525dbc",
+          "sha256": "9eeb15d5d8622045fd676277506587d2c1f62a018f0859e8493b7e5c516b5e76"
         },
         {
           "path": "skills/sence-prompts/references/prompt-calibration-examples.md",
@@ -2406,14 +2416,14 @@
         {
           "path": "skills/sence-prompts/references/prompt-delivery.md",
           "mode": "100644",
-          "git_blob": "c8e8705128629070b159662a76a390207fdbfc08",
-          "sha256": "0ae3d2b82ab6ed605b0fa48a3e8daeb290954d3609e2cd6a876e48b5e35cde94"
+          "git_blob": "f3260f549b19c1fcfd90ba15ad9c91f625575e0f",
+          "sha256": "efd72bdd8e1ec1490ade385b900a076d90440a2960ca9560295b1ea6875ea6d7"
         },
         {
           "path": "skills/sence-prompts/references/scene-editing.md",
           "mode": "100644",
-          "git_blob": "a2a759ced57171c7f5493bf2588f8c12d90a79d8",
-          "sha256": "00f243a5cf71eed838e15b2bf692703e65a55168f87fcd8ae1646fb77416b888"
+          "git_blob": "defbf6ee7bb742504e9bb373a207e49c7a998739",
+          "sha256": "b403fc0e95789979fd970c3c64642ca91035fcb325f26cb6ab6eb574a42f4c22"
         },
         {
           "path": "skills/sence-prompts/references/scene-generation.md",
@@ -2424,8 +2434,8 @@
         {
           "path": "skills/sence-prompts/references/scene-multi-angle.md",
           "mode": "100644",
-          "git_blob": "3b001ead1fa4f1d72fa35dc756e1c3884f915ff4",
-          "sha256": "6494d8c8646106a87a49f411644d76f2b50eec2e6244af565615b98eb12db5ae"
+          "git_blob": "5d346a6fd91e4197c089f765199d210f63711a3a",
+          "sha256": "11050690952112d6af4fa58563ff5f59594ec7160fe0b100f8757cda0671ff80"
         },
         {
           "path": "skills/sence-prompts/references/spectacle-design.md",
@@ -2436,32 +2446,32 @@
         {
           "path": "skills/sence-prompts/references/staging-layout.md",
           "mode": "100644",
-          "git_blob": "22f9c5831ce89ec75def368fb5eef7821700fc23",
-          "sha256": "9107183571e936e15cb636421453b9d43fb892749ea00bbe80cdd4a2ccd382aa"
+          "git_blob": "0a76845c5125092c7b687c658065780ede7c358d",
+          "sha256": "a198b3d83d51b09cbe112eb683943742aaa2e30141ab1d025e20637c82ff8cfb"
         },
         {
           "path": "skills/sence-prompts/references/terrain-and-exterior.md",
           "mode": "100644",
-          "git_blob": "3124cb4c5b04bbd803f2ad754c2445336f4f1937",
-          "sha256": "fdfd8c6adddb3e0654b5bf087ba6a8c5577b59ba827974d6ea47170b68003eec"
+          "git_blob": "80de036d60f41966e419556fb169e4cc97b3ec9b",
+          "sha256": "0ef508de80073fa143205ace3d26c99b5ced78d46b41514a946309c908ff7b86"
         },
         {
           "path": "skills/sence-prompts/references/verification.md",
           "mode": "100644",
-          "git_blob": "d880bb1ffa349577cfedea20b92f27f41fb1402b",
-          "sha256": "7b95697ea193d21eec368051e64b33c6e04f3441636fb901a2c90feec517afec"
+          "git_blob": "6ca719588df133961b82420373ec91bbffb79f2b",
+          "sha256": "86b4c8864772cd2be2487c44913b5a7d28b7a0c245b7822fdb8156757c1d31ed"
         },
         {
           "path": "skills/sence-prompts/references/worldbuilding-design.md",
           "mode": "100644",
-          "git_blob": "e792c9e3835d5ffb0eac9dd92535bbf96c295c5f",
-          "sha256": "999c11351ab6c92fdd6d6d9805beb8a50097a5d4dc02ace0ca7afcf1a4a51064"
+          "git_blob": "41a41ac87d112fc03ee753e16104bbdcc2158dd2",
+          "sha256": "943181975c65826e8a0621e97dce7a374f6563262134808a71b94fdbe56f7d88"
         },
         {
           "path": "skills/sence-prompts/references/worldbuilding-systems.md",
           "mode": "100644",
-          "git_blob": "9ff211fabff3e4e75dcf40c92710c2716a932c67",
-          "sha256": "443717903ca91882b7621e6cb4b67667dc93f63d41f192dbc777be617c34a2da"
+          "git_blob": "541def4657812954a27dcbe7c954b01ed983ea48",
+          "sha256": "b8ac31a78b620b96ceb9025e4a0ef5863688119881df8356bacb9d671a008646"
         },
         {
           "path": "skills/sence-prompts/scripts/check_skill_files.py",
@@ -2476,10 +2486,142 @@
           "sha256": "601d584b28e1b4883be793cb7f1aa068723991e4649bd3c0050c2998aa0427e2"
         },
         {
+          "path": "skills/sence-prompts/tests/adaptive-assertions.md",
+          "mode": "100644",
+          "git_blob": "ae868670a12ecce986d22f5dd19ea5af786941a3",
+          "sha256": "15f288350092ca9c352b0d7fe87af21cce577cd0d111a0047a8a4882fdef2f08"
+        },
+        {
+          "path": "skills/sence-prompts/tests/adaptive-diagnosis-input.md",
+          "mode": "100644",
+          "git_blob": "a00c3e927e5504666558e8045c0a388f3d1e45e6",
+          "sha256": "41f392472ca9143399ed33624e41193adbe305994e7e927c96b434da275fe5fc"
+        },
+        {
+          "path": "skills/sence-prompts/tests/adaptive-mixed-input.md",
+          "mode": "100644",
+          "git_blob": "b681e60d1ca71b0d7c0010c1fd6338aabeb7c4fb",
+          "sha256": "720a5ac97b91036acb238b4b845c17474577532f4c3579d36b30eebee897d6ff"
+        },
+        {
+          "path": "skills/sence-prompts/tests/adaptive-nature-input.md",
+          "mode": "100644",
+          "git_blob": "9e7d1f68ff299a42da5d80888afbc2ceacfc301c",
+          "sha256": "44fbecb602609ec44dd7cabec8b14297306a1b181aec0883db9f0207cca2e010"
+        },
+        {
+          "path": "skills/sence-prompts/tests/adaptive-revision-input.md",
+          "mode": "100644",
+          "git_blob": "b1fd9bc5fc2476ac8736f7ce04c66142e15bb283",
+          "sha256": "e37ae2695b30f741d13962d0ddd0ae4fb9b695c6e6f5c2b5ce03c03755203f4c"
+        },
+        {
+          "path": "skills/sence-prompts/tests/adaptive-vacant-input.md",
+          "mode": "100644",
+          "git_blob": "ed700d2e01f12734abd1cc0230745fdc72fbe856",
+          "sha256": "5d3136673edfcf10adfe3288bc79fcbfc30bb868a5d89fb2edf7083024c0f0da"
+        },
+        {
+          "path": "skills/sence-prompts/tests/adaptive-workshop-input.md",
+          "mode": "100644",
+          "git_blob": "23bd44cc00d723d6fb5bd2134dd413b39118d96c",
+          "sha256": "12a00b4272e7df48c42f30dc0f9ea44114ef9133ac030b402c4a8724193a5afb"
+        },
+        {
+          "path": "skills/sence-prompts/tests/angle-standalone-input.md",
+          "mode": "100644",
+          "git_blob": "5f4aeacd5ef63cb0e467b1fac070bef41718d6e2",
+          "sha256": "44662978ca69cc6edb1a610dadb6393fbaac59c62a8c46041246db68d68cdc17"
+        },
+        {
+          "path": "skills/sence-prompts/tests/angle-text-input.md",
+          "mode": "100644",
+          "git_blob": "37a516a058314469ee1ed95c77d3f43efdeec2e6",
+          "sha256": "5e36811f149fad5720dc161ca1f6c319739f513497cf6b1ffa52f6b0d34624e8"
+        },
+        {
+          "path": "skills/sence-prompts/tests/applicability-assertions.md",
+          "mode": "100644",
+          "git_blob": "0d36ceed033732b2a7ac07ed30634e86ab329413",
+          "sha256": "098fe7182e4294553ccef37a1825a369726b61ef80fddb2571ea83bb965a4e13"
+        },
+        {
+          "path": "skills/sence-prompts/tests/applicability-offscreen-input.md",
+          "mode": "100644",
+          "git_blob": "5b4fd6c91318352f804303ef3dae39488ff2e87d",
+          "sha256": "3942031f55dee1bca8c1888fdcbab2304bddbd2f8d37fd7a4359b669e7bdf387"
+        },
+        {
+          "path": "skills/sence-prompts/tests/applicability-service-sign-input.md",
+          "mode": "100644",
+          "git_blob": "1b491373c9076a06cd5f89533965978c3db40928",
+          "sha256": "ad3af467baab33916dad994b78be67fb44efed4ddcefd6e16d98c88d9634bd6d"
+        },
+        {
+          "path": "skills/sence-prompts/tests/applicability-unused-nature-input.md",
+          "mode": "100644",
+          "git_blob": "e8d9f72f2657ac77f8ffe7174db1b07fb73d56bd",
+          "sha256": "451aa0da71342ebd5e29b531c242981ffc115389a91688514d757e9d0a0d1fb2"
+        },
+        {
+          "path": "skills/sence-prompts/tests/atmosphere-broad-input.md",
+          "mode": "100644",
+          "git_blob": "ca07de0c5283677a5e7921fdef8c45a0336b3f85",
+          "sha256": "0c9a76a0f586f75b03058689283e514ac8ff44de86fd8a332db77b30184acbfb"
+        },
+        {
+          "path": "skills/sence-prompts/tests/atmosphere-daylight-input.md",
+          "mode": "100644",
+          "git_blob": "6cf55708e7a7b0373cd3017cd2bbf9f1f119b8e7",
+          "sha256": "8618e0c367422804b84fed033908656e16ea349a8875a76bc93ae02a8b999886"
+        },
+        {
+          "path": "skills/sence-prompts/tests/atmosphere-feedback-input.md",
+          "mode": "100644",
+          "git_blob": "21bf9f98fba5eb95ddef7ab01684072d56f27687",
+          "sha256": "0e5278582a78f7df0584de9002183aa3916089ed5250b52cc7a058bf98857316"
+        },
+        {
+          "path": "skills/sence-prompts/tests/atmosphere-gain-assertions.md",
+          "mode": "100644",
+          "git_blob": "9bfc008c334789add276a7f4faed4d0aa1d37c8f",
+          "sha256": "c365b7f95320d08eb259f7e05065813b60a425044cb26d3dc3b7136e2955a907"
+        },
+        {
+          "path": "skills/sence-prompts/tests/atmosphere-keep-palette-input.md",
+          "mode": "100644",
+          "git_blob": "3448f6eae24a494d912ff45a23c60408792072c1",
+          "sha256": "5f3eae8651d8407d1c99f455cf7119e94190c9645f3d43a61f65e23792904624"
+        },
+        {
+          "path": "skills/sence-prompts/tests/atmosphere-relabel-input.md",
+          "mode": "100644",
+          "git_blob": "9cb932a7c762dfd412cb10492070964798eaf929",
+          "sha256": "3c8ffb4f179ea5dc3b2d98b372aeeb64dc4f2692ce54e216ee1839dc651b7667"
+        },
+        {
+          "path": "skills/sence-prompts/tests/atmosphere-replace-palette-input.md",
+          "mode": "100644",
+          "git_blob": "75da69cdc97c56edbb8b9d172bcd8f95188f5e7e",
+          "sha256": "6d4e35c0c20524798c77ea325e0130893a3d6d5afc98261cefb515bc83d07e0b"
+        },
+        {
+          "path": "skills/sence-prompts/tests/atmosphere-satisfied-input.md",
+          "mode": "100644",
+          "git_blob": "9ca7898fcf6f7a299227af09d3a0ecb763e91ae2",
+          "sha256": "d795873b0ffc49e182c5c1642497e4d157c61d47702909c5392208b2ad4881be"
+        },
+        {
+          "path": "skills/sence-prompts/tests/atmosphere-sync-assertions.md",
+          "mode": "100644",
+          "git_blob": "cf3dfc754516a03aed128e724d8eeb9060b9aee6",
+          "sha256": "6c2f6297540c93a83a81db108564da26d9f43fa03088eb6bdf13b7a6a0006d3a"
+        },
+        {
           "path": "skills/sence-prompts/tests/cases.md",
           "mode": "100644",
-          "git_blob": "e5141a646840c71981f83d2818dacc00726815ac",
-          "sha256": "8df2e9321f6bdd0635029e8fa499121b36d22ac3e63ac5602a0698fe0c7b4581"
+          "git_blob": "afc0f80701602f0a4debd0f271baea704959a157",
+          "sha256": "b677b689f4934bae0fdbbb82e4ca9fc99ace9e8e84f73bc5ec8099ab1bf910c9"
         },
         {
           "path": "skills/sence-prompts/tests/chain-assertions.md",
@@ -2494,40 +2636,456 @@
           "sha256": "d8249f3508417b80bb9331cc67633257ad4c4f77ac4dc0963cb82f937534b86b"
         },
         {
+          "path": "skills/sence-prompts/tests/core-assertions.md",
+          "mode": "100644",
+          "git_blob": "7dbe0beaac9c6817c4449c24dbb589afaf199586",
+          "sha256": "7e78459fca24ed20d2704060faf0d8b0b3cad4e212bd2e7bf5ddb306672af795"
+        },
+        {
+          "path": "skills/sence-prompts/tests/dark-input.md",
+          "mode": "100644",
+          "git_blob": "50e8d0bd3e05fd30bd0ac26a22977f1b7833d128",
+          "sha256": "94ea37ef9a67465da1d5f76c184559cca6c3dc731c505668d25c95bb1b39cb98"
+        },
+        {
+          "path": "skills/sence-prompts/tests/delivery-boundary-assertions.md",
+          "mode": "100644",
+          "git_blob": "6fa25b6b1f48a811ab9c823c10e4699989ce1c7c",
+          "sha256": "78db6c06b3f95361e2cb73cb984eacf862499db5826da1d8f144f0681f17fd65"
+        },
+        {
+          "path": "skills/sence-prompts/tests/detail-audit-assertions.md",
+          "mode": "100644",
+          "git_blob": "e5f28c1b565c9744daa32553e960bf2bd359f859",
+          "sha256": "b00e3e5202e00f438cc17710d709828722529aa0607c0445b2d3c5221f76d944"
+        },
+        {
+          "path": "skills/sence-prompts/tests/detail-bedroom-input.md",
+          "mode": "100644",
+          "git_blob": "aba3430a619d81076b7b918007152b6b673ee353",
+          "sha256": "52380fea9386e0e2fa5eac18a1403d05cd74091e17b68f2992f1fb26ad4b9602"
+        },
+        {
+          "path": "skills/sence-prompts/tests/detail-corridor-input.md",
+          "mode": "100644",
+          "git_blob": "0d69f56f5141a9a52ed35347746d9da37e042394",
+          "sha256": "5ee16cb91306afd659a3c02c5c4b93afe049080c63e5f2c9a1e4d1f76a09a54b"
+        },
+        {
+          "path": "skills/sence-prompts/tests/detail-depth-assertions.md",
+          "mode": "100644",
+          "git_blob": "4c2c0a7c87d6b8c60cde867d7c898218d2b603c4",
+          "sha256": "aeac140b4fd8a34041c4e8d64b97c3503ff5c194b48f5342b3fe8d9e8aaaaad0"
+        },
+        {
+          "path": "skills/sence-prompts/tests/detail-flatlight-input.md",
+          "mode": "100644",
+          "git_blob": "0bfc968e2b8c8681ee2fa78a433a3c1cf7d45f7c",
+          "sha256": "e4997db3b4917e857d5d50c631db337ba955540afe813f6206d28f59234c624f"
+        },
+        {
+          "path": "skills/sence-prompts/tests/detail-nature-input.md",
+          "mode": "100644",
+          "git_blob": "95285fcb79ac7e409604cb2d813a713ba122aee9",
+          "sha256": "7f8149416fdf2b0bbdc1620012a936af4b6c3624cf52c1271d0e6e00467bc16c"
+        },
+        {
+          "path": "skills/sence-prompts/tests/detail-other-culture-input.md",
+          "mode": "100644",
+          "git_blob": "2081cc0c57d47b8201ef0fc23e19e36248950ef1",
+          "sha256": "5353d4866874c44fa6e6d46daf14ab2f53ce0ffaf44d06610677db69ad770d26"
+        },
+        {
+          "path": "skills/sence-prompts/tests/detail-reception-input.md",
+          "mode": "100644",
+          "git_blob": "95ed275edca258b8990a5e2030fd277b93a6f01a",
+          "sha256": "13fe1d64919596c13bc62c0c44b74e41bacf816263efaa7b43165ceedf84f433"
+        },
+        {
+          "path": "skills/sence-prompts/tests/detail-revision-chain-input.md",
+          "mode": "100644",
+          "git_blob": "3915f1f2e6aeee866a6e911a699adfbd8cc18564",
+          "sha256": "f000f5de2254bbbaafc646594ec881f71a10a6970eeb8efb62f174697413720f"
+        },
+        {
+          "path": "skills/sence-prompts/tests/detail-shop-input.md",
+          "mode": "100644",
+          "git_blob": "7296f59e70394cf3f77db02e12a83c2a8964c47e",
+          "sha256": "f5033c960dd17c22058d57e48f5d33e9b32dab33a6ff51eb6d13a99378c543ab"
+        },
+        {
+          "path": "skills/sence-prompts/tests/enhancement-assertions.md",
+          "mode": "100644",
+          "git_blob": "46937ebc196f9318de30e432ff251c5503a24e19",
+          "sha256": "5a6ad8fd87e6a5d8d4ba4e1b7daf2bc8321f0fbb21c4592bc8c2a5c4873619ba"
+        },
+        {
+          "path": "skills/sence-prompts/tests/enhancement-auxiliary-input.md",
+          "mode": "100644",
+          "git_blob": "b477a164174c6a8b57c5bf618cb6a13b048eb1e7",
+          "sha256": "9a1eaf0613ac3db5185bfee3fa95287394bef2a72c1aa8085b37da24bfd591eb"
+        },
+        {
+          "path": "skills/sence-prompts/tests/enhancement-image-palette-input.md",
+          "mode": "100644",
+          "git_blob": "d38964f22d46a6b970f38015a1353626660f66ab",
+          "sha256": "f5894b82c55441dbfdaf1450bb4cb749b96e0956ede998e6136b42430f54d310"
+        },
+        {
+          "path": "skills/sence-prompts/tests/enhancement-interior-input.md",
+          "mode": "100644",
+          "git_blob": "218acd29c6021ab45f3aa6e1f79fa18db5f28d06",
+          "sha256": "e7075aee92e126513ec23725495518b631c56e88bc6be8a22652912651c2ea38"
+        },
+        {
+          "path": "skills/sence-prompts/tests/enhancement-limited-input.md",
+          "mode": "100644",
+          "git_blob": "7655c4545a3e49b9ee981ebdaad4ba4daef50e12",
+          "sha256": "8a35c2f641a3ec2cc2201b43b412a84ca484f4894045c758e6f0235a5dd1ee91"
+        },
+        {
+          "path": "skills/sence-prompts/tests/enhancement-outdoor-input.md",
+          "mode": "100644",
+          "git_blob": "58af4a34c6bbe0293dcef437e42b80ce706abfaa",
+          "sha256": "c21ce2d17705012ccdea62e22b5f6dd3fc3a60283d7b2a00d9474d1c3215cc8c"
+        },
+        {
+          "path": "skills/sence-prompts/tests/entity-feedback-input.md",
+          "mode": "100644",
+          "git_blob": "0ac05376942ab1e4535d2a9a8541a64487a01cf0",
+          "sha256": "ec6b40e67d5eca0fd24b878564f3320da833e9575b19d103d7b1f03e8c9456cb"
+        },
+        {
+          "path": "skills/sence-prompts/tests/entity-heavy-input.md",
+          "mode": "100644",
+          "git_blob": "0bc49aece4b902c0aa240baeb8538f29b8d4ed6e",
+          "sha256": "0a506295605b990579933a75949057969e493445a5d6e7a6658037ea9899598e"
+        },
+        {
+          "path": "skills/sence-prompts/tests/entity-independent-input.md",
+          "mode": "100644",
+          "git_blob": "297a97f77acdd36cea9b91cefeb122b417d650db",
+          "sha256": "93f27c1cc1ed0941b8c251c20a8ed2061feb3034ecf76e4b636fd076660faabd"
+        },
+        {
+          "path": "skills/sence-prompts/tests/entity-innerchamber-input.md",
+          "mode": "100644",
+          "git_blob": "967504d3399b653f58032e34774c6dd69d385255",
+          "sha256": "caeb31c31255614087632437f20dcb74de786e700d1431b0ccb12a13ad65a5d1"
+        },
+        {
+          "path": "skills/sence-prompts/tests/entity-integrated-input.md",
+          "mode": "100644",
+          "git_blob": "d1d388d76535c54036ee394ddaab341b7f081812",
+          "sha256": "97912cfb7ecc4b0f6f88b646ac47542b948aa483e715985b061ce1ffc0cb1f7e"
+        },
+        {
+          "path": "skills/sence-prompts/tests/entity-market-natural-input.md",
+          "mode": "100644",
+          "git_blob": "348fd6628fdac4e71ac7ef31a6a7cb7144096b0b",
+          "sha256": "91273eaa46156e0b1b0772dd59486b0d545d2145ca5a0f918c0dd80ba1c3b2d1"
+        },
+        {
+          "path": "skills/sence-prompts/tests/entity-natural-assertions.md",
+          "mode": "100644",
+          "git_blob": "8de0cd3c7c0a81fdff7b4308dfb7f6e7a88754b9",
+          "sha256": "892c0871954071c4c78ae3e41508970bde4c0fcd16371f454a71fcce84906783"
+        },
+        {
+          "path": "skills/sence-prompts/tests/entity-nature-input.md",
+          "mode": "100644",
+          "git_blob": "044ab9ae1ad5c9a842663e589f0227ec76ce97dc",
+          "sha256": "736a91178731db96408676972224f928fdc754689e6f5d720e7704e0646bc5dc"
+        },
+        {
+          "path": "skills/sence-prompts/tests/entity-preflight-draft-input.md",
+          "mode": "100644",
+          "git_blob": "6de07a975ec98a6df68e4c89455be41e748613dc",
+          "sha256": "cf6f538eabe83e933192f4b1041c104f001d1bc972f81d6d95c4f02cc9241dcd"
+        },
+        {
+          "path": "skills/sence-prompts/tests/entity-quay-input.md",
+          "mode": "100644",
+          "git_blob": "1d7e6aebdd69d361161d58d469025b69ffb96e20",
+          "sha256": "a57ed924647652085757113fddf98563395c60727f2ddf06f5bfa32925fc8b67"
+        },
+        {
+          "path": "skills/sence-prompts/tests/entity-relation-assertions.md",
+          "mode": "100644",
+          "git_blob": "e80de372b0146b20dee0383b43fd8d2477bbc20b",
+          "sha256": "6ec5477c927cae5fe846121a83922e70be2787c860e18ea0f48ac2dc37ae7d18"
+        },
+        {
+          "path": "skills/sence-prompts/tests/entity-revision-input.md",
+          "mode": "100644",
+          "git_blob": "2418b16cd871157257192f2b8d28c386bcedb336",
+          "sha256": "7ae63f521b943ef872deb9e09bd3073c6781c8751e48c198e2162da937b5ef8b"
+        },
+        {
+          "path": "skills/sence-prompts/tests/entity-service-natural-input.md",
+          "mode": "100644",
+          "git_blob": "a46485a3e7124c3df11e4b034511ade3b46f9ac7",
+          "sha256": "77c276663cd8ce0f32de16812d12d5ecd8b4350bd58fb89131484dd27ff9a59f"
+        },
+        {
+          "path": "skills/sence-prompts/tests/entity-tailor-input.md",
+          "mode": "100644",
+          "git_blob": "130f63fe671780b62507b5803c439ca159d6d1e3",
+          "sha256": "cd60fd5298df0151de0e91a5565130fab9ba735c393f7b2371dc9328e5d6266e"
+        },
+        {
+          "path": "skills/sence-prompts/tests/entity-utensil-input.md",
+          "mode": "100644",
+          "git_blob": "bfa2efda85c406e949e3c9f701909b7d2f02fb14",
+          "sha256": "8e2c1517fddccb4a195946144a0fa436d3d923a976ce5bf5667c0db50662cb25"
+        },
+        {
+          "path": "skills/sence-prompts/tests/entity-valid-service-input.md",
+          "mode": "100644",
+          "git_blob": "971cbe0ec587fbfa89300c75122d88dd99b79b02",
+          "sha256": "ba27191fbe05240a79b96188a1915573a7fbca7d50edd9531f14c52f893a2825"
+        },
+        {
+          "path": "skills/sence-prompts/tests/feedback-edit-input.md",
+          "mode": "100644",
+          "git_blob": "fa3fc60f2b4bd98caf091fcdedd23868b2901e73",
+          "sha256": "a1a6d58fe2c01c7085d2ff1884b277bb00482f0742e92b55b9eaf300f47b96ed"
+        },
+        {
+          "path": "skills/sence-prompts/tests/feedback-generation-input.md",
+          "mode": "100644",
+          "git_blob": "540f09ceb17331e84b19d596ba4c7ae15a317def",
+          "sha256": "a11c8412c11ed7e88f91e2ca6e65dcda5d3019ca78c0dc353d8db6b7cca04fe2"
+        },
+        {
+          "path": "skills/sence-prompts/tests/gx-d-input.md",
+          "mode": "100644",
+          "git_blob": "e3e31affd2cf12fc97b61081f9f6c10643ddb874",
+          "sha256": "11fe44eee2858a83c8943628f4fc4a3a75c50c1cf2cad6f2f3f9a3efc7037386"
+        },
+        {
+          "path": "skills/sence-prompts/tests/gx-e-input.md",
+          "mode": "100644",
+          "git_blob": "aaa79907e6910551ce2d8d090d404e6d65343a7d",
+          "sha256": "774e84ac49589e41f87e551239e16de10ba12ec7d442cdeebd9cea69b0b58887"
+        },
+        {
+          "path": "skills/sence-prompts/tests/gx-sparse-assertions.md",
+          "mode": "100644",
+          "git_blob": "9976f9ea1da44977d36926067d966ef78de39a2e",
+          "sha256": "5b5230a10e1086ceef68df96f4935c58baa97b81577ea62cfb8aaef635a471f4"
+        },
+        {
+          "path": "skills/sence-prompts/tests/gx-sparse-inputs.md",
+          "mode": "100644",
+          "git_blob": "0f109c724af6808f71c4542f235353b2df053aed",
+          "sha256": "6e6e51b757ee0ac46a35ba97752d8e468a96ef5b93112db64abec262364ea1a2"
+        },
+        {
           "path": "skills/sence-prompts/tests/index.md",
           "mode": "100644",
-          "git_blob": "3a3d4cd874e9e6f0cf39c222155b7a47be251566",
-          "sha256": "e48c87537a36fe1cdef1f2fa9f339feee54610477905f3b01f876ed0bb952f02"
+          "git_blob": "04f7ed0fa143ba64e72647bacbd67b87792ebdcf",
+          "sha256": "3a5f88ec25abd6a14f075dfe367934e71febb8a7525be994e2477e6f06e5a0b9"
+        },
+        {
+          "path": "skills/sence-prompts/tests/local-asset-input.md",
+          "mode": "100644",
+          "git_blob": "d2f6ea628cc6e83feaee8f1c72648343dcfae81c",
+          "sha256": "699f4dc9cca8490d53d8b6d15075d5a850e44a34ece6e5206c4530e1495fea3f"
+        },
+        {
+          "path": "skills/sence-prompts/tests/no-vehicles-input.md",
+          "mode": "100644",
+          "git_blob": "5c66a4c6212fff2f2132c6b0ac41b980a15ab9e8",
+          "sha256": "b21bd42ac6f6842b35fb5be2ccad50e22d9fac699891fcfbc8bfae5435ab35aa"
+        },
+        {
+          "path": "skills/sence-prompts/tests/occlusion-input.md",
+          "mode": "100644",
+          "git_blob": "4252d74551885f83b3061bbd77e0c87645ccf272",
+          "sha256": "b39d59f8a59d714276680d873de8a475400e5defce60e7fdb599e694adcfbde5"
+        },
+        {
+          "path": "skills/sence-prompts/tests/onboarding-assertions.md",
+          "mode": "100644",
+          "git_blob": "36a9a6f25b1fe38d17918e3d3655e830f3ab6866",
+          "sha256": "ed15d1ec0a67aa50a76fcda1c39da82c8bbc3121fca1029431c89bbf314aebe5"
+        },
+        {
+          "path": "skills/sence-prompts/tests/onboarding-explain-input.md",
+          "mode": "100644",
+          "git_blob": "dba7f779791adfc7423ab2512e0186530791d8cc",
+          "sha256": "e29045250d1a742202db12eadcfb72fe32b186a87e268d4b35bb29bf8101bf96"
+        },
+        {
+          "path": "skills/sence-prompts/tests/onboarding-prompt-only-input.md",
+          "mode": "100644",
+          "git_blob": "d1c08bc6c231485786389a03c74fbcd8ef78ea21",
+          "sha256": "3fee7adb8a38cb0abd65acbc8cab02046b9c27898bc502d55e58ba0dab043b23"
+        },
+        {
+          "path": "skills/sence-prompts/tests/onboarding-ready-input.md",
+          "mode": "100644",
+          "git_blob": "f7544ac3311027c84ae65a2d3250011030dabdcf",
+          "sha256": "47f985112f06aae059c46e9608086e431b5c140f360bc671516e816aeb0c6f33"
+        },
+        {
+          "path": "skills/sence-prompts/tests/onboarding-start-input.md",
+          "mode": "100644",
+          "git_blob": "cef8f93b7fb19472a1334768a5dc2d000809e6fb",
+          "sha256": "e53deb55ffc5af635e4ead26ee9ef730c18683703df8006bc1b01bed09fe5321"
+        },
+        {
+          "path": "skills/sence-prompts/tests/place-dilapidated-input.md",
+          "mode": "100644",
+          "git_blob": "0d335da6606a7cc3cf4f2905182d066bf595bf28",
+          "sha256": "d2b638af8818ca7376f5ceef06707fd9533bfa68215355d950f3fe4633a12c1a"
+        },
+        {
+          "path": "skills/sence-prompts/tests/place-kitchen-input.md",
+          "mode": "100644",
+          "git_blob": "2b068c3b060af9877f76270aa09e7daee615b5e3",
+          "sha256": "a4d6c9aa0761f1ddfcdadfd0373ea2c0cde58a55ccc4675f6c5f9fbd86b3c15a"
+        },
+        {
+          "path": "skills/sence-prompts/tests/place-kitchen-natural-input.md",
+          "mode": "100644",
+          "git_blob": "b52d37f8fa2f10d98141e7e273f073d6783bca78",
+          "sha256": "13b080582644a9c213c246458f97e58a85b4f2501522f7fbc6264e3b3bf1d853"
+        },
+        {
+          "path": "skills/sence-prompts/tests/place-modest-input.md",
+          "mode": "100644",
+          "git_blob": "6d09c51d19d2c533c0cebe22bb0bf27c4ff6e677",
+          "sha256": "15fcdb55eea44cedd40a661a1c242ac607c56558bcc81d17014c2a60c533ad05"
+        },
+        {
+          "path": "skills/sence-prompts/tests/place-multitable-input.md",
+          "mode": "100644",
+          "git_blob": "40c08e65749eb454eae52267716fa3cd1106c3bd",
+          "sha256": "2246bcadd5336c39218175ea5f1d9a2d83a4e1f52d431b88b67e33228523ea70"
+        },
+        {
+          "path": "skills/sence-prompts/tests/place-public-input.md",
+          "mode": "100644",
+          "git_blob": "764fa562ccbdd30444451c57c74e2a7a7cd429f9",
+          "sha256": "8edba0afb87c8c7b615b3e4023c5333198c937563ba65c542b96f3a61931416f"
+        },
+        {
+          "path": "skills/sence-prompts/tests/place-reception-input.md",
+          "mode": "100644",
+          "git_blob": "35592932be926f372922db038b852267bd30bea3",
+          "sha256": "f49f2234c7a998203987916e9f281f6604e4cfbe55c2b5a280fa23a3bffd2dfb"
+        },
+        {
+          "path": "skills/sence-prompts/tests/place-reception-natural-input.md",
+          "mode": "100644",
+          "git_blob": "63ca85a66f2fa5d701ad28caad8c61f3979e0403",
+          "sha256": "4ea515c88deb9ffe12070fbf90a68c8dbddeb3b2345e160aa941a4d291fa1730"
+        },
+        {
+          "path": "skills/sence-prompts/tests/place-specification-assertions.md",
+          "mode": "100644",
+          "git_blob": "f8d8cc7c552d9ac2827f3b7b91afaa0e0fcacacc",
+          "sha256": "a6e93e63b82f4ab2cd43f3d4cfb1ae202a2cad7acac06defba5ea90f6f909dc2"
+        },
+        {
+          "path": "skills/sence-prompts/tests/place-temporary-input.md",
+          "mode": "100644",
+          "git_blob": "f256b3fa974ab845c57acb57cba69ccd2c3065c4",
+          "sha256": "49cf88eed014ccb5c3095ad25c6920495932530bc48d0dfde52e5e56caeb41ae"
+        },
+        {
+          "path": "skills/sence-prompts/tests/place-uncoached-assertions.md",
+          "mode": "100644",
+          "git_blob": "c107243e56009c552d7f7693f28b59adc019773d",
+          "sha256": "f3107f66fea36ef7d7ac0bdd37d2263fb8d63ee6cc5b89a21669f850d2471590"
+        },
+        {
+          "path": "skills/sence-prompts/tests/registry.json",
+          "mode": "100644",
+          "git_blob": "b6b4d127196a4c9a5e4d6e3b30421b52ee6d4c0c",
+          "sha256": "b0d1ae4e43367e431f1236e03da22ea4c1b75ad72ff1399516ed4e39f224d801"
+        },
+        {
+          "path": "skills/sence-prompts/tests/relighting-standalone-input.md",
+          "mode": "100644",
+          "git_blob": "a7288b342090c0c38860c45db976a7f3bc1f10a9",
+          "sha256": "dfb66e78e64089589b90c84af29afbe79f661513153c6df7aefe9b6be226c29c"
+        },
+        {
+          "path": "skills/sence-prompts/tests/relighting-switch-input.md",
+          "mode": "100644",
+          "git_blob": "68bce1dbcd81228cd5fd75bd0969dc39b7389810",
+          "sha256": "5d83ddbadeeb11ea8f50e1898adf3cb4f39229e328960ba0896483c644983c5c"
         },
         {
           "path": "skills/sence-prompts/tests/test_check_skill_files.py",
           "mode": "100644",
           "git_blob": "c1b1fa2a19198cfda8f24732a8bdefdcf12041ac",
           "sha256": "d230e60cfbe8e654c666e49a6b82318b269b450b335b4be5b1f4ce6feefb68dc"
+        },
+        {
+          "path": "skills/sence-prompts/tests/texture-input.md",
+          "mode": "100644",
+          "git_blob": "aaab05c63d27e46c0cb9c6df29fd73e279bc1a9a",
+          "sha256": "ff4411cd8543aef2a49ad6740d02c7f024a62e0aa90de5743aeb0f322cb29c73"
+        },
+        {
+          "path": "skills/sence-prompts/tests/world-delivery-assertions.md",
+          "mode": "100644",
+          "git_blob": "83b9c9fc44ea5342dbe3ba64d51de937511be138",
+          "sha256": "b27fd161a32bf103dbc5fe9d04a9569a0ef4c62021e77be9b6feb25f6fd16b7c"
+        },
+        {
+          "path": "skills/sence-prompts/tests/world-historic-input.md",
+          "mode": "100644",
+          "git_blob": "7f41001e7782f9f2c07e00bc33e8fab83e4ab65c",
+          "sha256": "d9f5215559e89358aa5eea9638396a5c601636548d2bfc57feb7e3fecf4b07ad"
+        },
+        {
+          "path": "skills/sence-prompts/tests/world-nature-input.md",
+          "mode": "100644",
+          "git_blob": "ed84dd4dc33967d56689f62d97952d7449b19b08",
+          "sha256": "a180f816ca3b95745f6f4f7710708d19529833b1b158f5c324eec1e76ca4d573"
+        },
+        {
+          "path": "skills/sence-prompts/tests/world-street-input.md",
+          "mode": "100644",
+          "git_blob": "60b84760deca4abc92c5e3dc5df037fffc26a69a",
+          "sha256": "6af0533beee5f5a0e2ccf0564ef9e854250d5f7fddd57938dbb40082aa62052e"
+        },
+        {
+          "path": "skills/sence-prompts/tests/world-vacant-input.md",
+          "mode": "100644",
+          "git_blob": "2645e27786bd31efbf6ca7328cc0e6496c9f3a23",
+          "sha256": "51f42922b59c273512494727b09ac0e00524b0b7bfc6d797c851b2ecc6f5895b"
         }
       ]
     },
     "prop-assets": {
-      "version": "0.2.0",
+      "version": "0.2.5",
       "root": "bundled-plugins/prop-assets",
+      "source_repository": "https://github.com/kaibaoxiang-studio/ZiChan",
+      "source_commit": "b9bb60204d5aaa3b11d998b096dbb7c746b1038f",
       "files": [
         {
           "path": ".codex-plugin/plugin.json",
           "mode": "100644",
-          "git_blob": "1b1c0c11621ea755411cffa4c8ddffd6528ee37a",
-          "sha256": "e637c393434d3fe31fd532761081b55157cc42b407a6d4360566a2ba7bbf15ef"
+          "git_blob": "6115093a20593230644df802f8e8ad493fa7890d",
+          "sha256": "c474cd27d1bdb0382374fa64e3ae112d8db98374b966620358e6a72af8f73cdb"
         },
         {
           "path": "README.md",
           "mode": "100644",
-          "git_blob": "1cbd59c37177e7111477bb4bb35316da735f0a65",
-          "sha256": "b958d3b8e6e7bc19c371625ee640d9a3bcc6dcf3ae80d921b70d4152c9d5b473"
+          "git_blob": "07450d3c64550219600e8079d17e0ef1c9e5caa9",
+          "sha256": "d03233449991d993ddbf1ca9d688b8a84f8e194e8bb1bac4f4cd5f3de442e5cb"
         },
         {
           "path": "skills/prop-color-design/SKILL.md",
           "mode": "100644",
-          "git_blob": "6d28885576be5adfda7c7e598f535572b644732d",
-          "sha256": "1a2c7d09dc4067820d673dc7541cf3c19daf2cb225bcdf4aee93d6059b296f01"
+          "git_blob": "0f365d856006a23ffede340275c0db1226d2a3a6",
+          "sha256": "8024cde16a4f3c2cfa1423b5767a5058e2864a2d2984bbcc9d2ad9e719afed67"
         },
         {
           "path": "skills/prop-color-design/agents/openai.yaml",
@@ -2544,8 +3102,8 @@
         {
           "path": "skills/prop-concept-design/SKILL.md",
           "mode": "100644",
-          "git_blob": "aac1728469850f379c7f3763c095a06aea526648",
-          "sha256": "9634ca9cbcf2a45bb47dddb8468b4ef7335a0a2e4b52c6a3eccf79803438ed25"
+          "git_blob": "1a41a4f0744636aba93d5f2a5c19838f54067a94",
+          "sha256": "9ec3ea20ab61851f7f1243ab28184be1edb7f2e30333b40aa295cb67c5697d06"
         },
         {
           "path": "skills/prop-concept-design/agents/openai.yaml",
@@ -2554,16 +3112,34 @@
           "sha256": "a629f84f20b19a5c84c2cff7dcb850fcc142d4a8ad3be8da1278fdfd13e92939"
         },
         {
+          "path": "skills/prop-concept-design/references/category-design-and-failure-modes.md",
+          "mode": "100644",
+          "git_blob": "79611214eb92104f20ee3c924eff7fe67766f67d",
+          "sha256": "5cb59f6aa395926e231f3e397e431354c56d10ed0a588cac008cc6a599e04a0b"
+        },
+        {
+          "path": "skills/prop-concept-design/references/divergence-methods.md",
+          "mode": "100644",
+          "git_blob": "523f855ed8e43c86dcca13d3b312a9d5011b2c03",
+          "sha256": "80f0e6b3149b75638029abf1355074331aefd9107432af9b46db9da8da8b5824"
+        },
+        {
           "path": "skills/prop-concept-design/references/era-and-culture-equipment.md",
           "mode": "100644",
           "git_blob": "4b9f099d233ec87894fca1998799cd80103279b2",
           "sha256": "a400b8477914920d266cff94a37b897227db8592a4ff0ed396caac74ee37fc3f"
         },
         {
+          "path": "skills/prop-concept-design/references/form-and-volume.md",
+          "mode": "100644",
+          "git_blob": "9fe65fe7a94850a3307f4ae6f2b142241fb407d1",
+          "sha256": "af954ca9e2ffe58bf5a42f21554d87e7512279df986cdf94c893d4b4ae28f2bc"
+        },
+        {
           "path": "skills/prop-concept-design/references/knowledge-sources.md",
           "mode": "100644",
-          "git_blob": "b6c1d576b7ec5c0997eb1837075836e33bbfa02f",
-          "sha256": "47c98afa286baa90a74aaa21ad73fe1ad08411d0fdf0c2cd9ad56a4ec7259f4c"
+          "git_blob": "4edb35f4b641ec875c6dd4e0e3244be85dada7b3",
+          "sha256": "ef2611c5942e3d6a39f69a8f09994e1342d9f266862764021da1f3667ac20954"
         },
         {
           "path": "skills/prop-concept-design/references/myth-and-magic-props.md",
@@ -2578,22 +3154,34 @@
           "sha256": "9c4d2bad7ecff00099e369ce8226e493dff220d1a8272e63eea6a073f28e10f8"
         },
         {
+          "path": "skills/prop-concept-design/references/presentation-binding-and-states.md",
+          "mode": "100644",
+          "git_blob": "cf5ca43ed32f9f827347dd8ccff1130a492c3a20",
+          "sha256": "f663415d6f43a908c9eeada5a00aff0e4bc1f74f38d11bcf6e12a35ebcfe789a"
+        },
+        {
           "path": "skills/prop-concept-design/references/prompt-table.md",
           "mode": "100644",
           "git_blob": "33ea2bce0a22c167eaf52a3ee7897187c4e9f02f",
           "sha256": "95c20e0c152d4ccdbe2932d57489b43ac9bd9da182a37fc43c61e6ed33c2bb5a"
         },
         {
+          "path": "skills/prop-concept-design/references/special-material-and-light.md",
+          "mode": "100644",
+          "git_blob": "d508cd7f34cf43d0b700c611763e4639cfc55bbb",
+          "sha256": "c4295e58dc894543dff6ee257c551f1e640f834e2c298fb03950e90b5a97fdee"
+        },
+        {
           "path": "skills/prop-concept-design/references/workflow.md",
           "mode": "100644",
-          "git_blob": "16953834282878308a9fcb662236b143d5a4b68b",
-          "sha256": "c5ba5eeeeb0096ee8c9e3eee65e1371e1a2a6ad8faa076ecf161607d6a7b84b4"
+          "git_blob": "92755e0922036cf07d1496b400a30bb50d94fb24",
+          "sha256": "1da631a0a5cae7ca78bf2fd96ee23b39ad9039bbe22369d4386043eb82991441"
         },
         {
           "path": "skills/prop-material-design/SKILL.md",
           "mode": "100644",
-          "git_blob": "20fe00a2edcd9976768d4f68d4f04af0ca3de572",
-          "sha256": "d47c63b685c5253d2578ab4f89d6b7cb8c3c45e29f8df68ca9e8fdf7685b1c46"
+          "git_blob": "7ac0966b635d2171e33faf17650f6c7ca0482e11",
+          "sha256": "bf5920bb5162473e8d5625fa14d59b762c79071bc1b881499fde0fa83aeebfed"
         },
         {
           "path": "skills/prop-material-design/agents/openai.yaml",
@@ -2628,8 +3216,8 @@
         {
           "path": "skills/prop-silhouette-proportion-design/SKILL.md",
           "mode": "100644",
-          "git_blob": "0f5db70355158782f3ced5a58cc31b68ead7b679",
-          "sha256": "8211477bfe694e3bd73aac0bb74239cd9836bd73acd26a108f4e6eebc6955535"
+          "git_blob": "6e633a37bd499bf05d40fcfe4ca30102f17da482",
+          "sha256": "25228de112a33119e5494c099a205b457c0eeec9301d9097c8453016f17121f7"
         },
         {
           "path": "skills/prop-silhouette-proportion-design/agents/openai.yaml",
@@ -2646,8 +3234,12 @@
       ]
     }
   },
-  "distribution": "public-test-export",
-  "upstream_bundle_lock_sha256": "34fce1d68430d78d08282442aee353f838470d882fc64f7eca40546c18cc80bc",
-  "public_export_manifest": "public-export-manifest.json",
-  "source_snapshot_note": "source_commit and git_blob identify original upstream bytes; sha256 validates public export bytes. Changed rows retain upstream_sha256; no runtime or Skill rule changes."
+  "distribution": {
+    "kind": "public-test-export",
+    "snapshot_tag": "public-test-2026-10-27-r2",
+    "mother_shell_source": "kaibaoxiang-studio/asset-design-plugin",
+    "mother_shell_commit": "2c4a66669ced1d2ee2cc8cd1c1636c09e67599bf",
+    "capability_authority": "kaibaoxiang-studio/ZiChan",
+    "public_metadata_overlays": true
+  }
 }

@@ -1,6 +1,8 @@
-# 场景资产插件 v1.0.0
+# 场景资产插件 v0.9.5
 
-本插件包装了 [`$sence-prompts`](skills/sence-prompts/SKILL.md) 的完整 v1.0.0 方法。Skill 名称沿用作者原拼写；本目录的 260 个技能文件与[原上传分支](https://github.com/kaibaoxiang-studio/ZiChan/tree/feat/sence-prompts/sence-prompts)逐文件一致。仓库整理时将包装层与技能版本统一为 **1.0.0**。
+本插件包装了 [`$sence-prompts`](skills/sence-prompts/SKILL.md) 的当前维护版 **v0.9.5**，包含 352 个技能文件。Skill 名称沿用作者原拼写。插件包与技能包统一使用 **v0.9.5**；后续发布时，两份插件配置中的 `version` 与 `SKILL.md` 的 `metadata.version` 必须一致，相关版本说明同步更新。发布包仅将维护入口的个人电脑路径替换为可移植的定位说明，其余技能文件与维护源码一致。
+
+本次同步保留三步流程，更新整体空间与场所规格、适用构造／装饰／使用细节、光影增强与转化、首稿实体关系预检，以及对应回归资料。检查通过表示文件与脚本验证通过，不代表所有行为用例或生图效果已验证。
 
 ## 能做什么
 

@@ -15,7 +15,7 @@ import tempfile
 import zipfile
 
 ROOT=Path(__file__).resolve().parents[1]
-TAG='public-test-2026-10-27'
+TAG='public-test-2026-10-27-r2'
 EXCLUDED={'.git','__pycache__','.venv','.pytest_cache','.harness','dist','reports'}
 
 def read(p):return json.loads(Path(p).read_text(encoding='utf-8'))
@@ -64,6 +64,19 @@ def validate(root=ROOT,run_components=True):
         text=p.read_text(encoding='utf-8')
         if any(pattern.search(text) for pattern in forbidden):raise ValueError('Private locator or credential pattern: '+str(rel))
         if p.suffix=='.py':ast.parse(text,filename=str(rel));python_count+=1
+    authority=source_lock['authoritative_capabilities']
+    if authority['script_suite']['repository']!='kaibaoxiang-studio/script-plugins':raise ValueError('Wrong screenplay authority')
+    expected_children={'character-assets':'0.2.6.2','scene-assets':'0.9.5','prop-assets':'0.2.5'}
+    child_lock=read(root/'asset-design-plugin/bundle-lock.json')
+    child_versions={}
+    for domain,name in [('character','character-assets'),('scene','scene-assets'),('prop','prop-assets')]:
+        spec=authority[domain]
+        if spec['repository']!='kaibaoxiang-studio/ZiChan' or spec['commit']!=child_lock['source_commit']:
+            raise ValueError('Asset ability must follow the explicit ZiChan source')
+        manifest=read(root/spec['target']/'.codex-plugin/plugin.json')
+        if manifest['version']!=expected_children[name] or child_lock['plugins'][name]['version']!=manifest['version']:
+            raise ValueError('Public child version drift: '+name)
+        child_versions[name]=manifest['version']
     comps=components(root);checks=[]
     if run_components:
         env=dict(os.environ,PYTHONDONTWRITEBYTECODE='1')
@@ -82,7 +95,11 @@ def validate(root=ROOT,run_components=True):
         'valid':True,'source_files_checked':count,'documentation_and_provenance_overlays':changed,
         'python_files_parsed':python_count,'components':comps,'component_checks':checks,
         'asset_regressions':export,'credential_or_personal_source_locator_matches':0,
-        'business_code_changes':False,'new_model_or_image_calls':False,
+        'authoritative_capabilities':authority,'child_versions':child_versions,
+        'business_code_changes':True,
+        'business_change_source':'Domain Skill updates synchronized from the explicit ZiChan commit; orchestration logic unchanged.',
+        'packaging_integration_changes':['asset-design-plugin/scripts/bundle.py','asset-design-plugin/scripts/validate_package.py'],
+        'new_model_or_image_calls':False,
         'scope':'Public export integrity, syntax, component Skill/reference validation, and documented local regression results; user business and visual testing remain the purpose of this release.'}
 
 def archive(source,target,label):
@@ -98,7 +115,7 @@ def archive(source,target,label):
 
 def package(root=ROOT):
     result=validate(root);write(root/'public-validation.json',result)
-    out=root/'dist';out.mkdir(exist_ok=True);artifacts=[]
+    out=root/'dist'/TAG;out.mkdir(parents=True,exist_ok=True);artifacts=[]
     for item in components(root):
         suffix='-public-test' if item['name']=='asset-design' else ''
         filename=item['name']+'-'+item['version']+suffix+'.zip'

@@ -1,0 +1,39 @@
+{
+  "source_repository": "kaibaoxiang-studio/ZiChan",
+  "source_commit": "b9bb60204d5aaa3b11d998b096dbb7c746b1038f",
+  "version": "0.9.5",
+  "checks": {
+    "skill_checker": {
+      "valid": true,
+      "files": 352,
+      "markdown_files": 144,
+      "local_links_checked": 302,
+      "heading_links_checked": 112,
+      "errors": 0
+    },
+    "checker_unit_tests": {
+      "passed": 20,
+      "failed": 0
+    },
+    "design_library": {
+      "passed": true,
+      "checks": 129
+    },
+    "pilot_regression": {
+      "passed": true,
+      "checks": 46
+    },
+    "deepening_regression": {
+      "passed": true,
+      "checks": 40
+    },
+    "project_regression": {
+      "passed": true,
+      "checks": 31
+    },
+    "post_check_file_count": 355,
+    "all_inventory_hashes_current": true,
+    "model_api_calls": 0,
+    "image_api_calls": 0
+  }
+}

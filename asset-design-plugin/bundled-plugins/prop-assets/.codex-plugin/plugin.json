@@ -1,6 +1,6 @@
 {
   "name": "prop-assets",
-  "version": "0.2.0",
+  "version": "0.2.5",
   "description": "从剧本或道具资产表交付道具设计与完整三视图 Prompt 表，支持独立专项设计和图片回流审核。",
   "author": {
     "name": "开宝箱工作室"

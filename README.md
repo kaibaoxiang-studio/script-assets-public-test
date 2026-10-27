@@ -1,22 +1,32 @@
 # 开宝箱 · 剧本与资产插件公开测试镜像
 
-本仓库用于本轮外部测试，快照日期 **2026-10-27**。统一安装目录包含剧本标准化、场记表提取、剧本资产表提取和资产设计总控四个业务插件。资产总控包内已带角色、场景和道具子插件。
+本仓库用于本轮外部测试，当前快照为 **public-test-2026-10-27-r2**。统一安装目录包含剧本标准化、场记表提取、剧本资产表提取和资产设计总控四个业务插件。资产总控包内已带角色、场景和道具子插件；直接使用 `$asset-scene` 会进入本快照内更新后的场景能力。
 
-来源固定到各自提交；插件功能版本保持原号。公开导出只调整安装说明、匿名化本机路径和历史项目定位信息，保留设计方法、来源哈希和现有许可声明。完整来源及逐文件变化见 [mirror-sources.json](mirror-sources.json)，核验结果见 [公开镜像验证](public-validation.json)。
+本轮以 [script-plugins](https://github.com/kaibaoxiang-studio/script-plugins) 为剧本业务权威来源，以 [ZiChan](https://github.com/kaibaoxiang-studio/ZiChan) 为角色、场景、道具业务权威来源；资产母仓库提供总控外壳。各来源固定到明确提交，领域版本沿用对应提交的 manifest，并保留来源哈希和现有许可声明。完整来源及逐文件变化见 [mirror-sources.json](mirror-sources.json)，核验结果见 [公开镜像验证](public-validation.json)。
 
 ## 安装
 
 需要支持插件功能的 Codex、可用账号，以及 Python 3.12+。从公开镜像安装无需访问原私有仓库：
 
 ```sh
-codex plugin marketplace add https://github.com/kaibaoxiang-studio/script-assets-public-test.git --ref public-test-2026-10-27
+codex plugin marketplace add https://github.com/kaibaoxiang-studio/script-assets-public-test.git --ref public-test-2026-10-27-r2
 codex plugin add screenplay-standardizer@script-assets-public-test
 codex plugin add scene-log-extractor@script-assets-public-test
 codex plugin add screenplay-asset-extractor@script-assets-public-test
 codex plugin add asset-design@script-assets-public-test
 ```
 
-也可从 [本轮测试 Release](https://github.com/kaibaoxiang-studio/script-assets-public-test/releases/tag/public-test-2026-10-27) 下载完整 ZIP，解压后运行 `python3.12 scripts/install.py`。安装后新开聊天，在输入框选择相应插件或 Skill。
+也可从 [本轮测试 Release](https://github.com/kaibaoxiang-studio/script-assets-public-test/releases/tag/public-test-2026-10-27-r2) 下载完整 ZIP，解压后运行 `python3.12 scripts/install.py`。安装后新开聊天，在输入框选择相应插件或 Skill。
+
+已安装旧快照时，先更新公开测试市场的注册与资产总控缓存，再执行上面的四条 `plugin add`：
+
+```sh
+codex plugin remove asset-design@script-assets-public-test
+codex plugin marketplace remove script-assets-public-test
+codex plugin marketplace add https://github.com/kaibaoxiang-studio/script-assets-public-test.git --ref public-test-2026-10-27-r2
+```
+
+这一步只针对本公开测试市场。母插件版本仍为 0.1.0，重新安装用于确保包内领域快照也已更新；新开聊天后再测试。未安装过旧快照时直接按首次安装步骤操作。
 
 每个组件都保留自己的 `requirements.lock` 和 `scripts/bootstrap.py`。缺少依赖时，按该组件的启动提示执行 `python3.12 <插件目录>/scripts/bootstrap.py --install`。DOCX 资产提取入口另声明 `python-docx==1.1.2` 和 `openpyxl==3.1.5`，其用法见 [DOCX 提取 Skill](script-plugins/level-2/asset-extraction/screenplay-asset-extractor/skills/script-asset-extractor/SKILL.md)。实际模型调用使用测试者自己的账号配置。
 
@@ -29,9 +39,9 @@ codex plugin add asset-design@script-assets-public-test
 | 剧本资产表提取 | 插件 0.1.0；DOCX Skill 0.1.1 | `$script-asset-extractor`；JSON 兼容入口 `$extract-asset-table` | [资产表组件](script-plugins/level-2/asset-extraction/README.md) |
 | 资产设计总控 | 0.1.0 | `$asset-design`、`$asset-character`、`$asset-scene`、`$asset-prop` | [资产设计组件](asset-design-plugin/README.md) |
 
-资产总控锁版子插件为角色 **0.2.6.2**、场景 **1.0.0**、道具 **0.2.0**。本轮公开镜像保持这组已发布依赖，未随独立子仓库的新提交自动切换。
+资产总控本轮封装 ZiChan 提交 `b9bb60204d5aaa3b11d998b096dbb7c746b1038f`：角色 **0.2.6.2**、场景 **0.9.5**、道具 **0.2.5**。这里的“当前版本”按权威仓库提交内的 manifest 核对，不能用版本号大小替代来源检查；旧测试标签保留其历史快照。
 
-剧本来源为 `script-plugins` 提交 `c1a101d87cd2d35f8c92ac382ed34e3860fb046e`，含其最新 DOCX 入口；资产总控来源为 `asset-design-plugin` 提交 `2c4a66669ced1d2ee2cc8cd1c1636c09e67599bf`。这里的日期标签表示测试快照，不给业务插件增加新版本号。
+剧本来源固定为 `script-plugins` 提交 `c1a101d87cd2d35f8c92ac382ed34e3860fb046e`，含 DOCX 主入口；资产母插件外壳沿用 `asset-design-plugin` 提交 `2c4a66669ced1d2ee2cc8cd1c1636c09e67599bf`，其包内三类业务快照由上述 ZiChan 提交替换。`r2` 是公开测试快照标识，不是母插件新正式版本；原私有仓库和原标签保持历史记录。
 
 ## 建议测试顺序
 

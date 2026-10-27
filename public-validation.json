@@ -1,10 +1,10 @@
 {
   "schema_version": "PublicMirrorValidationV1",
-  "snapshot_tag": "public-test-2026-10-27",
+  "snapshot_tag": "public-test-2026-10-27-r2",
   "date": "2026-10-27",
   "valid": true,
-  "source_files_checked": 782,
-  "documentation_and_provenance_overlays": 28,
+  "source_files_checked": 879,
+  "documentation_and_provenance_overlays": 31,
   "python_files_parsed": 141,
   "components": [
     {
@@ -60,8 +60,8 @@
       "component": "asset-design",
       "validation": {
         "valid": true,
-        "checked_bundle_files": 432,
-        "source_commit": "8b91d1470d7a90af23a08734b6e7a1e089a57cae",
+        "checked_bundle_files": 529,
+        "source_commit": "b9bb60204d5aaa3b11d998b096dbb7c746b1038f",
         "public_skills": [
           "asset-design",
           "asset-character",
@@ -75,16 +75,24 @@
   "asset_regressions": {
     "schema_version": "PublicExportChecksV1",
     "date": "2026-10-27",
-    "scope": "Local checks of public documentation/provenance export. No model API or image calls; upstream historical real-call validation preserved separately.",
+    "snapshot_tag": "public-test-2026-10-27-r2",
+    "scope": "Current local integration and source checks; no fresh model or image calls.",
     "plugin_version": "0.1.0",
+    "capability_source": "kaibaoxiang-studio/ZiChan",
+    "capability_commit": "b9bb60204d5aaa3b11d998b096dbb7c746b1038f",
+    "child_versions": {
+      "character-assets": "0.2.6.2",
+      "scene-assets": "0.9.5",
+      "prop-assets": "0.2.5"
+    },
     "package_validation": {
       "valid": true,
-      "checked_bundle_files": 432
+      "checked_bundle_files": 529
     },
     "mother_regressions": {
       "passed": 32,
       "failed": 0,
-      "python": "3.12 with locked dependency cache"
+      "python": "Python 3.12 locked dependency runtime"
     },
     "scene_library": {
       "passed": true,
@@ -94,15 +102,83 @@
       "passed": true,
       "checks": 31
     },
+    "scene_checks": {
+      "skill_checker": {
+        "valid": true,
+        "files": 352,
+        "markdown_files": 144,
+        "local_links_checked": 302,
+        "heading_links_checked": 112,
+        "errors": 0
+      },
+      "checker_unit_tests": {
+        "passed": 20,
+        "failed": 0
+      },
+      "design_library": {
+        "passed": true,
+        "checks": 129
+      },
+      "pilot_regression": {
+        "passed": true,
+        "checks": 46
+      },
+      "deepening_regression": {
+        "passed": true,
+        "checks": 40
+      },
+      "project_regression": {
+        "passed": true,
+        "checks": 31
+      },
+      "post_check_file_count": 355,
+      "all_inventory_hashes_current": true,
+      "model_api_calls": 0,
+      "image_api_calls": 0
+    },
     "personal_source_location_scan": {
       "matches": 0
     },
-    "source_changes": "none",
-    "runtime_and_skill_rule_changes": "none; scene regression fixture path updated to anonymous provenance path",
-    "upstream_bundle_lock_sha256": "34fce1d68430d78d08282442aee353f838470d882fc64f7eca40546c18cc80bc"
+    "source_changes": "Private sources untouched; public business children explicitly refreshed from ZiChan.",
+    "runtime_and_skill_rule_changes": "Professional Skills match current ZiChan except privacy-only metadata; mother bundle.py/validate_package.py pins aligned."
   },
   "credential_or_personal_source_locator_matches": 0,
-  "business_code_changes": false,
+  "authoritative_capabilities": {
+    "script_suite": {
+      "repository": "kaibaoxiang-studio/script-plugins",
+      "commit": "c1a101d87cd2d35f8c92ac382ed34e3860fb046e",
+      "target": "script-plugins"
+    },
+    "character": {
+      "repository": "kaibaoxiang-studio/ZiChan",
+      "commit": "b9bb60204d5aaa3b11d998b096dbb7c746b1038f",
+      "version": "0.2.6.2",
+      "target": "asset-design-plugin/bundled-plugins/character-assets"
+    },
+    "scene": {
+      "repository": "kaibaoxiang-studio/ZiChan",
+      "commit": "b9bb60204d5aaa3b11d998b096dbb7c746b1038f",
+      "version": "0.9.5",
+      "target": "asset-design-plugin/bundled-plugins/scene-assets"
+    },
+    "prop": {
+      "repository": "kaibaoxiang-studio/ZiChan",
+      "commit": "b9bb60204d5aaa3b11d998b096dbb7c746b1038f",
+      "version": "0.2.5",
+      "target": "asset-design-plugin/bundled-plugins/prop-assets"
+    }
+  },
+  "child_versions": {
+    "character-assets": "0.2.6.2",
+    "scene-assets": "0.9.5",
+    "prop-assets": "0.2.5"
+  },
+  "business_code_changes": true,
+  "business_change_source": "Domain Skill updates synchronized from the explicit ZiChan commit; orchestration logic unchanged.",
+  "packaging_integration_changes": [
+    "asset-design-plugin/scripts/bundle.py",
+    "asset-design-plugin/scripts/validate_package.py"
+  ],
   "new_model_or_image_calls": false,
   "scope": "Public export integrity, syntax, component Skill/reference validation, and documented local regression results; user business and visual testing remain the purpose of this release."
 }

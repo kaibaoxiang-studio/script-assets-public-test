@@ -5,7 +5,7 @@ body:
     id: snapshot
     attributes:
       label: 快照与插件版本
-      placeholder: public-test-2026-10-27；asset-design 0.1.0
+      placeholder: public-test-2026-10-27-r2；asset-design 0.1.0；scene-assets 0.9.5
     validations:
       required: true
   - type: dropdown

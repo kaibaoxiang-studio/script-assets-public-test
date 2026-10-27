@@ -2,9 +2,11 @@
 
 从完整剧本建立共同美术基准，统筹角色、场景、道具的具体设计，并保留每个决定的来源、版本、审批和交付记录。
 
-> 公开测试镜像：插件及子插件版本保持原发布版本，运行代码与设计规范沿用上游。来源定位文档经过匿名化，锁文件区分上游字节与公开导出字节；变换记录见 [公开导出清单](public-export-manifest.json)。`validation/` 中真实调用和原发布验收属于 2026-10-23 的上游历史验证，公开镜像只复核本地结构与回归，不重新声称执行了真实 API 调用。
+> 本页描述公开测试快照 `public-test-2026-10-27-r2`。母插件外壳保持 v0.1.0，包内角色、场景、道具业务以 [ZiChan](https://github.com/kaibaoxiang-studio/ZiChan) 提交 `b9bb60204d5aaa3b11d998b096dbb7c746b1038f` 为准，场景为 v0.9.5。来源文档经过匿名化，变换与原始字节依据见 [公开导出清单](public-export-manifest.json)。
 
-正式发布仓库：[kaibaoxiang-studio/asset-design-plugin](https://github.com/kaibaoxiang-studio/asset-design-plugin)。这是独立母插件，包内封装三个子插件；ZiChan 继续维护其独立版本。
+剧本业务的权威来源是 [script-plugins](https://github.com/kaibaoxiang-studio/script-plugins)；角色、场景和道具的权威来源是 ZiChan。母仓库 [asset-design-plugin](https://github.com/kaibaoxiang-studio/asset-design-plugin) 提供跨资产总控外壳，本公开快照单独更新其领域封装，不对母仓库发布新正式版本。
+
+`validation/` 中真实调用及原发布验收属于 2026-10-23 的上游历史验证，使用的是当时的子插件快照。本轮结构与回归结果见[公开镜像验证](../public-validation.json)；历史结果不能当成本轮场景 0.9.5 的新真实调用证明。
 
 ## 四个入口
 
@@ -21,14 +23,9 @@
 
 需要 Python 3.12+、Codex CLI 和当前用户的可用模型配置。包内 Python 依赖通过 `requirements.lock` 固定；缺少依赖时按启动器提示安装到用户缓存。
 
-从本仓库 Release 获取完整安装包并解压，在解压目录运行：
+本公开测试版从[统一公开市场](../README.md#安装)安装，或下载 [r2 完整测试包](https://github.com/kaibaoxiang-studio/script-assets-public-test/releases/tag/public-test-2026-10-27-r2)，解压后在测试包根目录运行 `python3.12 scripts/install.py`。随后可在本资产插件目录运行 `python3.12 harness.py doctor`。
 
-```sh
-python3 scripts/install.py
-python3 harness.py doctor
-```
-
-安装脚本使用 Codex 的插件 CLI 注册本地 marketplace 并安装 `asset-design@asset-design-local`。若 CLI 不在 PATH，可传 `--codex-bin /absolute/path/to/codex`；先查看计划可加 `--dry-run`。安装后新开聊天刷新入口列表。母包包含锁定的子插件目录，不需要另装三个领域插件；原有独立安装可并存。
+公开市场的资产入口为 `asset-design@script-assets-public-test`。旧标签安装者按首页先更新市场注册和资产插件缓存。安装后新开聊天刷新入口列表；母包已包含锁定的角色、场景、道具目录，原有独立安装可并存。
 
 调用示例：
 
@@ -131,14 +128,14 @@ python3 harness.py index --project /absolute/project
 | 子插件 | 锁版版本 | 主要入口 |
 | --- | --- | --- |
 | 角色资产插件 | v0.2.6.2 | `character-assets` |
-| 场景资产插件 | v1.0.0 | `sence-prompts` |
-| 道具资产插件 | v0.2.0 | `prop-concept-design` |
+| 场景资产插件 | v0.9.5 | `sence-prompts` |
+| 道具资产插件 | v0.2.5 | `prop-concept-design` |
 
-来源提交与逐文件哈希保存在 [bundle-lock.json](bundle-lock.json)，原目录、知识引用与来源声明随包保留。更新需显式锁版并检查兼容，不自动追随 ZiChan 新版。封装说明见 [来源追溯](references/package-provenance.md)及 [第三方来源](THIRD_PARTY_NOTICES.md)。
+本轮三类业务来源为 ZiChan 提交 `b9bb60204d5aaa3b11d998b096dbb7c746b1038f`，提交及逐文件哈希保存在 [bundle-lock.json](bundle-lock.json)，原目录、知识引用与来源声明随包保留。每次公开测试更新显式核对权威来源、锁版并检查兼容，不由旧母包版本推定领域内容。封装说明见 [来源追溯](references/package-provenance.md)及 [第三方来源](THIRD_PARTY_NOTICES.md)。
 
 ```sh
 python3 harness.py validate
 python3 -m unittest discover -s tests -v
 ```
 
-发布验证覆盖四入口、封装哈希、来源与 ID、审批保留、依赖调度、局部失效和临时执行隔离，并以小型剧本对三领域做真实文字调用。完整项目与图片审美由使用者测试；具体已执行结果见 [v0.1.0 验证记录](validation/v0.1.0.md)，三领域调用的可复核收据见 [真实调用报告](validation/real-call-report.json)。
+2026-10-23 母插件原发布验证覆盖四入口、封装哈希、来源与 ID、审批保留、依赖调度、局部失效和临时执行隔离，并对当时三领域快照做过真实文字调用；记录见 [原 v0.1.0 验证](validation/v0.1.0.md)与[原真实调用报告](validation/real-call-report.json)。本轮更新快照的检查见[公开镜像验证](../public-validation.json)，完整项目与图片审美由使用者测试。

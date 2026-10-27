@@ -30,6 +30,8 @@ description: "在保持道具用途与关键交互的前提下，独立探索或
 
 设计前阅读 [轮廓辨识与比例方法](references/silhouette-proportion-guidance.md)。先比较大形与已有功能区，再考虑局部节奏；不靠新增装饰、换色或材质词制造“轮廓差异”。
 
+需要明确主次体块、厚度与三向关系时，阅读 [形体与体积表达](../prop-concept-design/references/form-and-volume.md)；开放探索或候选雷同时，按需阅读 [方向发散方法](../prop-concept-design/references/divergence-methods.md)；核对当前品类的识别结构时，参考 [分品类设计要点与常见失败](../prop-concept-design/references/category-design-and-failure-modes.md)。只采用与本次允许改形范围相容的方法，不借参考增加功能、部件或改变锁定的材质配色。
+
 有明确改形指令时给一个对应方案即可；开放探索时提供少量有实质区别的方向。以品类可读性、用户要的气质、保留的交互与实际观看条件解释区别，不强制二十张剪影或黄金比例。
 
 多候选可用下表，局部单方案可用短段落：

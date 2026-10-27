@@ -1,12 +1,12 @@
 # 来源与许可说明
 
-本安装包包含开宝箱工作室 `ZiChan` 仓库中三个子插件的固定快照，来源提交为 `8b91d1470d7a90af23a08734b6e7a1e089a57cae`。逐文件来源、Git blob、SHA-256 和文件权限记载在 `bundle-lock.json`。
+本安装包包含开宝箱工作室 `ZiChan` 仓库中三个子插件的固定快照，本轮领域来源提交为 `b9bb60204d5aaa3b11d998b096dbb7c746b1038f`。逐文件来源、Git blob、SHA-256 和文件权限记载在 `bundle-lock.json`。
 
 | 子插件 | 版本 | 保留位置 |
 | --- | --- | --- |
 | 角色资产插件 | 0.2.6.2 | `bundled-plugins/character-assets/` |
-| 场景资产插件 | 1.0.0 | `bundled-plugins/scene-assets/` |
-| 道具资产插件 | 0.2.0 | `bundled-plugins/prop-assets/` |
+| 场景资产插件 | 0.9.5 | `bundled-plugins/scene-assets/` |
+| 道具资产插件 | 0.2.5 | `bundled-plugins/prop-assets/` |
 
 角色资产插件的上游方法与许可说明原样保留在 [子插件第三方说明](bundled-plugins/character-assets/THIRD_PARTY_NOTICES.md)，相关 MIT 与 Apache-2.0 文本保留在其 `licenses/` 目录。子插件中的知识来源、参考资料和归属说明随快照完整保留。
 
@@ -18,4 +18,4 @@ Python 第三方库按 [requirements.lock](requirements.lock) 的版本与发行
 
 ## 公开镜像变换
 
-本镜像保留运行时、Skill、领域版本与原有许可；仅对开发机来源路径、真实项目标识及历史会话记录作说明性匿名化。逐文件原始／公开导出散列及原因见 `public-export-manifest.json`；`bundle-lock.json` 的 `sha256` 校验公开导出字节，`upstream_sha256` 与来源 Git blob 记录上游字节。
+本镜像母层外壳沿用 v0.1.0；角色、场景、道具的业务与知识更新为上述 ZiChan 提交，并保留该提交的 manifest 版本与原有许可。剧本业务权威来源为 [script-plugins](https://github.com/kaibaoxiang-studio/script-plugins)。对开发机来源路径、真实项目标识及历史会话记录的匿名化与领域来源更新分别记录。逐文件原始／公开导出散列及原因见 `public-export-manifest.json`；`bundle-lock.json` 的 `sha256` 校验公开导出字节，`upstream_sha256` 与来源 Git blob 记录上游字节。
